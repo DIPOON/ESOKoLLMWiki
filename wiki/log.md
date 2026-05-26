@@ -10,3 +10,26 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 마찰점 8건 → [[decisions/seed-import]]에 종합
 - 슬러그 충돌 9건 (모두 동일 매핑 중복, 무해)
 - 멀티 항목 행 2건 (검토 표시)
+
+## [2026-05-26] CLAUDE.md 보강 #1 | 외부 리뷰 1차 반영
+- §4-b 시드 import 워크플로 신설
+- §5.0 슬러그 정책 명시 (`TermController::normalizeTerm`과 일관)
+- §5.1 frontmatter status/source_* 필드 정식화
+- §11 시드 import 단서 추가
+
+## [2026-05-26] CLAUDE.md 보강 #2 | 외부 리뷰 2차 반영
+- §0 Phase 1/2 박스 신설 (명세 vs 구현 명시)
+- §2.3 claude_batches.state 숫자 enum 부여
+- §5.1 language_code 일관성 한 줄
+- §7 응급 SQL "Claude 자동 실행 금지" 경고
+
+## [2026-05-26] A' 보강 | 위생 정리
+- placeholder→TODO 마커 451건 (lint 가능화)
+- 멀티 항목 2건 flags:needs-split 추가
+- §11 권한 트리거 형식 명시 (seed-policy 파일 + 명시 승인)
+- §5.6 한 줄 + ≤5 sub-bullet 완화
+
+## [2026-05-26] A' 후속 보강 | 외부 리뷰 3차 반영
+- 멀티 항목 2건 YAML frontmatter 복구 (단일 문자열 + 본문 표)
+- §4 step 1 fix-as-you-go 룰 추가 (TODO 마커 자동 보강)
+- index.md "완료된 작업" 제거 (log.md가 시간순 정본)
