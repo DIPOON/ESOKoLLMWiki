@@ -69,6 +69,7 @@ status: 확정
 source_sheet: 확정됨2
 source_row: 3
 source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+flags: [needs-split, multi-item-cell]
 ---
 
 # Trifling
