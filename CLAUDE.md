@@ -193,9 +193,72 @@ CREATE TABLE lang_official_translations (
 
 ---
 
+## 4-b. 시드 import 워크플로 (외부 자료 → 위키)
+
+§4가 *DB 번역 묶음 1개*를 다룬다면, 4-b는 *외부 시드 자료 (xlsx/csv/txt 등)*를 위키로 흡수하는 별도 워크플로다. 발동 조건:
+- DB가 아닌 외부 파일에서 *기존 결정들*을 흡수하는 경우.
+- 한 묶음이 아닌 *대량 데이터* (수십~수천 행).
+- 사용자가 *해당 자료를 표준으로 따른다*고 정책 결정한 경우.
+
+### 4-b.1 순서
+
+1. **자료 schema 파악**
+   - 시트/탭/섹션별 구조 분석. 컬럼 의미 식별 (term / target / note / category 등).
+   - **사람 검토 1회**: 처음 2-3행을 사용자에게 보여주고 컬럼 매핑 확인.
+
+2. **시트별 Tiered 처리 결정** (CLAUDE.md §5 구조에 매핑)
+   - 명확한 termbase 후보 (확정/인명/지명/아이템/던전 등) → `wiki/termbase/<slug>.md` 자동 생성.
+   - 정책/메타 (음차 규칙·NPC 톤·퀘스트 명명 등) → `wiki/decisions/seed-*.md` 또는 `wiki/style-guide.md` 통합 후보.
+   - 미결정/보류 (토론중·보류·임시 등) → `wiki/decisions/seed-pending.md` 등 별도 보존. 정식 termbase로는 가지 않음.
+
+3. **자동 import 실행**
+   - 슬러그 정책(§5.0) + frontmatter 형식(§5.1) 적용.
+   - 충돌·잘림·schema 불일치는 *검토 표시*만 남기고 진행 (중단하지 않음 — 단 *영문 같지만 한글 다른* 진짜 충돌은 중단).
+
+4. **마찰점 종합 + CLAUDE.md 갱신 후보 기록**
+   - `wiki/decisions/seed-import.md` (또는 회차별 `seed-import-N.md`)에 발견한 마찰점을 모두 기록.
+   - 같은 종류 마찰이 2회 이상 누적되면 본 문서 갱신.
+
+5. **사용자 보고**
+   - 생성 페이지 수, 시트별 분포, 마찰점 N건, 후속 작업 후보.
+
+6. **`wiki/log.md` 한 줄 append**
+   ```
+   ## [YYYY-MM-DD] seed-import #N | <자료명> | termbase N, decisions N, 마찰점 M
+   ```
+
+### 4-b.2 §4와의 차이점
+
+| | §4 (번역 묶음) | §4-b (시드 import) |
+|---|---|---|
+| 입력 | DB의 `(lang_id, unknown)` 행들 | `raw/` 의 외부 파일 |
+| 단위 | ±N 인접 인덱스 | 시트/카테고리 |
+| API 호출 | claude_batches + translate + Elasticsearch | 없음 (위키 파일만) |
+| 신규 term 처리 | 후보 마킹 → 사용자 채택 → API 등록 | **일괄 자동 등록** (사용자가 정책 선언 시) |
+| 결과물 | DB UPDATE + decisions/ 한 줄 | termbase 다수 + decisions/seed-*.md |
+
+---
+
 ## 5. 위키 페이지 규약
 
 페이지 제목과 위키링크는 *한글 우선*, frontmatter `aliases`에 영문 병기. termbase 페이지는 영문 슬러그 (DB terms.term이 영문이라 1:1 매핑이 깔끔).
+
+### 5.0 슬러그 생성 규칙 (termbase)
+
+ESOKo `App\Http\Controllers\TermController::normalizeTerm`과 일관되게:
+
+```
+1. 소문자화 + trim
+2. 앞 관사 (a/an/the) 제거 — 정규식 ^(a|an|the)\s+
+3. 어포스트로피(') 제거
+4. 공백을 '-'로 치환
+5. [a-z0-9가-힣\-_] 외 문자 제거
+6. 최대 60자. 초과 시 어절 경계('-')에서 잘림 + frontmatter `flags`에 검토 표시.
+```
+
+**충돌 처리**:
+- *영문 같지만 한글 다른* 진짜 충돌 → 자동 import 중단, 사용자 결정 요청.
+- *완전 동일 매핑 중복* (예: 대소문자만 다른 `Vestige` vs `vestige`) → 첫 등재본 유지, 둘째는 skip (또는 임시 `--<시트>-<행>` 접미사 + 후속 lint에서 통합).
 
 ### 5.1 termbase/&lt;slug&gt;.md
 
@@ -208,8 +271,12 @@ target_ko: 아우리돈
 target_de:                    # 미래 다국어 슬롯 (지금 비어둠)
 target_ja:
 aliases: [Auridon, 아우리돈]
-category: 지명                # 인물 / 지명 / 진영 / 종족 / 책 / 게임용어 / 기타
-first_seen_batch: 12
+category: 지명                # 인물 / 지명 / 진영 / 종족 / 책 / 게임용어 / 던전 / 아이템 / 기타
+status: 확정                  # 확정 / 토론중 / 보류 / 제안
+first_seen_batch: 12          # 시드 import에서 온 경우 비워둠
+source_sheet:                 # (시드 import 한정) 출처 시트명
+source_row:                   # (시드 import 한정) 출처 행번호
+source_file:                  # (시드 import 한정) 출처 파일 경로
 related: [[알드메리-자치령]], [[엘프]]
 ---
 
@@ -375,6 +442,7 @@ WHERE lang_id = ? AND unknown = ? AND `index` BETWEEN ? AND ?;
 - ❌ ESOKo 레포 코드 수정 (별도 작업).
 - ❌ `raw/` 폴더 파일 수정 (immutable).
 - ❌ 사용자 확인 없이 termbase 정식 등록 (decisions/에 후보로만, 사용자 채택 후 `/api/claude/term-suggest`).
+  - **단서**: 사용자가 정책으로 일괄 채택을 선언한 *시드 자료 import*는 예외. 자동 일괄 등록 OK (§4b 참조). 예: "한국 ESO 커뮤니티 통일안 따름"을 사용자가 정책 결정한 경우.
 - ❌ esokr.org 사용자에게 노출되는 번역문을 위키에 *대량 복제* 저장 (라이선스 경계).
 - ❌ claude_score 자동 채점 (현재 버전 범위 밖. 컬럼은 `-1` 유지).
 
