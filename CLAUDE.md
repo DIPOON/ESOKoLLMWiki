@@ -183,6 +183,7 @@ CREATE TABLE lang_official_translations (
    - `wiki/sections/<lang_id>-<unknown>.md` — 없으면 샘플 5행으로 추정 후 신설.
    - `wiki/style-guide.md` — 전체.
    - 묶음에 등장하는 고유명사에 대해 `wiki/termbase/<slug>.md` 읽기.
+     - **fix-as-you-go**: 해당 페이지의 "## 채택 근거"가 `## TODO: 채택 근거 추가` 마커이면, 본 묶음 처리 중에 description을 작성하여 동시에 보강한다. 외부 lint 사이클 없이 자기 정리.
    - 등장 엔터티에 대해 `wiki/lore/<이름>.md` 읽기 (있으면).
 
 2. **묶음 시작 (DB 측)**
