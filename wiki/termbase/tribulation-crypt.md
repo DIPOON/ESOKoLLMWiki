@@ -1,0 +1,21 @@
+---
+term: Tribulation Crypt
+target_ko: 시련의 묘실
+target_de:
+target_ja:
+aliases: [Tribulation Crypt, 시련의 묘실]
+category: 던전
+status: 확정
+source_sheet: 던전
+source_row: 130
+source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+---
+
+# Tribulation Crypt (시련의 묘실)
+
+## 채택 근거
+시드 자료에 명시된 결정. 추가 근거 없음.
+
+## 출처
+- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 130
+- 한국 ESO 커뮤니티 합의
