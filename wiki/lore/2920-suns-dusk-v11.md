@@ -6,7 +6,7 @@ series: 2920, The Last Year of the First Era
 series_index: 11
 writer: Ted Peterson
 author: Carlovac Townway
-related_entity: [[lore/night-mother|Night Mother]], [[termbase/mehrunes-dagon|Mehrunes Dagon]], [[lore/almalexia|Almalexia]], [[lore/miramor|Miramor]], [[lore/corda|Corda]]
+related_entity: [[lore/night-mother|Night Mother]], [[termbase/mehrunes-dagon|Mehrunes Dagon]], [[termbase/almalexia|Almalexia]], [[lore/miramor|Miramor]], [[lore/corda|Corda]]
 source_uesp: "raw/Lore/_ingested/2920, Sun's Dusk (v11).md"
 ingested_at: 2026-05-28
 ---
@@ -22,7 +22,7 @@ ingested_at: 2026-05-28
 
 **3일 — [[termbase/mournhold|Mournhold]]**: Duke가 *4일째 *붉은 안개 + 번개* 위 도시. *Oblivion의 손이 다가옴*. Vivec은 *Bodrum 협상*, Almalexia/Sotha Sil은 *[[lore/necrom|Necrom]]*. *몇 일 늦음*.
 
-**6일 — Bodrum**: 횃불 + 안개 눈. *Dunmer + Imperial 군대*가 *바닥 따뜻함 위해 합께* 모임. 황제 [[lore/reman-iii|Reman III]] + 정부 *[[lore/corda|Corda]]* (Rijja 동생). 황제: *"여기는 위장만, 진짜 서명은 Imperial Palace에서 한 달 후. 모두 데려와 — Almalexia + 그 [[lore/sotha-sil|sotha sil]]도"*. **한 달 후 grand ball 잡음**. **King [[lore/king-drozel|Dro'Zel]]이 *Imperial 조언자*로 등장** — 광기 그대로 권력 침투.
+**6일 — Bodrum**: 횃불 + 안개 눈. *Dunmer + Imperial 군대*가 *바닥 따뜻함 위해 합께* 모임. 황제 [[lore/reman-iii|Reman III]] + 정부 *[[lore/corda|Corda]]* (Rijja 동생). 황제: *"여기는 위장만, 진짜 서명은 Imperial Palace에서 한 달 후. 모두 데려와 — Almalexia + 그 [[termbase/sotha-sil|sotha sil]]도"*. **한 달 후 grand ball 잡음**. **King [[lore/king-drozel|Dro'Zel]]이 *Imperial 조언자*로 등장** — 광기 그대로 권력 침투.
 
 황제 산책 — Miramor가 *얼음 갈대에 매복*. Corda가 *희한한 고드름 보러 가는 척* 자리 비움. Miramor가 *황제 등 뒤*. 결정 순간 — **누군가 *Miramor 팔 잡고 목에 단검* + *등에 마비 단검***. Night Mother의 *진짜 agent*가 Miramor 제거. 황제는 *전혀 모름*. **Miramor 함정용 미끼였음**. Corda + Emperor 캠프로 귀환.
 
@@ -40,8 +40,8 @@ ingested_at: 2026-05-28
 - [[lore/miramor|Miramor]] — *황태자 살해자 → 미끼로 제거됨*
 - [[lore/corda|Corda]] — 황제 새 정부, *진짜 암살자* (v12)
 - [[termbase/mehrunes-dagon|Mehrunes Dagon]] — *Daedra Pact 위반자*
-- [[lore/almalexia|Almalexia]] — *Dagon 격퇴 + 비전*
-- [[lore/sotha-sil|Sotha Sil]] — *Dagon 격퇴, jaw 흉터*
+- [[termbase/almalexia|Almalexia]] — *Dagon 격퇴 + 비전*
+- [[termbase/sotha-sil|Sotha Sil]] — *Dagon 격퇴, jaw 흉터*
 - [[termbase/vivec|Vivec]] — Bodrum 협상 → Mournhold 합류
 - [[lore/king-drozel|King Dro'Zel]] — *Imperial 조언자*로 침투
 - [[lore/reman-iii|Reman III]] — 모든 함정 모름

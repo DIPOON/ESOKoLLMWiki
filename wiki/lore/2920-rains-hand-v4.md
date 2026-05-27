@@ -6,7 +6,7 @@ series: 2920, The Last Year of the First Era
 series_index: 4
 writer: Ted Peterson
 author: Carlovac Townway
-related_entity: [[lore/sotha-sil|Sotha Sil]], [[termbase/iachesis|Iachesis]], [[lore/daedra-pact-of-2920|Daedra Pact of 2920]]
+related_entity: [[termbase/sotha-sil|Sotha Sil]], [[termbase/iachesis|Iachesis]], [[lore/daedra-pact-of-2920|Daedra Pact of 2920]]
 source_uesp: "raw/Lore/_ingested/2920, Rain's Hand (v4).md"
 ingested_at: 2026-05-28
 ---
@@ -18,7 +18,7 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-**3일 — [[termbase/coldharbour|Coldharbour]] (Oblivion)**: [[lore/sotha-sil|Sotha Sil]]이 *[[lore/hearts-grief|Heart's Grief]] 궁전* (Azure Plasm에 반쯤 잠긴) 통과. **8 Daedric Princes 회합**:
+**3일 — [[termbase/coldharbour|Coldharbour]] (Oblivion)**: [[termbase/sotha-sil|Sotha Sil]]이 *[[lore/hearts-grief|Heart's Grief]] 궁전* (Azure Plasm에 반쯤 잠긴) 통과. **8 Daedric Princes 회합**:
 - [[termbase/azura|Azura]] (Dusk and Dawn)
 - [[termbase/boethiah|Boethiah]] (Plots)
 - [[lore/herma-mora|Herma-Mora]] (Knowledge)
@@ -36,13 +36,13 @@ ingested_at: 2026-05-28
 
 **11일 — Artaeum**: Sotha Sil이 *불 저항 마법 시연* (marble basin of leaping flames). 핵심: *"resistance is not about ignoring the fire's reality. You will feel the substance of flame... but you will know that it will not hurt or injure you."* 학생들 따라함. **Welleg가 실패 → 화상**. Sotha Sil이 *Welleg 추방* ("Fear does not break spells, but *doubt and incompetence* are the great enemies of any spellcaster.").
 
-[[lore/almalexia|Almalexia]] 도착 (*Skywatch부터 비*). Sotha Sil 친근 인사. **Almalexia: "I have had visions; I know it to be true. We will lose unless I can convince Sotha Sil to leave Artaeum."** Iachesis (Psijic Master): *"the island will be leaving the sea. In a few years, the mists will move over Artaeum and we will be gone."* — **Artaeum의 *신비한 사라짐* 예언**. "We are counselors by nature, and there are too many counselors in Tamriel."
+[[termbase/almalexia|Almalexia]] 도착 (*Skywatch부터 비*). Sotha Sil 친근 인사. **Almalexia: "I have had visions; I know it to be true. We will lose unless I can convince Sotha Sil to leave Artaeum."** Iachesis (Psijic Master): *"the island will be leaving the sea. In a few years, the mists will move over Artaeum and we will be gone."* — **Artaeum의 *신비한 사라짐* 예언**. "We are counselors by nature, and there are too many counselors in Tamriel."
 
 ## 등장 entity / 인물
-- [[lore/sotha-sil|Sotha Sil]] — Tribunal, *Daedra Pact 협상자*
-- [[termbase/iachesis|Iachesis]] — Psijic Order Master ([[lore/altmer|Altmer]])
+- [[termbase/sotha-sil|Sotha Sil]] — Tribunal, *Daedra Pact 협상자*
+- [[termbase/iachesis|Iachesis]] — Psijic Order Master ([[termbase/altmer|Altmer]])
 - *Lilatha*, *Welleg* (Wellig) — Psijic 초심자
-- [[lore/almalexia|Almalexia]] — 예언자, Artaeum 방문
+- [[termbase/almalexia|Almalexia]] — 예언자, Artaeum 방문
 - [[lore/juilek|Juilek]] — 병상, *Morrowind 가고 싶음*
 - 8 Daedric Princes (위 list)
 

@@ -37,7 +37,7 @@ ingested_at: 2026-05-28
 - *Rijja* — 황제 정부, *눈 찌른* 후 처형
 - *Corda* — Rijja 동생, 곧 황제의 새 표적
 - [[lore/mynista-skeffington|Mynista Skeffington]] — 코벤 리더, 마법 시연 ("Spirit fist")
-- [[lore/kynareth|Kynareth]] — 공기 정령들의 후원 신
+- [[termbase/kynareth|Kynareth]] — 공기 정령들의 후원 신
 - *Amaro, Pina, Tallatha* — 공기 정령
 
 ## 톤 가이드

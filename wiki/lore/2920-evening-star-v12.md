@@ -6,7 +6,7 @@ series: 2920, The Last Year of the First Era
 series_index: 12
 writer: Ted Peterson
 author: Carlovac Townway
-related_entity: [[lore/reman-iii|Reman III]], [[lore/versidue-shaie|Versidue-Shaie]], [[termbase/vivec|Vivec]], [[lore/almalexia|Almalexia]], [[lore/sotha-sil|Sotha Sil]]
+related_entity: [[lore/reman-iii|Reman III]], [[lore/versidue-shaie|Versidue-Shaie]], [[termbase/vivec|Vivec]], [[termbase/almalexia|Almalexia]], [[termbase/sotha-sil|Sotha Sil]]
 source_uesp: "raw/Lore/_ingested/2920, Evening Star (v12).md"
 ingested_at: 2026-05-27
 ---
@@ -18,7 +18,7 @@ ingested_at: 2026-05-27
 
 ## 본문 요약 (시간 순)
 
-**1일 — [[termbase/balmora|Balmora]]**: [[lore/almalexia|Almalexia]] 15일 만에 깨어남. [[termbase/vivec|Vivec]]이 옆에 있었음. [[lore/sotha-sil|Sotha Sil]]은 *자기 기계*로 멀리서 도움. Vivec은 6일 황제와의 *truce 서명*을 미뤘는데, Almalexia가 *Morrowind 위해 빨리 가라*고.
+**1일 — [[termbase/balmora|Balmora]]**: [[termbase/almalexia|Almalexia]] 15일 만에 깨어남. [[termbase/vivec|Vivec]]이 옆에 있었음. [[termbase/sotha-sil|Sotha Sil]]은 *자기 기계*로 멀리서 도움. Vivec은 6일 황제와의 *truce 서명*을 미뤘는데, Almalexia가 *Morrowind 위해 빨리 가라*고.
 
 **6일 — [[termbase/imperial-city|Imperial City]]**: 황제 [[lore/reman-iii|Reman III]]가 *Dark Elf 사절단을 위한 화려한 잔치* 준비. *Potentate [[lore/versidue-shaie|Versidue-Shaie]]*와 아들 *Savirien-Chorak* (Tsaesci/Akaviri)가 황제와 단독 만남 주선. *Lady Corda* (Morag Tong 암살자)가 *Vivec의 메시지인 척*하며 **단검으로 황제 살해**. *Morag Tong 마크*가 새겨진 종이. Versidue-Shaie와 Savirien-Chorak이 *공범*.
 
@@ -33,9 +33,9 @@ ingested_at: 2026-05-27
 **31일 — [[termbase/ebonheart|Ebonheart]] 지하**: Sotha Sil의 *clockwork apparatus*에서 *오일 거품 하나*가 *비정상 작동* 시작. 기어가 *반대 방향* 회전. "It cannot be fixed now." **자정, *카오스의 Second Era*가 시작.**
 
 ## 등장 entity / 인물
-- [[lore/almalexia|Almalexia]] — Tribunal 여신
+- [[termbase/almalexia|Almalexia]] — Tribunal 여신
 - [[termbase/vivec|Vivec]] — Tribunal 군주
-- [[lore/sotha-sil|Sotha Sil]] — Tribunal, clockwork sorcerer
+- [[termbase/sotha-sil|Sotha Sil]] — Tribunal, clockwork sorcerer
 - [[lore/reman-iii|Reman III]] — Cyrodiil 황제 (살해됨)
 - [[lore/versidue-shaie|Versidue-Shaie]] — Tsaesci Potentate (찬탈자)
 - Savirien-Chorak — Potentate 아들

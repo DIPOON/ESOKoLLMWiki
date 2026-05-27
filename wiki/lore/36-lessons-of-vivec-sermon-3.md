@@ -13,7 +13,7 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-장님 *netchiman의 아내*가 [[lore/house-indoril|House Indoril]]로 가는 길에 동굴로 잘못 들어감 — *[[lore/dwemer|Dwemer]]의 stronghold*. **Dwemer가 egg를 보고 *시뮬라크럼* 만들어 지상에 두기로 결정** — [[termbase/chimer|Chimer/Velothi]]가 *그녀에게 우리와 비슷한 것이 있어 가져갈* 우려.
+장님 *netchiman의 아내*가 [[lore/house-indoril|House Indoril]]로 가는 길에 동굴로 잘못 들어감 — *[[termbase/dwemer|Dwemer]]의 stronghold*. **Dwemer가 egg를 보고 *시뮬라크럼* 만들어 지상에 두기로 결정** — [[termbase/chimer|Chimer/Velothi]]가 *그녀에게 우리와 비슷한 것이 있어 가져갈* 우려.
 
 ### Egg 추출 시도 실패
 1. **거대한 칼** — 통하지 않음.
@@ -24,7 +24,7 @@ ingested_at: 2026-05-28
 
 [[termbase/vivec|Vivec]]이 어머니의 두려움 느끼고 *기도로 위로*:
 
-> *"The fire is mine: let it consume thee, / And make a secret door / At the altar of [[lore/padomay|Padhome]], / In the House of [[termbase/boethiah|Boethiah]] (Boet-hi-Ah) / Where we become safe / And looked after."*
+> *"The fire is mine: let it consume thee, / And make a secret door / At the altar of [[termbase/padomay|Padhome]], / In the House of [[termbase/boethiah|Boethiah]] (Boet-hi-Ah) / Where we become safe / And looked after."*
 
 기도가 *netchiman의 아내를 평화로운 잠*에 들게 함. *Dwemeri atronachs*가 *cornered spheres*로 그녀를 잘라낼 때 *깨지 않고 평화롭게 죽음*. Vivec은 *마법 유리* 안에 보관되어 *연구 대상*.
 
@@ -35,14 +35,14 @@ ingested_at: 2026-05-28
 
 ### Dwemer의 8 known worlds (행성/별)
 **Dwemer가 자기 doom 인정**: *"We Dwemer are only aspirants to this that the Velothi have. They shall be our doom in this and the eight known worlds:*
-1. [[lore/nirn|NIRN]]
-2. [[lore/lorkhan|LHKAN]]
-3. [[lore/arkay|RKHET]]
-4. [[lore/stendarr|THENDR]]
-5. [[lore/kynareth|KYNRT]]
-6. [[lore/akatosh|AKHAT]]
-7. [[lore/mara|MHARA]]
-8. [[lore/julianos|JHUNAL]]"
+1. [[termbase/nirn|NIRN]]
+2. [[termbase/lorkhan|LHKAN]]
+3. [[termbase/arkay|RKHET]]
+4. [[termbase/stendarr|THENDR]]
+5. [[termbase/kynareth|KYNRT]]
+6. [[termbase/akatosh|AKHAT]]
+7. [[termbase/mara|MHARA]]
+8. [[termbase/julianos|JHUNAL]]"
 
 > *"The secret to doom is within this Sermon."*
 

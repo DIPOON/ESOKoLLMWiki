@@ -18,7 +18,7 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-**1일 — [[termbase/mournhold|Mournhold]]**: [[lore/brindisi-dorom|Duke Brindisi Dorom]]이 *[[lore/morag-tong|Morag Tong]] 통해 황제 암살 의뢰했지만 배가 침몰해 자금 분실 → 의뢰 무효* 고백. [[lore/sotha-sil|Sotha Sil]]은 *Daedra 합의로 이런 침몰이 일어났을 수도, 또는 단순 번개*. **Three of Morrowind 일행 (Vivec/Almalexia/Sotha Sil + Duke)**이 *Cyrodiil과 truce 협의* 결정.
+**1일 — [[termbase/mournhold|Mournhold]]**: [[lore/brindisi-dorom|Duke Brindisi Dorom]]이 *[[lore/morag-tong|Morag Tong]] 통해 황제 암살 의뢰했지만 배가 침몰해 자금 분실 → 의뢰 무효* 고백. [[termbase/sotha-sil|Sotha Sil]]은 *Daedra 합의로 이런 침몰이 일어났을 수도, 또는 단순 번개*. **Three of Morrowind 일행 (Vivec/Almalexia/Sotha Sil + Duke)**이 *Cyrodiil과 truce 협의* 결정.
 
 **15일 — Fervinthil (Morrowind)**: 폭풍 속 inn에서 [[lore/juilek|Prince Juilek]]이 Vivec 일행 만남. *[[lore/black-gate|Black Gate]] 공격이 자기 모르게 일어났음* 사과. **황제가 *눈 잃음 (Rijja 사건)* → Juilek이 *황제 인장 사용 가능***. *그가 서명하는 조약은 황제 통치 + 본인 통치 모두에 구속력*. Almalexia: "Then let's start agreeing."
 
@@ -30,8 +30,8 @@ ingested_at: 2026-05-28
 
 ## 등장 entity / 인물
 - [[lore/juilek|Prince Juilek]] — 황태자, *truce 서명자*, 암살됨
-- [[lore/sotha-sil|Sotha Sil]] — 연속 사이클 철학 ("believes in the continuous cycle")
-- [[lore/almalexia|Almalexia]], [[termbase/vivec|Vivec]] — Tribunal
+- [[termbase/sotha-sil|Sotha Sil]] — 연속 사이클 철학 ("believes in the continuous cycle")
+- [[termbase/almalexia|Almalexia]], [[termbase/vivec|Vivec]] — Tribunal
 - [[lore/brindisi-dorom|Brindisi Dorom]] — Mournhold Duke, *황제 암살 의뢰 자백*
 - [[lore/morag-tong|Morag Tong]] — 신성 암살 조직
 - [[lore/empress-tavia|Empress Tavia]] — 황후, *아들 유인의 비극 주체* (의도 아닌)

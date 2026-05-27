@@ -6,7 +6,7 @@ series: 2920, The Last Year of the First Era
 series_index: 1
 writer: Ted Peterson
 author: Carlovac Townway
-related_entity: [[lore/almalexia|Almalexia]], [[lore/empress-tavia|Tavia]], [[lore/juilek|Juilek]], [[lore/turala|Turala]]
+related_entity: [[termbase/almalexia|Almalexia]], [[lore/empress-tavia|Tavia]], [[lore/juilek|Juilek]], [[lore/turala|Turala]]
 source_uesp: "raw/Lore/_ingested/2920, Morning Star (v1).md"
 ingested_at: 2026-05-28
 ---
@@ -18,7 +18,7 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-**1일 — [[termbase/mournhold|Mournhold]]**: [[lore/almalexia|Almalexia]]가 *피와 축제로 가득한 꿈* — *80년 전쟁 종결 예언*. 멀리 있는 [[termbase/vivec|Vivec]]을 *boiling pool*로 부름. **"[[lore/sotha-sil|Sotha Sil]] 없이는 진다."** Vivec: *First Seed (3월)까지 북에서 공격 예상* — Almalexia가 [[termbase/artaeum|Artaeum]]으로 *Sotha Sil 데려오러* 떠남.
+**1일 — [[termbase/mournhold|Mournhold]]**: [[termbase/almalexia|Almalexia]]가 *피와 축제로 가득한 꿈* — *80년 전쟁 종결 예언*. 멀리 있는 [[termbase/vivec|Vivec]]을 *boiling pool*로 부름. **"[[termbase/sotha-sil|Sotha Sil]] 없이는 진다."** Vivec: *First Seed (3월)까지 북에서 공격 예상* — Almalexia가 [[termbase/artaeum|Artaeum]]으로 *Sotha Sil 데려오러* 떠남.
 
 **4일 — [[lore/gideon|Gideon]] (Black Marsh)**: [[lore/empress-tavia|Empress Tavia]]가 *7년째 [[lore/castle-giovesse|Castle Giovesse]] 감금*. *Imperial Court 댄스 자수* 찢음 — *무의미한 반항*. [[lore/zuuk|Zuuk]] ([[lore/kothringi|Kothringi]] Imperial Guard, 은빛 피부) 부름. **"Zuuk, let's discuss methods of assassinating my husband today."** — *v8의 Juilek 암살 음모 시작점*.
 
@@ -29,9 +29,9 @@ ingested_at: 2026-05-28
 **21일 — Mournhold**: [[lore/brindisi-dorom|Duke Brindisi Dorom]]이 [[lore/turala|Turala]] (Dunmer 정부) 만남. *Turala가 살 찌는 이유* — *임신*. Duke: *"Almalexia 떠난 후에야 그녀 정치 능력 알겠다"*. Turala (속으로): *"내가 떠나야 나를 더 알아줄까? 결혼해 줄까?"* — v8에서 *Wroth Naga에 *낙인 찍힌* 채 도주한 이유 복선*.
 
 ## 등장 entity / 인물 (시리즈 전체)
-- [[lore/almalexia|Almalexia]] — Tribunal, 예언자
+- [[termbase/almalexia|Almalexia]] — Tribunal, 예언자
 - [[termbase/vivec|Vivec]] — Tribunal, 시인·전사·신
-- [[lore/sotha-sil|Sotha Sil]] — Tribunal, Artaeum (Psijic) 에 있음
+- [[termbase/sotha-sil|Sotha Sil]] — Tribunal, Artaeum (Psijic) 에 있음
 - [[lore/reman-iii|Reman III]] — 황제, 의심 + 권력욕
 - [[lore/juilek|Juilek]] — 황태자, *honor*
 - [[lore/versidue-shaie|Versidue-Shaie]] — Potentate, *기억하는 자*

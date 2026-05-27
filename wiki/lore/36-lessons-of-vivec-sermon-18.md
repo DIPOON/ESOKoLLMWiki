@@ -14,9 +14,9 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-[[termbase/vivec|Vivec]]이 [[lore/nerevar|Hortator]]에게 *War of the First Council* (vs [[lore/dwemer|Dwemer]]) 전에 *가르칠 만큼 가르쳤다*고 판단. **Book of Hours 시작 결정** — *세상이 시대로 굽어질 것*.
+[[termbase/vivec|Vivec]]이 [[termbase/nerevar|Hortator]]에게 *War of the First Council* (vs [[termbase/dwemer|Dwemer]]) 전에 *가르칠 만큼 가르쳤다*고 판단. **Book of Hours 시작 결정** — *세상이 시대로 굽어질 것*.
 
-[[termbase/mournhold|Mourning Hold]]에서 [[lore/almalexia|Ayem]]에게 *[[lore/muatra|Muatra]]에서 도망친 9 monster 사냥* 선언. *마지막 일격*은 [[lore/kagrenac|Dwemer grand architect]]에게.
+[[termbase/mournhold|Mourning Hold]]에서 [[termbase/almalexia|Ayem]]에게 *[[lore/muatra|Muatra]]에서 도망친 9 monster 사냥* 선언. *마지막 일격*은 [[lore/kagrenac|Dwemer grand architect]]에게.
 
 **Ayem: "9 중 8만 찾는다. 마지막은 *Book of Hours 만들기로 결정함*으로 *이미 파괴*됨."** Vivec이 *자기 자신을 의미함* 깨달음.
 

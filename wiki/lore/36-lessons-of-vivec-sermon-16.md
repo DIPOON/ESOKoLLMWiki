@@ -13,7 +13,7 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-[[lore/nerevar|Hortator]]가 [[termbase/mournhold|Mourning Hold]]에서 *세 가르침과 씨름*. 마음에서 *slippery*. [[termbase/vivec|Vivec]]을 *[[termbase/boethiah|Boethiah]] False Thinking Temple*에서 발견 — *clockwork shears가 Vivec 머리카락 자르고 beggar king이 그 머리카락으로 *성년·죽음의 불완전 지도* 짜는 중*.
+[[termbase/nerevar|Hortator]]가 [[termbase/mournhold|Mourning Hold]]에서 *세 가르침과 씨름*. 마음에서 *slippery*. [[termbase/vivec|Vivec]]을 *[[termbase/boethiah|Boethiah]] False Thinking Temple*에서 발견 — *clockwork shears가 Vivec 머리카락 자르고 beggar king이 그 머리카락으로 *성년·죽음의 불완전 지도* 짜는 중*.
 
 Vivec: *"불을 위한 공간을 만들기 위해."*
 

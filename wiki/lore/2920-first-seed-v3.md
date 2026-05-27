@@ -18,9 +18,9 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-**15일 — Caer Suvio (Cyrodiil)**: 황제 [[lore/reman-iii|Reman III]]가 [[lore/versidue-shaie|Versidue-Shaie]] Potentate와 협의. 아들 *Prince Juilek*은 독살로 추정되어 거동 불가. Potentate가 *황제는 후방에 있으라*고 권유 + vanguard에 *Storig of Farrun*, 좌익에 *Queen Naghea of [[lore/riverhold|Riverhold]]* ([[lore/khajiit|Khajiit]]), 우익에 *Warchief Ulaqth of [[termbase/lilmoth|Lilmoth]]* ([[lore/argonian|Argonian]]) 배치 추천.
+**15일 — Caer Suvio (Cyrodiil)**: 황제 [[lore/reman-iii|Reman III]]가 [[lore/versidue-shaie|Versidue-Shaie]] Potentate와 협의. 아들 *Prince Juilek*은 독살로 추정되어 거동 불가. Potentate가 *황제는 후방에 있으라*고 권유 + vanguard에 *Storig of Farrun*, 좌익에 *Queen Naghea of [[lore/riverhold|Riverhold]]* ([[termbase/khajiit|Khajiit]]), 우익에 *Warchief Ulaqth of [[termbase/lilmoth|Lilmoth]]* ([[termbase/argonian|Argonian]]) 배치 추천.
 
-**18일 — Ald Erfoud (Morrowind)**: [[termbase/vivec|Vivec]]이 *Cassyr Whitley of Dwynnen* ([[lore/breton|Breton]] 스파이)로부터 Imperial Army 배치 정보 입수.
+**18일 — Ald Erfoud (Morrowind)**: [[termbase/vivec|Vivec]]이 *Cassyr Whitley of Dwynnen* ([[termbase/breton|Breton]] 스파이)로부터 Imperial Army 배치 정보 입수.
 
 **19일 — Bodrum (Morrowind)**: Vivec이 *[[lore/pryai-river|Pryai 강]] 위 절벽 + 강 댐 + 나무 창 함정* 준비. 병사들에게 *나무를 베고 강 댐 쌓게 + 나무 창 제작*. 창은 *피라미드 형 첨두*로 *완벽한 균형*. 함정 그물처럼 강을 가로질러 설치.
 

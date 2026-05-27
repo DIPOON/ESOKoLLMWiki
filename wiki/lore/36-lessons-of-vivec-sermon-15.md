@@ -17,7 +17,7 @@ ingested_at: 2026-05-28
 
 > *"The ruling king will remove me, his maker. This is the way of all children. His greatest enemy is the [[lore/dagoth-ur|Sharmat]], who is the false dreamer."*
 
-[[lore/nerevar|Hortator]] 또는 Vivec이 *shingle* (얇은 조각/지붕재). *잘못된 walking path 조심*. *benevolence의 죄 조심*. **Sharmat을 그의 말로 알아봐라**:
+[[termbase/nerevar|Hortator]] 또는 Vivec이 *shingle* (얇은 조각/지붕재). *잘못된 walking path 조심*. *benevolence의 죄 조심*. **Sharmat을 그의 말로 알아봐라**:
 
 ```
 I AM THE SHARMAT

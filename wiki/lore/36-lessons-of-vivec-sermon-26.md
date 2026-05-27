@@ -19,7 +19,7 @@ ingested_at: 2026-05-28
 
 노예들이 *babble + magic 깨짐*. 새장 흔들며 *반-찬송*. *forbidden·arcane knowledge*. **[[lore/litany-fiend|Litany fiends]]** + *[[lore/adjacent-place|Adjacent Place]]에서 [[lore/grabber|Grabbers]] 측면 진입*.
 
-*거대 벌레*가 *동쪽 최강 wizard 안에 담아* 출현. Vivec 신성 알지만 *오만*: *"See what you have wrought, silly [[lore/tribunal|Triune]]! Columns of nonsense and litany fiends!"* — **Vivec이 *영혼 관통***.
+*거대 벌레*가 *동쪽 최강 wizard 안에 담아* 출현. Vivec 신성 알지만 *오만*: *"See what you have wrought, silly [[termbase/tribunal|Triune]]! Columns of nonsense and litany fiends!"* — **Vivec이 *영혼 관통***.
 
 벌레 떨어지며 *노예 자유 + 미친 pregnant words*. 색이 땅으로 굽음. **Vivec이 *dome-head demon* 창조해 *모두 가둠***.
 
@@ -27,7 +27,7 @@ ingested_at: 2026-05-28
 
 경계에 *오류 든 경고 노래*. *half-dead Muatra의 mock bones로 *fortress-theory의 tent poles**. *fatal languages 영원 감금*.
 
-[[lore/sotha-sil|Seht]] 등장: *"Of the eight monsters, this is the most confusing. May I treasure it?"* Vivec 허락 — 단 *middle world에 풀지 마라*. *"Under this dome, the temporal myth is no longer man."*
+[[termbase/sotha-sil|Seht]] 등장: *"Of the eight monsters, this is the most confusing. May I treasure it?"* Vivec 허락 — 단 *middle world에 풀지 마라*. *"Under this dome, the temporal myth is no longer man."*
 
 끝: **ALMSIVI**.
 

@@ -20,9 +20,9 @@ ingested_at: 2026-05-28
 
 Vivec은 [[lore/veloth-velothi|Velothi]] 부족 ([[termbase/chimer|Chimer]] 시대, *Skyrim 전쟁* 이전)에 *재 속에서* 태어남.
 
-**[[lore/almalexia|Almalexia (Ayem)]]**가 첫째로 *netchiman 마을* 방문 (그림자가 [[termbase/boethiah|Boethiah]] — Prince of Plots). *netchiman의 아내*에게 *7음절 주문 AYEM AE SEHTI AE VEHK* 전수. 그녀를 *바다에 던짐* → [[termbase/dreugh|Dreugh]]가 *유리·산호 성*으로 데려가 *gills + 우유 손가락* 주고 *성별 변환* → *알 형태로 출산 가능*.
+**[[termbase/almalexia|Almalexia (Ayem)]]**가 첫째로 *netchiman 마을* 방문 (그림자가 [[termbase/boethiah|Boethiah]] — Prince of Plots). *netchiman의 아내*에게 *7음절 주문 AYEM AE SEHTI AE VEHK* 전수. 그녀를 *바다에 던짐* → [[termbase/dreugh|Dreugh]]가 *유리·산호 성*으로 데려가 *gills + 우유 손가락* 주고 *성별 변환* → *알 형태로 출산 가능*.
 
-**[[lore/sotha-sil|Sotha Sil (Seht)]]**가 7-8개월 후 등장 — *Clockwork King of the Three in One*. *알이 [[lore/nerevar|Hortator]] 올 때까지 부화*하라 명령. *Fabricant homunculi*가 그녀를 [[termbase/azuras-coast|Azura's Coast]] 해안으로 옮김. 7-8개월 더 — [[termbase/mephala|Mephala]] Codes + Veloth 예언 + [[lore/trinimac|Trinimac]] 금기 가르침을 *알에 속삭임*.
+**[[termbase/sotha-sil|Sotha Sil (Seht)]]**가 7-8개월 후 등장 — *Clockwork King of the Three in One*. *알이 [[termbase/nerevar|Hortator]] 올 때까지 부화*하라 명령. *Fabricant homunculi*가 그녀를 [[termbase/azuras-coast|Azura's Coast]] 해안으로 옮김. 7-8개월 더 — [[termbase/mephala|Mephala]] Codes + Veloth 예언 + [[lore/trinimac|Trinimac]] 금기 가르침을 *알에 속삭임*.
 
 **7명 Daedra**가 와서 *Barons of Move Like This* — *뼈 움직임으로 가능한 새 동작* 부여. **8번째: [[lore/fa-nuit-hen|Fa-Nuit-Hen]]** (Demiprince, *Multiplier of Motions Known*). *3개월 후 [[lore/house-indoril|Indoril]] 땅으로 가라 — 전쟁이 옴*. Barons + Demiprince가 *기둥의 *fighting styles*로 알 앞에서 춤*:
 
@@ -36,15 +36,15 @@ Vivec의 핵심 말: *"For I have crushed a world with my left hand, but in my r
 
 ## 등장 entity
 - [[termbase/vivec|Vivec]] (Vehk) — *알*에서 시작
-- [[lore/almalexia|Almalexia]] (Ayem) — *Face-Snaked Queen of Three in One*
-- [[lore/sotha-sil|Sotha Sil]] (Seht) — *Clockwork King of Three in One*
+- [[termbase/almalexia|Almalexia]] (Ayem) — *Face-Snaked Queen of Three in One*
+- [[termbase/sotha-sil|Sotha Sil]] (Seht) — *Clockwork King of Three in One*
 - [[termbase/boethiah|Boethiah]] — Ayem의 그림자
 - [[lore/fa-nuit-hen|Fa-Nuit-Hen]] — Demiprince, *Multiplier of Motions Known*
 - *Barons of Move Like This* — 7 Daedra
 - [[termbase/dreugh|Dreugh]] — 변형 도움
 - [[termbase/mephala|Mephala]] — Codes
 - [[lore/trinimac|Trinimac]] — 금기 가르침
-- [[lore/nerevar|Hortator]] — 미래 등장 예고
+- [[termbase/nerevar|Hortator]] — 미래 등장 예고
 - [[termbase/almsivi|ALMSIVI]] — Tribunal 7음절
 
 ## 톤 가이드

@@ -6,7 +6,7 @@ series: 2920, The Last Year of the First Era
 series_index: 7
 writer: Ted Peterson
 author: Carlovac Townway
-related_entity: [[lore/rijja|Rijja]], [[lore/sotha-sil|Sotha Sil]], [[lore/almalexia|Almalexia]], [[termbase/vivec|Vivec]], [[lore/night-mother|Night Mother]]
+related_entity: [[lore/rijja|Rijja]], [[termbase/sotha-sil|Sotha Sil]], [[termbase/almalexia|Almalexia]], [[termbase/vivec|Vivec]], [[lore/night-mother|Night Mother]]
 source_uesp: "raw/Lore/_ingested/2920, Sun's Height (v7).md"
 ingested_at: 2026-05-28
 ---
@@ -19,7 +19,7 @@ ingested_at: 2026-05-28
 
 **6일 — [[lore/thurzo-fortress|Thurzo Fortress]]**: 황제가 *Rijja 풀어주려* 방문 — 1.5달 감방으로 *영혼 죽음*. *Corda 데려가겠다* 알리자 **Rijja가 *동물적 분노 + 긴 손톱으로 황제 얼굴 + 눈 긁음***. 가드들이 *검 등으로 무자비*. **황제 *우측 눈 영구 실명***. (v6에서 Juilek이 *황제 인장 사용 가능* 이유.)
 
-**23일 — [[termbase/balmora|Balmora]]**: [[termbase/vivec|Vivec]] *목욕*. [[lore/sotha-sil|Sotha Sil]] *한 시간 전 도착*. "It looks like you've picked up a few more scars." Vivec: *80년 전쟁 종결*, 황제 사후 *golden age* 기대. Almalexia는 [[lore/brindisi-dorom|Mournhold Duke]] 데려오는 중. 메신저 등장 — **"We have been betrayed. The Imperial Army has seized [[lore/black-gate|Black Gate]]."**
+**23일 — [[termbase/balmora|Balmora]]**: [[termbase/vivec|Vivec]] *목욕*. [[termbase/sotha-sil|Sotha Sil]] *한 시간 전 도착*. "It looks like you've picked up a few more scars." Vivec: *80년 전쟁 종결*, 황제 사후 *golden age* 기대. Almalexia는 [[lore/brindisi-dorom|Mournhold Duke]] 데려오는 중. 메신저 등장 — **"We have been betrayed. The Imperial Army has seized [[lore/black-gate|Black Gate]]."**
 
 **24일 — Balmora**: **17년 만에 [[termbase/tribunal|Tribunal]] 셋 다 재회** (Sotha Sil이 [[termbase/artaeum|Artaeum]] 떠난 이후). Vivec: *Juilek 본인은 모를 것*. Sotha Sil: *그러나 *distraction* 역할일 수도 — *truce 위반*. **Duke가 [[lore/tel-aruhn|Tel Aruhn]]에서 [[lore/night-mother|Night Mother]] 만남 — *황제 암살 의뢰***. Vivec 반대 — *외교 또는 전쟁이지 암살은 후퇴*. Sotha Sil이 *막으러 감*.
 

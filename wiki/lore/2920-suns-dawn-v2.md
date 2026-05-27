@@ -6,7 +6,7 @@ series: 2920, The Last Year of the First Era
 series_index: 2
 writer: Ted Peterson
 author: Carlovac Townway
-related_entity: [[lore/sotha-sil|Sotha Sil]], [[termbase/molag-bal|Molag Bal]], [[lore/king-drozel|King Dro'Zel]], [[lore/turala|Turala]], [[lore/gilverdale|Gilverdale]]
+related_entity: [[termbase/sotha-sil|Sotha Sil]], [[termbase/molag-bal|Molag Bal]], [[lore/king-drozel|King Dro'Zel]], [[lore/turala|Turala]], [[lore/gilverdale|Gilverdale]]
 source_uesp: "raw/Lore/_ingested/2920, Sun's Dawn (v2).md"
 ingested_at: 2026-05-28
 ---
@@ -18,7 +18,7 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-**3일 — [[termbase/artaeum|Artaeum]]**: [[lore/sotha-sil|Sotha Sil]]이 *Psijic 초심자에게 *grom* 수업*. *오아솜 나무*에서 과일 따기 → *identification 마법*. Welleg: *"A ball"* (실패). Lilatha: *"grom — dreugh이 karvinasim 후 토한 것"*. **Sotha Sil의 *3층 이해* 가르침**: 1) common man — 물건의 *위치*만, 2) *Old Way / Psijic / Mysticism* — *역할*까지, 3) **진정한 이해 — *역할 + 진실 + 의미 해석***. grom = *dreugh가 1년 육지 생활 후 물에 돌아가 *피부·내장 토해낸 것* (구토물).
+**3일 — [[termbase/artaeum|Artaeum]]**: [[termbase/sotha-sil|Sotha Sil]]이 *Psijic 초심자에게 *grom* 수업*. *오아솜 나무*에서 과일 따기 → *identification 마법*. Welleg: *"A ball"* (실패). Lilatha: *"grom — dreugh이 karvinasim 후 토한 것"*. **Sotha Sil의 *3층 이해* 가르침**: 1) common man — 물건의 *위치*만, 2) *Old Way / Psijic / Mysticism* — *역할*까지, 3) **진정한 이해 — *역할 + 진실 + 의미 해석***. grom = *dreugh가 1년 육지 생활 후 물에 돌아가 *피부·내장 토해낸 것* (구토물).
 
 **4일 — [[termbase/imperial-city|Imperial City]]**: 황제 [[lore/reman-iii|Reman III]]가 [[lore/rijja|Rijja]] 정부와 *목욕*. *Argonian Battlechief of [[lore/soulrest|Soulrest]]*가 발 밟고 *"I'm sorry"* — 황제 *"Pardon me로 하셔야지. *I'm sorry*는 *내가 황제임을 미안해함*"* 망상적 해석. **신뢰 = Rijja + Juilek만**. Council + Potentate = *"pack of spies and a snake"*. Rijja와 *make love*.
 
@@ -26,12 +26,12 @@ ingested_at: 2026-05-28
 
 **16일 — [[lore/senchal|Senchal]] (Anequina / [[termbase/elsweyr|Elsweyr]])**: *Lovers' Day*. *King Dro'Zel* (Khajiit 왕)이 *Polydor and Eloisa 음유시인 이야기*에 *공포·분노*. *"한 마디로 그 음유시인은 *Gilverdale 출신*"*. **Dro'Zel이 *광기로 탑 올라감***. Queen Hasaama가 *남편의 광기 깊이* 미리 알았더라면 막았을 것.
 
-**19일 — [[lore/gilverdale|Gilverdale]] ([[termbase/valenwood|Valenwood]])**: 평범한 마을 — *늙은 목수가 *논리 수수께끼* (gold key cell). 한 어머니가 *수수께끼에 몰두*하는 동안 아이가 *"Mama!"* 외침. **붉은 안개가 마을 덮음**. *붉은 피부의 거인* — **[[termbase/molag-bal|Molag Bal]]** ([[lore/daedra|Daedra]] Prince of Rage). 미소. **마을 전체 *멸망***.
+**19일 — [[lore/gilverdale|Gilverdale]] ([[termbase/valenwood|Valenwood]])**: 평범한 마을 — *늙은 목수가 *논리 수수께끼* (gold key cell). 한 어머니가 *수수께끼에 몰두*하는 동안 아이가 *"Mama!"* 외침. **붉은 안개가 마을 덮음**. *붉은 피부의 거인* — **[[termbase/molag-bal|Molag Bal]]** ([[termbase/daedra|Daedra]] Prince of Rage). 미소. **마을 전체 *멸망***.
 
-**29일 — Gilverdale**: [[lore/almalexia|Almalexia]]이 *Artaeum 가는 길* *진흙 황무지* 통과. 말이 *물 거부*. *벽돌과 뼛조각* 가슴에 안고 *비전 보임*. **"We must continue on to Artaeum."** *Sotha Sil 데리러* 가는 동기 강화.
+**29일 — Gilverdale**: [[termbase/almalexia|Almalexia]]이 *Artaeum 가는 길* *진흙 황무지* 통과. 말이 *물 거부*. *벽돌과 뼛조각* 가슴에 안고 *비전 보임*. **"We must continue on to Artaeum."** *Sotha Sil 데리러* 가는 동기 강화.
 
 ## 등장 entity / 인물
-- [[lore/sotha-sil|Sotha Sil]] — Psijic 교사, *Mysticism 깊은 이해*
+- [[termbase/sotha-sil|Sotha Sil]] — Psijic 교사, *Mysticism 깊은 이해*
 - *Welleg / Wellig* — Nord 초심자 (v4에서 화상으로 추방, v9~10에서 마녀 정보)
 - *Lilatha* — Altmer 초심자
 - [[lore/rijja|Rijja]] — 황제의 마지막 신뢰
@@ -42,7 +42,7 @@ ingested_at: 2026-05-28
 - [[lore/king-drozel|King Dro'Zel]] — Senchal Khajiit 왕, *광기 + Molag Bal 소환자*
 - *Queen Hasaama* — Dro'Zel 왕비
 - [[termbase/molag-bal|Molag Bal]] — *Daedra Prince of Rage*, Gilverdale 멸망
-- [[lore/almalexia|Almalexia]] — 비전 + 진로 강화
+- [[termbase/almalexia|Almalexia]] — 비전 + 진로 강화
 
 ## 핵심 사건
 - **Gilverdale 재난**: King Dro'Zel이 *음유시인 증오*로 *Molag Bal 소환* → 마을 전체 *붉은 안개 + 거인 손에 멸망*. 이 *대규모 daedra 소환*이 v4의 *Sotha Sil 8 Princes Pact*의 동기. **Pact 이후 *amateurs*는 daedra 소환 불가** — 카논 변화.

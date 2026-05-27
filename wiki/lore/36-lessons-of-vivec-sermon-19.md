@@ -16,7 +16,7 @@ ingested_at: 2026-05-28
 [[termbase/vivec|Vivec]]이 갑옷 입고 *non-spatial space*로 진입 — *모든 mortal 상호작용·정보로 채워지는 canvas-less cartography*. *"From here I shall launch my attack on the eight monsters."*
 
 Vivec이 미래 비전:
-- **[[termbase/cyrodiil|Cyrodiil]] 별의 심장에서 오는 moths** (= [[lore/imperial-legion|Imperial Legion]]). [[lore/red-mountain|Red Mountain]] 재보다 끔찍한 먼지.
+- **[[termbase/cyrodiil|Cyrodiil]] 별의 심장에서 오는 moths** (= [[lore/imperial-legion|Imperial Legion]]). [[termbase/red-mountain|Red Mountain]] 재보다 끔찍한 먼지.
 - **two-headed ruling king** — *equivalent 없음*. 
 - **8 imperfections precious stones + 족쇄 같은 crown** = **[[lore/amulet-of-kings|Amulet of Kings]]** (두 머리 왕의 *twin crowns*). *강이 두 머리 왕 입으로 흘러 들어감* — *multitudes 담음*.
 

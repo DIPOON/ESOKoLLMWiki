@@ -23,13 +23,13 @@ ingested_at: 2026-05-28
 ### 36 Numbers:
 1. [[lore/dragon-break|Dragon Break]] / Tower. 1
 2. [[lore/enantiomorph|Enantiomorph]]. 68
-3. Invisible Gate = [[lore/almsivi|ALMSIVI]]. 112
+3. Invisible Gate = [[termbase/almsivi|ALMSIVI]]. 112
 4. [[lore/house-of-troubles|Corners of House of Troubles]]. 242
 5. Corners of World. 100
-6. [[lore/walking-ways|Walking Ways]]. 266
+6. [[termbase/walking-ways|Walking Ways]]. 266
 7. Sword at the Center. 39
-8. [[lore/aurbis|Wheel]] / [[lore/eight-divines|Eight Givers]]. 484
-9. [[lore/lorkhan|Missing]]. 11
+8. [[termbase/aurbis|Wheel]] / [[lore/eight-divines|Eight Givers]]. 484
+9. [[termbase/lorkhan|Missing]]. 11
 10. Tribes of [[termbase/altmer|Altmer]]. 140
 11. Number of the Master. 102
 12. [[lore/birthsigns|Heavens]]. 379
@@ -49,7 +49,7 @@ ingested_at: 2026-05-28
 26. Rogue Plane. 81
 27. Secret Fire. 120
 28. Drowned Lamp. 8
-29. [[lore/anu|Captive Sage]]. 217
+29. [[termbase/anu|Captive Sage]]. 217
 30. [[lore/scarab|Scarab]]. 10
 31. Listening Frame. 473
 32. False Call. 7

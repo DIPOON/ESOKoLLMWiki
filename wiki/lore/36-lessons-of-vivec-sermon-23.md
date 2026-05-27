@@ -29,7 +29,7 @@ ingested_at: 2026-05-28
 
 7. *진짜 sword는 *세대의 chains 끊음* (= *적의 창조 신화*)*. **"Look on me as the exiled garden. All else is uncut weed."**
 
-8. *ancient road tempered by [[lore/walking-ways|second walking way]]*. *Your hands must be huge to wield any sword the size of an ancient road, and yet he who is of right stature may irritate the sun with only a stick.*
+8. *ancient road tempered by [[termbase/walking-ways|second walking way]]*. *Your hands must be huge to wield any sword the size of an ancient road, and yet he who is of right stature may irritate the sun with only a stick.*
 
 끝: **ALMSIVI**.
 

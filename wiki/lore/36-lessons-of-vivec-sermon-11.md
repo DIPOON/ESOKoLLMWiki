@@ -12,12 +12,12 @@ ingested_at: 2026-05-28
 # 36 Lessons of Vivec, Sermon 11 — 통치자 가르침 첫 번째
 
 ## 본문 요약
-**Resdaynia 시대** — [[termbase/chimer|Chimer]] + [[lore/dwemer|Dwemer]]가 [[termbase/almsivi|ALMSIVI]] + [[lore/nerevar|Hortator]] 통치 하. Veloth 신들이 *우주 빚으로 잠시 부재* → Hortator 혼란 → [[termbase/vivec|Vivec]] 조언. **세 통치자 가르침 중 첫 번째**.
+**Resdaynia 시대** — [[termbase/chimer|Chimer]] + [[termbase/dwemer|Dwemer]]가 [[termbase/almsivi|ALMSIVI]] + [[termbase/nerevar|Hortator]] 통치 하. Veloth 신들이 *우주 빚으로 잠시 부재* → Hortator 혼란 → [[termbase/vivec|Vivec]] 조언. **세 통치자 가르침 중 첫 번째**.
 
 핵심 11개:
 1. **"The waking world is the amnesia of dream"**. 권력 남용 X — *반항하는 딸처럼 떠난다*. 결국 *반쪽 국가의 조부모*가 됨.
 2. *필요 없거나 아름답지 않은 것은 집에 두지 마라*.
-3. **영역 분담**: 별의 영광 = [[lore/almalexia|Ayem]], 바다의 이기심 = [[lore/sotha-sil|Seht]], 중간 공기 = Vivec. 그 외 *지상* = 통치자.
+3. **영역 분담**: 별의 영광 = [[termbase/almalexia|Ayem]], 바다의 이기심 = [[termbase/sotha-sil|Seht]], 중간 공기 = Vivec. 그 외 *지상* = 통치자.
 4. **[[lore/heart-of-lorkhan|Heart of Lorkhan]]**: 부러뜨릴 수 없는 *유일한 뼈*. *1E 700 + 3E 427 두 번 보게 된다* ([[lore/nerevarine|Nerevarine]] 윤회 예언).
 5. *중심의 진정한 상징은 없다*. [[lore/dagoth-ur|Sharmat]]은 *있다 믿음* — *수년 환희* 가능하다 착각.
 6. *진짜 왕자는 *저주받고 악마화*되지만 *결국 가슴 가득 사랑받음*. [[termbase/mephala|Mephala]] Codes — *공식 예술은 없음*, 복잡성의 *집중점*만. 사람들의 예술 *받아들이고 *비밀로 죽임**.

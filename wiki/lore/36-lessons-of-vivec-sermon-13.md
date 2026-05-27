@@ -13,7 +13,7 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-[[lore/resdayn|Resdaynia]] 시대. **두 번째 통치자 가르침**:
+[[termbase/resdayn|Resdaynia]] 시대. **두 번째 통치자 가르침**:
 
 - **왕족의 비밀 음절 = [[lore/chim|CHIM]]** (Sermon 12 참조).
 - *temporal myth = man*.
@@ -22,9 +22,9 @@ ingested_at: 2026-05-28
   - [[termbase/mehrunes-dagon|DAGON]]
   - [[termbase/malacath|MALAC]]
   - [[termbase/sheogorath|SHEOG]]
-- 삼각형 회전 → *[[lore/aurbis|Beginning Place]]* 심장 관통. *위에는 *지평선* — *아직 아무도 없음 (새로운 자 약속)*.
+- 삼각형 회전 → *[[termbase/aurbis|Beginning Place]]* 심장 관통. *위에는 *지평선* — *아직 아무도 없음 (새로운 자 약속)*.
 - 전체 펼치면 *별*. *변환되어 *별 + 말벌**. *"The center cannot hold."*
-- **Vivec = sword, [[lore/almalexia|Ayem]] = star, [[lore/sotha-sil|Seht]] = mechanism**. ALMSIVI = sword를 둘러싼 Triune house. *세상을 *black sea*로 채워지지 않게 *지키는 의무**.
+- **Vivec = sword, [[termbase/almalexia|Ayem]] = star, [[termbase/sotha-sil|Seht]] = mechanism**. ALMSIVI = sword를 둘러싼 Triune house. *세상을 *black sea*로 채워지지 않게 *지키는 의무**.
 - **통치자는 Vivec을 *제거*해야 함** — 그러면 [[lore/heart-of-lorkhan|Heart]]가 *중심*에 다시 채워짐. Vivec이 [[lore/nerevarine|왕]]을 *반복 살해*하며 가르침.
 - **[[lore/dagoth-ur|Sharmat]] = *중심에서 잠자는 자*** — *false dreamer의 어리석음*. *꿈의 amnesia (또는 그 *권능* 또는 *우회*)*.
 - *swords의 비밀 = mercy seat* — Vivec의 *왕좌*. **"I am become the voice of ALMSIVI. ... I am the psychopomp. I am the killer of the weeds of Veloth."**

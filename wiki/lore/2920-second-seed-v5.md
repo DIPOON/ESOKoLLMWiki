@@ -18,7 +18,7 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-**10일 — [[termbase/imperial-city|Imperial City]]**: 황제 [[lore/reman-iii|Reman III]]가 [[lore/versidue-shaie|Potentate]] 방문 — *오직 셋만 신뢰*: Potentate, Juilek, Rijja. *Caer Suvio 시점에 *Catchica* (Orma 독살자, [[lore/argonian|Argonian]] 부족)이 캠프에 있었음 — Juilek 독살 의심*. Council의 *증거 요구*에 좌절. Potentate가 **"Council에는 *놓아준다* 말하고, 제가 *추적해 음모 전모* 파악"** 제안. 황제 동의. **Potentate가 아들 Savirien-Chorak에게 "*Catchica에게 *지시 *따르라*는 편지 — *생명 걸린* 일이라 강조*"**. *Potentate가 음모의 *진짜 가담자***.
+**10일 — [[termbase/imperial-city|Imperial City]]**: 황제 [[lore/reman-iii|Reman III]]가 [[lore/versidue-shaie|Potentate]] 방문 — *오직 셋만 신뢰*: Potentate, Juilek, Rijja. *Caer Suvio 시점에 *Catchica* (Orma 독살자, [[termbase/argonian|Argonian]] 부족)이 캠프에 있었음 — Juilek 독살 의심*. Council의 *증거 요구*에 좌절. Potentate가 **"Council에는 *놓아준다* 말하고, 제가 *추적해 음모 전모* 파악"** 제안. 황제 동의. **Potentate가 아들 Savirien-Chorak에게 "*Catchica에게 *지시 *따르라*는 편지 — *생명 걸린* 일이라 강조*"**. *Potentate가 음모의 *진짜 가담자***.
 
 **13일 — Mir Corrup ([[termbase/cyrodiil|Cyrodiil]])**: [[lore/rijja|Rijja]]가 *온천* 휴양. 눈 가린 *Orma 여성 부족*이 *waterskin* (사실 *neivous ichor 독*) 가져옴 → *눈 없는 부족* 깨달음. *Imperial Guard* 등장 — *Catchica를 *Argonian*과 만나는 거 봤다* 주장. Catchica는 *Argonian 변신*으로 *도주*. Rijja가 *naked + 혼란* 체포. 결백 외침. 캡틴: *"if he trusts you"* — *Rijja 모함 완성*.
 
@@ -30,7 +30,7 @@ ingested_at: 2026-05-28
 
 ## 등장 entity / 인물
 - [[lore/rijja|Rijja]] — Imperial 정부, **모함 + 감금**
-- [[lore/catchica|Catchica]] — Orma 독살자 ([[lore/argonian|Argonian]] 부족, 눈 없음, 변신 가능)
+- [[lore/catchica|Catchica]] — Orma 독살자 ([[termbase/argonian|Argonian]] 부족, 눈 없음, 변신 가능)
 - [[lore/reman-iii|Reman III]] — 황제, *Versidue-Shaie 유일하게 신뢰* (배신 복선)
 - [[lore/versidue-shaie|Versidue-Shaie]] — Potentate, **진짜 음모 가담자**
 - [[lore/zuuk|Zuuk]] — Tavia의 손, *Miramor 고용*
