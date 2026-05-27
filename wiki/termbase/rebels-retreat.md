@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Rebel's Retreat (반란군의 도피처)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Arana and her rebels are camped out here, the ruins serving as the staging grounds of both their rebellion against Ard Caddach, as well as their skirmishes against the Gray Host.
+
+The Cinder-Heart Clan Camp is due west, and the Harrowed Haunt Ritual Site lies to the north. Four Skull Lookout is located to the northwest, and Red Eagle Redoubt lies up the road north. The containers you'll find here are owned. The Wayward Guardians make their base here.
+
+**출처**: `raw/Online/Rebel's Retreat.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 122

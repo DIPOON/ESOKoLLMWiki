@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Wayrest Sewers II (웨이레스트 하수도 II)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The storyline continues from the events of Wayrest Sewers I. In this version, enemies you once thought dead have returned. Yahyif and Gedric Serre want you to find Master Pellingare, who has gone missing in the city sewers.
+
+You can learn its location from Wandering Jakalor outside Elden Root, Lady Blade outside Wayrest, or Hranir Icy-Mane outside Mournhold.
+
+**출처**: `raw/Online/Wayrest Sewers II.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 29

@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Nchuleft (누슈레프트)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The upper sections of the ruins have been liberated from their ancient guardians by the hostile Ashlanders, who are now in the process of looting them for relics. The deeper and less hospitable reaches are still protected however.
+
+Nchuleft Depths are west of and Nchuleft Ruins are north of Nchuleft Ingress. The boss and the skyshard are on the lowest level of the Nchuleft Depths were Lava flows. Ash Hoppers, centipedes and skavengers are found in numbers within the delve.
+
+**출처**: `raw/Online/Nchuleft.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 108

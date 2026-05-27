@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Yneslea (이네슬레아)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Yneslea is a region of land that lies somewhere between Tamriel and Akavir. It was conquered by Uriel Septim V in during the opening stages of his campaign against the Dragon Land. By , unrest had broken out, causing the emperor to divert two legions that had been intended as reinforcements to pacify the inhabitants instead, ultimately contributing to the failure of the invasion.
+
+**출처**: `raw/Lore/Yneslea.md` (UESP Lore dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 175

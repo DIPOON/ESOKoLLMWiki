@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Lady Llarel's Shelter (라렐 부인의 쉘터)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+A dead Dark Elf and a note can be found near the entrance. You have no choice but to head west to traverse the tunnels. A chest can be found beside the wall near the first cluster of kwama eggs on the right at the mouth of the western chamber. ''Lady Llarel's Journal'' is beneath a large root on the north side of this chamber. A Kwama Warrior walks among a nest of eggs near the journal. If you kill the warrior, three Kwama Scribs will emerge from the soil.
+
+**출처**: `raw/Online/Lady Llarel's Shelter.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 141

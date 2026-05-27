@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Darkshade Caverns I (어둠그늘 동굴 I)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+As Deshaan's largest kwama mine, the caverns' ownership remains hotly contested. The caverns also contain the hidden Dwemer ruin of Rkugamz. In the normal version, Tervur Sadri wants you to help him reclaim his mine from the thugs within.
+
+You can learn about its location from Mad Zebba outside Elden Root, Lady Blade outside Wayrest, or Hranir Icy-Mane outside Mournhold.
+
+**출처**: `raw/Online/Darkshade Caverns I.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 30

@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Spindleclutch I (스핀들클러치 I)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The cave is infested with spiders, although something more sinister lurks within. Praxin Douare wants your help clearing the cave of spiders and other possible threats. In Spindleclutch I, a constant, pervasive whispering sound is present throughout the dungeon, and only gets louder as you descend through the caves.
+
+**출처**: `raw/Online/Spindleclutch I.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 23

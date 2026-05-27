@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Lipsand Tarn (립샌드 못)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The ruin consists of a few chambers. The entrance hall is on the upper floor, and leads to a main chamber with stairs that lead downward. Varius and Laudine can be found inside the ruins. Their bodies must be burned so they don't transform into vampires.
+
+Gaston Ashham performs a ritual downstairs in the northwestern chamber. A chest can be found in Gaston's chamber. Another chest can be found on an altar in the northeastern chamber, which lies across the hall from Gaston's dwelling. A heavy sack can be found in front of a bench in the hallway connecting these two chambers.
+
+**출처**: `raw/Online/Lipsand Tarn.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 203

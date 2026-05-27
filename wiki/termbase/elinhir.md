@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Elinhir (엘린히어)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+According to Fights-With-Tail, it is the oldest city in Craglorn. Elinhir is home to the Blackcaster Mages Guild, who serve as its protectors. Under their guidance, the city has flourished and become a prominent center of civilization in the wilderness of Craglorn... until recently. The Elinhir Sewerworks run beneath town. Skavengers are in numbers within.
+
+**출처**: `raw/Online/Elinhir.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 58

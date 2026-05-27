@@ -13,8 +13,28 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Entila's Folly (엔틸라의 어리석음)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+fr:Online:Folie d'Entila
+
+*
+
+:''Explore and clear Entila's Folly.''
+To clear this dungeon and mark it as complete, you need to kill the following bosses:
+:
+
+*
+*
+*
+*
+*
+*
+*
+
+There is one achievement associated with this location:
+
+*The spiders that ambush you by dropping from the ceiling throughout the delve are immune to damage until their descent animation is fully completed.
+
+**출처**: `raw/Online/Entila's Folly.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 71

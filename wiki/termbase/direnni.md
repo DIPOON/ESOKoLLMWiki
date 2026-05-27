@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Direnni (디레니)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The Direnni were a prominent clan of Altmer merchants who became a powerful dynasty that ruled High Rock during the First Era. They faced the Alessian Order at the Glenumbra Moors. The Direnni Tower on the Isle of Balfiera can be sighted from the shores of Glenumbra and Stormhaven, and the reportedly haunted family acropolis can be visited on Summerset Isle.
+
+**출처**: `raw/Online/Direnni.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 54

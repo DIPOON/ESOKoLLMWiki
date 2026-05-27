@@ -13,8 +13,32 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Silumm (실룸)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+*
+* 
+*
+
+:Explore and clear Silumm.
+To clear this dungeon and mark it as complete, you need to kill the following bosses:
+:
+
+*
+*
+*
+*
+
+There is one achievement associated with this location:
+
+<gallery>
+File:ON-skyshard-Silumm.jpg|Skyshard
+File:ON-interior-Silumm_02.jpg|Ayleid Well in Silumm
+</gallery>
+
+<gallery>
+File:ON-map-Silumm.jpg|A map of Silumm
+</gallery>
+
+**출처**: `raw/Online/Silumm.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 123

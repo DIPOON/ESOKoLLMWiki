@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # The Lion's Den (사자굴)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+'''The Lion's Den''' may refer to two things:
+* The Lion's Den (place), a public dungeon in the Rift
+* The Lion's Den (quest), a quest in Bangkorai
+
+**출처**: `raw/Online/The Lion's Den.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 58

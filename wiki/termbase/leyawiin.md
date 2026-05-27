@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Leyawiin (레이야윈)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Following the fall of the Second Empire and the Imperial City, Leyawiin became an independent city-state. Blackwood Guards patrol the streets.
+
+Kagik the traveling merchant walks along the road between Leyawiin and Fort Redmane with his pet torchbug, Dot. Another traveling merchant, Trano Coventina, travels between Leyawiin and Gideon.
+
+**출처**: `raw/Online/Leyawiin.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 90

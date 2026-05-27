@@ -13,8 +13,13 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Pits (핏)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+__NOTOC__
+The Pits, also known as '''Peryite's Pits or the Pits of Pestilence''', is a realm of Oblivion, created and ruled over by Peryite, the Daedric Prince of Pestilence. Here, Peryite guards the lowest orders of Oblivion.
+
+It is unknown what the realm looks like overall. One part of the realm appears as a rocky cave system filled with a hazy green poisonous fog, floating green embers, and some underground plants. This area of the realm has been home to necromancers and undead. Another part of the realm resembles the Deadlands, with lava seas, volcanic islands, and ruined structures. It is also home to many of the same Daedra as the Deadlands. The Imperial Geographical Society believes that the realm is usually inaccessible to mortals, but there have been several exceptions.
+
+**출처**: `raw/Lore/Pits.md` (UESP Lore dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 118

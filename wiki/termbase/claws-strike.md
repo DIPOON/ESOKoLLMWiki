@@ -13,8 +13,14 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Claw's Strike (클로의 습격)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+They are led by Fishbreath.
+
+This delve contains a Skyshard, three copies of Skooma Runner Logs, and a Note to Marianas. The Shrine of the Golden Eye is located through one of two hidden doors here and must be visited to complete the quest Eye of Fate.
+
+Due to being a skooma-manufacturing den, a large number of lootable alchemy bottles are found inside, offering a good source of potions concentrated in one location. Rats and torchbugs are found in numbers within.
+
+**출처**: `raw/Online/Claw's Strike.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 97

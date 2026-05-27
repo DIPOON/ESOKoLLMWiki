@@ -13,8 +13,15 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Erabenimsun Camp (에라베님선 캠프)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+It serves as the home of a group of Erabenimsun Ashlanders.
+
+A thieves trove and a water sack spawn in the main yurt. Vvardenfell Treasure Map VI's dig spot is a short ways south of the camp.
+
+*Erabenimsun Camp also appears in Morrowind, albeit in a slightly different location.
+*In the Zone Explorer it says "Adventure in...." all you need to do is discover it to mark it complete.
+
+**출처**: `raw/Online/Erabenimsun Camp.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 60

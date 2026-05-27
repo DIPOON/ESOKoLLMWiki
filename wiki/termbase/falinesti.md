@@ -13,8 +13,11 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Falinesti (팔리네스티)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Category:Online-Places-GreenshadeCategory:Online-Places-Malabal TorCategory:Online-Places-Reaper's MarchCategory:Online-Places-Grahtwood
+Falinesti is a moving tree city which can be found at varying locations within Valenwood. It can usually be found in one of four locations, depending on the season. In the spring, it travels to northeastern Greenshade, northwest of Marbruk. In the summer, it moves north to western Malabal Tor, east of Velyn Harbor. In autumn, it travels to a spot in Reaper's March, west-northwest of Rawl'kha. And in the winter, it moves south to Grahtwood, where it can usually be found just west of Elden Root.
+
+**출처**: `raw/Online/Falinesti.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 64

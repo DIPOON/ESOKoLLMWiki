@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Shark's Teeth Grotto (상어의 이빨 암굴)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The Wake Walkers wrested control from the grotto's previous inhabitants, the Shark's Teeth. Scorpions are found in numbers within. Hazards include: Flare Traps, Oil Traps, Slaughterfish
+
+The boss battle involves attacking First Mate Rodros and his pet snakes Laylah and Leelo in order to summon a Haj Mota named Krona Keeba.
+
+**출처**: `raw/Online/Shark's Teeth Grotto.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 219

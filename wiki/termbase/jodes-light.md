@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Jode's Light (조데의 빛)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+A ''Khajiit's Lost Journal Page'' is located on top of a crate at the entrance. Beetles and torchbugs are found in numbers within.
+
+The skyshard is located in the northwestern chamber, near the northern wall. Giant Bats inhabit this room. The tunnel to the south leads to the delve's boss. The Second Khajiiti Journal Page is located in the passage leading to the boss. A Third Khajiiti Journal Page is located near the boss room's northern one-way exit.
+
+**출처**: `raw/Online/Jode's Light.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 99

@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Scuttling Void (절망의 공허)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The Scuttling Void is a realm of Oblivion ruled over by the Daedric Prince Namira. The Khajiit call it the Dark Behind the World (which is sometimes shortened to the Dark), or '''Namiira's Void'''. In appearance, it is composed of floating stones, ruins, glowing plants and coral, with the sky being purple in color and filled with auroras. Very little is known of this shadowy Daedra's realm.
+
+**출처**: `raw/Lore/Scuttling Void.md` (UESP Lore dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 130

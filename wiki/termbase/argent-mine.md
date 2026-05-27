@@ -13,8 +13,17 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Argent Mine (은광산)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+It was the original founding place of the Order of the Silver Dawn, but recently has been taken over by the Magnar Pack, a band of werewolves. The Silver Linings quest involves recovering the sacred banner of the order from the mine.
+
+* 
+*
+
+:Explore and clear Argent Mine.
+To clear this dungeon and mark it as complete, you need to kill the following bosses:
+:
+
+**출처**: `raw/Online/Argent Mine.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 228

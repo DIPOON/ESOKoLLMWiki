@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Rulanyil's Fall (룰라닐의 몰락)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+]] It is one of the most extensive and impressive Ayleid ruins in Valenwood. The builders of the city settled here after being driven out of Cyrodiil by Alessia's slave rebellion. They are said to have come from Vilverin on the shores of Lake Rumare.
+
+More recently, the Merethic Society has set up a museum of antiquities inside the ruins, but is having trouble with the Worm Cult invading the ruins and attempting to raise an Ayleid warlord entombed within from the dead. Fleshflies and rats are found in great numbers within.
+
+**출처**: `raw/Online/Rulanyil's Fall.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 48

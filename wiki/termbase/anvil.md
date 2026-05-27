@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Anvil (앤빌)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The city was taken by Governor Fortunata ap Dugal and her Red Sails pirates and was declared a free port. Anvil now claims dominion over the entire Gold Coast as a sovereign state. This is contested by Kvatch to the east, which still maintains Imperial loyalty despite the Empire's collapse.
+
+A Bounty Board in Anvil offers daily delve quests.
+
+**출처**: `raw/Online/Anvil.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 12

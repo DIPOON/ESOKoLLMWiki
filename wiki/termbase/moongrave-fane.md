@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Moongrave Fane (달무덤 신전)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+It is part of the Scalebreaker dungeon pack DLC, along with the Lair of Maarselok. Deep within the ancient ruins, a former member of the Dragonguard and his fellow vampires of the Hollowfang Clan have felled and captured the dragon, Sahrotnax. However, they wish to do more than simply destroy the humbled beast, as the clan prepares a ritual to drain the dragon of its blood and gain its power.
+
+**출처**: `raw/Online/Moongrave Fane.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 242

@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Darkshade Caverns II (어둠그늘 동굴 II)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+As Deshaan's largest kwama mine, the caverns' ownership remains hotly contested. The caverns also contain the hidden Dwemer ruin of Rkugamz.
+
+The storyline continues from the event of Darkshade Caverns I. In this version, a Mages Guild researcher named Shatasha needs your help destroying a dangerous Dwemer mechanism within Rkugamz, before it corrupts Deshaan above.
+
+**출처**: `raw/Online/Darkshade Caverns II.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 31

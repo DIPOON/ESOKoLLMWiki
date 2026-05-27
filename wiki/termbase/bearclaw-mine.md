@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Bearclaw Mine (곰발톱 광산)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+An unfinished letter can be found at the entrance to the mine. Followers of Vaermina seem to have an interest of the mine, according to the orders found deeper inside the cave. A partly destroyed book and a final note can be found farther in the cave, telling about the sad fate of a miner's family. Killing bandits will sometimes free peasant miners. Beetles and rats are found in numbers within.
+
+**출처**: `raw/Online/Bearclaw Mine.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 132

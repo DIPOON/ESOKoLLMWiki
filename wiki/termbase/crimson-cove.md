@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Crimson Cove (진홍 만)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+A band of pirates known as the Crimson Raiders have taken up residence here. A letter can be found on Captain Siro's desk. A Coded Rutter can be found outside the entrance of the cave after completing Naval Intelligence. Centipedes, rats and snakes are found in number within. Hazards include: Ogre Cage
+
+**출처**: `raw/Online/Crimson Cove.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 49

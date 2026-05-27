@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Lair of Maarselok (마슬록의 둥지)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+It is part of the Scalebreaker dungeon pack DLC, along with the Moongrave Fane. The , a deathly corruption originating from an abandoned Khajiiti temple within the Tenmar Mountain valley, threatens the Elden Tree. When Grahtwood's protectors tried and failed to destroy the Dragon Maarselok at the center of the blight, a second plan is hatched to enlist the help of the forest spirit Selene and her captor, the warlock Carindon. Together in an uneasy truce, and with your help, they must stop Maarselok and his blight before the corruption can spread further.
+
+**출처**: `raw/Online/Lair of Maarselok.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 241

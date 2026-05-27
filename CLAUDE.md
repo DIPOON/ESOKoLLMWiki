@@ -466,7 +466,8 @@ WHERE lang_id = ? AND unknown = ? AND `index` BETWEEN ? AND ?;
 
 - ❌ MySQL DB 직접 update/insert (반드시 API 경유).
 - ❌ ESOKo 레포 코드 수정 (별도 작업).
-- ❌ `raw/` 폴더 파일 수정 (immutable).
+- ❌ `raw/` 폴더 파일 *내용* 수정 (파일 자체 immutable).
+  - 디렉토리 분류·이동은 OK (예: `raw/Online/_ingested/`로 처리 완료 파일 이동). 적극 권장.
 - ❌ 사용자 확인 없이 termbase 정식 등록 (decisions/에 후보로만, 사용자 채택 후 `/api/claude/term-suggest`).
   - **단서 — 시드 import 예외**: 사용자가 정책으로 일괄 채택을 선언한 시드 자료는 자동 일괄 등록 OK (§4-b 참조).
   - **권한 트리거 형식** (필수): 시드 일괄 등록은 *다음 두 조건 모두 충족 시에만* 진행한다.

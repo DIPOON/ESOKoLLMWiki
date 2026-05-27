@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Caldera (칼데라)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Caldera was an Imperial charter town just north of Balmora. It was built to service the nearby Ebony mine, providing the miners with homes, entertainment, and other services. The town was ruled largely from the Caldera Mining Company's fortress to the northeast.
+
+The buildings, which had Imperial and Nordic architectural influences, formed an inverse "L" shape between two large guard towers. While Dunmer presence in Caldera was almost nonexistent, a large contingent of Orcs lived in the dilapidated Ghorak Manor (along with an unusual Scamp who was a merchant and claimed the house was his). Notable institutions in Caldera included an Imperial Cult altar, a Mages Guild branch, two general merchants, a blacksmith, a tavern, and one of the few Imperial-style clothiers in Vvardenfell.
+
+**출처**: `raw/Lore/Caldera.md` (UESP Lore dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 41

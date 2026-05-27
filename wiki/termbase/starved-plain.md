@@ -13,8 +13,16 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Starved Plain (굶주린 평원)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The ghosts of long-dead Chimer soldiers have mysteriously risen on the plain, preventing battle. Pact Soldiers stand behind the barricade city-side. Spectral Slaves will appear on the plain during the related quest.
+
+*Starved Plain Objective: Resolve the threat of Chimer spirits. / You've saved the Starved Plain from Chimer spirits.
+**
+***
+***
+*
+
+**출처**: `raw/Online/Starved Plain.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 145

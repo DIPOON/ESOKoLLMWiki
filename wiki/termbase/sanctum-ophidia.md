@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Sanctum Ophidia (성소 오피디아)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+It is the stronghold of the Celestial Serpent and his Scaled Court. It has both a Normal and a Veteran mode, as well as a "Hard Mode" which can be triggered only in Veteran mode by desecrating the sacred banners of the Scaled Court. Hard Mode only affects the Celestial Serpent, making this boss fight far more challenging.
+
+**출처**: `raw/Online/Sanctum Ophidia.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 6

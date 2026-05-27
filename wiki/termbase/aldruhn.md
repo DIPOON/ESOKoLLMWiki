@@ -13,8 +13,18 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Ald'ruhn (알드'룬)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+It serves as a site of pilgrimage for the nomads, and is the legendary site where the last emperor crab, Skar, was killed by a combined force of all the tribes. The corpse now serves as a meeting hall.
+
+There's a thieves trove behind Skar's second leg on the east side.
+
+* '''Ald'ruhn Objective: Discover the secret of the Hleran Ancestral Tomb. / You discovered the secret and brought honor to the Hlerans.
+**
+*
+*
+*
+
+**출처**: `raw/Online/Ald'ruhn.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 7

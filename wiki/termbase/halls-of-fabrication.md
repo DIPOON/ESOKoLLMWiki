@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Halls of Fabrication (제조실)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The Halls are an enormous processing facility that produces and iterates the designs for Sotha Sil's machines and reprocesses their material. At one point their functions included the refactoring of material from Dwemer machines, but Sotha Sil suspended this practice at some point in the past.
+
+The facility is governed by its central intelligence, the Assembly General, which continues to process and redesign the Clockwork machines alone.
+
+**출처**: `raw/Online/Halls of Fabrication.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 9

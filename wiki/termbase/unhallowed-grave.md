@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Unhallowed Grave (더럽혀진 무덤)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+It is part of the Harrowstorm dungeon pack DLC, along with Icereach. Unhallowed Grave is known to contain the remains of an unholy army called the Gray Host and according to Fennorian, the burial mound dates back to the First Era. The ancient fraternity of Pyre Watch keeps guard over the burial site but has recently been facing several attacks of Nord graverobbers who call themselves the Draugrkin. Shelaria, a Redguard guardian of the Pyre Watch, requests your assistance to investigate the site and drive off the troublemakers.
+
+**출처**: `raw/Online/Unhallowed Grave.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 247

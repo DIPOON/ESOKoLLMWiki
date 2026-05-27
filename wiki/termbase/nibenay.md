@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Nibenay (니베네이)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Nibenay, also knows as the Nibenean East, is the eastern part of Cyrodiil and is the traditional heart of the Empire, comprising the modern counties of Cheydinhal, Bruma, Bravil and Leyawiin, as well as the Heartlands around City Isle. The Nibenese culture is considered esoteric and philosophical, with focus on elaborate ceremony. Outside of the capital cities, the largest settlements in the region include Caer Suvio and Mir Corrup.
+
+**출처**: `raw/Lore/Nibenay.md` (UESP Lore dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 110

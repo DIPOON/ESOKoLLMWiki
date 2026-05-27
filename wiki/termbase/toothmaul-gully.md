@@ -13,8 +13,14 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Toothmaul Gully (이빨망치 도랑)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+A tribe of goblins resides in the cave, though they have recently been disturbed by several Altmer intruders, including members of the Veiled Heritance.
+
+Caerel the traveling merchant walks along the road nearest to the dungeon.
+
+Spiders and torchbugs are found in numbers within. Hazards include: Bear Traps
+
+**출처**: `raw/Online/Toothmaul Gully.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 46

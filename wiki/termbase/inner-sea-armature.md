@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Inner Sea Armature (내해의 갑주)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The delve consists of circular Dwarven corridors connecting two main chambers, and breaking through into a natural cavern to the south. A Skyshard can be found in the large northernmost chamber. A Tattered Note can be found at a four-way intersection near the entrance to the natural caves. These caves contain the , found laying on the ground near some gears; this is needed for the quest The Precursor. The unique Dwarven Sphere Zozuzetharus can be found in a shallow pool in the center of the natural cavern.
+
+**출처**: `raw/Online/Inner Sea Armature.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 169

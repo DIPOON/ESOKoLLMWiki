@@ -71,3 +71,19 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - termbase 총 630 페이지 (retire 4 포함). 분포: 던전 211 / 지명 174 / 게임용어 93 / 아이템 63 / 인물 61 / 종족 15 / 진영 9 / 기타 4
 - seed-import.md 마찰점 #11 ✅ 해결 표시
 - index.md 미해결 #7 → ✅ 완료 / 분포 표 + 플래그 안내 갱신
+
+## [2026-05-27] #D 451 TODO termbase → UESP 자동 보강 | feature/remains
+- 443 TODO 페이지(이전 451에서 작업 후 줄어듦)에 대해 raw/Online + raw/Lore 정확 일치 매칭
+- **371개 보강** (Online 316 + Lore 55, 보강율 84%) — UESP markup cleaning 후 첫 문단 추출
+- 남은 72개(매칭 없음 69 + stub 3): 직책/일반 아이템 등 entity 페이지 없는 케이스
+- 예시 [[termbase/dremora]]: "Dremora are an intelligent, humanoid Daedric race that despises mortals..."
+- 위키 *진짜 가공 가능* 입증 — 이전 "전수 ingest 비현실" 답변 정정
+
+## [2026-05-27] raw 분류 시스템 + CLAUDE.md §11 정정 | feature/uesp_ingest
+- **CLAUDE.md §11 정정**: "raw 파일 *내용* 수정 X (디렉토리 분류·이동은 OK, 적극 권장)" — 이전 "raw 폴더 파일 수정" 오해 해소
+- **raw/<폴더>/_ingested/ 서브폴더 도입**: 처리 완료 파일 이동
+  - raw/Online/_ingested/: 316 파일
+  - raw/Lore/_ingested/: 55 파일
+  - 루트 미처리: Online 72887, Lore 13877
+- **raw/_manifest.md 신설** — raw 파일 ↔ termbase 매핑 표 (371 행)
+- **.gitignore 갱신** — raw/Books/Lore/Online + raw/en.lang.csv 추가 (87K 사고 재발 방지)

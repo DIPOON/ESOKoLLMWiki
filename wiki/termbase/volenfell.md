@@ -13,8 +13,16 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Volenfell (볼렌펠)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The researcher Tharayya wants your help finding a Dwemer artifact called the Guardian's Eye. You can learn about its location from Earrona Kneecapper outside Velyn Harbor, Magnifico Jalid in Sentinel, or Felvyn the Swordarm in Windhelm.
+
+*Volenfell Objective: Explore the ruins of Volenfell. / You've escaped the ruins of Volenfell.
+**
+*
+*
+*
+
+**출처**: `raw/Online/Volenfell.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 165

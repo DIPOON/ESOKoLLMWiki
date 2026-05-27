@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Atmora (아트모라)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Atmora, or Altmora in Aldmeris, (meaning "Elder Wood"), and referred to as "the land of truth" by Atmorans, is a continent north of Tamriel, where tradition has it the first humans came from in ancient days. It has been claimed to be the ancestral land for all Nedic peoples, the ancestors of the Cyrodilians, Bretons, and Nords.
+
+**출처**: `raw/Lore/Atmora.md` (UESP Lore dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 22

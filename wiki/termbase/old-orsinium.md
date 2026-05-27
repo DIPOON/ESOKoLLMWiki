@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Old Orsinium (옛 오시니움)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+It consists of the ravaged and sieged remnants of one of the previous Orsinium. Now, only wildlife and Winterborn Reachmen inhabit it.
+
+On the eastern side of the forges is a door leading to Old Orsinium Shrine, which you need to visit when doing Flames of Forge and Fallen. A southern exit from the shrine will lead you back to the central hub room.
+
+**출처**: `raw/Online/Old Orsinium.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 65

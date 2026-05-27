@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Sandblown Mine (샌드블로운 광산)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+It is inhabited by Khajiit bandits, who feed unwary travelers to the giant snake Huzal. Beetles and snakes are found in numbers within.
+
+Unique "Spider Nests" are present on top of bandit bodies in the southwest room. Multiple Young Spiders erupt from it upon approaching and when they are all defeated, you can loot the Spider Nest for a random item, ranging from leveled equipement to Decorative Wax
+
+**출처**: `raw/Online/Sandblown Mine.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 107

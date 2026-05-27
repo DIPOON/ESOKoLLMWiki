@@ -13,8 +13,14 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Ahemmusa Camp (아헤무사 캠프)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+It serves as the home of a group of Ahemmusa Ashlanders.
+
+Several Caravan Guar live in the camp. Alaburani only appears at the camp during the related quest, and she remains there after she appears.
+
+A cabin in the swamp can be found south of the camp. A heavy sack can be found behind the cabin, and a chest can be found in the lean-to next to it. Four bantam guar and several mudcrabs live near the house. The containers near the cabin are owned, and the interior is inaccessible.
+
+**출처**: `raw/Online/Ahemmusa Camp.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 3

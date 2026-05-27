@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Applewatch (애플워치)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The settlement consists of only one building: the Applewatch Inn, owned by Leono and Rasala Draconis. The bard Javid also lives there. The Argonian Maid—An Oral Tradition can be found on a table. Another book, Dealing with Werewolves, can be found in the graveyard behind the inn. A copy of The Homilies of Blessed Almalexia can be found on the nightstand next to the bed, closest to the door.
+
+**출처**: `raw/Online/Applewatch.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 14

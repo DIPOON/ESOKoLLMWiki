@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Shroud Hearth Barrow (장막 난로 고분)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Shroud Hearth Barrow may refer to:
+*Shroud Hearth Barrow (place), a Nordic barrow near Ivarstead
+*Shroud Hearth Barrow (quest), a quest within that barrow
+
+**출처**: `raw/Online/Shroud Hearth Barrow.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 157

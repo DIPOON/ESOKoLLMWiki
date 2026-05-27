@@ -13,8 +13,13 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Wansalen (완살렌)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+fr:Online:Wansalen
+ The tunnels are off limits to the First Auridon Marines as they are prone to collapse. As a result, forces of the Pact have been using the tunnels as a base of operations on Auridon.
+
+To reach the skyshard, go straight into the large room with two staircases, follow the watery path south, and head to the corner of the west room between two guards.
+
+**출처**: `raw/Online/Wansalen.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 74

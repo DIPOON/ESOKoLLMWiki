@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Dagon Fel (데이건 펠)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+__NOTOC__
+
+Dagon Fel (sometimes spelled Dagon Fell) is the only settlement on the Sheogorad archipelago, in the province of Morrowind. The town has historically been occupied by the Nords of Skyrim, ever since the ancient invasion of Morrowind by the Nordic Empire. It was mostly populated by fishermen and as the central settlement in the region, many Imperial scholars and adventurers came here to explore the Dwemer ruins. It is built atop of the ruins of a Dwemer city known as Mzuleft.
+
+**출처**: `raw/Lore/Dagon Fel.md` (UESP Lore dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 51

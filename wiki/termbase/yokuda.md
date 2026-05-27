@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Yokuda (요쿠다)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Yokuda is a continent west of Tamriel which partially sank into the sea during the First Era. It was the ancestral home of the Redguards, as well as a purportedly extinct race of Mer known as the Lefthanded Elves. It was the birthplace of several famed Redguard heroes, including Frandar Hunding and his son Divad. It was also the nation that birthed the fabled martial tradition of sword-singing. The native language of Yokuda was called Yoku, but after the Yokudan migration to Hammerfell in , it was largely replaced to help stabilize foreign trade.
+
+**출처**: `raw/Lore/Yokuda.md` (UESP Lore dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 176

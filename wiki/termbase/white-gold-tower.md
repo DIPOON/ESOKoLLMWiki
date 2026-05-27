@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # White-Gold Tower (백금탑)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Traditionally the seat of the Empire, the Tower has been overrun with Daedra and is being pulled into Coldharbour by Molag Bal. Empress Regent Clivia Tharn is attempting to retake the structure. White-Gold Tower has both a Normal and a Veteran mode.
+
+The dungeon can be entered from the Irrigation Tunnels, the Lambent Passage, and the Harena Hypogeum.
+
+**출처**: `raw/Online/White-Gold Tower.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 42

@@ -13,8 +13,16 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Martine Lerineaux (마틴 레리노)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Martine Lerineaux is a Breton acting as the Bloodthorn agent in Daggerfall. He was recruited by Captain gro-Mak as a covert agent to begin to smuggle goods between Daggerfall, Wayrest and Sentinel.
+
+*
+
+;Quick Strike:A basic melee attack that does minor physical damage.
+;Uppercut:A melee attack that deals moderate physical damage and knocks you back if it connects. This attack can be blocked to knock the enemy off balance.
+;Cleave:The Ravager swings their weapon around, dealing minor physical damage to all enemies in front of them. This attack has no red cone indicator.
+
+**출처**: `raw/Online/Martine Lerineaux.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *인명사전*, 행 30

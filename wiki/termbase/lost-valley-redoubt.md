@@ -13,8 +13,16 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Lost Valley Redoubt (잃어버린 계곡 보루)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The Dark Descent, an ancient ritual site, is located deep below, which the ruins were built over.
+
+* 
+* 
+*
+
+A heavy sack can spawn in the silt across the river from the center of the Redoubt, to the north. Mudcrabs scurry along the river bank. If you head north from the grey shoreline, cross the road north of it, then head a short ways west, you'll come across a small cave with a sack inside. A chest can spawn in this little nook.
+
+**출처**: `raw/Online/Lost Valley Redoubt.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 94

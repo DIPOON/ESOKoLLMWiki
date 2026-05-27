@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Moon Hunter Keep (달 사냥꾼 요새)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+It can be found north of Senalana, on the Cyrodiil side of the Strid River.
+
+It is the headquarters of a group of werewolf hunters known as the Order of the Silver Dawn, but has recently been invaded by the Werewolf Lord Vykosa and her Moon Hunter Pack, who has begun amassing a massive army of were-beasts. Along with the March of Sacrifices, it is part of the Wolfhunter DLC.
+
+**출처**: `raw/Online/Moon Hunter Keep.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 245

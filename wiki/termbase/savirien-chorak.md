@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Savirien-Chorak (사비리엔-코락)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Savirien-Chorak was a Tsaesci noble from the early-mid Second Era and the Potentate of the Second Empire after his father, Versidue-Shaie. Savirien-Chorak was the last leader of the Second Empire and although he proved insufficient in his role as administrator and responded poorly in crisis, some of his most well-known decrees were acknowledging Orsinium as a province, and the reformation of local militias. In the historical fiction, "2920, The Last Year of the First Era", he is described as a glistening ivory-yellow eel and may have been proficient in dual-wielding.
+
+**출처**: `raw/Lore/Savirien-Chorak.md` (UESP Lore dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *인명사전*, 행 43

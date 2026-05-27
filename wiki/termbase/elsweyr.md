@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Elsweyr (엘스웨어)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+__FORCETOC__
+
+Elsweyr is the third Chapter of The Elder Scrolls Online. It is an expansion set in the kingdom of Anequina, also known as Northern Elsweyr. The Chapter includes a new large and diverse zone, the new Necromancer, Dragon Hunt events, a complimentary house, a new Trial, and a new storyline. It was officially released on all platforms on June 4, 2019, although early access was launched on PC/Mac on May 20, 2019.
+
+**출처**: `raw/Online/Elsweyr.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 59

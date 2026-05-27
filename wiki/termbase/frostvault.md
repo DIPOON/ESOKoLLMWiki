@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Frostvault (서리금고)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+It's part of the Wrathstone dungeon pack DLC, along with Depths of Malatar. It is a Dwarven vault buried deep in the mountains of Giant's Run, and one half of the Wrathstone Tablet has been sealed within.
+
+Despite events in Volenfell, the scholar Tharayya refuses to be deterred from her quest for Dwarven relics. Tharayya's research leads her to a long-lost Dwarven ruin buried in a thawing glacier, where the Dwarves secreted away an object of immeasurable importance. Within the complex, a massive vault holds a piece of the legendary Wrathstone, a tablet carved with mysterious and arcane writing. With your help, she'll brave the Frostvault and seek the Wrathstone.
+
+**출처**: `raw/Online/Frostvault.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 244

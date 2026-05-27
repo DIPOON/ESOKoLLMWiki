@@ -13,8 +13,15 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Black Drake Villa (블랙 드레이크 저택)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+It is included in the Flames of Ambition DLC alongside The Cauldron. The entrance is located along Varen's Wall northwest of Kvatch.
+
+Badgers, nixads, rats and spiders are found in numbers within.
+
+;Update 29 Patch Notes
+Tucked away in the northern Gold Coast sits an abandoned villa built as a retreat for former Emperor Durcorach, the Black Drake. Rumors tell of a vast library deep below that holds knowledge pillaged from across Tamriel. Hired by a mysterious benefactor, Eveli Sharp-Arrow arrives in search of a valuable book and a little adventure, but she soon discovers someone has set fire to the underground archive. Join Eveli in a race to find the book and defeat the forces behind the consuming blaze.
+
+**출처**: `raw/Online/Black Drake Villa.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 248

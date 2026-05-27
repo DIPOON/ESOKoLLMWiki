@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Zahra (자흐라)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Zahra is a Khajiit treasure hunter and former member of the Mages Guild found in Gandranen Ruins. She is searching for an Ayleid artifact called the Crown of Ascension.
+
+After helping Zahra find the Crown of Ascension, she can be found at The Blasted Breton inn in Alten Corimont. She tells you that the crown was appraised by Captain One-Eye's associates and that there is an interested buyer for it in Morrowind.
+
+**출처**: `raw/Online/Zahra.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *인명사전*, 행 55

@@ -3,3 +3,12 @@
 .obsidian/cache
 .DS_Store
 .claude/settings.local.json
+
+# 대량 UESP dump — git 추적 X (87K 파일, ~400MB)
+# 시드 자료(xlsx 등)는 별개로 raw/ 루트에 있어 ignore 안 됨
+raw/Books/
+raw/Lore/
+raw/Online/
+
+# 대용량 게임 텍스트 추출 (108MB)
+raw/en.lang.csv

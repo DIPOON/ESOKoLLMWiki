@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Tempest Island (폭풍의 섬)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+It has been invaded by the Sea Vipers, who use it to hone their storm magic for a planned assault on the Valenwood coast. A group of Dominion soldiers led by Battlereeve Alduril needs your help defeating the Maormer invaders and their lamia allies.
+
+You can learn about its location from Turuk Redclaws outside Velyn Harbor, Vyric the White in Sentinel, or Strong-With-Tail in Windhelm.
+
+**출처**: `raw/Online/Tempest Island.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 18

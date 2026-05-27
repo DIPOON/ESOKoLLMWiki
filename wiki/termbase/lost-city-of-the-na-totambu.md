@@ -13,8 +13,16 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Lost City of the Na-Totambu (나-토탐부의 잊혀진 도시)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The ruins have recently become occupied by the Duneraider bandits, who are scavenging them for relics they can sell outside. Beetles, lizards, scorpions and snakes are found in numbers within. Hazards include: Flame Walls, Spike Traps
+
+*Lost City of the Na-Totambu Objective: Explore the Lost City of the Na-Totambu. / You salvaged ancient treasures from the Lost City.
+**
+**
+* 
+*
+
+**출처**: `raw/Online/Lost City of the Na-Totambu.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 51

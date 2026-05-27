@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Khuul (쿨)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Khuul was a small fishing village in the West Gash region of Vvardenfell, on the island's northern coast. Aside from a single Redoran-style shell-house, which served as a Tradehouse, the buildings were all rustic huts made of logs, rough planks, and thatch. There was a boat to Solstheim in the village if one had any reason to go.
+
+**출처**: `raw/Lore/Khuul.md` (UESP Lore dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 87

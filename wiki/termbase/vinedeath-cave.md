@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Vinedeath Cave (덩굴죽음 동굴)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The corpse of Storgh, an Orc and Orthelos's friend, can be found in the southeast chamber. A ''Scrap of Storgh's Journal'' is located next to his corpse, while the skyshard sits across from it.
+
+A chest can spawn near the tunnel leading out west from the room with Storgh's corpse in it, between a large root and the wall. The delve's boss is located in the southwest chamber. A chest can spawn atop a rocky ledge behind the boss, where the fog accumulates near a rack of large ribs.
+
+**출처**: `raw/Online/Vinedeath Cave.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 80

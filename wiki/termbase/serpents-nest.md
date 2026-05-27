@@ -13,8 +13,22 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Serpent's Nest (독사굴)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Snakes are found in numbers within.
+
+Deep inside lie the Spawning Pools where the Scaled Court has been experimenting with a dangerous new type of creature. Hruzizolk the Progenitor Mantikora can be found here during Slithering Brood.
+
+* 
+* 
+*
+
+:''Explore and clear Serpent's Nest.''
+To clear this dungeon and mark it as complete, you need to kill the following bosses:
+:
+:
+:
+
+**출처**: `raw/Online/Serpent's Nest.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 193

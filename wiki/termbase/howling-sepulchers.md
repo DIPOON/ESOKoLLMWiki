@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # The Howling Sepulchers (울부짖는 묘지)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+In order to clear the dungeon you need to defeat Akiirdal, a resurrected dragon priest. A friendly wolf named Shayla, her runt and her two other pups can also be found down in the ravine. Frogs are also found by the river. Passive Spiders are found in numbers within the ruins.
+
+Although described as Nedic in origin, the Howling Sepulchers have several elements distinctive of ancient Nordic tombs.
+
+**출처**: `raw/Online/The Howling Sepulchers.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 189

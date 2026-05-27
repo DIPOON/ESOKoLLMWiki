@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Ghostgate (고스트게이트)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Ghostgate was the main gateway through the ancient Ghostfence artifact to the Red Mountain region, which prevented monsters affected by The Blight from leaving. Ghostgate housed a large Tribunal Temple and contingents of both Buoyant Armigers and Ordinators. The two towers of Ghostgate, called Dusk (west) and Dawn (east), were constructed alongside the Ghostfence after many failed campaigns to defeat Dagoth Ur following his reawakening.
+
+**출처**: `raw/Lore/Ghostgate.md` (UESP Lore dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 66

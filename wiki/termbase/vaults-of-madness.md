@@ -13,8 +13,15 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Vaults of Madness (광기의 금고)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Gasteau Chamrond needs you to help him and his friends escape from the Vaults by destroying the Mad Architect. You can learn about its location from Tubidan the Alarmist in the Hollow City. Hazards include: Bottomless Pits, Fires (In the room of The Ancient One and Iskra the Omen)
+
+*Vaults of Madness Objective: Explore the Vaults of Madness. / You defeated the Mad Architect.
+**
+*
+*
+
+**출처**: `raw/Online/Vaults of Madness.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 39

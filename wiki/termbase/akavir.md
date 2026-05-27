@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Akavir (아카비르)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Akavir, also known as Dragon Land, is a continental landmass east of Tamriel, and home to the Akaviri races. The two continents have a history of animosity towards each other, with Akavir invading Tamriel several times in the past and Tamriel invading Akavir at least once. Much of what is known about it in Tamriel is acknowledged to be incomplete or inaccurate.
+
+**출처**: `raw/Lore/Akavir.md` (UESP Lore dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 4

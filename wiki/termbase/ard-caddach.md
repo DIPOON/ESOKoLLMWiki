@@ -13,8 +13,19 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Ard Caddach (아드 카다크)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Ard Caddach is a Reachman who rules Markarth from Understone Keep. He is the late Emperor Leovic's cousin, and was appointed ruler of Markarth in the days of the Longhouse Emperors. Lady Belain is his advisor.
+
+*
+*
+*
+*
+*
+
+Before you're granted an audience with the ard, you can speak to him and he will say:
+:''"Not now, outsider. Away with you or I'll have my Stonehands turn you into a rug."
+
+**출처**: `raw/Online/Ard Caddach.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *인명사전*, 행 60

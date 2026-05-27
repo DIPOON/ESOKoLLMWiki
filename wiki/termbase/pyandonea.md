@@ -13,8 +13,11 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Pyandonea (피안도니아)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+__NOTOC__
+Pyandonea, meaning "the Veil of Mist" or "the Mist-Veiled Isles", is an archipelago located to the far south of Tamriel. It is home to the elusive Maormer, a race of Mer exiled there by the ancient Aldmer from Aldmeris. For all of recorded history, King Orgnum has ruled the land. It is said to have metropolises comparable to Tamriel.
+
+**출처**: `raw/Lore/Pyandonea.md` (UESP Lore dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 120

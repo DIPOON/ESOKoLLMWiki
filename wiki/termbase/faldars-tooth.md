@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Faldar's Tooth (팔다르의 이빨)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+A thieves trove can be found beneath a broken crate on the road leading towards the fort, at the round, U-shaped bend in the road. A functioning cooking fire can be found in the center of the exterior courtyard. There is a single piece of poultry that counts as stolen when you take it. It can be found in the southern tower in the courtyard.
+
+**출처**: `raw/Online/Faldar's Tooth.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 155

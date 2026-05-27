@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Lower Bthanual (브타누알 하층)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+It is located just north of the monastery at Muth Gnaar. Two books can be found here: the lorebook Dwemer Dreams can be found in the boss chamber, and a copy of War of Two Houses can be found on a table outside.
+
+Centipedes and rats are found in numbers within. The is found on an anvil in the southwest corner of the north room.
+
+**출처**: `raw/Online/Lower Bthanual.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 142

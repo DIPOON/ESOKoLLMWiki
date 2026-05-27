@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Matus-Akin Egg Mine (마투스-아킨 알 광산)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+This House Hlaalu mine was usurped by Drovos Nelvayn, a Telvanni contractor that was working for them, when his ambitions for his legacy grew bolder.
+
+The following notes can be found here, Drovos Research Notes 1, Drovos Research Notes 2, Drovos Research Notes 3, ''Ridena's Letter to Drovos and Kwama Breeding Research Notes (Flora).
+
+**출처**: `raw/Online/Matus-Akin Egg Mine.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 223

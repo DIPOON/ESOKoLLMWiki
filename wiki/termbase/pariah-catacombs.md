@@ -13,8 +13,14 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Pariah Catacombs (파리아 카타콤)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Originally called Menevia Catacombs, the tomb was the favored burial place for the elite of Stormhaven, but was abandoned along with Menevia Abbey following the Ghost Harrowing of 2E 307. Beetles and rats are found in numbers within.
+
+:Explore and clear the Pariah Catacombs.
+To clear this dungeon and mark it as complete, you need to kill the following bosses:
+:
+
+**출처**: `raw/Online/Pariah Catacombs.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 136

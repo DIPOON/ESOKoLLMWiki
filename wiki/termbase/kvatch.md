@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Kvatch (크바치)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The city is ruled by Count Carolus Aquilarios, although the count is locked in a power struggle with Primate Artorius and his Order of the Hour. Kvatch maintains loyalty to the Empire of Cyrodiil, and faces hostility from Anvil which claims dominion over the entirety of an independent Gold Coast.
+
+A Monument to Rislav is located in front of the arena.
+
+**출처**: `raw/Online/Kvatch.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 88

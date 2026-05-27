@@ -13,8 +13,10 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Dremora (드레모라)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+Dremora are an intelligent, humanoid Daedric race that despises mortals. They refer to themselves as the Kyn. While Dremora are commonly associated with Mehrunes Dagon, various clans can be found serving most of the Princes, though some of the clans are not aligned with anyone and act as mercenaries in Oblivion.
+
+**출처**: `raw/Online/Dremora.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *기타사전*, 행 59

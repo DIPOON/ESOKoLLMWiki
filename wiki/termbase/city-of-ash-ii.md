@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # City of Ash II (재의 도시 II)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The storyline continues from the events of City of Ash I. In this version, Fingaenion intends to travel to the Deadlands to rescue his wife Gilraen from Mehrunes Dagon, and he needs your help.
+
+You can learn about its location from Mindil the Untested in Marbruk, Abzag the Monster in Shornhelm, or Roaring Ramavel in Stormhold.
+
+**출처**: `raw/Online/City of Ash II.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 17

@@ -13,8 +13,12 @@ source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 
 # Shrine of the Black Maw (검은 나락 신사)
 
-## TODO: 채택 근거 추가
-_(시드 자료에 description 없음 — 후속 lint에서 디씨/UESP/일본판 등 참조하여 보강)_
+## 채택 근거 (UESP 자동 보강)
+The ruin was once known as Varakun, and was a base for illegal slavers. Recently, however, a group of vampires led by a former slave named Peers-Through-Glass have entered the ruin, killing all the slavers.
+
+''A Free Argonian's Manifesto can be found near here. Other notable items here include a Skyshard and an Ayleid Well. Rats and spiders are found in numbers within.
+
+**출처**: `raw/Online/Shrine of the Black Maw.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *던전*, 행 165
