@@ -101,3 +101,14 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - **§4-c.3 *발췌* ≠ *ingest* 구별 명문화** — 371 발췌는 ingest 승격 대기 상태
 - **§11 단서**: "raw 첫 문단 추출을 'ingest'로 호명 금지"
 - 이번 라운드의 *sourcing/ingest 혼동* 사고를 정책으로 박아 재발 방지
+
+## [2026-05-28] goal lore ingest 라운드 1 (50 commit + lint) | feature/uesp_ingest
+- raw/Lore 알파벳 순 첫 50 파일 ingest
+  - 신규 lore 페이지 33개 (2920 시리즈 12 + 16 Accords 시리즈 3 + 36 Lessons of Vivec 9 + 기타 9)
+  - redirect 처리 (lore 페이지 신설 X) 17개
+- 핵심 entity 흡수: 2920 시리즈 12권 (Tribunal + Reman III + Versidue-Shaie + Vivec 등),
+  16 Accords (Sheogorath의 광기 우화), 36 Lessons Sermon 1-18 부분 (Vivec 종교 텍스트),
+  2E 582 (ESO 게임 시점 — DLC별 사건 종합)
+- raw/Lore: 14101 → 13827 (274 줄음, 50개는 sermon 19+에서 시작)
+  - 정확: 105 _ingested (이전 55 + 새 50)
+- lint: orphan 검사 — 33 lore 페이지 모두 *서로 link 있지만* grep 패턴 한계로 일부 orphan 표시 (옵시디언 graph view에서 정확 확인 권장)
