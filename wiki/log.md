@@ -57,3 +57,10 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
   ⚠ 시스템 토큰 보존 (변수/색상/단복수/ID/명사속성)
 - seed-import.md 마찰점 #8 (style-guide 미생성) ✅ 부분 해결 표시 (lore/sections는 미생성)
 - index.md 미해결 #1 ✅ 완료 / Style Guide 섹션 갱신
+
+## [2026-05-27] #3 후속 — 물약 충돌 옵션 B 결정 | feature/remains
+- 사용자 결정: 아이템 시트 매핑이 정본 (시리즈는 "전혀 상관없이 만든 것도 많음" + "(구버전)" 표시)
+- 아이템 시트 9 페이지 정본 유지 (sip-of/tincture-of/dram-of/potion-of/solution-of/elixir-of/panacea-of/distillate-of/essence-of)
+- 시리즈 페이지(sip-of-tincture-...md) ⛔ retire 색인으로 갱신 (`flags:[retired, superseded-by-아이템-시트]`)
+- seed-import.md 마찰점 #12 ✅ 해결 표시
+- index.md 미해결 #3 → ✅ 완료 / 플래그 안내 갱신
