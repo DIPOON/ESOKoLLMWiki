@@ -87,3 +87,17 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
   - 루트 미처리: Online 72887, Lore 13877
 - **raw/_manifest.md 신설** — raw 파일 ↔ termbase 매핑 표 (371 행)
 - **.gitignore 갱신** — raw/Books/Lore/Online + raw/en.lang.csv 추가 (87K 사고 재발 방지)
+
+## [2026-05-27] .gitignore negate 정정 + _ingested 추적 회복 | feature/uesp_ingest
+- 이전 .gitignore가 raw/<폴더>/ 통째 ignore라 _ingested/도 자동 누락 사고
+- 패턴 정정: raw/<폴더>/* + !raw/<폴더>/_ingested/
+- 371 ingested 파일 git 추적 회복 (Online 316 + Lore 55)
+- check-ignore로 5개 sample 검증 완료
+
+## [2026-05-27] CLAUDE.md §4-c lore ingest 워크플로 정식화 | feature/uesp_ingest
+- **§4-c 신설**: UESP entity 단위 깊이 ingest 워크플로 (카파시 정신)
+  - source 전체 read + 사용자 takeaway 논의 + wiki/lore/<한글이름>.md 신설 + cascading
+- **§4·§4-b·§4-c 비교 표** 추가 — 세 종류 ingest 명확 구별
+- **§4-c.3 *발췌* ≠ *ingest* 구별 명문화** — 371 발췌는 ingest 승격 대기 상태
+- **§11 단서**: "raw 첫 문단 추출을 'ingest'로 호명 금지"
+- 이번 라운드의 *sourcing/ingest 혼동* 사고를 정책으로 박아 재발 방지

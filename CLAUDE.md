@@ -259,6 +259,44 @@ CREATE TABLE lang_official_translations (
 
 ---
 
+## 4-c. UESP/lore 자료 ingest 워크플로 (entity 단위, 카파시 정신)
+
+§4가 *DB 번역 묶음*, §4-b가 *외부 시드 자료(xlsx)*, §4-c는 **raw/Online·Lore·Books의 UESP 페이지를 entity 단위로 깊이 ingest**. 카파시 LLM Wiki 원본의 *"ingest one at a time and stay involved"* 정신.
+
+### 4-c.1 발동 조건
+- 사용자가 *자연 질문* ("Dremora가 뭐야") — 카파시의 자연 trigger.
+- 또는 번역 사이클 중 entity 등장하고 lore 컨텍스트 부족.
+- 또는 Claude가 raw 자료에서 *시작점 후보 추천* + 사용자 승인.
+- **사용자가 사전에 우선순위 줄 세우는 게 아님** — 자연 발생.
+
+### 4-c.2 워크플로 (한 entity씩)
+
+1. **Source 전체 read** — raw/<폴더>/<entity>.md 또는 raw/<폴더>/_ingested/<entity>.md. *첫 문단만 X*, 파일 전체 (Society, History, Clans 등 모든 섹션).
+2. **takeaway 사용자와 논의** — Claude가 핵심 짧게 보고, 사용자가 강조/제외 결정. *자동화 X*.
+3. **`wiki/lore/<한글이름>.md` 신설** — §5.2 형식. frontmatter에 `source_uesp: raw/<폴더>/_ingested/<entity>.md`.
+4. **관련 termbase 페이지 갱신** — `## 관련 lore: [[lore/<한글이름>]]` 링크. 기존 *발췌* 본문은 *lore 페이지 참조*로 약화.
+5. **`wiki/index.md` Lore 섹션 갱신**.
+6. **raw → `_ingested/` 이동** (이미 옮겨졌으면 skip).
+7. **`wiki/log.md` 한 줄**: `## [YYYY-MM-DD] lore ingest | <entity>`.
+
+### 4-c.3 *발췌* ≠ *ingest* (구별 명문화)
+
+- **발췌**: source의 첫 문단을 automated extract해 termbase에 한 단락 박는 정도. **번역 결정 근거 자료 제공**까진 OK, *lore ingest 아님*.
+- **ingest**: source 전체 읽고 사용자 in-the-loop로 lore 페이지 신설 + 관련 페이지 cascading 갱신. 한 source가 *여러 wiki 페이지에 영향* (카파시 원본 *10-15 페이지*).
+
+`feature/uesp_ingest` #D의 371 발췌는 *발췌*. §4-c로 *ingest 승격* 대기 상태.
+
+### 4-c.4 §4·§4-b·§4-c 비교
+
+| | §4 (번역 묶음) | §4-b (시드 import) | §4-c (lore ingest) |
+|---|---|---|---|
+| 입력 | DB 묶음 | xlsx/csv 외부 | raw/<폴더>/<entity>.md |
+| 단위 | ±N 인덱스 | 시트 카테고리 | entity 1개 |
+| 사용자 개입 | 사이클 끝 검토 | 정책 결정 후 자동 일괄 | **매 사이클 takeaway 논의** |
+| 산출물 | DB UPDATE + decisions/ | termbase 다수 | wiki/lore/ 1개 + cascading 갱신 |
+
+---
+
 ## 5. 위키 페이지 규약
 
 페이지 제목과 위키링크는 *한글 우선*, frontmatter `aliases`에 영문 병기. termbase 페이지는 영문 슬러그 (DB terms.term이 영문이라 1:1 매핑이 깔끔).
@@ -468,6 +506,7 @@ WHERE lang_id = ? AND unknown = ? AND `index` BETWEEN ? AND ?;
 - ❌ ESOKo 레포 코드 수정 (별도 작업).
 - ❌ `raw/` 폴더 파일 *내용* 수정 (파일 자체 immutable).
   - 디렉토리 분류·이동은 OK (예: `raw/Online/_ingested/`로 처리 완료 파일 이동). 적극 권장.
+- ❌ raw/<entity>.md의 *첫 문단 자동 추출*을 "ingest"라고 호명. 그건 *발췌*. 진짜 ingest는 §4-c 워크플로 (사용자 in-the-loop + lore 페이지 신설 + cascading 갱신).
 - ❌ 사용자 확인 없이 termbase 정식 등록 (decisions/에 후보로만, 사용자 채택 후 `/api/claude/term-suggest`).
   - **단서 — 시드 import 예외**: 사용자가 정책으로 일괄 채택을 선언한 시드 자료는 자동 일괄 등록 OK (§4-b 참조).
   - **권한 트리거 형식** (필수): 시드 일괄 등록은 *다음 두 조건 모두 충족 시에만* 진행한다.
