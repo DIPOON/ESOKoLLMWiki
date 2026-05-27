@@ -299,7 +299,14 @@ CREATE TABLE lang_official_translations (
 
 ## 5. 위키 페이지 규약
 
-페이지 제목과 위키링크는 *한글 우선*, frontmatter `aliases`에 영문 병기. termbase 페이지는 영문 슬러그 (DB terms.term이 영문이라 1:1 매핑이 깔끔).
+페이지 제목·표시 텍스트는 *한글 우선*, frontmatter `aliases`에 영문 병기. **위키링크 슬러그는 *실제 파일명 그대로* 사용 (kebab-case)** — 표시는 `|한글` 파이프로. termbase 페이지는 영문 슬러그 (DB terms.term이 영문이라 1:1 매핑이 깔끔).
+
+**위키링크 작성 규칙 (재발 방지)**:
+- `[[<prefix>/<file-slug>|<표시>]]` 형식. `<file-slug>`는 *실제 파일명에서 .md 뺀 것 그대로*.
+- 카테고리·번호 prefix가 파일명에 있으면 wikilink에도 그대로 포함 (예: `[[lore/1-스라시안-역병|스라시안 역병]]`, `[[lore/36-lessons-of-vivec-sermon-29|Sermon 29]]`).
+- *번역 슬러그를 임의로 추측 금지*. 모르면 `ls wiki/<prefix>/`로 실제 파일명 확인.
+- termbase 영문 슬러그가 존재하는 메타-개념 (Aedra/Daedra/종족/지명/Daedric Princes 등)은 *반드시* `[[termbase/<영문>|<한글>]]` 사용. `[[lore/<한글>]]`로 박지 말 것.
+- 페이지 *제목*과 *aliases*는 한글 우선, *링크 슬러그*는 파일명 우선 — 두 층 구분.
 
 ### 5.0 슬러그 생성 규칙 (termbase)
 
@@ -317,6 +324,16 @@ ESOKo `App\Http\Controllers\TermController::normalizeTerm`과 일관되게:
 **충돌 처리**:
 - *영문 같지만 한글 다른* 진짜 충돌 → 자동 import 중단, 사용자 결정 요청.
 - *완전 동일 매핑 중복* (예: 대소문자만 다른 `Vestige` vs `vestige`) → 첫 등재본 유지, 둘째는 skip (또는 임시 `--<시트>-<행>` 접미사 + 후속 lint에서 통합).
+
+### 5.0.1 책·시리즈 파일명 prefix 정책 (lore/)
+
+책·시리즈는 *원본 정렬* + *시리즈 묶음 가독성*을 위해 **번호 prefix를 파일명에 포함**:
+- 단권 시리즈 일부: `1-스라시안-역병.md`, `2-baron-admiral-bendu-olo.md`, `3-all-flags-navy.md` (출처 시리즈/순서를 prefix로).
+- 다권 시리즈 본권: `2920-morning-star-v1.md` … `2920-evening-star-v12.md` (시리즈 코드 + 권 번호).
+- 다권 시리즈 색인: `<시리즈>-시리즈-색인.md` (예: `2920-시리즈-색인.md`).
+- Sermon 류: `36-lessons-of-vivec-sermon-29.md` (시리즈 + 권).
+
+위키링크는 **파일명 그대로** (§5 위키링크 작성 규칙). prefix 없이 박으면 dead link.
 
 ### 5.1 termbase/&lt;slug&gt;.md
 

@@ -19,7 +19,7 @@ ingested_at: 2026-05-27
 
 [[lore/bendu-olo|Bendu Olo]] (Colovia [[termbase/anvil|Anvil]] 왕)이 *Thras의 [[termbase/sload|Sload]] 위협*을 영원히 끝낼 *대담한 계획* 수립 — **모든 국가의 배로 거대 함대 결성** + 본인이 *왕위 잠시 떠나* 직접 통솔.
 
-1E 2230년경 대륙은 *Sload가 [[lore/스라시안-역병|Thrassian Plague]]의 원흉*이라 확신. 1E 2241년 [[lore/alessian-empire|Alessian]] 황제가 자금 승인, *Bendu Olo가 [[lore/baron-admiral|Baron-Admiral]] 칭호 자체 부여*. 함장·조선공 모집.
+1E 2230년경 대륙은 *Sload가 [[lore/1-스라시안-역병|Thrassian Plague]]의 원흉*이라 확신. 1E 2241년 [[lore/alessian-empire|Alessian]] 황제가 자금 승인, *Bendu Olo가 [[lore/baron-admiral|Baron-Admiral]] 칭호 자체 부여*. 함장·조선공 모집.
 
 [[lore/systres-archipelago|Systres Archipelago]]의 한 섬을 거점으로 선정 — *[[lore/all-flags-navy|All Flags Navy]]*. 1E 2243년 [[lore/high-isle|High Isle]] 상륙 후 *건선거(dry dock) 건설* 시작.
 
@@ -27,7 +27,7 @@ ingested_at: 2026-05-27
 - [[lore/bendu-olo|Bendu Olo]] — Colovia·Anvil 왕, 함대 사령관
 - [[lore/all-flags-navy|All Flags Navy]] — 거대 함대
 - [[termbase/sload|Sload]] — 적, Thrassian Plague 원흉
-- [[lore/스라시안-역병|Thrassian Plague]] — 사건
+- [[lore/1-스라시안-역병|Thrassian Plague]] — 사건
 - [[lore/alessian-empire|Alessian Empire]] — 자금 후원
 - [[lore/high-isle|High Isle]], [[lore/systres-archipelago|Systres Archipelago]] — 함대 거점
 

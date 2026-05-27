@@ -31,7 +31,7 @@ Vivec: *"그렇지 않으면 본성을 배반하는 것."*
 Vivec: *"그렇지 않으면 본성을 배반하는 것."*
 
 monster가 만족하지 않자 *Sermon 3의 Ayem 자비* 기도로 위로:
-> *"불은 내 것: 너를 삼키게 하라, / 비밀의 문을 만들라 / [[lore/padomay|Padhome]]의 제단에 / [[termbase/boethiah|Boethiah]]의 집에 / 우리가 안전해질 / 그리고 보호받는 곳에."*
+> *"불은 내 것: 너를 삼키게 하라, / 비밀의 문을 만들라 / [[termbase/padomay|Padhome]]의 제단에 / [[termbase/boethiah|Boethiah]]의 집에 / 우리가 안전해질 / 그리고 보호받는 곳에."*
 
 monster가 *평화로운 표정으로 [[lore/muatra|Muatra]] 수락*. 뼈는 **[[lore/necrom|City of the Dead, Necrom]]의 토대**.
 
