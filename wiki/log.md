@@ -112,3 +112,17 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - raw/Lore: 14101 → 13827 (274 줄음, 50개는 sermon 19+에서 시작)
   - 정확: 105 _ingested (이전 55 + 새 50)
 - lint: orphan 검사 — 33 lore 페이지 모두 *서로 link 있지만* grep 패턴 한계로 일부 orphan 표시 (옵시디언 graph view에서 정확 확인 권장)
+
+## [2026-05-28] lore 메타-개념 termbase 승격 | feature/uesp_ingest
+- 사용자 의견: "Tamriel 탐리엘 이런 말은 되게 공용으로 여기저기서 쓰이는 것이니까 용어집같은 걸 추가하는게 좋지 않나요"
+- 분석: lore/ 본문에 247개 broken [[lore/X]] 링크 — 핵심 신성·종족·지명·메타-개념이 *xlsx 시드에서 누락*
+- **termbase 54개 신설** (Daedric Princes 16 + Aedra 8 + Magnus·Lorkhan + 우주 메타 8 + Tribunal 5 + 종족 14 + 지명 2 + Walking Ways)
+- **lore wikilink 204개 일괄 갱신** ([[lore/X]] → [[termbase/X|한글표기]]) 회차 2번
+- broken lore link: 247 → 189 (58 해결)
+- termbase 총수: 630 → 684
+
+## [2026-05-28] lore ingest sermon 29-31 + 3 | feature/uesp_ingest
+- 36 Lessons of Vivec Sermon 29 (Scripture of the Numbers — *Vivec의 Nerevar 살해 자백 hidden message*)
+- Sermon 30 (City-Face — 6th monster)
+- Sermon 31 (Book of Hours 기록 — 검열본/대중본 이중 텍스트)
+- Sermon 3 (Dwemer 포획 + 사랑의 본질 + 8 known worlds 신학)
