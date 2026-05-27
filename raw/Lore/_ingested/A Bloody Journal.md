@@ -1,0 +1,82 @@
+# Lore:A Bloody Journal
+
+<!-- UESP / ns 130 / dump 2026-03-13 -->
+
+{{Lore Book
+|OB=1
+|author=[[Oblivion:Viranus Donton|Viranus Donton]]
+|description=The journal of Vilena Donton's son, found alongside his body
+}}
+''[Many of the pages of this journal have been shredded or are too covered in blood to be legible.]''
+
+:Sundas
+
+It has been two weeks since Vitellus' death, and I fear that [[Oblivion:Vilena Donton|Mother]] will never truly accept the fact that he is gone. She visits his grave nightly, though I do not believe she knows I have seen her go. She speaks to him there, apologizing for sending him on his last mission. I know in my heart that he would have sought no other end. Better to die fighting for the honor of the {{Lore Link|Fighters Guild|Guild}} than to waste away in a life of relative safety.
+
+...
+
+:Middas
+
+Another day, another day of barracks duty. It's been a full month since I've been given a contract, any contract. My time is spent polishing weapons and training with the new boots. [[Oblivion:Eduard Hodge|Eduard]] and I have spoken at length about this. His reasoning, as always, is sound. Mother fears for my safety, and for the safety of the Guild. This is a terrible weight for her to bear. 
+
+Perhaps when our numbers have risen, she will once again feel comfortable allowing me to perform my duties.
+
+...
+
+:Morndas
+
+Thank the gods for Eduard. I fear without him I would go mad. His constant companionship keeps me hopeful that I will one day be returned to active duty. Until then, we have each other. He has willingly forgone lucrative contracts in order to help me pass the days. A truer companion I could not imagine.
+
+...
+
+:Loredas
+
+Some days I question whether or not I am fit to be a Guild member. Perhaps Mother's fears for my safety not because of {{sic|Viranus|Vitellus}}, but because of my own abilities. Am I a failure in her eyes? Does she believe me to be less a man than {{sic|Viranus|Vitellus}}?
+
+...
+
+:Turdas
+
+Freedom! Finally, a contract! I was sent with one of our newer members to investigate a disappearance in [[Oblivion:Nonwyll Cavern|Nonwyll Cavern]]. It was nothing glamorous, but I am glad for the opportunity to see some action. 
+
+I doubt, however, that Mother even knew about the contract, as the order came directly from [[Oblivion:Modryn Oreyn|Oreyn]]. It is good to see that he still has faith in my skills, and my ability to keep that new boot alive.
+
+...
+
+:Loredas
+
+Again, nothing. It seems my only hope is that Oreyn will find another contract for me, though contracts are harder and harder to come by with the increasing presence of the {{Lore Link|Blackwood Company}} in {{Lore Link|Cyrodiil}}. 
+
+Eduard and I spoke of them over breakfast this morning. He believes them to be nothing more than a rogue mercenary band. I fear he is as naïve as he is beautiful. The Blackwood Company bears watching.
+
+...
+
+:''[date obscured]''
+
+I've been given another contract, clearing out some trolls that have been troubling miners. And Eduard is to accompany me! 
+
+I can't think of better news. This is exactly what I need. 
+
+...
+ 
+:''[date obscured]''
+
+Eduard is dead, along with the rest. I fear I will follow shortly. The fighting grew heavy with the trolls, but was under control. Then came the Blackwood Company. They were like madmen. Trolls, men, mer fell to their blades. It was inhuman
+
+''[text unreadable]''
+
+...
+
+''[text unreadable]''
+
+Blackwood Company gone quick as they came
+
+Eduard fought bravely. All did. Rest now
+
+
+...
+
+I hear trolls
+
+I'm sorry Mother
+{{Book End}}
