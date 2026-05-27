@@ -33,3 +33,8 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 멀티 항목 2건 YAML frontmatter 복구 (단일 문자열 + 본문 표)
 - §4 step 1 fix-as-you-go 룰 추가 (TODO 마커 자동 보강)
 - index.md "완료된 작업" 제거 (log.md가 시간순 정본)
+
+## [2026-05-27] #4 충돌 접미사 9 파일 통합 | feature/remains
+- 9개 자동 충돌 접미사 파일 삭제 (모두 동일 매핑이라 무손실)
+- seed-import.md 마찰점 #5 ✅ 해결 표시 + #11 신규(슬래시 슬러그) 추가
+- index.md "미해결 후속" 4번 항목 ✅ 완료 표시, 7번(슬래시) 추가
