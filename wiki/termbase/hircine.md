@@ -1,17 +1,17 @@
 ---
 term: Hircine
-target_ko: 하르신느
+target_ko: 허씬
 target_de:
 target_ja:
-aliases: [Hircine, 하르신느, Huntsman, Hunter]
+aliases: [Hircine, 허씬, Huntsman, Hunter, 하르신느]
 category: 신성
 status: 확정
 ---
 
-# Hircine (하르신느)
+# Hircine (허씬)
 
 ## 채택 근거
-- 한국 ESO 커뮤니티 통용 표기 '하르신느'.
+- 한국 ESO 커뮤니티 통용 표기 '허씬'.
 - *Daedric Prince*. 16 영주 중 하나. 영역: **사냥**.
 
 ## 요약

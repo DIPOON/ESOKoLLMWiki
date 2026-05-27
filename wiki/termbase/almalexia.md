@@ -1,17 +1,17 @@
 ---
 term: Almalexia
-target_ko: 알마렉시아
+target_ko: 아말렉시아
 target_de:
 target_ja:
-aliases: [Almalexia, 알마렉시아, Ayem, "Mother Morrowind", "Anticipation of Mara"]
+aliases: [Almalexia, 아말렉시아, Ayem, Mother Morrowind, Anticipation of Mara, 알마렉시아]
 category: 신성
 status: 확정
 ---
 
-# Almalexia (알마렉시아)
+# Almalexia (아말렉시아)
 
 ## 채택 근거
-- 한국 ESO 커뮤니티 통용 표기 '알마렉시아'.
+- 한국 ESO 커뮤니티 통용 표기 '아말렉시아'.
 - 영역: **Tribunal 여왕**.
 
 ## 요약

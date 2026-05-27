@@ -1,17 +1,17 @@
 ---
 term: Jyggalag
-target_ko: 직갈라그
+target_ko: 지갈렉
 target_de:
 target_ja:
-aliases: [Jyggalag, 직갈라그, Lord of Order]
+aliases: [Jyggalag, 지갈렉, Lord of Order, 직갈라그]
 category: 신성
 status: 확정
 ---
 
-# Jyggalag (직갈라그)
+# Jyggalag (지갈렉)
 
 ## 채택 근거
-- 한국 ESO 커뮤니티 통용 표기 '직갈라그'.
+- 한국 ESO 커뮤니티 통용 표기 '지갈렉'.
 - *Daedric Prince*. 16 영주 중 하나. 영역: **질서·논리·연역**.
 
 ## 요약

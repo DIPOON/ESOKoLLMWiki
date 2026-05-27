@@ -1,17 +1,17 @@
 ---
 term: Arkay
-target_ko: 아카이
+target_ko: 아케이
 target_de:
 target_ja:
-aliases: [Arkay, 아카이, "God of Burials"]
+aliases: [Arkay, 아케이, God of Burials, 아카이]
 category: 신성
 status: 확정
 ---
 
-# Arkay (아카이)
+# Arkay (아케이)
 
 ## 채택 근거
-- 한국 ESO 커뮤니티 통용 표기 '아카이'.
+- 한국 ESO 커뮤니티 통용 표기 '아케이'.
 - 영역: **생사 순환**.
 
 ## 요약

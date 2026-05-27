@@ -1,17 +1,17 @@
 ---
 term: Mehrunes Dagon
-target_ko: 메루네스 데이곤
+target_ko: 메이룬스 데이건
 target_de:
 target_ja:
-aliases: [Mehrunes Dagon, 메루네스 데이곤, Lord of Destruction]
+aliases: [Mehrunes Dagon, 메이룬스 데이건, Lord of Destruction, 메루네스 데이곤]
 category: 신성
 status: 확정
 ---
 
-# Mehrunes Dagon (메루네스 데이곤)
+# Mehrunes Dagon (메이룬스 데이건)
 
 ## 채택 근거
-- 한국 ESO 커뮤니티 통용 표기 '메루네스 데이곤'.
+- 한국 ESO 커뮤니티 통용 표기 '메이룬스 데이건'.
 - *Daedric Prince*. 16 영주 중 하나. 영역: **파괴·격변·변화**.
 
 ## 요약

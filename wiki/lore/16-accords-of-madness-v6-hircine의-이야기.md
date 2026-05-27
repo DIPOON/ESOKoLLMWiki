@@ -17,7 +17,7 @@ ingested_at: 2026-05-27
 
 ## 본문 요약
 
-[[termbase/skyrim|스카이림]] 차가운 봉우리에서 셰오고라스가 하르신느 *모욕*. 3년간 *짐승 길러* 대결. Hircine: 고대 [[lore/daedroth|Daedroth]]에 *lycanthropy 저주* 부여 — *비할 데 없는 공포의 짐승*. Sheogorath: *작은 노래 부르는 새* 한 마리.
+[[termbase/skyrim|스카이림]] 차가운 봉우리에서 셰오고라스가 허씬 *모욕*. 3년간 *짐승 길러* 대결. Hircine: 고대 [[lore/daedroth|Daedroth]]에 *lycanthropy 저주* 부여 — *비할 데 없는 공포의 짐승*. Sheogorath: *작은 노래 부르는 새* 한 마리.
 
 대결 당일, Daedroth가 새를 노려 *바위만 박살*. 새는 *Daedroth 코 위에 살짝 앉아* 슬픈 노래. Daedroth는 새를 잡으려다 *자기 눈을 찌르고 자해*. 결국 *광기로 자기 파괴*. Hircine은 *수치심에 사라짐*. Sheogorath는 *새와 함께* Abecean 해안으로 휘파람 불며 떠남.
 
