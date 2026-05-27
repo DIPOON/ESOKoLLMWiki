@@ -38,3 +38,9 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 9개 자동 충돌 접미사 파일 삭제 (모두 동일 매핑이라 무손실)
 - seed-import.md 마찰점 #5 ✅ 해결 표시 + #11 신규(슬래시 슬러그) 추가
 - index.md "미해결 후속" 4번 항목 ✅ 완료 표시, 7번(슬래시) 추가
+
+## [2026-05-27] #3 멀티 항목 분리 (부분) | feature/remains
+- 글리프 등급 16개 분리 완료 (충돌 없음, 16 신규 페이지)
+- 물약 접두어 9개 *분리 보류* — 5건이 아이템 시트와 다른 한글 매핑 (마찰점 #12)
+- trifling parent 페이지 → 시리즈 색인으로 갱신 (`flags:[split-done]`)
+- sip-of parent 페이지 → 충돌 안내 + `flags:[needs-split, conflict-with-아이템-시트]` 갱신
