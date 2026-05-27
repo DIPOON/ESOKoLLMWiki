@@ -100,11 +100,9 @@ date: 2026-05-26
 ## 8. style-guide.md / lore/ 페이지 *미생성*
 
 이번 import에서 termbase와 decisions/에 집중했고:
-- `wiki/style-guide.md` — **미생성**. seed-policy + seed-npc-tone의 내용을 *사람이 정리*해서 만들어야 함.
+- `wiki/style-guide.md` — **✅ 신설 (2026-05-27, `feature/remains` #1)**: 10 섹션으로 구조화. seed-policy + seed-npc-tone에서 정수 추출.
 - `wiki/lore/` — **미생성**. 시드 자료에 lore가 별도로 있는 게 아니라 termbase note에 lore 단서가 흩어져 있음. 향후 lore 페이지는 *번역 사이클*에서 자연 생성.
 - `wiki/sections/` — **미생성**. DB 묶음 작업이 시작되면 자연 생성.
-
-**액션 후보**: 다음 작업으로 *style-guide.md 초안 작성*. seed-policy + seed-npc-tone에서 사람이 정수만 뽑아 구조화.
 
 ## 9. "기타사전"의 카테고리 일괄 처리
 

@@ -50,3 +50,10 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - termbase 총 626 페이지로 갱신. 카테고리 분포 index.md 동기화
 - seed-import.md 마찰점 #9 ✅ 해결 표시
 - Claude 수동 판단 — 모호 경계 케이스(almsivi/tribunal/sapiarchs/mane/tonal-architect)는 사용자 검토 권장
+
+## [2026-05-27] #1 style-guide.md 초안 신설 | feature/remains
+- wiki/style-guide.md 10 섹션으로 신설 (seed-policy + seed-npc-tone 정수 추출)
+- 핵심: 명명 형식 (퀘스트/인명/지명/스킬 등), 세트 아이템, NPC 톤(카짓 3인칭+7 NPC 표),
+  ⚠ 시스템 토큰 보존 (변수/색상/단복수/ID/명사속성)
+- seed-import.md 마찰점 #8 (style-guide 미생성) ✅ 부분 해결 표시 (lore/sections는 미생성)
+- index.md 미해결 #1 ✅ 완료 / Style Guide 섹션 갱신
