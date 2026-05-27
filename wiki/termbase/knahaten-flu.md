@@ -4,7 +4,7 @@ target_ko: 나허튼 독감
 target_de:
 target_ja:
 aliases: [Knahaten Flu, 나허튼 독감]
-category: 기타
+category: 게임용어
 status: 확정
 source_sheet: 기타사전
 source_row: 35

@@ -4,7 +4,7 @@ target_ko: 새피아크
 target_de:
 target_ja:
 aliases: [Sapiarchs, 새피아크]
-category: 기타
+category: 진영
 status: 확정
 source_sheet: 기타사전
 source_row: 65

@@ -79,11 +79,13 @@ date: 2026-05-26
 | rkindaleft | Rkindaleft | 르킨다레프트 | 지명사전 | 던전 |
 | ashalmawia | Ashalmawia | 아샬마위아 | 지명사전 | 던전 |
 | nchuleft | Nchuleft | 누슈레프트 | 지명사전 | 던전 |
-| (1건 더) | | | | |
+| knahaten-flu | Knahaten Flu | 크나하텐 독감 | 지명사전 | 던전 |
 
 처리: 첫 등재본 유지, 충돌본은 `--<시트>-<행>` 접미사로 별도 저장 + 검토 표시. 후속에서 중복 파일 제거 후 단일 termbase 페이지로 통합.
 
 **원칙 후보**: 시드 자료에 *영문 같지만 한글 다른* 충돌이 발견되면 → 자동 import 중단 + 사용자 결정 요청. 이번 경우 *동일 매핑*이라 진행.
+
+**✅ 해결됨 (2026-05-27)** — `feature/remains` 브랜치, "#4 충돌 통합" 작업: 9개 자동 충돌 접미사 파일 모두 삭제. 원본 첫 등재 파일이 유일 termbase 페이지로 통합. 매핑 정보 손실 없음 (모두 동일 매핑이었음).
 
 ## 6. 시트별 schema 비일관성
 
@@ -98,15 +100,15 @@ date: 2026-05-26
 ## 8. style-guide.md / lore/ 페이지 *미생성*
 
 이번 import에서 termbase와 decisions/에 집중했고:
-- `wiki/style-guide.md` — **미생성**. seed-policy + seed-npc-tone의 내용을 *사람이 정리*해서 만들어야 함.
+- `wiki/style-guide.md` — **✅ 신설 (2026-05-27, `feature/remains` #1)**: 10 섹션으로 구조화. seed-policy + seed-npc-tone에서 정수 추출.
 - `wiki/lore/` — **미생성**. 시드 자료에 lore가 별도로 있는 게 아니라 termbase note에 lore 단서가 흩어져 있음. 향후 lore 페이지는 *번역 사이클*에서 자연 생성.
 - `wiki/sections/` — **미생성**. DB 묶음 작업이 시작되면 자연 생성.
-
-**액션 후보**: 다음 작업으로 *style-guide.md 초안 작성*. seed-policy + seed-npc-tone에서 사람이 정수만 뽑아 구조화.
 
 ## 9. "기타사전"의 카테고리 일괄 처리
 
 기타사전 66개를 모두 `category: 기타`로 일괄 등록. 실제로는 *게임용어 / 책 / 진영 / 종족 / 신화* 등 다양함. 후속에서 세부 분류 lint 필요.
+
+**✅ 해결됨 (2026-05-27, `feature/remains` #5)**: 64개(충돌 통합으로 2개 줄어듦) 중 60개 재분류 — 게임용어 36 / 종족 15 / 진영 9. 모호한 4개(adept, almsivi, nebarra, vicecanon)는 *기타* 유지. *Claude 수동 판단*이라 사용자 검토 권장. 특히 모호한 경계 케이스: almsivi(신화 vs 기타), tribunal(종족 vs 진영), sapiarchs(종족 vs 진영), mane(직책 vs 종족), tonal-architect(직책 vs 진영).
 
 ## 10. 시드 termbase 등록과 §11 "사용자 확인 없이 등록 금지" 충돌
 
@@ -116,17 +118,66 @@ date: 2026-05-26
 
 **CLAUDE.md 갱신 후보**: §11에 "단, 시드 import는 사용자 정책 결정 후 일괄 자동 등록 가능" 단서 추가.
 
+## 11. 슬래시 연결 슬러그 (예: `jerkin--robe`)
+
+3 파일이 슬러그에 `--`를 포함 — 원본 시드의 한 셀에 `Jerkin / Robe` 같이 *두 단어가 슬래시로 묶임*. 정상이지만 *자동 충돌 접미사 형식*(예: `vestige--기타사전-53`)과 형식상 헷갈림.
+
+- `wiki/termbase/jerkin--robe.md` (Jerkin / Robe → 조끼 / 로브)
+- `wiki/termbase/kinlady--kinload.md` (kinlady / kinload → 혈족군주)
+- `wiki/termbase/kinlord--kinlady.md` (kinlord / kinlady → 혈족군주)
+
+특히 마지막 두 개는 *동일 한글*("혈족군주")을 *다른 영문 두 단어 쌍*으로 등록한 케이스 — 시드의 *오타 또는 변형 표기*.
+
+**액션 후보**: 슬래시 행은 *2 페이지로 분리*하거나 *대표 슬러그 + alias로 합치기*. 후속 lint.
+
+**✅ 해결됨 (2026-05-27, `feature/remains` #7)**: 4 페이지 신설 + 3 retire:
+- `jerkin--robe` → [[jerkin]] + [[robe]] 개별 분리.
+- `kinlady--kinload` → [[kinlady]] 단일 등재 (`kinload`는 `kinlord` 오타로 추정, kinlady alias로 보존).
+- `kinlord--kinlady` → [[kinlord]] + [[kinlady]] 각각.
+- 3 슬래시 파일은 `status: retired` + `flags:[retired, slash-slug-split]` 색인으로 갱신.
+
+## 12. 물약 접두어 9개 — *확정됨2* vs *아이템* 시트 매핑 불일치
+
+물약 명칭 접두어 9개(Sip of, Tincture of, …, Essence of)가 *확정됨2* 시리즈와 *아이템* 시트에 모두 등재되어 있는데 **5개가 다른 한글 매핑**:
+
+| 영문 | 확정됨2 (시리즈) | 아이템 시트 | 일치 |
+|---|---|---|---|
+| Sip of | 한 모금의 | 한 모금의 | ✅ |
+| Tincture of | 자그마한 | 아주 작은 | ❌ |
+| Dram of | 작은 | 작은 | ✅ |
+| Potion of | 평범한 | 평범한 | ✅ |
+| Solution of | 유용한 | 유용한 | ✅ |
+| Elixir of | 신비한 | 특효의 | ❌ |
+| Panacea of | 엄청난 | 만능의 | ❌ |
+| Distillate of | 증류된 | 증류한 | ❌ |
+| Essence of | 순수한 | 정수의 | ❌ |
+
+CLAUDE.md §5.0 정책("영문 같지만 한글 다른 → 자동 import 중단, 사용자 결정 요청") 적용. **`feature/remains` #3 작업에서 자동 분리 보류**, 사용자 결정 대기.
+
+`wiki/termbase/sip-of-tincture-of-…md` 페이지에 충돌 표 + `flags: [needs-split, conflict-with-아이템-시트]` 갱신함.
+
+**사용자 결정 필요**:
+- 두 매핑 중 정본 선정 (확정됨2 시리즈 vs 아이템 시트 단일 등재)
+- 또는 *문맥 분리* (시리즈 접두어 vs 아이템 등급 명칭으로 별도 페이지)
+
+**✅ 결정됨 (2026-05-27, `feature/remains` #3 후속) — 옵션 B (아이템 시트 매핑) 채택**:
+- 사용자 결정: "A는 뭔가 전혀 상관없이 만든 것도 많아 보임" + 시드 description의 "(구버전)" 표시 + 게임 내 실제 노출 우선.
+- 아이템 시트 9개 페이지(`sip-of` 등) 그대로 정본 유지.
+- 시리즈 페이지(`sip-of-tincture-...md`)는 ⛔ retire 색인으로 갱신 (`flags:[retired, superseded-by-아이템-시트]`).
+- 시리즈 한글 5개(자그마한/신비한/엄청난/증류된/순수한)는 historical reference로 본 마찰점 + retire 페이지 양쪽에 보존.
+
 ---
 
 ## 정리 — CLAUDE.md 갱신 후보 목록
 
 1. **§4b 신설** — 시드 import 워크플로 (마찰점 #1)
-2. **§5 슬러그 정책 명시** (마찰점 #3)
+2. **§5 슬러그 정책 명시** (마찰점 #3) — 슬래시 처리 룰 추가도 함께 (마찰점 #11)
 3. **§5.1 frontmatter 확장** — status, source_* 필드 (마찰점 #2)
 4. **§11 단서 추가** — 시드 import는 일괄 자동 등록 가능 (마찰점 #10)
 
 남은 즉시 조치 (이번 ingest 후속):
-- 멀티 항목 행 분리 → 25개 페이지 재생성 (마찰점 #4)
-- 동일 매핑 중복 충돌 정리 → 9개 중복 파일 통합 (마찰점 #5)
-- style-guide.md 초안 작성 (마찰점 #8)
-- 기타사전 카테고리 세부 분류 (마찰점 #9)
+- 멀티 항목 행 분리 → 25개 페이지 재생성 (마찰점 #4) — `feature/remains` #3 작업 예정
+- ~~동일 매핑 중복 충돌 정리 → 9개 중복 파일 통합 (마찰점 #5)~~ **✅ 해결 (feature/remains #4 작업)**
+- style-guide.md 초안 작성 (마찰점 #8) — `feature/remains` #1 작업 예정
+- 기타사전 카테고리 세부 분류 (마찰점 #9) — `feature/remains` #5 작업 예정
+- 슬래시 슬러그 정리 (마찰점 #11) — 후속 lint

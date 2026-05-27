@@ -4,7 +4,7 @@ target_ko: 대리 여왕
 target_de:
 target_ja:
 aliases: [Proxy Queen, 대리 여왕]
-category: 기타
+category: 게임용어
 status: 확정
 source_sheet: 기타사전
 source_row: 63

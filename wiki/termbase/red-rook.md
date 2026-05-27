@@ -4,7 +4,7 @@ target_ko: 붉은 떼까마귀단
 target_de:
 target_ja:
 aliases: [Red Rook, 붉은 떼까마귀단]
-category: 기타
+category: 진영
 status: 확정
 source_sheet: 기타사전
 source_row: 40

@@ -4,7 +4,7 @@ target_ko: 카이머
 target_de:
 target_ja:
 aliases: [Chimer, 카이머]
-category: 기타
+category: 종족
 status: 확정
 source_sheet: 기타사전
 source_row: 16

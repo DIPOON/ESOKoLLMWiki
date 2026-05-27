@@ -4,7 +4,7 @@ target_ko: 트라이뷰널
 target_de:
 target_ja:
 aliases: [Tribunal, 트라이뷰널]
-category: 기타
+category: 종족
 status: 확정
 source_sheet: 기타사전
 source_row: 52

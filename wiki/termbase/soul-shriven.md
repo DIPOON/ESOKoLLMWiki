@@ -4,7 +4,7 @@ target_ko: 영혼 없는자
 target_de:
 target_ja:
 aliases: [Soul Shriven, 영혼 없는자]
-category: 기타
+category: 종족
 status: 확정
 source_sheet: 기타사전
 source_row: 43

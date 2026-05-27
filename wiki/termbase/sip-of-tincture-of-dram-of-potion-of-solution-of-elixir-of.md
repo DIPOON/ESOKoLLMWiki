@@ -1,51 +1,41 @@
 ---
-term: "Sip of (외 8개)"
-target_ko: "한 모금의 (외 8개)"
+term: "Sip of (외 8개) — 시리즈 매핑 (채택 안 됨)"
+target_ko: "각 항목별 아이템 시트 매핑 참조"
 target_de:
 target_ja:
-aliases: [물약 접두어]
+aliases: [물약 접두어 시리즈]
 category: 게임용어
-status: 확정
-flags: [needs-split, multi-item-cell]
+status: retired
+flags: [retired, superseded-by-아이템-시트]
 source_sheet: 확정됨2
 source_row: 4
 source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
 ---
 
-# 물약 명칭 접두어 시리즈 (9개) — 분리 대기
+# 물약 접두어 시리즈 — ⛔ Retired
 
-## 채택 근거 (시드 자료 원본 description)
-- 연금액 방울: 체력
-- 연금액 팅크처: 체력
-- 연금액 컵: 체력
-- 연금액 포션: 체력
-- 연금액 용매: 체력
-- 연금액 영약: 체력
-- 연금액 파나케이아: 체력
-- 연금액 증류수: 체력
-- 연금액 정수: 체력
+**결정 (2026-05-27, `feature/remains` #3 후속)**: *시리즈 매핑*은 채택되지 않음. **아이템 시트의 9개 개별 매핑이 정본**.
+
+이유: 시드 자료의 *시리즈 한글*(자그마한/신비한/엄청난/순수한 등)이 영문 단어와 *상관성이 낮음*. *아이템 시트 매핑*이 게임 내 실제 노출 + 직역에 가까움. 시리즈 description에 "(구버전)" 표시도 단서.
+
+## 정본 페이지 (아이템 시트, category: 아이템)
+
+| # | 영문 | 한글 (정본) | 시리즈 한글 (✗ 채택 안 됨) |
+|---|---|---|---|
+| 1 | Sip of | [[sip-of\|한 모금의]] | 한 모금의 |
+| 2 | Tincture of | [[tincture-of\|아주 작은]] | ~~자그마한~~ |
+| 3 | Dram of | [[dram-of\|작은]] | 작은 |
+| 4 | Potion of | [[potion-of\|평범한]] | 평범한 |
+| 5 | Solution of | [[solution-of\|유용한]] | 유용한 |
+| 6 | Elixir of | [[elixir-of\|특효의]] | ~~신비한~~ |
+| 7 | Panacea of | [[panacea-of\|만능의]] | ~~엄청난~~ |
+| 8 | Distillate of | [[distillate-of\|증류한]] | ~~증류된~~ |
+| 9 | Essence of | [[essence-of\|정수의]] | ~~순수한~~ |
+
+## 시드 원본 description (확정됨2 시트, 보존만)
+- 연금액 방울: 체력 / 연금액 팅크처: 체력 / 연금액 컵: 체력 / 연금액 포션: 체력 / 연금액 용매: 체력 / 연금액 영약: 체력 / 연금액 파나케이아: 체력 / 연금액 증류수: 체력 / 연금액 정수: 체력
 - (구버전)
-
-## 매핑 (영문 → 한글)
-
-| # | 영문 | 한글 |
-|---|---|---|
-| 1 | Sip of | 한 모금의 |
-| 2 | Tincture of | 자그마한 |
-| 3 | Dram of | 작은 |
-| 4 | Potion of | 평범한 |
-| 5 | Solution of | 유용한 |
-| 6 | Elixir of | 신비한 |
-| 7 | Panacea of | 엄청난 |
-| 8 | Distillate of | 증류된 |
-| 9 | Essence of | 순수한 |
-
-## ⚠ 검토 필요 — 분리 작업
-- 한 셀에 9개가 묶여 있어 단일 페이지로 import됨 (시드 자료의 multi-item-cell).
-- 후속 작업: 9개 개별 termbase 페이지로 분리 ([[seed-import]] 마찰점 #4). 위 표를 1:1 그대로 사용.
-- 채택 근거의 *구버전 표기*와 현재 매핑 표가 일부 다름 (예: 구버전 "포션" vs 현재 "평범한"). 분리 시 매핑 표 기준.
-- 분리 완료 후 본 페이지는 색인 가이드로 유지 또는 삭제.
 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *확정됨2*, 행 4 (한 셀에 9개 묶임)
-- 한국 ESO 커뮤니티 합의
+- 결정 근거: [[decisions/seed-import]] 마찰점 #12

@@ -4,7 +4,7 @@ target_ko: 데이드릭 프린스
 target_de:
 target_ja:
 aliases: [Daedric Prince, 데이드릭 프린스]
-category: 기타
+category: 종족
 status: 확정
 source_sheet: 기타사전
 source_row: 69

@@ -4,7 +4,7 @@ target_ko: 음향 설계기
 target_de:
 target_ja:
 aliases: [Tonal Architecture, 음향 설계기]
-category: 기타
+category: 게임용어
 status: 확정
 source_sheet: 기타사전
 source_row: 66

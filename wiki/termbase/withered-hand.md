@@ -4,7 +4,7 @@ target_ko: 메마른 손길단
 target_de:
 target_ja:
 aliases: [Withered Hand, 메마른 손길단]
-category: 기타
+category: 진영
 status: 확정
 source_sheet: 기타사전
 source_row: 56

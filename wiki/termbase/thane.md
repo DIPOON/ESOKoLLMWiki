@@ -4,7 +4,7 @@ target_ko: 종사
 target_de:
 target_ja:
 aliases: [thane, 종사]
-category: 기타
+category: 게임용어
 status: 확정
 source_sheet: 기타사전
 source_row: 48

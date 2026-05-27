@@ -4,7 +4,7 @@ target_ko: 호어보르
 target_de:
 target_ja:
 aliases: [Hoarvor, 호어보르]
-category: 기타
+category: 종족
 status: 확정
 source_sheet: 기타사전
 source_row: 30
