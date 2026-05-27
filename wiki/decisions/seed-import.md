@@ -130,6 +130,12 @@ date: 2026-05-26
 
 **액션 후보**: 슬래시 행은 *2 페이지로 분리*하거나 *대표 슬러그 + alias로 합치기*. 후속 lint.
 
+**✅ 해결됨 (2026-05-27, `feature/remains` #7)**: 4 페이지 신설 + 3 retire:
+- `jerkin--robe` → [[jerkin]] + [[robe]] 개별 분리.
+- `kinlady--kinload` → [[kinlady]] 단일 등재 (`kinload`는 `kinlord` 오타로 추정, kinlady alias로 보존).
+- `kinlord--kinlady` → [[kinlord]] + [[kinlady]] 각각.
+- 3 슬래시 파일은 `status: retired` + `flags:[retired, slash-slug-split]` 색인으로 갱신.
+
 ## 12. 물약 접두어 9개 — *확정됨2* vs *아이템* 시트 매핑 불일치
 
 물약 명칭 접두어 9개(Sip of, Tincture of, …, Essence of)가 *확정됨2* 시리즈와 *아이템* 시트에 모두 등재되어 있는데 **5개가 다른 한글 매핑**:

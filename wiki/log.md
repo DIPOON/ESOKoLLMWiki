@@ -64,3 +64,10 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 시리즈 페이지(sip-of-tincture-...md) ⛔ retire 색인으로 갱신 (`flags:[retired, superseded-by-아이템-시트]`)
 - seed-import.md 마찰점 #12 ✅ 해결 표시
 - index.md 미해결 #3 → ✅ 완료 / 플래그 안내 갱신
+
+## [2026-05-27] #7 슬래시 슬러그 정리 | feature/remains
+- 4 신설: jerkin (조끼) / robe (로브) / kinlady (혈족군주, +kinload 오타 alias) / kinlord (혈족군주)
+- 3 retire 색인: jerkin--robe / kinlady--kinload / kinlord--kinlady
+- termbase 총 630 페이지 (retire 4 포함). 분포: 던전 211 / 지명 174 / 게임용어 93 / 아이템 63 / 인물 61 / 종족 15 / 진영 9 / 기타 4
+- seed-import.md 마찰점 #11 ✅ 해결 표시
+- index.md 미해결 #7 → ✅ 완료 / 분포 표 + 플래그 안내 갱신
