@@ -126,3 +126,18 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - Sermon 30 (City-Face — 6th monster)
 - Sermon 31 (Book of Hours 기록 — 검열본/대중본 이중 텍스트)
 - Sermon 3 (Dwemer 포획 + 사랑의 본질 + 8 known worlds 신학)
+
+## [2026-05-28] goal lore ingest 라운드 2 (50 commit + lint + push) | feature/uesp_ingest
+- 36 Lessons of Vivec 시리즈 *완결* (sermon 1-37 = 37/37 + 시리즈 색인)
+- Monument Island Plaques 시리즈 *완결* (1-5)
+- Manifestos of Kinlord Rilis XII 시리즈 *완결* (2-4)
+- A-시작 lore 단편 ingest: Betrayal of Our Heritage / Bloody Journal / Bosmeri Sleeping-song / Ald Sotha / House Telvanni / Brother's Plea / Common Hair / Recollection / Open Borders / Cat's Serenade
+- redirect _ingested 이동 7건 (3rd/4th Age/Era, 5th Era, 8/9 Divines)
+- **termbase 메타-개념 *대확장 (54+8)***: Daedric Princes 16 + Aedra 8 + 우주 메타 8 + Tribunal 5 + 종족 14 + Walking Ways/CHIM/High Isle/Serpent/Vivec City/지명 보강
+- **한글 표기 정정 5건** (Hircine 허씬 / Mehrunes Dagon 메이룬스 데이건 / Jyggalag 지갈렉 / Almalexia 아말렉시아 / Arkay 아케이)
+- **CLAUDE.md §5 정책 박기**: 위키링크 슬러그는 *실제 파일명 그대로*. §5.0.1 책·시리즈 파일명 prefix 정책 신설
+- **잔여 broken lore link 9회 정정** (padomay/스라시안-역병/아우리돈/대거폴/일리악-만)
+- 진행도: raw/Lore 13854 → 13795 (59↓), _ingested 95 → 153 (58↑)
+- lore 페이지: 33 → 75 (42↑), termbase: 630 → 687 (57↑)
+- lint: broken lore 289 (전부 진짜 lore ingest 대상 - §4-c), broken termbase 0
+- 50 commits → lint 통과 → push 진행

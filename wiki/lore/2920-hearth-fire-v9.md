@@ -24,7 +24,7 @@ ingested_at: 2026-05-28
 
 **6일 — Gideon**: Empress Tavia가 *17년간 모은 금 + Zuuk 도움*으로 *탑 창문에서 안개 속 탈출*. Zuuk은 *Morrowind로 향함*. 침대에 *베개+담요로 위장* — *발견 지연*.
 
-**9일 — [[lore/phrygias|Phrygias]] (High Rock)**: Turala + Cassyr + 아기 Bosriel 도주 중. [[lore/orsimer-orcs|Orc 사냥대]] 호른 소리. *Mynista Skeffington* (Skeffington Coven 리더)가 *Spirit fist* — *공기 정령 Amaro/Pina/Tallatha + Kynareth 손가락*에게 *살짝 말걸어* Orc 즉사. **Cassyr가 *Old Barbyn's Farm* 도착 — Skeffington Coven 만남**. 마법 *친교의 conjuration* 설명 ("witches commune and conjure and celebrate"). *2천년 전 인간이 Orc 본거지 파괴해서 Orc가 위로 왔다*는 주장.
+**9일 — [[lore/phrygias|Phrygias]] (High Rock)**: Turala + Cassyr + 아기 Bosriel 도주 중. [[termbase/orsimer|Orc 사냥대]] 호른 소리. *Mynista Skeffington* (Skeffington Coven 리더)가 *Spirit fist* — *공기 정령 Amaro/Pina/Tallatha + Kynareth 손가락*에게 *살짝 말걸어* Orc 즉사. **Cassyr가 *Old Barbyn's Farm* 도착 — Skeffington Coven 만남**. 마법 *친교의 conjuration* 설명 ("witches commune and conjure and celebrate"). *2천년 전 인간이 Orc 본거지 파괴해서 Orc가 위로 왔다*는 주장.
 
 **11일 — Imperial City**: **Rijja 처형**. 첫 도끼질 빗나가 비명, 두 번째에 사망. 황제 + Potentate 지켜봄. **황제가 *그녀 동생 Corda*에 관심** — Potentate 응. (이후 v10에서 Corda Imperial 도착, v12에서 Corda의 복수.)
 
