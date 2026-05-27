@@ -13,7 +13,7 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-[[lore/proxy-queen-alwinarwe|Proxy-Queen Alwinarwe]] (알리노어 궁정)에게 보낸 *Aldmeri 학자 Andunririe의 [[termbase/dunmer|Dunmer]] 사회 정보보고*. *[[lore/aldmeri-dominion|Aldmeri Dominion]] mage [[lore/penewen|Penewen]] 지시*.
+[[lore/proxy-queen-alwinarwe|Proxy-Queen Alwinarwe]] (알리노어 궁정)에게 보낸 *Aldmeri 학자 Andunririe의 [[termbase/dunmer|Dunmer]] 사회 정보보고*. *[[termbase/aldmeri-dominion|Aldmeri Dominion]] mage [[lore/penewen|Penewen]] 지시*.
 
 ### Telvanni의 위치
 - [[lore/great-houses|Great Houses]] 중 **마법적으로 가장 강력 + 사회적으로 가장 *계층화***.
@@ -52,7 +52,7 @@ ingested_at: 2026-05-28
 - *현재 Archmagister [[lore/nelos-otheri|Nelos Otheri]]*
 
 ### Ebonheart Pact 불참
-**House Telvanni는 [[lore/ebonheart-pact|Ebonheart Pact]] 거부** — *주된 이유: **노예 보유***.
+**House Telvanni는 [[termbase/ebonheart-pact|Ebonheart Pact]] 거부** — *주된 이유: **노예 보유***.
 - Pact에 합류하면 *[[termbase/argonian|Argonian]]을 동등하게 인정해야* + *Argonian 노예 해방 의무*.
 - → *다른 Dunmer 가문과 더욱 isolated*.
 

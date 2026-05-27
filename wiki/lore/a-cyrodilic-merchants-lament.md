@@ -11,7 +11,7 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-[[lore/ebonheart-pact|Ebonheart Pact]] 점령지에서 거부당한 *Cyrodilic 상인*의 *익명 푸념 + 배반 의지*.
+[[termbase/ebonheart-pact|Ebonheart Pact]] 점령지에서 거부당한 *Cyrodilic 상인*의 *익명 푸념 + 배반 의지*.
 
 ### Pact 분노
 - *Pact와 *그 멍청한 규칙*에 저주*.
@@ -23,7 +23,7 @@ ingested_at: 2026-05-28
 - *큰 시장 가격 대비 *markup* 있으나 — *여행 시간, 도로 위험, 호위 비용, 가족과의 잃은 시간*을 고려하면 *bargain*.
 
 ### 배반의 계획
-> *"Pact가 원치 않으면, **[[lore/daggerfall-covenant|Covenant]]가 *분명* 사 줄 것이고 *고마워할 것*. 더해서 *Covenant 영토로 향하는 *Pact 부대 배치 정보*도 *분명* 인정할 것. **상품보다 *더 많은 금화 가져올* 듯*. *잡히지만 말아야* 하지만*."*
+> *"Pact가 원치 않으면, **[[termbase/daggerfall-covenant|Covenant]]가 *분명* 사 줄 것이고 *고마워할 것*. 더해서 *Covenant 영토로 향하는 *Pact 부대 배치 정보*도 *분명* 인정할 것. **상품보다 *더 많은 금화 가져올* 듯*. *잡히지만 말아야* 하지만*."*
 
 ### 향수
 > *"오, [[lore/empire|Empire]] 시절이여. **이 침략자들에 저주**!"*
@@ -37,9 +37,9 @@ ingested_at: 2026-05-28
 - *분노한 상인의 *푸념 + 음모* — *민간인 시점의 *Three Banners War* 현실*.
 
 ## 관련
-- [[lore/ebonheart-pact|Ebonheart Pact]]
-- [[lore/daggerfall-covenant|Daggerfall Covenant]]
-- [[lore/three-banners-war|Three Banners War]]
+- [[termbase/ebonheart-pact|Ebonheart Pact]]
+- [[termbase/daggerfall-covenant|Daggerfall Covenant]]
+- [[termbase/three-banners-war|Three Banners War]]
 
 ## 출처
 - `raw/Lore/_ingested/A Cyrodilic Merchant's Lament.md`

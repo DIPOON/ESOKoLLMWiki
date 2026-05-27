@@ -21,7 +21,7 @@ ingested_at: 2026-05-28
 - **"고양이들과 식인종들 — *무가치한 자들에게* 사랑하는 고향을 열다니"**.
 
 ### 전쟁의 현실
-- *[[lore/three-banners-war|Three Banners War]] 이야기 들음*.
+- *[[termbase/three-banners-war|Three Banners War]] 이야기 들음*.
 - 좁은 승리 — *오직 [[termbase/bosmer|Wood Elves]]의 archery support* + *[[termbase/khajiit|Khajiit]] agent의 *영리한 subterfuge*로 *결정적 비밀 습득*.
 - *Altmer 단독 전쟁 불가능*. 그러나 *동맹은 *전선에서만* 봉사하면 됨, *Summerset에 들어올 필요 X*.
 
@@ -49,8 +49,8 @@ ingested_at: 2026-05-28
 
 ## 관련
 - [[lore/ayrenn|Queen Ayrenn]]
-- [[lore/aldmeri-dominion|Aldmeri Dominion]]
-- [[lore/three-banners-war|Three Banners War]]
+- [[termbase/aldmeri-dominion|Aldmeri Dominion]]
+- [[termbase/three-banners-war|Three Banners War]]
 
 ## 출처
 - `raw/Lore/_ingested/A Case for Open Borders.md`

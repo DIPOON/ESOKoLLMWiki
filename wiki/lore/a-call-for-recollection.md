@@ -42,7 +42,7 @@ ingested_at: 2026-05-28
 - [[termbase/bosmer|Bosmer]]
 - [[termbase/ayleid|Ayleid]] 
 - [[lore/boiche|Boiche]] (Bosmer 옛 이름)
-- [[lore/alessian-empire|Alessian Empire]] (Ayleid 멸망 주역)
+- [[termbase/alessian-empire|Alessian Empire]] (Ayleid 멸망 주역)
 
 ## 출처
 - `raw/Lore/_ingested/A Call for Recollection.md`
