@@ -4,7 +4,7 @@ target_ko: 피투성이 주먹단
 target_de:
 target_ja:
 aliases: [Bloody Fist, 피투성이 주먹단]
-category: 기타
+category: 진영
 status: 확정
 source_sheet: 기타사전
 source_row: 14

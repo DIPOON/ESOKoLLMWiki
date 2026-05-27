@@ -4,7 +4,7 @@ target_ko: 데이드라 군주
 target_de:
 target_ja:
 aliases: [Daedra Lord, 데이드라 군주]
-category: 기타
+category: 종족
 status: 확정
 source_sheet: 기타사전
 source_row: 70

@@ -4,7 +4,7 @@ target_ko: 메이지, 마법사, 마도사 등
 target_de:
 target_ja:
 aliases: [Mage, 메이지, 마법사, 마도사 등]
-category: 기타
+category: 게임용어
 status: 확정
 source_sheet: 기타사전
 source_row: 3

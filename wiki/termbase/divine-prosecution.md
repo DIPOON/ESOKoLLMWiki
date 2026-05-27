@@ -4,7 +4,7 @@ target_ko: 디바인 종사
 target_de:
 target_ja:
 aliases: [Divine Prosecution, 디바인 종사]
-category: 기타
+category: 진영
 status: 확정
 source_sheet: 기타사전
 source_row: 21

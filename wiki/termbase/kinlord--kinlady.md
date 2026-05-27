@@ -4,7 +4,7 @@ target_ko: 혈족군주
 target_de:
 target_ja:
 aliases: [kinlord / kinlady, 혈족군주]
-category: 기타
+category: 게임용어
 status: 확정
 source_sheet: 기타사전
 source_row: 60

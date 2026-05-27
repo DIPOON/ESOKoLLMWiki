@@ -4,7 +4,7 @@ target_ko: 연금술사
 target_de:
 target_ja:
 aliases: [alchemist, 연금술사]
-category: 기타
+category: 게임용어
 status: 확정
 source_sheet: 기타사전
 source_row: 8

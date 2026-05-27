@@ -110,6 +110,8 @@ date: 2026-05-26
 
 기타사전 66개를 모두 `category: 기타`로 일괄 등록. 실제로는 *게임용어 / 책 / 진영 / 종족 / 신화* 등 다양함. 후속에서 세부 분류 lint 필요.
 
+**✅ 해결됨 (2026-05-27, `feature/remains` #5)**: 64개(충돌 통합으로 2개 줄어듦) 중 60개 재분류 — 게임용어 36 / 종족 15 / 진영 9. 모호한 4개(adept, almsivi, nebarra, vicecanon)는 *기타* 유지. *Claude 수동 판단*이라 사용자 검토 권장. 특히 모호한 경계 케이스: almsivi(신화 vs 기타), tribunal(종족 vs 진영), sapiarchs(종족 vs 진영), mane(직책 vs 종족), tonal-architect(직책 vs 진영).
+
 ## 10. 시드 termbase 등록과 §11 "사용자 확인 없이 등록 금지" 충돌
 
 §11에 "사용자 확인 없이 termbase 정식 등록 금지"인데, 시드 import는 *619개를 일괄 자동 등록*함. 이는:

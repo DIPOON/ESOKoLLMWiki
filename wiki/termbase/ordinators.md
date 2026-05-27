@@ -4,7 +4,7 @@ target_ko: 신성집행관
 target_de:
 target_ja:
 aliases: [Ordinators, 신성집행관]
-category: 기타
+category: 진영
 status: 확정
 source_sheet: 기타사전
 source_row: 38

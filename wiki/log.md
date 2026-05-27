@@ -44,3 +44,9 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 물약 접두어 9개 *분리 보류* — 5건이 아이템 시트와 다른 한글 매핑 (마찰점 #12)
 - trifling parent 페이지 → 시리즈 색인으로 갱신 (`flags:[split-done]`)
 - sip-of parent 페이지 → 충돌 안내 + `flags:[needs-split, conflict-with-아이템-시트]` 갱신
+
+## [2026-05-27] #5 기타사전 64건 세부 분류 | feature/remains
+- 64개(충돌 통합으로 66 → 64) 재분류: 게임용어 36 / 종족 15 / 진영 9 / 기타 4(메타)
+- termbase 총 626 페이지로 갱신. 카테고리 분포 index.md 동기화
+- seed-import.md 마찰점 #9 ✅ 해결 표시
+- Claude 수동 판단 — 모호 경계 케이스(almsivi/tribunal/sapiarchs/mane/tonal-architect)는 사용자 검토 권장

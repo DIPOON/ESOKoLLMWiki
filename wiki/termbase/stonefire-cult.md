@@ -4,7 +4,7 @@ target_ko: 돌불꽃 숭배자
 target_de:
 target_ja:
 aliases: [Stonefire cult, 돌불꽃 숭배자]
-category: 기타
+category: 진영
 status: 확정
 source_sheet: 기타사전
 source_row: 44

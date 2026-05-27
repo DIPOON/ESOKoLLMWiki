@@ -4,7 +4,7 @@ target_ko: 소드 싱어
 target_de:
 target_ja:
 aliases: [sword-singer, 소드 싱어]
-category: 기타
+category: 게임용어
 status: 확정
 source_sheet: 기타사전
 source_row: 47
