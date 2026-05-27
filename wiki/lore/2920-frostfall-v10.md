@@ -18,11 +18,11 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-**10일 — [[lore/phrygias|Phrygias]] (High Rock)**: *Turala* ([[lore/dark-elf|Dark Elf]] 마녀)이 *Skeffington Coven*의 *Mynistera* 스승 앞에서 *daedroth 소환 + 해체*. 한 달 만에 *코벤 최고 재능*. Turala의 아기 *Bosriel* — [[lore/brindisi-dorom|Brindisi Dorom]] (Mournhold 공작)의 사생아, [[lore/ayleid|Ayleid]] 엘프가 출산 도움. *Wayrest 심부름* 보내짐.
+**10일 — [[lore/phrygias|Phrygias]] (High Rock)**: *Turala* ([[lore/dark-elf|Dark Elf]] 마녀)이 *Skeffington Coven*의 *Mynistera* 스승 앞에서 *daedroth 소환 + 해체*. 한 달 만에 *코벤 최고 재능*. Turala의 아기 *Bosriel* — [[lore/brindisi-dorom|Brindisi Dorom]] (Mournhold 공작)의 사생아, [[termbase/ayleid|Ayleid]] 엘프가 출산 도움. *Wayrest 심부름* 보내짐.
 
 **12일 — [[lore/dwynnen|Dwynnen]] (High Rock)**: *Cassyr Whitley* (v3의 그 스파이)가 *Least Loved Porcupine* 술집에서 *Dunmer 상인들*과 만남. 한 Dunmer가 *"Cassyr Whitley는 Vivec이 역사상 최악 스파이라 했다 — Ald Marak 잃은 게 그 탓"*이라 공개 조롱. 사촌 Palyth 앞에서 명예 추락. **Cassyr는 *Vivec을 저주*하기로 결심**.
 
-**21일 — [[lore/imperial-city|Imperial City]]**: *Corda* (Hegathe [[lore/morwha|Morwha]] conservatorium 사제)가 *언니 Rijja 처형 한 달 뒤* 도착. 자매와 정반대 외모 — 작고 둥글둥글. 시민들이 *"한 달도 안 됐는데"* 수군.
+**21일 — [[termbase/imperial-city|Imperial City]]**: *Corda* (Hegathe [[termbase/morwha|Morwha]] conservatorium 사제)가 *언니 Rijja 처형 한 달 뒤* 도착. 자매와 정반대 외모 — 작고 둥글둥글. 시민들이 *"한 달도 안 됐는데"* 수군.
 
 **24일 — Dwynnen**: Cassyr가 항구에서 *바다 멀미*. *Welleg* — *Sotha Sil에게서 추방된 전직 Psijic*를 만남. 그는 *데이드릭 군주가 *Psijic / 마녀 외 *아마추어 소환 거부* 합의*했다 알림. Cassyr가 *마녀*에 관심.
 

@@ -20,7 +20,7 @@ ingested_at: 2026-05-28
 
 **2일 — [[lore/tel-aruhn|Tel Aruhn]]**: [[lore/zuuk|Zuuk]]이 [[lore/night-mother|Night Mother]] 방문. **Empress Tavia의 *사후* 편지 + 금 전달**. Night Mother: *"Duke of Morrowind도 황제 암살 의뢰했지만 돈 침몰. 죽은 자에게 어떻게 응답 약속?"* Zuuk: *"마차에 금 가져옴"*. 약속. 거래 후 [[lore/miramor|Miramor]] *벽장에서 등장* — *"Zuuk을 알지만 *전 황후* 의뢰자인 줄 몰랐다"*. **Miramor 자청 — *Emperor 암살자*. "I've already killed his son" 자랑**. Night Mother: *Bodrum에서 단검으로*.
 
-**3일 — [[lore/mournhold|Mournhold]]**: Duke가 *4일째 *붉은 안개 + 번개* 위 도시. *Oblivion의 손이 다가옴*. Vivec은 *Bodrum 협상*, Almalexia/Sotha Sil은 *[[lore/necrom|Necrom]]*. *몇 일 늦음*.
+**3일 — [[termbase/mournhold|Mournhold]]**: Duke가 *4일째 *붉은 안개 + 번개* 위 도시. *Oblivion의 손이 다가옴*. Vivec은 *Bodrum 협상*, Almalexia/Sotha Sil은 *[[lore/necrom|Necrom]]*. *몇 일 늦음*.
 
 **6일 — Bodrum**: 횃불 + 안개 눈. *Dunmer + Imperial 군대*가 *바닥 따뜻함 위해 합께* 모임. 황제 [[lore/reman-iii|Reman III]] + 정부 *[[lore/corda|Corda]]* (Rijja 동생). 황제: *"여기는 위장만, 진짜 서명은 Imperial Palace에서 한 달 후. 모두 데려와 — Almalexia + 그 [[lore/sotha-sil|sotha sil]]도"*. **한 달 후 grand ball 잡음**. **King [[lore/king-drozel|Dro'Zel]]이 *Imperial 조언자*로 등장** — 광기 그대로 권력 침투.
 
@@ -30,9 +30,9 @@ ingested_at: 2026-05-28
 
 **17일 — Tel Aruhn**: Night Mother가 *Imperial Palace agent 보고* — *Miramor 성공적 탐지·제거*. **황제는 *unsafe hands*에 있음 확인** — *Palace 내부 진짜 음모*가 더 큰 것이라는 증명. Night Mother 추가 답신.
 
-**18일 — [[lore/balmora|Balmora]]**: Vivec이 *밤낮 달려* 도착. *Dagoth-Ur 위험 지대 가로지름*. Sotha Sil이 *jaw 큰 흉터*. "Almalexia is gravely injured, but Mehrunes Dagon will not return from Oblivion for many a moon." Almalexia 침상 — *gray 얼굴, 입술까지*. *비전 꾸는 중*: **타는 성이 *Castle Mournhold가 아니라 Imperial Palace***. v12 황제 암살 복선.
+**18일 — [[termbase/balmora|Balmora]]**: Vivec이 *밤낮 달려* 도착. *Dagoth-Ur 위험 지대 가로지름*. Sotha Sil이 *jaw 큰 흉터*. "Almalexia is gravely injured, but Mehrunes Dagon will not return from Oblivion for many a moon." Almalexia 침상 — *gray 얼굴, 입술까지*. *비전 꾸는 중*: **타는 성이 *Castle Mournhold가 아니라 Imperial Palace***. v12 황제 암살 복선.
 
-**24일 — [[lore/imperial-city|Imperial City]]**: 황제가 *연회 + 무도회 준비*. 메뉴 결정 — *Akaviri 입맛은 *특이*. *King Dro'Zel이 *entertainment 감독*. *Corda가 침실 동행*. **모든 게 함정으로 모임**.
+**24일 — [[termbase/imperial-city|Imperial City]]**: 황제가 *연회 + 무도회 준비*. 메뉴 결정 — *Akaviri 입맛은 *특이*. *King Dro'Zel이 *entertainment 감독*. *Corda가 침실 동행*. **모든 게 함정으로 모임**.
 
 ## 등장 entity / 인물
 - [[lore/night-mother|Night Mother]] — *Morag Tong* 어머니, *Mephala 후원*
@@ -42,7 +42,7 @@ ingested_at: 2026-05-28
 - [[lore/mehrunes-dagon|Mehrunes Dagon]] — *Daedra Pact 위반자*
 - [[lore/almalexia|Almalexia]] — *Dagon 격퇴 + 비전*
 - [[lore/sotha-sil|Sotha Sil]] — *Dagon 격퇴, jaw 흉터*
-- [[lore/vivec|Vivec]] — Bodrum 협상 → Mournhold 합류
+- [[termbase/vivec|Vivec]] — Bodrum 협상 → Mournhold 합류
 - [[lore/king-drozel|King Dro'Zel]] — *Imperial 조언자*로 침투
 - [[lore/reman-iii|Reman III]] — 모든 함정 모름
 

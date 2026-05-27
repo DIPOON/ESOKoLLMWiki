@@ -12,7 +12,7 @@ ingested_at: 2026-05-28
 # 36 Lessons of Vivec, Sermon 11 — 통치자 가르침 첫 번째
 
 ## 본문 요약
-**Resdaynia 시대** — [[lore/chimer|Chimer]] + [[lore/dwemer|Dwemer]]가 [[lore/almsivi|ALMSIVI]] + [[lore/nerevar|Hortator]] 통치 하. Veloth 신들이 *우주 빚으로 잠시 부재* → Hortator 혼란 → [[lore/vivec|Vivec]] 조언. **세 통치자 가르침 중 첫 번째**.
+**Resdaynia 시대** — [[termbase/chimer|Chimer]] + [[lore/dwemer|Dwemer]]가 [[termbase/almsivi|ALMSIVI]] + [[lore/nerevar|Hortator]] 통치 하. Veloth 신들이 *우주 빚으로 잠시 부재* → Hortator 혼란 → [[termbase/vivec|Vivec]] 조언. **세 통치자 가르침 중 첫 번째**.
 
 핵심 11개:
 1. **"The waking world is the amnesia of dream"**. 권력 남용 X — *반항하는 딸처럼 떠난다*. 결국 *반쪽 국가의 조부모*가 됨.

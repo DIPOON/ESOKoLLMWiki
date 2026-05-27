@@ -15,7 +15,7 @@ ingested_at: 2026-05-28
 
 **둘째 monster: Treasure Wood Sword**. *Pomegranate Banquet 이후 몇 년 내 낮은 [[lore/great-houses|Velothi houses]]의 *교훈가요***. *"He who wields it becomes self-known!"*
 
-[[lore/vivec|Vivec]]이 *[[lore/house-mora|House Mora]] ancestor alcove*에 *방문* — [[lore/moraelyn|rose-worn prince of garlands]]의 가문. 뼈들과 회담. Vivec: *"내 결혼의 barren 것 돌려주면 thought realm에서 지우지 않으마. 너희 가문 enchantress가 [[lore/almalexia|Ayem]] 사랑이라 그녀 지혜로 부탁하는 것."*
+[[termbase/vivec|Vivec]]이 *[[lore/house-mora|House Mora]] ancestor alcove*에 *방문* — [[lore/moraelyn|rose-worn prince of garlands]]의 가문. 뼈들과 회담. Vivec: *"내 결혼의 barren 것 돌려주면 thought realm에서 지우지 않으마. 너희 가문 enchantress가 [[lore/almalexia|Ayem]] 사랑이라 그녀 지혜로 부탁하는 것."*
 
 **[[lore/bonewalker|Bonewalker]]** 출현 — 턱에 *3 precious stones* (opal 포함). Bonewalker: *"Bargains were made with the Black Hands [[lore/mephala|Mephala]]. Sword will not leave our house."*
 

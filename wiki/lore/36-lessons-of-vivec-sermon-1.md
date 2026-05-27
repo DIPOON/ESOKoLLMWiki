@@ -14,15 +14,15 @@ ingested_at: 2026-05-28
 # 36 Lessons of Vivec, Sermon 1 — Vivec의 탄생 신화
 
 ## 책 개요
-[[lore/vivec|Vivec]]의 36 sermon 1번. **Vivec 탄생 신화** — *Almalexia(Ayem) + Sotha Sil(Seht) + 데이드릭의 합작*. Michael Kirkbride 작품. Morrowind 종교 핵심 텍스트.
+[[termbase/vivec|Vivec]]의 36 sermon 1번. **Vivec 탄생 신화** — *Almalexia(Ayem) + Sotha Sil(Seht) + 데이드릭의 합작*. Michael Kirkbride 작품. Morrowind 종교 핵심 텍스트.
 
 ## 본문 요약
 
-Vivec은 [[lore/veloth-velothi|Velothi]] 부족 ([[lore/chimer|Chimer]] 시대, *Skyrim 전쟁* 이전)에 *재 속에서* 태어남.
+Vivec은 [[lore/veloth-velothi|Velothi]] 부족 ([[termbase/chimer|Chimer]] 시대, *Skyrim 전쟁* 이전)에 *재 속에서* 태어남.
 
-**[[lore/almalexia|Almalexia (Ayem)]]**가 첫째로 *netchiman 마을* 방문 (그림자가 [[lore/boethiah|Boethiah]] — Prince of Plots). *netchiman의 아내*에게 *7음절 주문 AYEM AE SEHTI AE VEHK* 전수. 그녀를 *바다에 던짐* → [[lore/dreugh|Dreugh]]가 *유리·산호 성*으로 데려가 *gills + 우유 손가락* 주고 *성별 변환* → *알 형태로 출산 가능*.
+**[[lore/almalexia|Almalexia (Ayem)]]**가 첫째로 *netchiman 마을* 방문 (그림자가 [[lore/boethiah|Boethiah]] — Prince of Plots). *netchiman의 아내*에게 *7음절 주문 AYEM AE SEHTI AE VEHK* 전수. 그녀를 *바다에 던짐* → [[termbase/dreugh|Dreugh]]가 *유리·산호 성*으로 데려가 *gills + 우유 손가락* 주고 *성별 변환* → *알 형태로 출산 가능*.
 
-**[[lore/sotha-sil|Sotha Sil (Seht)]]**가 7-8개월 후 등장 — *Clockwork King of the Three in One*. *알이 [[lore/nerevar|Hortator]] 올 때까지 부화*하라 명령. *Fabricant homunculi*가 그녀를 [[lore/azuras-coast|Azura's Coast]] 해안으로 옮김. 7-8개월 더 — [[lore/mephala|Mephala]] Codes + Veloth 예언 + [[lore/trinimac|Trinimac]] 금기 가르침을 *알에 속삭임*.
+**[[lore/sotha-sil|Sotha Sil (Seht)]]**가 7-8개월 후 등장 — *Clockwork King of the Three in One*. *알이 [[lore/nerevar|Hortator]] 올 때까지 부화*하라 명령. *Fabricant homunculi*가 그녀를 [[termbase/azuras-coast|Azura's Coast]] 해안으로 옮김. 7-8개월 더 — [[lore/mephala|Mephala]] Codes + Veloth 예언 + [[lore/trinimac|Trinimac]] 금기 가르침을 *알에 속삭임*.
 
 **7명 Daedra**가 와서 *Barons of Move Like This* — *뼈 움직임으로 가능한 새 동작* 부여. **8번째: [[lore/fa-nuit-hen|Fa-Nuit-Hen]]** (Demiprince, *Multiplier of Motions Known*). *3개월 후 [[lore/house-indoril|Indoril]] 땅으로 가라 — 전쟁이 옴*. Barons + Demiprince가 *기둥의 *fighting styles*로 알 앞에서 춤*:
 
@@ -32,20 +32,20 @@ Vivec은 [[lore/veloth-velothi|Velothi]] 부족 ([[lore/chimer|Chimer]] 시대, 
 
 Vivec의 핵심 말: *"For I have crushed a world with my left hand, but in my right hand is how it could have won against me. Love is under my will only."*
 
-끝: **[[lore/almsivi|ALMSIVI]]** (Tribunal).
+끝: **[[termbase/almsivi|ALMSIVI]]** (Tribunal).
 
 ## 등장 entity
-- [[lore/vivec|Vivec]] (Vehk) — *알*에서 시작
+- [[termbase/vivec|Vivec]] (Vehk) — *알*에서 시작
 - [[lore/almalexia|Almalexia]] (Ayem) — *Face-Snaked Queen of Three in One*
 - [[lore/sotha-sil|Sotha Sil]] (Seht) — *Clockwork King of Three in One*
 - [[lore/boethiah|Boethiah]] — Ayem의 그림자
 - [[lore/fa-nuit-hen|Fa-Nuit-Hen]] — Demiprince, *Multiplier of Motions Known*
 - *Barons of Move Like This* — 7 Daedra
-- [[lore/dreugh|Dreugh]] — 변형 도움
+- [[termbase/dreugh|Dreugh]] — 변형 도움
 - [[lore/mephala|Mephala]] — Codes
 - [[lore/trinimac|Trinimac]] — 금기 가르침
 - [[lore/nerevar|Hortator]] — 미래 등장 예고
-- [[lore/almsivi|ALMSIVI]] — Tribunal 7음절
+- [[termbase/almsivi|ALMSIVI]] — Tribunal 7음절
 
 ## 톤 가이드
 - *신성한 종교 텍스트*. 의고체 + 시적 + 신화적.

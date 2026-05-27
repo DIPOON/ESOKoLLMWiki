@@ -20,7 +20,7 @@ ingested_at: 2026-05-28
 
 **2일 — [[lore/gideon|Gideon]] (Black Marsh)**: 17년간 *Castle Giovesse* 감금된 [[lore/empress-tavia|Empress Tavia]]가 아들 *Prince Juilek 사망 소식* 듣고 통곡. 충성 경비 *Zuuk* ([[lore/kothringi|Kothringi]])가 *조용한 미소*.
 
-**5일 — [[lore/imperial-city|Imperial City]]**: 황제 [[lore/reman-iii|Reman III]]가 *문 잠그고 광기*. *Juilek이 황제 방패 들고 있다 살해됨* — *황제 노린 암살자가 오인*했을 거라 공포. 황제는 *Rijja가 Thurzo Fortress에서 *오른쪽 눈을 잃게 한* 흉터* 보유. [[lore/versidue-shaie|Versidue-Shaie]] Potentate 설득으로 **Lady Rijja 처형 명령 서명**.
+**5일 — [[termbase/imperial-city|Imperial City]]**: 황제 [[lore/reman-iii|Reman III]]가 *문 잠그고 광기*. *Juilek이 황제 방패 들고 있다 살해됨* — *황제 노린 암살자가 오인*했을 거라 공포. 황제는 *Rijja가 Thurzo Fortress에서 *오른쪽 눈을 잃게 한* 흉터* 보유. [[lore/versidue-shaie|Versidue-Shaie]] Potentate 설득으로 **Lady Rijja 처형 명령 서명**.
 
 **6일 — Gideon**: Empress Tavia가 *17년간 모은 금 + Zuuk 도움*으로 *탑 창문에서 안개 속 탈출*. Zuuk은 *Morrowind로 향함*. 침대에 *베개+담요로 위장* — *발견 지연*.
 

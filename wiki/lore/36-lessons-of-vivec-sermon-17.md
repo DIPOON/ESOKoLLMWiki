@@ -13,11 +13,11 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-> **"I am an atlas of smoke."** — [[lore/vivec|Vivec]]이 더 위대해짐.
+> **"I am an atlas of smoke."** — [[termbase/vivec|Vivec]]이 더 위대해짐.
 
 [[lore/nerevar|Hortator]]가 *도끼로 하늘 정복* 시도 → [[lore/magnus|Magnus]] 권능으로 *태양 도서관에서 추방*. Vivec이 [[lore/deshaan-plain|Deshaan Plain]] *grub field*에서 발견. 
 
-### 동방: [[lore/akavir|Akavir]]
+### 동방: [[termbase/akavir|Akavir]]
 - *뱀과 눈 악마의 땅*. *[[lore/tsaesci|Tsaesci]] 왕의 베개책*에서 *idiom 스트로크* 배움.
 - **Tsaesci 뱀들이 *서방 (Tamriel) 복수* 최소 3번 맹세**.
 
@@ -25,10 +25,10 @@ ingested_at: 2026-05-28
 - *spiked waters*. *Spirit of limitation*이 *spoke 하나* 선물 — 나머지 wheel을 찾으라.
 - Hortator: *"The edge of the world is made of swords."* Vivec 교정: *"They are the bottom row of the world's teeth."*
 
-### 북방: [[lore/atmora|Elder Wood]]
+### 북방: [[termbase/atmora|Elder Wood]]
 - *얼어붙은 수염왕들*만.
 
-### 서방: [[lore/yokuda|Yokuda]] (Redguard / 검은 남자들)
+### 서방: [[termbase/yokuda|Yokuda]] (Redguard / 검은 남자들)
 - 1년 [[lore/ansei|sword saints]] 밑에서 학습.
 - Vivec이 1년 더 *little reward 미덕* 가르침.
 - *왕 하나 아내 삼고 *서방을 완전 파괴할 monster 종족 창조**.
@@ -39,7 +39,7 @@ ingested_at: 2026-05-28
 
 ### Red Mountain
 - *"Here is the last of the last. Within it the Sharmat waits."*
-- 아직 Sharmat 싸울 시간 X — 둘이 *서로 전투*. **Vivec이 Hortator에 *모든 [[lore/chimer|Velothi]]가 볼 수 있게 표시* 새김**. [[lore/almalexia|Ayem]]-[[lore/azura|Azura]] 축복으로 상처 봉인.
+- 아직 Sharmat 싸울 시간 X — 둘이 *서로 전투*. **Vivec이 Hortator에 *모든 [[termbase/chimer|Velothi]]가 볼 수 있게 표시* 새김**. [[lore/almalexia|Ayem]]-[[lore/azura|Azura]] 축복으로 상처 봉인.
 - 전투 끝 — Hortator가 *7개 더 spoke 모았음*. *staff* 만들려 했지만 Vivec 거부: *"It is not the time for that."* — *지금 아직 아님*.
 - **"I am the wheel"** → Vivec이 wheel 형태. *중심 공허가 너무 오래 살기 전*에 Nerevar가 *spoke 박음*.
 

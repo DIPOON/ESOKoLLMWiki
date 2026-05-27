@@ -6,7 +6,7 @@ series: 2920, The Last Year of the First Era
 series_index: 3
 writer: Ted Peterson
 author: Carlovac Townway
-related_entity: [[lore/vivec|Vivec]], [[lore/reman-iii|Reman III]], [[lore/versidue-shaie|Versidue-Shaie]]
+related_entity: [[termbase/vivec|Vivec]], [[lore/reman-iii|Reman III]], [[lore/versidue-shaie|Versidue-Shaie]]
 source_uesp: "raw/Lore/_ingested/2920, First Seed (v3).md"
 ingested_at: 2026-05-28
 ---
@@ -14,13 +14,13 @@ ingested_at: 2026-05-28
 # 2920, First Seed (v3) — 보드룸 전투
 
 ## 책 개요
-시리즈 3권. *First Seed* (3월)의 *Bodrum 전투* — [[lore/vivec|Vivec]]이 [[lore/reman-iii|Reman III]] 황제의 Imperial Army를 *지형 + 트릭*으로 격파한 사건.
+시리즈 3권. *First Seed* (3월)의 *Bodrum 전투* — [[termbase/vivec|Vivec]]이 [[lore/reman-iii|Reman III]] 황제의 Imperial Army를 *지형 + 트릭*으로 격파한 사건.
 
 ## 본문 요약
 
-**15일 — Caer Suvio (Cyrodiil)**: 황제 [[lore/reman-iii|Reman III]]가 [[lore/versidue-shaie|Versidue-Shaie]] Potentate와 협의. 아들 *Prince Juilek*은 독살로 추정되어 거동 불가. Potentate가 *황제는 후방에 있으라*고 권유 + vanguard에 *Storig of Farrun*, 좌익에 *Queen Naghea of [[lore/riverhold|Riverhold]]* ([[lore/khajiit|Khajiit]]), 우익에 *Warchief Ulaqth of [[lore/lilmoth|Lilmoth]]* ([[lore/argonian|Argonian]]) 배치 추천.
+**15일 — Caer Suvio (Cyrodiil)**: 황제 [[lore/reman-iii|Reman III]]가 [[lore/versidue-shaie|Versidue-Shaie]] Potentate와 협의. 아들 *Prince Juilek*은 독살로 추정되어 거동 불가. Potentate가 *황제는 후방에 있으라*고 권유 + vanguard에 *Storig of Farrun*, 좌익에 *Queen Naghea of [[lore/riverhold|Riverhold]]* ([[lore/khajiit|Khajiit]]), 우익에 *Warchief Ulaqth of [[termbase/lilmoth|Lilmoth]]* ([[lore/argonian|Argonian]]) 배치 추천.
 
-**18일 — Ald Erfoud (Morrowind)**: [[lore/vivec|Vivec]]이 *Cassyr Whitley of Dwynnen* ([[lore/breton|Breton]] 스파이)로부터 Imperial Army 배치 정보 입수.
+**18일 — Ald Erfoud (Morrowind)**: [[termbase/vivec|Vivec]]이 *Cassyr Whitley of Dwynnen* ([[lore/breton|Breton]] 스파이)로부터 Imperial Army 배치 정보 입수.
 
 **19일 — Bodrum (Morrowind)**: Vivec이 *[[lore/pryai-river|Pryai 강]] 위 절벽 + 강 댐 + 나무 창 함정* 준비. 병사들에게 *나무를 베고 강 댐 쌓게 + 나무 창 제작*. 창은 *피라미드 형 첨두*로 *완벽한 균형*. 함정 그물처럼 강을 가로질러 설치.
 
@@ -29,7 +29,7 @@ ingested_at: 2026-05-28
 **29일 — Hegathe (Hammerfell)**: *Corda*가 자매 *Rijja* (Imperial 궁녀)로부터 편지 받음 — *황제의 편집증 심화*, *최근 전투 실패*는 *스파이 탓*. Corda는 *Ruptga 신에게 *지루한 삶 유지*를 빌었다* — 이후 [[lore/morag-tong|Morag Tong]] 사건의 복선.
 
 ## 등장 entity / 인물
-- [[lore/vivec|Vivec]] — 군사 천재의 모습
+- [[termbase/vivec|Vivec]] — 군사 천재의 모습
 - [[lore/reman-iii|Reman III]] — 황제, 편집증 묘사
 - [[lore/versidue-shaie|Versidue-Shaie]] — Potentate, 황제 가까이 접근
 - *Prince Juilek* — 황태자, 독살 추정
@@ -39,7 +39,7 @@ ingested_at: 2026-05-28
 - *Cassyr Whitley of Dwynnen* — Breton 스파이
 - *Miramor* — Imperial 병사, 생존자
 - *Corda*, *Rijja* — 자매 (Hegathe / Imperial)
-- [[lore/ruptga|Ruptga]] — Redguard 신
+- [[termbase/ruptga|Ruptga]] — Redguard 신
 
 ## 톤 가이드
 - 의고체 + 군사 서술. Vivec의 *조용한 자신감 + 영리함*.

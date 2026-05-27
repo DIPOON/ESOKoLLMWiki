@@ -17,7 +17,7 @@ ingested_at: 2026-05-28
 
 1. **Spokes = [[lore/aurbis|Aurbis]]의 8 chaos 구성요소** ([[lore/eight-divines|Eight Divines]]), *[[lore/akatosh|law of time]]에 의해 *고체화***. *static change*. 도마뱀 신들은 *Striking*이라 부름 — *reptile wheel, coiled potential*.
 
-2. **Spokes = [[lore/aedra|Aedra]]의 *대여된 뼈***. *8 gift-limbs to [[lore/sithis|SITHISIT]]*. *wet earth of the new star — 우리의 집*. Aurbis는 *밖에 있고 안 아님*. Circles = *혼란한 [[lore/satakal|serpents]]*. Aedra는 *givers였다가 liars*. *teeth = proselytizers*. **개종 = 거짓의 입에 자신을 넣음**.
+2. **Spokes = [[lore/aedra|Aedra]]의 *대여된 뼈***. *8 gift-limbs to [[lore/sithis|SITHISIT]]*. *wet earth of the new star — 우리의 집*. Aurbis는 *밖에 있고 안 아님*. Circles = *혼란한 [[termbase/satakal|serpents]]*. Aedra는 *givers였다가 liars*. *teeth = proselytizers*. **개종 = 거짓의 입에 자신을 넣음**.
 
 3. **"The enlightened are those uneaten by the world."**
 

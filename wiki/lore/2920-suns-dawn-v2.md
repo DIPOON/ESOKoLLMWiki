@@ -18,15 +18,15 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-**3일 — [[lore/artaeum|Artaeum]]**: [[lore/sotha-sil|Sotha Sil]]이 *Psijic 초심자에게 *grom* 수업*. *오아솜 나무*에서 과일 따기 → *identification 마법*. Welleg: *"A ball"* (실패). Lilatha: *"grom — dreugh이 karvinasim 후 토한 것"*. **Sotha Sil의 *3층 이해* 가르침**: 1) common man — 물건의 *위치*만, 2) *Old Way / Psijic / Mysticism* — *역할*까지, 3) **진정한 이해 — *역할 + 진실 + 의미 해석***. grom = *dreugh가 1년 육지 생활 후 물에 돌아가 *피부·내장 토해낸 것* (구토물).
+**3일 — [[termbase/artaeum|Artaeum]]**: [[lore/sotha-sil|Sotha Sil]]이 *Psijic 초심자에게 *grom* 수업*. *오아솜 나무*에서 과일 따기 → *identification 마법*. Welleg: *"A ball"* (실패). Lilatha: *"grom — dreugh이 karvinasim 후 토한 것"*. **Sotha Sil의 *3층 이해* 가르침**: 1) common man — 물건의 *위치*만, 2) *Old Way / Psijic / Mysticism* — *역할*까지, 3) **진정한 이해 — *역할 + 진실 + 의미 해석***. grom = *dreugh가 1년 육지 생활 후 물에 돌아가 *피부·내장 토해낸 것* (구토물).
 
-**4일 — [[lore/imperial-city|Imperial City]]**: 황제 [[lore/reman-iii|Reman III]]가 [[lore/rijja|Rijja]] 정부와 *목욕*. *Argonian Battlechief of [[lore/soulrest|Soulrest]]*가 발 밟고 *"I'm sorry"* — 황제 *"Pardon me로 하셔야지. *I'm sorry*는 *내가 황제임을 미안해함*"* 망상적 해석. **신뢰 = Rijja + Juilek만**. Council + Potentate = *"pack of spies and a snake"*. Rijja와 *make love*.
+**4일 — [[termbase/imperial-city|Imperial City]]**: 황제 [[lore/reman-iii|Reman III]]가 [[lore/rijja|Rijja]] 정부와 *목욕*. *Argonian Battlechief of [[lore/soulrest|Soulrest]]*가 발 밟고 *"I'm sorry"* — 황제 *"Pardon me로 하셔야지. *I'm sorry*는 *내가 황제임을 미안해함*"* 망상적 해석. **신뢰 = Rijja + Juilek만**. Council + Potentate = *"pack of spies and a snake"*. Rijja와 *make love*.
 
-**13일 — [[lore/mournhold|Mournhold]]**: [[lore/turala|Turala]]가 검은 보석 도시 문 앞. *Duke Brindisi Dorom (House Indoril)이 임신 알고 *분노 + 추방**. 가문([[lore/house-redoran|House Redoran]])에 진실 고백. *House Indoril vs Redoran 갈등*에 *부친이 *눈물 흘리며 *Expulsion 낙인***. **"No one in Morrowind would take her in now."** 도주 시작 — *v5 Bosriel 탄생까지*.
+**13일 — [[termbase/mournhold|Mournhold]]**: [[lore/turala|Turala]]가 검은 보석 도시 문 앞. *Duke Brindisi Dorom (House Indoril)이 임신 알고 *분노 + 추방**. 가문([[lore/house-redoran|House Redoran]])에 진실 고백. *House Indoril vs Redoran 갈등*에 *부친이 *눈물 흘리며 *Expulsion 낙인***. **"No one in Morrowind would take her in now."** 도주 시작 — *v5 Bosriel 탄생까지*.
 
-**16일 — [[lore/senchal|Senchal]] (Anequina / [[lore/elsweyr|Elsweyr]])**: *Lovers' Day*. *King Dro'Zel* (Khajiit 왕)이 *Polydor and Eloisa 음유시인 이야기*에 *공포·분노*. *"한 마디로 그 음유시인은 *Gilverdale 출신*"*. **Dro'Zel이 *광기로 탑 올라감***. Queen Hasaama가 *남편의 광기 깊이* 미리 알았더라면 막았을 것.
+**16일 — [[lore/senchal|Senchal]] (Anequina / [[termbase/elsweyr|Elsweyr]])**: *Lovers' Day*. *King Dro'Zel* (Khajiit 왕)이 *Polydor and Eloisa 음유시인 이야기*에 *공포·분노*. *"한 마디로 그 음유시인은 *Gilverdale 출신*"*. **Dro'Zel이 *광기로 탑 올라감***. Queen Hasaama가 *남편의 광기 깊이* 미리 알았더라면 막았을 것.
 
-**19일 — [[lore/gilverdale|Gilverdale]] ([[lore/valenwood|Valenwood]])**: 평범한 마을 — *늙은 목수가 *논리 수수께끼* (gold key cell). 한 어머니가 *수수께끼에 몰두*하는 동안 아이가 *"Mama!"* 외침. **붉은 안개가 마을 덮음**. *붉은 피부의 거인* — **[[lore/molag-bal|Molag Bal]]** ([[lore/daedra|Daedra]] Prince of Rage). 미소. **마을 전체 *멸망***.
+**19일 — [[lore/gilverdale|Gilverdale]] ([[termbase/valenwood|Valenwood]])**: 평범한 마을 — *늙은 목수가 *논리 수수께끼* (gold key cell). 한 어머니가 *수수께끼에 몰두*하는 동안 아이가 *"Mama!"* 외침. **붉은 안개가 마을 덮음**. *붉은 피부의 거인* — **[[lore/molag-bal|Molag Bal]]** ([[lore/daedra|Daedra]] Prince of Rage). 미소. **마을 전체 *멸망***.
 
 **29일 — Gilverdale**: [[lore/almalexia|Almalexia]]이 *Artaeum 가는 길* *진흙 황무지* 통과. 말이 *물 거부*. *벽돌과 뼛조각* 가슴에 안고 *비전 보임*. **"We must continue on to Artaeum."** *Sotha Sil 데리러* 가는 동기 강화.
 

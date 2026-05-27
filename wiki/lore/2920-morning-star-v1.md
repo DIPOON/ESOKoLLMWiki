@@ -18,11 +18,11 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-**1일 — [[lore/mournhold|Mournhold]]**: [[lore/almalexia|Almalexia]]가 *피와 축제로 가득한 꿈* — *80년 전쟁 종결 예언*. 멀리 있는 [[lore/vivec|Vivec]]을 *boiling pool*로 부름. **"[[lore/sotha-sil|Sotha Sil]] 없이는 진다."** Vivec: *First Seed (3월)까지 북에서 공격 예상* — Almalexia가 [[lore/artaeum|Artaeum]]으로 *Sotha Sil 데려오러* 떠남.
+**1일 — [[termbase/mournhold|Mournhold]]**: [[lore/almalexia|Almalexia]]가 *피와 축제로 가득한 꿈* — *80년 전쟁 종결 예언*. 멀리 있는 [[termbase/vivec|Vivec]]을 *boiling pool*로 부름. **"[[lore/sotha-sil|Sotha Sil]] 없이는 진다."** Vivec: *First Seed (3월)까지 북에서 공격 예상* — Almalexia가 [[termbase/artaeum|Artaeum]]으로 *Sotha Sil 데려오러* 떠남.
 
 **4일 — [[lore/gideon|Gideon]] (Black Marsh)**: [[lore/empress-tavia|Empress Tavia]]가 *7년째 [[lore/castle-giovesse|Castle Giovesse]] 감금*. *Imperial Court 댄스 자수* 찢음 — *무의미한 반항*. [[lore/zuuk|Zuuk]] ([[lore/kothringi|Kothringi]] Imperial Guard, 은빛 피부) 부름. **"Zuuk, let's discuss methods of assassinating my husband today."** — *v8의 Juilek 암살 음모 시작점*.
 
-**14일 — [[lore/imperial-city|Imperial City]]** ([[lore/south-winds-prayer|South Wind's Prayer]] 축일): 황제 [[lore/reman-iii|Reman III]]는 [[lore/temple-of-the-one|Temple of the One]], Juilek은 *해마다 다른 신전 (정치)* — 올해 [[lore/benevolence-of-mara|Benevolence of Mara]]. **Imperial Arena 결투** — *Juilek (ebony armor, 방패+장검) vs Savirien-Chorak (katana+wakizashi)*. Akaviri 무술: *moon orbiting + slither* — Juilek 한 번 넘어짐. 결국 *Juilek이 *Savirien-Chorak 검 방패에 끼우고 가슴 베어 승리*. 황제: **"You Akaviri have a lot of showy moves, but if just one of our strikes comes through, it's all over for you."** Potentate가 *조용히 기억* — **v12에서 그 말로 *황제 죽이며 응수*** ("I remembered that, you see.").
+**14일 — [[termbase/imperial-city|Imperial City]]** ([[lore/south-winds-prayer|South Wind's Prayer]] 축일): 황제 [[lore/reman-iii|Reman III]]는 [[lore/temple-of-the-one|Temple of the One]], Juilek은 *해마다 다른 신전 (정치)* — 올해 [[lore/benevolence-of-mara|Benevolence of Mara]]. **Imperial Arena 결투** — *Juilek (ebony armor, 방패+장검) vs Savirien-Chorak (katana+wakizashi)*. Akaviri 무술: *moon orbiting + slither* — Juilek 한 번 넘어짐. 결국 *Juilek이 *Savirien-Chorak 검 방패에 끼우고 가슴 베어 승리*. 황제: **"You Akaviri have a lot of showy moves, but if just one of our strikes comes through, it's all over for you."** Potentate가 *조용히 기억* — **v12에서 그 말로 *황제 죽이며 응수*** ("I remembered that, you see.").
 
 황제 의심 시작: *"Could the Potentate be another enemy, just as the Empress had turned out to be?"* — *복선*.
 
@@ -30,12 +30,12 @@ ingested_at: 2026-05-28
 
 ## 등장 entity / 인물 (시리즈 전체)
 - [[lore/almalexia|Almalexia]] — Tribunal, 예언자
-- [[lore/vivec|Vivec]] — Tribunal, 시인·전사·신
+- [[termbase/vivec|Vivec]] — Tribunal, 시인·전사·신
 - [[lore/sotha-sil|Sotha Sil]] — Tribunal, Artaeum (Psijic) 에 있음
 - [[lore/reman-iii|Reman III]] — 황제, 의심 + 권력욕
 - [[lore/juilek|Juilek]] — 황태자, *honor*
 - [[lore/versidue-shaie|Versidue-Shaie]] — Potentate, *기억하는 자*
-- [[lore/savirien-chorak|Savirien-Chorak]] — Potentate 아들
+- [[termbase/savirien-chorak|Savirien-Chorak]] — Potentate 아들
 - [[lore/empress-tavia|Empress Tavia]] — 황후, 살의
 - [[lore/zuuk|Zuuk]] — Kothringi, Tavia의 손
 - [[lore/brindisi-dorom|Brindisi Dorom]] — Mournhold Duke

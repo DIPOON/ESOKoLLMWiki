@@ -6,7 +6,7 @@ series: 2920, The Last Year of the First Era
 series_index: 4
 writer: Ted Peterson
 author: Carlovac Townway
-related_entity: [[lore/sotha-sil|Sotha Sil]], [[lore/iachesis|Iachesis]], [[lore/daedra-pact-of-2920|Daedra Pact of 2920]]
+related_entity: [[lore/sotha-sil|Sotha Sil]], [[termbase/iachesis|Iachesis]], [[lore/daedra-pact-of-2920|Daedra Pact of 2920]]
 source_uesp: "raw/Lore/_ingested/2920, Rain's Hand (v4).md"
 ingested_at: 2026-05-28
 ---
@@ -18,7 +18,7 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-**3일 — [[lore/coldharbour|Coldharbour]] (Oblivion)**: [[lore/sotha-sil|Sotha Sil]]이 *[[lore/hearts-grief|Heart's Grief]] 궁전* (Azure Plasm에 반쯤 잠긴) 통과. **8 Daedric Princes 회합**:
+**3일 — [[termbase/coldharbour|Coldharbour]] (Oblivion)**: [[lore/sotha-sil|Sotha Sil]]이 *[[lore/hearts-grief|Heart's Grief]] 궁전* (Azure Plasm에 반쯤 잠긴) 통과. **8 Daedric Princes 회합**:
 - [[lore/azura|Azura]] (Dusk and Dawn)
 - [[lore/boethiah|Boethiah]] (Plots)
 - [[lore/herma-mora|Herma-Mora]] (Knowledge)
@@ -28,11 +28,11 @@ ingested_at: 2026-05-28
 - [[lore/molag-bal|Molag Bal]] (Rage)
 - [[lore/sheogorath|Sheogorath]] (Mad One)
 
-**5일 — [[lore/artaeum|Artaeum]]**: Sotha Sil이 [[lore/dreaming-cave|Dreaming Cavern]]에서 나옴 (며칠 같은데 본인은 *몇 달·년* 느낌). Lilatha + *Welleg* ([[lore/nord|Nord]] 초심자)에게 결과 보고: **"Daedra Princes가 *우리 조건 수락*. [[lore/gilverdale|Gilverdale]] 같은 재난 안 일어남. *witches·sorcerers 같은 중개자 통해서만* 인간과 mer의 부름에 응함."** 대가는 *침묵*: "deals we make with Daedra should not be discussed with the innocent."
+**5일 — [[termbase/artaeum|Artaeum]]**: Sotha Sil이 [[lore/dreaming-cave|Dreaming Cavern]]에서 나옴 (며칠 같은데 본인은 *몇 달·년* 느낌). Lilatha + *Welleg* ([[termbase/nord|Nord]] 초심자)에게 결과 보고: **"Daedra Princes가 *우리 조건 수락*. [[lore/gilverdale|Gilverdale]] 같은 재난 안 일어남. *witches·sorcerers 같은 중개자 통해서만* 인간과 mer의 부름에 응함."** 대가는 *침묵*: "deals we make with Daedra should not be discussed with the innocent."
 
 (이게 v10의 *Welleg → Cassyr 정보*의 출처: "Daedra Princes는 *Psijic + 일부 마녀·sorcerer 외 아마추어 소환 거부 합의*.")
 
-**8일 — [[lore/imperial-city|Imperial City]]**: [[lore/juilek|Juilek]] 황태자가 *3주 병상* — *Empress Tavia가 *황제가 독살할 것* 우려해 *taster 강요**. Akaviri *Savirien-Chorak*과 대화. Juilek: *vanguard 가서 [[lore/morrowind|Morrowind]] 공격 가고 싶음*.
+**8일 — [[termbase/imperial-city|Imperial City]]**: [[lore/juilek|Juilek]] 황태자가 *3주 병상* — *Empress Tavia가 *황제가 독살할 것* 우려해 *taster 강요**. Akaviri *Savirien-Chorak*과 대화. Juilek: *vanguard 가서 [[termbase/morrowind|Morrowind]] 공격 가고 싶음*.
 
 **11일 — Artaeum**: Sotha Sil이 *불 저항 마법 시연* (marble basin of leaping flames). 핵심: *"resistance is not about ignoring the fire's reality. You will feel the substance of flame... but you will know that it will not hurt or injure you."* 학생들 따라함. **Welleg가 실패 → 화상**. Sotha Sil이 *Welleg 추방* ("Fear does not break spells, but *doubt and incompetence* are the great enemies of any spellcaster.").
 
@@ -40,7 +40,7 @@ ingested_at: 2026-05-28
 
 ## 등장 entity / 인물
 - [[lore/sotha-sil|Sotha Sil]] — Tribunal, *Daedra Pact 협상자*
-- [[lore/iachesis|Iachesis]] — Psijic Order Master ([[lore/altmer|Altmer]])
+- [[termbase/iachesis|Iachesis]] — Psijic Order Master ([[lore/altmer|Altmer]])
 - *Lilatha*, *Welleg* (Wellig) — Psijic 초심자
 - [[lore/almalexia|Almalexia]] — 예언자, Artaeum 방문
 - [[lore/juilek|Juilek]] — 병상, *Morrowind 가고 싶음*

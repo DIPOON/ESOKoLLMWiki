@@ -13,7 +13,7 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-[[lore/vivec|Vivec]] 알을 가진 *netchiman의 아내*가 [[lore/house-indoril|Indoril]] 땅으로 여정. 여러 영혼이 *아들-딸 (Vivec)*에게 가르침 주려 옴.
+[[termbase/vivec|Vivec]] 알을 가진 *netchiman의 아내*가 [[lore/house-indoril|Indoril]] 땅으로 여정. 여러 영혼이 *아들-딸 (Vivec)*에게 가르침 주려 옴.
 
 **1번째 spirit**: *지식을 안고 hugged*. 그녀가 *[[lore/incalculable-effort|Incalculable Effort]]*에 흠뻑 젖음. 알이 *5 코너에 절*하며: *"Thus whoever performs this holy act shall be proud and mighty among the rest!"*
 
@@ -32,7 +32,7 @@ At-Hatoor: *"There is a proverb."* 떠남.
 
 알 웃음: *"너무 어린데 너무 많이 받았다. 이전에 태어났음에 틀림없다."*
 
-**6번째 spirit Black Hands [[lore/mephala|Mephala]]**: [[lore/chimer|Velothi]]에게 *sex + murder의 모든 기술*을 *시작 시절*에 가르친 자. *burning heart*가 *netchiman 아내의 눈을 녹임*. *6 cutting strokes로 알 꺼냄*. 알은 *고대 시절 모습* 보고 *눈멀지 않음*. 
+**6번째 spirit Black Hands [[lore/mephala|Mephala]]**: [[termbase/chimer|Velothi]]에게 *sex + murder의 모든 기술*을 *시작 시절*에 가르친 자. *burning heart*가 *netchiman 아내의 눈을 녹임*. *6 cutting strokes로 알 꺼냄*. 알은 *고대 시절 모습* 보고 *눈멀지 않음*. 
 
 알이 [[lore/daedra|Daedroth]]와 결합 → *옛 비밀 회수* (세상 web 안 풀리게 *몇 개만 남김*). Mephala가 알을 *다시 자궁에 넣고 magic breath로 구멍 닫음*. 다만 *netchiman 아내의 눈은 돌려주지 않음*:
 

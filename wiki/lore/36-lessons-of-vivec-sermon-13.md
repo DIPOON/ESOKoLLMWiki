@@ -17,7 +17,7 @@ ingested_at: 2026-05-28
 
 - **왕족의 비밀 음절 = [[lore/chim|CHIM]]** (Sermon 12 참조).
 - *temporal myth = man*.
-- **magical cross + 삼각형 = Triune house ([[lore/almsivi|ALMSIVI]])**. *4 Corners of House of Troubles*:
+- **magical cross + 삼각형 = Triune house ([[termbase/almsivi|ALMSIVI]])**. *4 Corners of House of Troubles*:
   - [[lore/molag-bal|BAL]]
   - [[lore/mehrunes-dagon|DAGON]]
   - [[lore/말라카스|MALAC]]

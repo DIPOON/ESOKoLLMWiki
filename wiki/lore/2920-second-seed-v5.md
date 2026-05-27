@@ -18,15 +18,15 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-**10일 — [[lore/imperial-city|Imperial City]]**: 황제 [[lore/reman-iii|Reman III]]가 [[lore/versidue-shaie|Potentate]] 방문 — *오직 셋만 신뢰*: Potentate, Juilek, Rijja. *Caer Suvio 시점에 *Catchica* (Orma 독살자, [[lore/argonian|Argonian]] 부족)이 캠프에 있었음 — Juilek 독살 의심*. Council의 *증거 요구*에 좌절. Potentate가 **"Council에는 *놓아준다* 말하고, 제가 *추적해 음모 전모* 파악"** 제안. 황제 동의. **Potentate가 아들 Savirien-Chorak에게 "*Catchica에게 *지시 *따르라*는 편지 — *생명 걸린* 일이라 강조*"**. *Potentate가 음모의 *진짜 가담자***.
+**10일 — [[termbase/imperial-city|Imperial City]]**: 황제 [[lore/reman-iii|Reman III]]가 [[lore/versidue-shaie|Potentate]] 방문 — *오직 셋만 신뢰*: Potentate, Juilek, Rijja. *Caer Suvio 시점에 *Catchica* (Orma 독살자, [[lore/argonian|Argonian]] 부족)이 캠프에 있었음 — Juilek 독살 의심*. Council의 *증거 요구*에 좌절. Potentate가 **"Council에는 *놓아준다* 말하고, 제가 *추적해 음모 전모* 파악"** 제안. 황제 동의. **Potentate가 아들 Savirien-Chorak에게 "*Catchica에게 *지시 *따르라*는 편지 — *생명 걸린* 일이라 강조*"**. *Potentate가 음모의 *진짜 가담자***.
 
-**13일 — Mir Corrup ([[lore/cyrodiil|Cyrodiil]])**: [[lore/rijja|Rijja]]가 *온천* 휴양. 눈 가린 *Orma 여성 부족*이 *waterskin* (사실 *neivous ichor 독*) 가져옴 → *눈 없는 부족* 깨달음. *Imperial Guard* 등장 — *Catchica를 *Argonian*과 만나는 거 봤다* 주장. Catchica는 *Argonian 변신*으로 *도주*. Rijja가 *naked + 혼란* 체포. 결백 외침. 캡틴: *"if he trusts you"* — *Rijja 모함 완성*.
+**13일 — Mir Corrup ([[termbase/cyrodiil|Cyrodiil]])**: [[lore/rijja|Rijja]]가 *온천* 휴양. 눈 가린 *Orma 여성 부족*이 *waterskin* (사실 *neivous ichor 독*) 가져옴 → *눈 없는 부족* 깨달음. *Imperial Guard* 등장 — *Catchica를 *Argonian*과 만나는 거 봤다* 주장. Catchica는 *Argonian 변신*으로 *도주*. Rijja가 *naked + 혼란* 체포. 결백 외침. 캡틴: *"if he trusts you"* — *Rijja 모함 완성*.
 
 **21일 — [[lore/gideon|Gideon]]**: [[lore/zuuk|Zuuk]]이 *Sow and Vulture* 술집에서 *[[lore/miramor|Miramor]] 면접*. Miramor: *Battle of Bodrum 경험*. *Dorsza Pass*에서 *Emperor 최소 호위로 통과* 시기에 *암살*. 변장 X 요구. Zuuk: *합의 + 금괴*. Zuuk이 *Castle Giovesse* 빠른 길 (홍수 우회) — *Empress Tavia에게 보고*. Tavia: "What did you think of him?" Zuuk: **"He's a fool. But that's what we want for this sort of assignment."**
 
 **30일 — [[lore/thurzo-fortress|Thurzo Fortress]]**: Rijja가 *감방에서 비명* 반복. 황제는 *멀리 imperial city*에서 *결백 외침 안 들음*. *처형 대기*.
 
-**31일 — Kavas Rim Pass (Cyrodiil)**: [[lore/turala|Turala]]가 *몇 주째 도주*. 추울 때 [[lore/morrowind|Morrowind]] 국경 통과 — *낙인 찍힌 손* (가문 반역자). 길에 쓰러지며 **진통**. *Ayleid Wild Elf* (새에서 변신)가 *naked elf 형태*로 나타나 *출산 도움*. 깨어보니 **딸 [[lore/bosriel|Bosriel]] 탄생** ("Beauty of the Forest"). 첫 *기쁨의 눈물*. 서쪽으로 걸음 — v6에서 Cassyr와 만남까지.
+**31일 — Kavas Rim Pass (Cyrodiil)**: [[lore/turala|Turala]]가 *몇 주째 도주*. 추울 때 [[termbase/morrowind|Morrowind]] 국경 통과 — *낙인 찍힌 손* (가문 반역자). 길에 쓰러지며 **진통**. *Ayleid Wild Elf* (새에서 변신)가 *naked elf 형태*로 나타나 *출산 도움*. 깨어보니 **딸 [[lore/bosriel|Bosriel]] 탄생** ("Beauty of the Forest"). 첫 *기쁨의 눈물*. 서쪽으로 걸음 — v6에서 Cassyr와 만남까지.
 
 ## 등장 entity / 인물
 - [[lore/rijja|Rijja]] — Imperial 정부, **모함 + 감금**

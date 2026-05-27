@@ -13,7 +13,7 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-[[lore/vivec|Vivec]]이 [[lore/mournhold|Mourning Hold]]를 떠나 badlands에서 *giant-form* 연습. [[lore/molag-bal|Molag Bal]] (House of Troubles First Corner, *King of Rape*) 출현.
+[[termbase/vivec|Vivec]]이 [[termbase/mournhold|Mourning Hold]]를 떠나 badlands에서 *giant-form* 연습. [[lore/molag-bal|Molag Bal]] (House of Troubles First Corner, *King of Rape*) 출현.
 
 Vivec: *"How very beautiful you are, that you do not join us."*
 

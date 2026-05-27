@@ -15,9 +15,9 @@ ingested_at: 2026-05-28
 
 **셋째 monster: [[lore/horde-mountain|Horde Mountain]]** — *modular warriors가 pattern 따라 *cone-shape*로 퍼짐*. 정상에는 *구름을 자르는 가장 높은 전사*. 아래로 *나무 모양*. 아래 *치마 = 재 위를 달리는 군대*.
 
-[[lore/vivec|Vivec]]이 *fighting styles의 회오리 (Sermon 1의 Barons of Move Like This)*를 *즐거이 회상*. *"Onus."* 외치며 [[lore/resdayn|Veloth]] 이동.
+[[termbase/vivec|Vivec]]이 *fighting styles의 회오리 (Sermon 1의 Barons of Move Like This)*를 *즐거이 회상*. *"Onus."* 외치며 [[lore/resdayn|Veloth]] 이동.
 
-그러나 *3 하급 가문*이 이미 *doubtful doctrine의 그물*로 Horde Mountain 잡음. [[lore/chimer|Velothi]] 환호: *"We are happy to serve you and win!"*
+그러나 *3 하급 가문*이 이미 *doubtful doctrine의 그물*로 Horde Mountain 잡음. [[termbase/chimer|Velothi]] 환호: *"We are happy to serve you and win!"*
 
 Vivec이 *celebration demons 소환* + *mating bones headdress*. *3 가문 우두머리들 결혼시켜 새 order 창설*: **"You shall forever be now my [[lore/buoyant-armigers|Buoyant Armigers]]."**
 
