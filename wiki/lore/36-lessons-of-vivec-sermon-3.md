@@ -24,7 +24,7 @@ ingested_at: 2026-05-28
 
 [[termbase/vivec|Vivec]]이 어머니의 두려움 느끼고 *기도로 위로*:
 
-> *"The fire is mine: let it consume thee, / And make a secret door / At the altar of [[lore/padomay|Padhome]], / In the House of [[lore/boethiah|Boethiah]] (Boet-hi-Ah) / Where we become safe / And looked after."*
+> *"The fire is mine: let it consume thee, / And make a secret door / At the altar of [[lore/padomay|Padhome]], / In the House of [[termbase/boethiah|Boethiah]] (Boet-hi-Ah) / Where we become safe / And looked after."*
 
 기도가 *netchiman의 아내를 평화로운 잠*에 들게 함. *Dwemeri atronachs*가 *cornered spheres*로 그녀를 잘라낼 때 *깨지 않고 평화롭게 죽음*. Vivec은 *마법 유리* 안에 보관되어 *연구 대상*.
 

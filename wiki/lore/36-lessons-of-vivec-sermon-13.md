@@ -18,10 +18,10 @@ ingested_at: 2026-05-28
 - **왕족의 비밀 음절 = [[lore/chim|CHIM]]** (Sermon 12 참조).
 - *temporal myth = man*.
 - **magical cross + 삼각형 = Triune house ([[termbase/almsivi|ALMSIVI]])**. *4 Corners of House of Troubles*:
-  - [[lore/molag-bal|BAL]]
-  - [[lore/mehrunes-dagon|DAGON]]
-  - [[lore/말라카스|MALAC]]
-  - [[lore/셰오고라스|SHEOG]]
+  - [[termbase/molag-bal|BAL]]
+  - [[termbase/mehrunes-dagon|DAGON]]
+  - [[termbase/malacath|MALAC]]
+  - [[termbase/sheogorath|SHEOG]]
 - 삼각형 회전 → *[[lore/aurbis|Beginning Place]]* 심장 관통. *위에는 *지평선* — *아직 아무도 없음 (새로운 자 약속)*.
 - 전체 펼치면 *별*. *변환되어 *별 + 말벌**. *"The center cannot hold."*
 - **Vivec = sword, [[lore/almalexia|Ayem]] = star, [[lore/sotha-sil|Seht]] = mechanism**. ALMSIVI = sword를 둘러싼 Triune house. *세상을 *black sea*로 채워지지 않게 *지키는 의무**.

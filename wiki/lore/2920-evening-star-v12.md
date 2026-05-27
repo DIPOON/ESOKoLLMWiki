@@ -40,7 +40,7 @@ ingested_at: 2026-05-27
 - [[lore/versidue-shaie|Versidue-Shaie]] — Tsaesci Potentate (찬탈자)
 - Savirien-Chorak — Potentate 아들
 - [[lore/night-mother|Night Mother]], Corda — Morag Tong 암살자
-- [[lore/mephala|Mephala]] — Morag Tong 후원 데이드릭
+- [[termbase/mephala|Mephala]] — Morag Tong 후원 데이드릭
 - [[lore/morag-tong|Morag Tong]] — 신성 암살 조직
 - King Dro'Zel of [[lore/senchal|Senchal]] — *광인*
 

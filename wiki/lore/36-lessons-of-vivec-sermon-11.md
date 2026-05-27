@@ -20,7 +20,7 @@ ingested_at: 2026-05-28
 3. **영역 분담**: 별의 영광 = [[lore/almalexia|Ayem]], 바다의 이기심 = [[lore/sotha-sil|Seht]], 중간 공기 = Vivec. 그 외 *지상* = 통치자.
 4. **[[lore/heart-of-lorkhan|Heart of Lorkhan]]**: 부러뜨릴 수 없는 *유일한 뼈*. *1E 700 + 3E 427 두 번 보게 된다* ([[lore/nerevarine|Nerevarine]] 윤회 예언).
 5. *중심의 진정한 상징은 없다*. [[lore/dagoth-ur|Sharmat]]은 *있다 믿음* — *수년 환희* 가능하다 착각.
-6. *진짜 왕자는 *저주받고 악마화*되지만 *결국 가슴 가득 사랑받음*. [[lore/mephala|Mephala]] Codes — *공식 예술은 없음*, 복잡성의 *집중점*만. 사람들의 예술 *받아들이고 *비밀로 죽임**.
+6. *진짜 왕자는 *저주받고 악마화*되지만 *결국 가슴 가득 사랑받음*. [[termbase/mephala|Mephala]] Codes — *공식 예술은 없음*, 복잡성의 *집중점*만. 사람들의 예술 *받아들이고 *비밀로 죽임**.
 7. **"The ruling king that sees in another his equivalent rules nothing."**
 8. *무기의 비밀: mercy seat (자비의 자리)*.
 9. *언어의 비밀: immobile (부동)*.

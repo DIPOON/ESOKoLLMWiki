@@ -13,7 +13,7 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-**다섯째 monster: [[lore/ruddy-man|The Ruddy Man]]**. 옛날 [[lore/dreugh|dreugh]]가 세상 지배할 때 [[lore/molag-bal|Molag Bal]]의 *다른 형태* (가시 + 갑옷 + 바다). [[termbase/vivec|Vivec]]이 Molag Bal과의 결혼에서 *옛 이미지의 *dead carapace*가 떨어짐*. [[lore/chimer|Velothi]] 소년이 *마을 자랑하려 입음* → monster.
+**다섯째 monster: [[lore/ruddy-man|The Ruddy Man]]**. 옛날 [[lore/dreugh|dreugh]]가 세상 지배할 때 [[termbase/molag-bal|Molag Bal]]의 *다른 형태* (가시 + 갑옷 + 바다). [[termbase/vivec|Vivec]]이 Molag Bal과의 결혼에서 *옛 이미지의 *dead carapace*가 떨어짐*. [[lore/chimer|Velothi]] 소년이 *마을 자랑하려 입음* → monster.
 
 *8 monsters 중 가장 단순*. *착용자를 강한 killer로* 만듦. *물리적*만. *지리적 특별함*만.
 

@@ -19,14 +19,14 @@ ingested_at: 2026-05-28
 ## 본문 요약
 
 **3일 — [[termbase/coldharbour|Coldharbour]] (Oblivion)**: [[lore/sotha-sil|Sotha Sil]]이 *[[lore/hearts-grief|Heart's Grief]] 궁전* (Azure Plasm에 반쯤 잠긴) 통과. **8 Daedric Princes 회합**:
-- [[lore/azura|Azura]] (Dusk and Dawn)
-- [[lore/boethiah|Boethiah]] (Plots)
+- [[termbase/azura|Azura]] (Dusk and Dawn)
+- [[termbase/boethiah|Boethiah]] (Plots)
 - [[lore/herma-mora|Herma-Mora]] (Knowledge)
-- [[lore/hircine|Hircine]] (Hunter)
-- [[lore/malacath|Malacath]] (Curses)
-- [[lore/mehrunes-dagon|Mehrunes Dagon]] (Disaster)
-- [[lore/molag-bal|Molag Bal]] (Rage)
-- [[lore/sheogorath|Sheogorath]] (Mad One)
+- [[termbase/hircine|Hircine]] (Hunter)
+- [[termbase/malacath|Malacath]] (Curses)
+- [[termbase/mehrunes-dagon|Mehrunes Dagon]] (Disaster)
+- [[termbase/molag-bal|Molag Bal]] (Rage)
+- [[termbase/sheogorath|Sheogorath]] (Mad One)
 
 **5일 — [[termbase/artaeum|Artaeum]]**: Sotha Sil이 [[lore/dreaming-cave|Dreaming Cavern]]에서 나옴 (며칠 같은데 본인은 *몇 달·년* 느낌). Lilatha + *Welleg* ([[termbase/nord|Nord]] 초심자)에게 결과 보고: **"Daedra Princes가 *우리 조건 수락*. [[lore/gilverdale|Gilverdale]] 같은 재난 안 일어남. *witches·sorcerers 같은 중개자 통해서만* 인간과 mer의 부름에 응함."** 대가는 *침묵*: "deals we make with Daedra should not be discussed with the innocent."
 

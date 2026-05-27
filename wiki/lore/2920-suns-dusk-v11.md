@@ -6,7 +6,7 @@ series: 2920, The Last Year of the First Era
 series_index: 11
 writer: Ted Peterson
 author: Carlovac Townway
-related_entity: [[lore/night-mother|Night Mother]], [[lore/mehrunes-dagon|Mehrunes Dagon]], [[lore/almalexia|Almalexia]], [[lore/miramor|Miramor]], [[lore/corda|Corda]]
+related_entity: [[lore/night-mother|Night Mother]], [[termbase/mehrunes-dagon|Mehrunes Dagon]], [[lore/almalexia|Almalexia]], [[lore/miramor|Miramor]], [[lore/corda|Corda]]
 source_uesp: "raw/Lore/_ingested/2920, Sun's Dusk (v11).md"
 ingested_at: 2026-05-28
 ---
@@ -26,7 +26,7 @@ ingested_at: 2026-05-28
 
 황제 산책 — Miramor가 *얼음 갈대에 매복*. Corda가 *희한한 고드름 보러 가는 척* 자리 비움. Miramor가 *황제 등 뒤*. 결정 순간 — **누군가 *Miramor 팔 잡고 목에 단검* + *등에 마비 단검***. Night Mother의 *진짜 agent*가 Miramor 제거. 황제는 *전혀 모름*. **Miramor 함정용 미끼였음**. Corda + Emperor 캠프로 귀환.
 
-**12일 — Mournhold**: *Castle Mournhold 중정에 *영원히 솟는 불기둥**. 박쥐 같은 *winged Daedra*가 시민 사냥. **[[lore/mehrunes-dagon|Mehrunes Dagon]] 거인**: *"To think I nearly didn't come. Imagine missing all this fun."* (Pact 위반). 빛 줄기 — *Sotha Sil + Almalexia* 도착. Dagon: *"If you've come for the Duke, he isn't here. You might find pieces of him next time it rains."* Almalexia: **"Daedra, we cannot kill you, but that you will soon regret."** **Tribunal 두 신 vs Daedric Prince — 전투 시작**.
+**12일 — Mournhold**: *Castle Mournhold 중정에 *영원히 솟는 불기둥**. 박쥐 같은 *winged Daedra*가 시민 사냥. **[[termbase/mehrunes-dagon|Mehrunes Dagon]] 거인**: *"To think I nearly didn't come. Imagine missing all this fun."* (Pact 위반). 빛 줄기 — *Sotha Sil + Almalexia* 도착. Dagon: *"If you've come for the Duke, he isn't here. You might find pieces of him next time it rains."* Almalexia: **"Daedra, we cannot kill you, but that you will soon regret."** **Tribunal 두 신 vs Daedric Prince — 전투 시작**.
 
 **17일 — Tel Aruhn**: Night Mother가 *Imperial Palace agent 보고* — *Miramor 성공적 탐지·제거*. **황제는 *unsafe hands*에 있음 확인** — *Palace 내부 진짜 음모*가 더 큰 것이라는 증명. Night Mother 추가 답신.
 
@@ -39,7 +39,7 @@ ingested_at: 2026-05-28
 - [[lore/zuuk|Zuuk]] — 끝까지 Tavia 사후 임무 수행
 - [[lore/miramor|Miramor]] — *황태자 살해자 → 미끼로 제거됨*
 - [[lore/corda|Corda]] — 황제 새 정부, *진짜 암살자* (v12)
-- [[lore/mehrunes-dagon|Mehrunes Dagon]] — *Daedra Pact 위반자*
+- [[termbase/mehrunes-dagon|Mehrunes Dagon]] — *Daedra Pact 위반자*
 - [[lore/almalexia|Almalexia]] — *Dagon 격퇴 + 비전*
 - [[lore/sotha-sil|Sotha Sil]] — *Dagon 격퇴, jaw 흉터*
 - [[termbase/vivec|Vivec]] — Bodrum 협상 → Mournhold 합류

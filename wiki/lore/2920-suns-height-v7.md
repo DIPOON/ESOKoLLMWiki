@@ -23,7 +23,7 @@ ingested_at: 2026-05-28
 
 **24일 — Balmora**: **17년 만에 [[termbase/tribunal|Tribunal]] 셋 다 재회** (Sotha Sil이 [[termbase/artaeum|Artaeum]] 떠난 이후). Vivec: *Juilek 본인은 모를 것*. Sotha Sil: *그러나 *distraction* 역할일 수도 — *truce 위반*. **Duke가 [[lore/tel-aruhn|Tel Aruhn]]에서 [[lore/night-mother|Night Mother]] 만남 — *황제 암살 의뢰***. Vivec 반대 — *외교 또는 전쟁이지 암살은 후퇴*. Sotha Sil이 *막으러 감*.
 
-**25일 — Tel Aruhn**: Sotha Sil + Night Mother 회담. 검은 실크 가운, 달빛만. *Duke가 *방금* 떠남*. Sotha Sil: *동등 금 제안으로 무효화 가능?*. Night Mother: *"Morag Tong은 [[lore/mephala|Mephala]] 영광 + 돈으로 죽임 — 단순 살인 X (sacrilege). *3일 후 Duke 돈 도착하면 임무 수행*. *supply/demand에 안 굽힘*."*
+**25일 — Tel Aruhn**: Sotha Sil + Night Mother 회담. 검은 실크 가운, 달빛만. *Duke가 *방금* 떠남*. Sotha Sil: *동등 금 제안으로 무효화 가능?*. Night Mother: *"Morag Tong은 [[termbase/mephala|Mephala]] 영광 + 돈으로 죽임 — 단순 살인 X (sacrilege). *3일 후 Duke 돈 도착하면 임무 수행*. *supply/demand에 안 굽힘*."*
 
 **27일 — [[lore/inner-sea|Inner Sea]]**: Sotha Sil이 *2일째 감시*. *Mournhold 깃발의 무거운 배* 출현. **공중에 떠 *Daedra 화염 형상으로 위장* — *"Abandon your ship!"*** 가능. 선원 모두 *물에 뛰어듦*. 배 *destructive wave*로 침몰 — **Duke의 *Morag Tong 지불금* 함께 침몰**. 해안 부유 — *"Night Mother, everyone bows to supply and demand."* 통쾌 한 마디.
 

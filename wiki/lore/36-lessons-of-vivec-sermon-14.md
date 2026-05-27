@@ -13,7 +13,7 @@ ingested_at: 2026-05-28
 
 ## 본문 요약
 
-[[termbase/vivec|Vivec]]이 88일간 [[lore/molag-bal|Molag Bal]]과 *머리 없이* 동거. Bal이 *발을 *다시 붙이고 Daedra 피로 채움* — Vivec의 giant-form이 *good earth에 영원히 무해*하게.
+[[termbase/vivec|Vivec]]이 88일간 [[termbase/molag-bal|Molag Bal]]과 *머리 없이* 동거. Bal이 *발을 *다시 붙이고 Daedra 피로 채움* — Vivec의 giant-form이 *good earth에 영원히 무해*하게.
 
 **Duke of Scamps**가 *Pomegranate Banquet*에 늦게 옴 → Sermon 7의 *7 깃발* 보고 분노. Molag Bal의 *legions과 Kh-Utta's 사이 전쟁*. *Vivec + Molag Bal의 자식들*이 *너무 정교* → Duke of Scamps + 자식들이 *lesser thing*이 됨. 이후 *소환 무의미*. ("You are the sons of liars, dogs, and wolf-headed women.")
 

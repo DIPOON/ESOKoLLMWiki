@@ -28,7 +28,7 @@ ingested_at: 2026-05-28
 
 **11일 — Imperial City**: **Rijja 처형**. 첫 도끼질 빗나가 비명, 두 번째에 사망. 황제 + Potentate 지켜봄. **황제가 *그녀 동생 Corda*에 관심** — Potentate 응. (이후 v10에서 Corda Imperial 도착, v12에서 Corda의 복수.)
 
-**18일 — [[lore/dwynnen|Dwynnen]]**: Cassyr가 *coven에서 산 말 타고* 고향 귀국. 사람들이 *전쟁 소식* + *Vivec* 묻자, Cassyr가 **"[[lore/셰오고라스|Sheogorath]]가 은퇴하면 광기의 신으로 Vivec이 적임"** — Vivec에 대한 *경멸 + 미래의 저주 복선*. Turala를 *과거로 두고* 떠나려 함.
+**18일 — [[lore/dwynnen|Dwynnen]]**: Cassyr가 *coven에서 산 말 타고* 고향 귀국. 사람들이 *전쟁 소식* + *Vivec* 묻자, Cassyr가 **"[[termbase/sheogorath|Sheogorath]]가 은퇴하면 광기의 신으로 Vivec이 적임"** — Vivec에 대한 *경멸 + 미래의 저주 복선*. Turala를 *과거로 두고* 떠나려 함.
 
 ## 등장 entity / 인물
 - [[lore/empress-tavia|Empress Tavia]] — 황후, 17년 감옥, 탈출 후 Morrowind

@@ -6,7 +6,7 @@ series: 2920, The Last Year of the First Era
 series_index: 2
 writer: Ted Peterson
 author: Carlovac Townway
-related_entity: [[lore/sotha-sil|Sotha Sil]], [[lore/molag-bal|Molag Bal]], [[lore/king-drozel|King Dro'Zel]], [[lore/turala|Turala]], [[lore/gilverdale|Gilverdale]]
+related_entity: [[lore/sotha-sil|Sotha Sil]], [[termbase/molag-bal|Molag Bal]], [[lore/king-drozel|King Dro'Zel]], [[lore/turala|Turala]], [[lore/gilverdale|Gilverdale]]
 source_uesp: "raw/Lore/_ingested/2920, Sun's Dawn (v2).md"
 ingested_at: 2026-05-28
 ---
@@ -26,7 +26,7 @@ ingested_at: 2026-05-28
 
 **16일 — [[lore/senchal|Senchal]] (Anequina / [[termbase/elsweyr|Elsweyr]])**: *Lovers' Day*. *King Dro'Zel* (Khajiit 왕)이 *Polydor and Eloisa 음유시인 이야기*에 *공포·분노*. *"한 마디로 그 음유시인은 *Gilverdale 출신*"*. **Dro'Zel이 *광기로 탑 올라감***. Queen Hasaama가 *남편의 광기 깊이* 미리 알았더라면 막았을 것.
 
-**19일 — [[lore/gilverdale|Gilverdale]] ([[termbase/valenwood|Valenwood]])**: 평범한 마을 — *늙은 목수가 *논리 수수께끼* (gold key cell). 한 어머니가 *수수께끼에 몰두*하는 동안 아이가 *"Mama!"* 외침. **붉은 안개가 마을 덮음**. *붉은 피부의 거인* — **[[lore/molag-bal|Molag Bal]]** ([[lore/daedra|Daedra]] Prince of Rage). 미소. **마을 전체 *멸망***.
+**19일 — [[lore/gilverdale|Gilverdale]] ([[termbase/valenwood|Valenwood]])**: 평범한 마을 — *늙은 목수가 *논리 수수께끼* (gold key cell). 한 어머니가 *수수께끼에 몰두*하는 동안 아이가 *"Mama!"* 외침. **붉은 안개가 마을 덮음**. *붉은 피부의 거인* — **[[termbase/molag-bal|Molag Bal]]** ([[lore/daedra|Daedra]] Prince of Rage). 미소. **마을 전체 *멸망***.
 
 **29일 — Gilverdale**: [[lore/almalexia|Almalexia]]이 *Artaeum 가는 길* *진흙 황무지* 통과. 말이 *물 거부*. *벽돌과 뼛조각* 가슴에 안고 *비전 보임*. **"We must continue on to Artaeum."** *Sotha Sil 데리러* 가는 동기 강화.
 
@@ -41,7 +41,7 @@ ingested_at: 2026-05-28
 - [[lore/house-redoran|House Redoran]] — Turala 친정
 - [[lore/king-drozel|King Dro'Zel]] — Senchal Khajiit 왕, *광기 + Molag Bal 소환자*
 - *Queen Hasaama* — Dro'Zel 왕비
-- [[lore/molag-bal|Molag Bal]] — *Daedra Prince of Rage*, Gilverdale 멸망
+- [[termbase/molag-bal|Molag Bal]] — *Daedra Prince of Rage*, Gilverdale 멸망
 - [[lore/almalexia|Almalexia]] — 비전 + 진로 강화
 
 ## 핵심 사건

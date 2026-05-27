@@ -39,7 +39,7 @@ ingested_at: 2026-05-28
 
 ### Red Mountain
 - *"Here is the last of the last. Within it the Sharmat waits."*
-- 아직 Sharmat 싸울 시간 X — 둘이 *서로 전투*. **Vivec이 Hortator에 *모든 [[termbase/chimer|Velothi]]가 볼 수 있게 표시* 새김**. [[lore/almalexia|Ayem]]-[[lore/azura|Azura]] 축복으로 상처 봉인.
+- 아직 Sharmat 싸울 시간 X — 둘이 *서로 전투*. **Vivec이 Hortator에 *모든 [[termbase/chimer|Velothi]]가 볼 수 있게 표시* 새김**. [[lore/almalexia|Ayem]]-[[termbase/azura|Azura]] 축복으로 상처 봉인.
 - 전투 끝 — Hortator가 *7개 더 spoke 모았음*. *staff* 만들려 했지만 Vivec 거부: *"It is not the time for that."* — *지금 아직 아님*.
 - **"I am the wheel"** → Vivec이 wheel 형태. *중심 공허가 너무 오래 살기 전*에 Nerevar가 *spoke 박음*.
 

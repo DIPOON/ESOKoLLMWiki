@@ -12,7 +12,7 @@ ingested_at: 2026-05-28
 # 36 Lessons of Vivec, Sermon 10
 
 ## 본문 요약
-*Hortator의 사후* 숨겨진 sermon. [[termbase/vivec|Vivec]]이 [[lore/nerevar|Hortator]]에게 [[lore/boethiah|Boethiah]] 가르침 전수.
+*Hortator의 사후* 숨겨진 sermon. [[termbase/vivec|Vivec]]이 [[lore/nerevar|Hortator]]에게 [[termbase/boethiah|Boethiah]] 가르침 전수.
 
 핵심:
 - **Evoker**는 *왼손 비어 있고 열린* — 무기 없음 표시. *적의 피부 안에서 보이지 않음*.

@@ -5,7 +5,7 @@ category: 책
 series: 16 Accords of Madness
 series_index: 6
 writer: Joel Burgess
-related_entity: [[lore/하르신느|Hircine]], [[lore/셰오고라스|Sheogorath]]
+related_entity: [[termbase/hircine|Hircine]], [[termbase/sheogorath|Sheogorath]]
 source_uesp: "raw/Lore/_ingested/16 Accords of Madness, v. VI.md"
 ingested_at: 2026-05-27
 ---
@@ -13,7 +13,7 @@ ingested_at: 2026-05-27
 # 16 Accords of Madness, Vol. VI — Hircine의 이야기
 
 ## 책 개요
-시리즈 6권. [[lore/셰오고라스|Sheogorath]]가 [[lore/하르신느|Hircine]] (사냥의 데이드릭)에게 *3년 후 짐승 대결* 내기 제안.
+시리즈 6권. [[termbase/sheogorath|Sheogorath]]가 [[termbase/hircine|Hircine]] (사냥의 데이드릭)에게 *3년 후 짐승 대결* 내기 제안.
 
 ## 본문 요약
 
@@ -24,8 +24,8 @@ ingested_at: 2026-05-27
 **주제: 광기가 힘을 이긴다**. (시리즈 일관 주제 — Vol. IX의 베르미나 우화와 같음.)
 
 ## 등장 entity
-- [[lore/셰오고라스|Sheogorath]] — Mad Prince
-- [[lore/하르신느|Hircine]] — Huntsman God, 사냥 데이드릭
+- [[termbase/sheogorath|Sheogorath]] — Mad Prince
+- [[termbase/hircine|Hircine]] — Huntsman God, 사냥 데이드릭
 - [[lore/daedroth|Daedroth]] — 데이드릭 짐승
 - [[lore/lycanthropy|Lycanthropy]] — 늑대인간 저주
 - [[lore/스카이림|Skyrim]], [[lore/abecean-sea|Abecean Sea]] — 배경
