@@ -4,11 +4,17 @@
 .DS_Store
 .claude/settings.local.json
 
-# 대량 UESP dump — git 추적 X (87K 파일, ~400MB)
-# 시드 자료(xlsx 등)는 별개로 raw/ 루트에 있어 ignore 안 됨
-raw/Books/
-raw/Lore/
-raw/Online/
+# 대량 UESP dump — *미처리분만* git 추적 X
+# 처리된(ingest 완료) 파일은 raw/<폴더>/_ingested/로 이동되며 git 추적 O
+# (그래야 어떤 raw가 termbase에 흡수됐는지 reproducibility 보존)
+# 주의: 디렉토리 자체(raw/Books/)를 ignore하면 negate(!) 불가하므로
+# 내부 항목(raw/Books/*)을 ignore + _ingested/ 만 예외로 빼는 패턴 사용.
+raw/Books/*
+!raw/Books/_ingested/
+raw/Lore/*
+!raw/Lore/_ingested/
+raw/Online/*
+!raw/Online/_ingested/
 
 # 대용량 게임 텍스트 추출 (108MB)
 raw/en.lang.csv
