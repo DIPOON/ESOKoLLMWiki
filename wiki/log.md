@@ -158,3 +158,11 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - lore: 110 → 153 (43↑), termbase: 696 변동 X
 - lint: broken termbase 0, broken lore ≥3회 15종 (다음 사이클 자연 trigger 대기 — Systres/Necrom/Forebears/Dagoth Ur/Wild Hunt/Mach-Makka/Kagrenac/Hist/Cathay-raht/Battle of Red Mountain 등)
 - 시리즈 완결: A Dance in Fire (7+색인), A Feast Among the Dead (4+색인)
+
+## [2026-05-28] goal lore ingest 라운드 4 (150 commit 체크포인트) | feature/uesp_ingest
+- A 시작 알파벳 ingest 계속: A History of Lilmoth, A History of Mor Khazgur, A History of Shipbuilding Vol 1, A Hunter's Journey II/VI, A Hypothetical Treachery, A Kiss Sweet Mother, A Legionary's History of Fort Redmane, A Less Rude Song, A Life Barbaric and Brutal, A Life of Strife and Struggle, A Life of Uriel Septim VII, A Light on the Moor, A Lissome Sprite, A Loathsome Civilization, A Looter's Paradise, A Memory Book 3part+색인, A Merchant's Guide to Valenwood, A Midnight Ambush, A Minor Maze, A Mother's Lament/Nursery Rhyme, A Nereid Stole My Husband, A New Cult Arises, A New Guild for Fighters?, A New Recipe?, A Nixad Made Me Do It, A Petition for the Mighty Nix-Ox, A Plea for Vengeance, A Pocket Guide to Mournhold, A Prayer to the Serpent, A Prisoner's Journal, A Reach Travel Guide, A Rejection of Open Borders, A Reminder from the Judge, A Report on the Dusksabers, A Request for Relief/Your Support, A Royal Embarrassment, A Sacrament Remains, A Sailor's Guide to Sea Elves, A Scholar's Guide to Nymphs, A Shallow Pool, A Short History of Morrowind, A Sister's Regret/Retort, A Sky of Dusk, A Smuggler's Plan, A Soldier's Letter, A Star Walks In Craglorn
+- 시리즈 완결: A Memory Book (3+색인)
+- 3부 sequel: Brother's Plea → Sister's Retort → Sister's Regret (Dragon Cult Scalecaller 분열)
+- 진행도: raw/Lore 219 → 272 _ingested (53↑), 13729 → 13676 남음
+- lore: 153 → 206 (53↑), termbase: 696 변동 X
+- lint: broken termbase 0, broken lore ≥4회 10종 (Sithis, Great Houses, Dark Brotherhood, Systres, Fa-Nuit-Hen, Dagoth Ur, Zaan-the-Scalecaller, Necrom, Hist, Barons of Move Like This — 자연 trigger 대기)
