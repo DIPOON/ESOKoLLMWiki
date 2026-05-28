@@ -190,6 +190,21 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 15:00] ingest | 잔여 Daedric Princes 9 batch (9 source, ~1756줄) | touched: 9 pages
+- raw 9 source 일괄: Mehrunes Dagon (406) + Meridia (169) + Clavicus Vile (178) + Malacath (272) + Sanguine (159) + Vaermina (166) + Peryite (149) + Namira (170) + Jyggalag (87) → _ingested
+- 각 페이지 심층 재작성:
+  - mehrunes-dagon: Destruction/Change/Revolution, Deadlands, Mysterium Xarxes/Lyg 기원, Oblivion Crisis 주범, Longhouse Emperors, Mournhold 격파·Deadlands 추방
+  - meridia: Magna Ge (Merid-Nunda), Molag Bal 영원 적, Khajiit Magrus' 눈 사건, Crystal Tower 사건 (Triad에 감금), Planemeld 대항, Dawnbreaker
+  - clavicus-vile: Barbas (반쪽 hound), Bargain insidious twist, Daedric Triad, Sunna'rah 사건, Umbra
+  - malacath: Trinimac fall (Boethiah가 삼킴 + Ashpit 유배 → Mauloch), Orsimer 시조, Pariah-God, Sheogorath Orc 아들 사건, Volendrung
+  - sanguine: Hedonism, Sam Guevenne, Sanguine Rose, Skyrim Whiterun
+  - vaermina: Nightmares, Quagmire, Khajiit Varmiina (Azurah 처치), Skull of Corruption
+  - peryite: 약한 Prince 논쟁, Tasks (낮은 Order), Pestilence balance, Spellbreaker, 용 형태
+  - namira: Ur-dra 후보, Khajiit Namiira (Eldest Spirit/Great Darkness), 식인 cult, Ring of Namira
+  - jyggalag: Sheogorath 원래 형태, 다른 Princes의 저주, Greymarch cycle, Hero of Kvatch mantling으로 자유, Sword of Jyggalag
+- **Daedric Princes 16/16 심층 완성** (Tribunal·Good Daedra 포함하면 *Tamriel 형이상학 신학 완성)
+- 최종: 페이지 1148 (변동 없음 — 모두 재작성), Orphan 0 유지, Broken 915
+
 ## [2026-05-29 13:30] ingest | Nocturnal cluster (1 source, 167줄) | touched: 10 pages
 - raw 1 source: Nocturnal.md → _ingested
 - nocturnal.md 심층 재작성 (22→230줄): Night/Darkness/Mystery, Evergloam realm, Ur-dra (Hermaeus Mora·Namira와 경쟁), "before Oblivion, there was Nocturnal", Khajiit Noctra (Lorkhaj Dark Heart 검은 피), Reachfolk Mistress of Shadows, Song of Hrormir (Gray Cowl 기원), Fable of the Gryphon, Twilight Sepulcher + Ebonmere + Nightingale Trinity, Witchmother coven, Shadow Magic + Gloaming Gates, Daedric Triad (Clavicus Vile + Mephala + Nocturnal, 2E 230 K'Tora 결탁→Crystal Tower 사건), 2E 582 Clockwork City 침공 + Crystal Tower 사건 (Nocturnal Vile·Mephala 배신→Vestige·Darien Gautier·Meridia가 격퇴), 3E·4E (Mercer Frey Skeleton Key 도난·Last Dragonborn 회수)

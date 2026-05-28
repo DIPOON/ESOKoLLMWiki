@@ -1,0 +1,170 @@
+# Lore:Meridia
+
+<!-- UESP / ns 130 / dump 2026-03-13 -->
+
+<noinclude>{{Lore Gods Trail}}{{#addtotrail:Astronomy|separator=' / '}}{{#addtotrail:Stars}}[[Category:Lore-Astronomy-Stars]][[Category:Lore-People-Daedra]]{{TOCright}}[[File:MER-art-The Sun.jpg|left|thumb|Meridia (Tarot card)|200px]][[File:ON-misc-Meridia (Anniversary Art).jpg|thumb|right|Artwork of Meridia]]{{Quote Box|style=float:none; max-width:none; margin-left:0|''Reality is a game, mortal. Learn to play, or resign yourself to becoming one of the pieces that is meant to be sacrificed.''|Meridia}}</noinclude>[[Lore:Meridia|Meridia]], '''Lady of Infinite Energies''',{{ref|name=BE|[[Oblivion:Basil Ernarde|Basil Ernarde]]'s dialogue in [[Oblivion:Oblivion|''Oblivion'']]}} the '''Bright Lady''',{{ref|name=SMBL|{{Item Link|Statuette: Meridia, Bright Lady|summary=1|collectid=6573|quality=5}} furnishing name in [[ON:Online|ESO]]}} the '''Strict but Fair Arbiter of Inner Luminance''',{{ref|name=MeridianCub|[[Online:Meridian Sabre Cub|Meridian Sabre Cub]] pet description in [[ON:Online|ESO]]}} the '''Sunfire''',{{ref|name=ESOSees-All-Colors|[[ON:Guildmaster Sees-All-Colors|Guildmaster Sees-All-Colors]]' dialogue during [[ON:Will of the Council|Will of the Council]] in [[ON:Online|ESO]]}} the '''Radiant One''',{{ref|name=ESOKLD|[[ON:King Laloriaran Dynar|King Laloriaran Dynar]]'s dialogue during [[ON:Light from the Darkness|Light from the Darkness]] in [[ON:Online|ESO]]}} the '''Keeper''',{{ref|name=D4C|{{Cite Book|The Daggerfall Chronicles|ns_base=Books}}}}{{rp|14}} the '''Lady of Light''',{{ref|name=COL|[[ON:Chapel of Light|Chapel of Light]] loading screen text in [[Online:Online|ESO]]}}{{Ref|name=TESVSPOGG|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=Books}}}}{{rp|293}} the '''Red Star''', the '''Harbinger of Dawn''', '''Goddess Who Holds''', '''Mirror of the Lie'''{{Ref|name=9C}} and the <!--Daedric-->'''Prince of Life'''{{ref|name=ESOTharayya|[[Online:Tharayya|Tharayya]]'s dialogue in the [[Online:Online|ESO]]: ''[[Online:Wrathstone|Wrathstone]]''}} is the [[Lore:Daedric Princes|Daedric Prince]] "of Life and Light",{{Ref|name=ESOIachesis|[[Online:Ritemaster Iachesis#The Tower Sentinels|Ritemaster Iachesis]]' dialogue in the [[Online:The Tower Sentinels|ESO]]}} associated with the energies of living things.{{ref|name=AL|[[Lore:Ayleid Language|Ayleid Language]]}}{{ref|name=TRBOD|{{Cite Book|The Requisite Book of Daedra}}}} It is stated that her sphere is obscured to mortals.{{ref|name=TBoD|{{Cite Book|The Book of Daedra}}}} The Sunburst is her symbol.{{ref|name=ESOEndarre|[[ON:Endarre|Endarre]]'s dialogue during [[ON:The Prismatic Core|The Prismatic Core]] in [[ON:Online|ESO]]}} She has a great and everlasting hatred for the undead and will greatly reward any who eliminate them from the world.{{ref|name=ESOTharayya}} With fervor, she reveals purity within chaos, aiming to abolish false-life so that the Mundus may be reforged with the fire of new light.{{Ref|name=9C}} As such, Meridia has a reputation for benevolence,{{ref|name=ESOTharayya}} and is one of the few Daedric Princes who is usually not considered to be wholly evil.{{ref|name=SRLoading|[[Skyrim:Loading Screens#Daedric_Princes|Loading screen]] in [[Skyrim:Skyrim|''Skyrim'']]}} Her day of summoning is the [[Lore:Meridia's Summoning Day|13<sup>th</sup> of Morningstar]].{{ref|name=DFHolidays|[[Daggerfall:Holidays#Morning Star|Holidays]] in [[Daggerfall:Daggerfall|''Daggerfall'']]}}
+
+In spite of this, she is referred to as the '''Glister Witch'''{{Ref|{{Cite Book|Lyranth the Foolkiller Answers Your Questions}}}} or the '''Lady of Greed''' by those who view her less favorably, with a habit of collecting live [[Lore:Purified|human specimens]] to satiate said greed.{{ref|name=DFMeridia|Events of [[Daggerfall:Meridia's Quest|Meridia's quest]] in [[Daggerfall:Daggerfall|''Daggerfall'']].}}{{ref|name=BruccBaen|[[ON:Bruccius Baenius #Dust Smote|Bruccius Baenius]]' dialogue during [[ON:Dust Smote|Dust Smote]] in [[Online:Online|ESO]]}} To her enemies, Meridia is known for her violent loathing of disorder, as well as her obsessiveness, self-righteousness, irrational anger towards entities she deems impure, and hatred of mortal free will and defiance.{{ref|name=ONDarien|[[ON:Darien Gautier#Summerset|Darien Gautier]]'s dialogue in [[Online:Online|ESO]]}}{{ref|name=ONUrgarlag|[[Online:Urgarlag_Chief-bane#Depths_of_Malatar|Urgarlag Chief-bane]]'s dialogue in [[Online:Pledge: Depths of Malatar|ESO]]}}{{Ref|group=UOL|name=Tuttle2020|{{Cite Book|Leamon Tuttle's Posts|ns_base=General}}}} She believes that free will should be surrendered to passion, "destiny is fulfilled for the vessel".{{Ref|name=9C}}
+
+As with most Princes, Meridia sees mortals as "assets" primarily for use as a means to an end.{{Ref|name=ONGroundskeeper|[[ON:Meridia|Meridia]]/[[ON:The Groundskeeper|The Groundskeeper]]'s dialogue in [[Online:Online|ESO]]}}{{ref|name=ONDarien}} Meridia can bestow upon mortals immortality, at the cost of their will, becoming those known as the [[Lore:Meridian Purified|Purified]]; slaves to her command, cleansed of disease, death, and free will.{{ref|name=ONUrgarlag}} People who join the ranks of the Purified are both those that willingly pledge to serve Meridia and the unwilling, such as those that defy her.{{ref|name=ESOTharayya}}{{ref|name=ESOKingNarilmor|[[Online:King Narilmor|King Narilmor]]'s dialogue in the [[Online:Online|ESO]]: ''[[Online:Wrathstone|Wrathstone]]''}}{{ref|name=ONMeridianPurified|[[Online:Meridian Purified|Meridian Purified]] skin description in [[Online:Online|ESO]]}} Meridia also granted immortality to her champion, [[Lore:Umaril the Unfeathered|Umaril the Unfeathered]], the ancient [[Lore:Ayleid|Ayleid]] enemy of [[Lore:Pelinal Whitestrake|Pelinal Whitestrake]].{{ref|name=TSOP3|{{Cite Book|The Song of Pelinal, v 3}}}}{{ref|name=TSOP6|{{Cite Book|The Song of Pelinal, v 6}}}} Her Aurorans and Umaril returned during the time of the [[Lore:Oblivion Crisis|Oblivion Crisis]] to seek vengeance on the [[Lore:Divines|Divines]].{{ref|name=KN|Events of the [[Oblivion:Knights of the Nine|Knights of the Nine]]}}<noinclude>
+
+Meridia (originally known as '''Merid-Nunda''') was believed to have been one of the [[Lore:Magna Ge|Magne-Ge]], a family of divine beings that fled to [[Lore:Aetherius|Aetherius]] soon after the creation of [[Lore:Mundus|Mundus]]. She was the second of [[Lore:Magnus|Magnus]]'s daughters and the sister of [[Lore:Xero-Lyg|Xero-Lyg]], [[Lore:Mnemo-Li|Mnemo-Li]], [[Lore:Iana-Lor|Iana-Lor]], [[Lore:Unala-Se|Unala-Se]], the eldest [[Lore:Ithelia|Prime Archon]], [[Lore:Londa-Vera|Londa-Vera]], [[Lore:Sheza-Rana|Sheza-Rana]], and [[Lore:Valia-Sha|Valia-Sha]]. Alongside her sisters, she was part of the Nine Coruscations, who followed the parabolas that led away from Magnus and separated from him when he withdrew from the creation of the [[Lore:Aurbis|Aurbis]].{{Ref|name=9C|{{Cite Book|The Nine Coruscations}}}}{{ref|name=EOMN}} For supposedly consorting with [[Lore:Daedric Princes|illicit spectra]], she was cast out of Aetherius and took the mantle of a Daedric Prince.{{ref|name=EOMN|{{Cite Book|Exegesis of Merid-Nunda}}}}{{ref|group=UOL|{{Cite Book|ns_base=General|Imperial Census of Daedra Lords}}}} 
+
+She is the matron of the [[Lore:Colored Rooms|Colored Rooms]],{{Ref|name=ESOIachesis}} her realm of [[Lore:Oblivion|Oblivion]] that she created by bending and shaping the rays of light from her father, Magnus the [[Lore:Sun|sun]],{{ref|name=EOMN}} The Colored Rooms are inhabited by the [[Lore:Auroran|Aurorans]] and [[Lore:Golden Saint|Golden Saints]].{{ref|name=ONDarien}} [[Lore:Blessed Sentinel|Blessed Sentinels]] are another type of Daedric servant.{{ref|name=BruccBaen}}{{ref|name=LA|{{Cite Book|Loremaster's Archive - Mehrunes Dagon & Daedra in the Second Era}}}} [[Lore:Magna-Geode|Magna-Geodes]] are associated with her.{{Ref|name=Furniture|[[Online:Magna-Geode|Magna-Geode]]'s appearance in [[Online:Online|ESO]]: ''[[Online:Wrathstone|Wrathstone]]''}}{{Ref|name=DOM|[[ON:Depths of Malatar|Depths of Malatar]]'s appearance in [[Online:Online|ESO]]: ''[[Online:Wrathstone|Wrathstone]]''}} 
+
+Meridia can, in some sense, alter the rate at which time flows forward.{{ref|name=EOMN}} For Meridia, time is said to be relative, and her priestesses have been known to grant time-altering blessings.{{ref|{{Item Link|Gold Coast Experience Scroll|id=94439|quality=5}}}} The goddess has also been known to offer her champions the chance to experience alternate timelines through the power of a {{Lore Link|Light of Meridia}}.{{ref|[[Online:Cadwell|Cadwell]]'s dialogue during [[ON:Cadwell's Silver|Cadwell's Silver]] in [[ESO:Online|ESO]]}} Meridia, the Red Star is radiant during the [[Lore:Dragon Break|Dragon Break]], when the [[Lore:Akatosh|Dragon]] was [[Lore:Middle Dawn|blinded and bent]].{{ref|name=9C}} Ancient [[Lore:Khajiit|Khajiit]] attribute the power of redshift to Merid-Nunda, which was believed to bend and alter time.{{ref|name=BOBIII}}</noinclude>
+
+Her sphere of energy and life often brings her into direct conflict with many of the other Princes of Oblivion.{{ref|name=ESO|Events of [[Online:Online|ESO]]}} The most notable example of these feuds is her eternal battle with the Daedric Prince of Domination, [[Lore:Molag Bal|Molag Bal]].{{ref|name=EGTColdharbour|{{Cite Book|EGT|Dreams of Cyrodiil}}}} During the waning days of the Ayleid Empire, Meridia would be responsible for the destruction of the {{Hover|'Mola Gbal' is the proper Ayleid name in this context. Do not change it to 'Molag Bal'.|Mola Gbal}}-worshipping{{ref|name=ESOHoSLoadTxt|[[Online:Halls of Submission|Halls of Submission]] loading screen text in [[ON:Online|ESO]]}} [[Lore:Ayleids|Ayleid]] city of [[Lore:Abagarlas|Abagarlas]],{{Ref|name=TESIVOOGG|{{Cite Book|The Elder Scrolls IV: Oblivion Official Game Guide|ns_base=Books}}}} commanding her knights in the Meridia-worshipping Ayleid city of [[Lore:Delodiil|Delodiil]] to invade after discovering a great and terrible [[Lore:Weapons|weapon]] known as the [[Lore:Mortuum Vivicus|Mortuum Vivicus]] was gifted to Abagarlas by the Lord of Domination himself.{{ref|name=TWOD|{{Cite Book|The Whithering of Delodiil}}}} This feud would continue well into the Second Era, where Meridia's assistance was instrumental in stopping Molag Bal's [[Lore:Planemeld|Planemeld]]. Denizens of Molag Bal's realm of [[Lore:Coldharbour|Coldharbour]] refer to Meridia as the '''Shining Bitch''', and her worshipers are often locked away and tortured within the {{Lore Link|Lightless Oubliette}}.{{ref|name=TLO|{{Cite Book|The Lightless Oubliette}}}} Her other notable enemies include [[Lore:Nocturnal|Nocturnal]], who once invaded Meridia's realm in her quest to rewrite reality,{{ref|name=TDCquest|Events of [[Online:The Dreaming Cave|The Dreaming Cave]] in [[Online:Online|ESO]]: ''[[ON:Summerset (Chapter)|Summerset]]''}} and [[Lore:Ebonarm|Ebonarm]], the God of War who dislikes most Daedric Princes.{{ref|name=DFFactions|[[Daggerfall:Oblivion|Factions]] in [[Daggerfall:Daggerfall|''Daggerfall'']]}} 
+{{FMI}}<noinclude>
+{{NewLeft}}
+
+==Culture and Worship==
+[[File:ON-concept-Prince-Meridia-emblem.png|thumb|left|An emblem representing Meridia]]
+===Ayleid===
+Meridia (known as the '''Bright One''' and '''Rainbow of Light'''){{ref|name=RDP|{{Cite Book|Ripped and Discarded Page|ns_base=ON}}}} was an extremely important figure for the Ayleids, as she was considered the personification of their fourth element, light.{{ref|name=EOMN}} The Ayleids often depicted Meridia with wings and a cowl.{{ref|name=ESOAS|[[ON:Grahtwood Antiquities#Ayleid Statuette|Ayleid Statuette]] Antiquities Codex entries in [[ON:Online|ESO]]}}
+
+Meridia was the patron deity of Garlas Malatar, a city which was built upon the [[Lore:Gold Coast|Gold Coast]]. Its ruler, [[Lore:King Narilmor|King Narilmor]], was a devout worshiper of Meridia who dedicated his life and city to her veneration. He was considered a favorite of the Daedric Prince, second only to her champion, Umaril the Unfeathered. She gifted the city with a relic known as the {{Lore Link|Guiding Light}}, which shone above the city with her unquenchable light. It was a literal and metaphorical beacon, visible for great distances.{{ref|name=MTCKN|{{Cite Book|Meet the Character - King Narilmor}}}}
+
+An ancient shrine to Meridia was built in the grotto of Sideways Cave, long before it became the site of the city of Abagarlas in the [[Lore:Merethic Era|Merethic Era]]. The settlers of Abagarlas uncovered the forgotten shrine and claimed it as their own, which Meridia considered a violation. To the people of this city, she was remembered as the '''Terror of the Most Terror''' for her vengeance when she crushed Abargarlas with her stone roots and, incensed that some survivors escaped, buried the grotto almost entirely.{{Ref|name=TESIVOOGG}}{{ref|name=OblivionAbagarlas|Appearance of [[OB:Abagarlas|Abagarlas]] and its entrance being [[OB:Sideways Cave|Sideways Cave]] in ''[[Oblivion:Oblivion|Oblivion]]''}}
+
+She is remembered by the [[Lore:Imperial|Imperials]] as a patron and mentor to the Heartland High Elves, and complicit in the bondage and oppression of their ancestors.{{ref|name=AYQ|{{Cite Book|Artorius Ponticus Answers Your Questions}}}}
+{{NewLeft}}
+===Khajiit===
+In Khajiiti mythology, Meridia is referred as '''Merid-Nunda''' (known as '''False Spirit of Greed''', '''The Orphaned Glimmer''', '''Rainbow Angel''', and '''Shining One'''{{ref|name=BOBII|{{Cite Book|The Bladesongs of Boethra, Volume II}}}}) and she is considered a daughter of [[Lore:Magrus|Magrus]] that he forged from the [[Lore:Aetherius|aether]] along with her siblings.{{Ref|name=TAS|{{Cite Book|The Adversarial Spirits}}}} In older traditions, such as those compiled by [[Lore:Amun-dro|Amun-dro]], Merid-Nunda is seen in a poor light and has a bad reputation. She is described in such terms as being "born from light without love" and having "intellect without wisdom", and claims she was the consort of demons.{{Ref|name=TAS}} Merid-Nunda was also associated with greed and her name was sometimes invoked in situations involving theft in a negative sense.{{Ref|name=ZerithESO|[[ON:Zerith-var|Zerith-var]]'s references to Merid-Nunda in his dialogue in [[ON:Online|ESO]]}}
+
+Of the deeds attributed to Merid-Nunda, some traditions claim that she orchestrated the death of [[Lore:Lorkhaj|Lorkhaj]]. Merid-Nunda was also said to have united with the kinslayer [[Lore:Dagon|Dagon]] and Demon King [[Lore:Molagh|Molagh]] to assault the [[Lore:Lunar Lattice|Lunar Lattice]].{{Ref|name=TAS}} There are a few known versions of this story, that recorded by Amun-dro and ''[[Lore:The Bladesongs of Boethra|The Bladesongs of Boethra]]'' a pre-Ri'Datta text of the [[Lore:Boethra|Boethra]] cult among the Khajiit. The former says that Azurah defeated Merid-Nunda and dragged her away from the [[Lore:Varliance Gate|Varliance Gate]], before binding her in the [[Lore:Void|Void]] with mirrors.
+
+''Bladesongs'' expands on the battle and the participants, with it stating that Boethra, [[Lore:Mafala|Mafala]] and [[Lore:Noctra|Noctra]] were also involved in protecting the Lattice. Merid-Nunda is described as being a multitude of glass shards that could take different forms which attacked Azurah with "cutting light".{{ref|name=BOBII}} In this text, she is also implied to being able to bend and alter time by manipulating the redshift, though Boethra was eventually able to adjust to the changes.{{ref|name=BOBIII|{{Cite Book|The Bladesongs of Boethra, Volume III}}}} In this version of the tale, Merid-Nunda manages to split herself in two and feints being captured by Azurah, reaching the Aether Prism that was once Magrus' eye.{{ref|name=BOBII}}{{Ref|name=TSS|{{Cite Book|The Sky Spirits}}}} Boethra and Noctra help Azurah defeat Merid-Nunda, and Azurah is described as casting Merid-Nunda's shards into the Void and bending the light so the latter reflects upon herself and is trapped.{{ref|name=BOBIII}}
+
+Both traditions suggest that this state was not permanent, with Amun-dro stating at the time of his writing, that there were stories among the nomads that Merid-Nunda had since escaped. In ''Bladesongs'', it is implied that the battle may have occurred multiple times and that Merid-Nunda would return. Boethra promises Azurah that she will be ready when that time arrives once more.{{Ref|name=TAS}}{{Ref|name=TAS}}{{ref|name=BOBIII}}
+
+Despite her poor reputation, shrines to Merid-Nunda could still be found in [[Lore:Elsweyr|Elsweyr]].{{ref|name=SotR|[[ON:Shrine of the Reforged|Shrine of the Reforged]] in [[Online:Southern Elsweyr|Southern Elsweyr]] in [[ON:Online|ESO]]}} Modern Khajiit may not acknowledge the Merid-Nunda myths, as the [[Lore:Riddle'Thar|Riddle'Thar]] cult altered or removed many of their deities following the creation of the [[Lore:Elsweyr|Elsweyr]] Confederacy,{{ref|name=ESOSB|[[Online:Shrine of Boethra|Shrine of Boethra]] furnishing codex from [[ON:Online|ESO]]}} and she is not mentioned in more recent creation myth as told by [[Lore:Books by Author#Clan Mother Ahnissi|Clan Mother Ahnissi]], while her father Magrus is.{{ref|name=WOCMA|{{Cite Book|Words of Clan Mother Ahnissi}}}}
+
+===Nord===
+Meridia has a [[Lore:Kilkreath Temple|temple]] on [[Lore:Mount Kilkreath|Mount Kilkreath]], whose priests were hospitable and more than willing to provide travelers with food and warm beds. The temple's caretakers closed its doors to conduct secret rites during the feasts of High Sun and Low Sun.{{ref|name=GTWS|{{Cite Book|Guide to Western Skyrim: Haafingar}}}} While many of the local Nords in nearby Solitude found Meridia's worship to be heretical, the temple was more or less left alone.{{ref|name=ESOThagarte|[[ON:Thagarte|Thagarte]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Greymoor|Greymoor]]''}}
+
+Rumor holds that the Direfrost Flame and the Torch of Heirs, ancient relics of the {{Lore Link|Direfrost Clan|Direfrost}} clan, were created by Meridia to distress the Daedra.{{ref|name=TDF|{{Cite Book|The Direfrost Flame}}}}
+{{NewLeft}}
+===Worship===
+[[File:ON-concept-Meridia Style.jpg|thumb|right|Auroran-inspired Cult of Meridia armaments]]
+[[File:LG-cardart-Altar of Meridia.png|thumb|left|An Altar of Meridia]]
+"Lustrant" is a term used by [[Lore:Molag Bal|Molag Bal]]'s [[Lore:Dremora|Dremora]] minions to refer to the followers of Meridia, alongside their more vulgar terms such as "Glow ass".{{ref|name=TLO}}{{Ref|group=UOL|name=Schick2015|{{Cite Book|Lawrence Schick's Posts|ns_base=General}}}} Meridia doesn't speak to just any mortal, but the leader of a cult sect will usually have Meridia's ear.{{Ref|name=Sd|[[ON:Sadara-do|Sadara-do]]'s dialogue}} 
+
+Meridian cultists adorn their armor with patterns resembling scales, wings and rays of light, true to the motifs present in Meridian imagery. Flowing lines which represent the energy of Meridia are a common form of symbolism. Mastery of motion is a cornerstone in the fighting techniques of those revering Meridia. As such, supple leather that allows for easy movement is a hallmark in Meridian cultists' leg armor. Light and vibration affect crystals, so Meridian cultists carry crystals into battle, believing it allows Meridia to bless their moves directly. Their weapons are designed to snap skeletons' bones and deal utmost damage to necromancers, some of Meridia's enemies.{{ref|name=CM72MS|{{Cite Book|Crafting Motif 72: Meridian Style}}}} Her cultists are very close to one another and refer to each other as "brothers and sisters".{{Ref|name=Sd}}
+{{NewLine}}
+==History==
+===Dawn and Merethic Eras===
+[[Lore:Books by Author#Star-Queen Varalias|Star-Queen Varalias]] asserts that Meridia is the Light who witnessed the Crucible of Creation.{{Ref|name=9C}}
+
+An ancient shrine to Meridia was built in the grotto of Sideways Cave at an unclear time, with its builders remaining a mystery, very early on in the [[Lore:Merethic Era|Merethic Era]]. When it became the site of the city of [[Lore:Abagarlas|Abagarlas]] later on, the settlers of Abagarlas uncovered the forgotten shrine and claimed it as their own.{{Ref|name=TESIVOOGG}}{{ref|name=OblivionAbagarlas|Appearance of [[OB:Abagarlas|Abagarlas]] and its entrance being [[OB:Sideways Cave|Sideways Cave]] in ''[[Oblivion:Oblivion|Oblivion]]''}}
+
+===First Era===
+====The Hollow City====
+[[File:ON-load-Coldharbour.jpg|thumb|left|The Hollow City]]
+Long ago, a city existed upon Nirn which was devoted to Meridia. Meridia gifted her people the {{Lore Link|Lights of Meridia}}, relics whose power protected the city and made life easier for its inhabitants. Molag Bal sent minions from Coldharbour to destroy it, but the warriors and mages of the city managed to seal the gates and protect everyone within.{{ref|name=TGTAOM|[[ON:The Groundskeeper|The Groundskeeper]]'s dialogue during [[ON:The Army of Meridia|The Army of Meridia]] in [[ON:Online|ESO]]}} Everyone outside the gates was slaughtered. The Ayleid King [[Lore:Laloriaran Dynar|Laloriaran Dynar]] was visiting the city, and he quickly took command of the city's defenses.
+
+The Ayleid King single-handedly protected the gates. As he fought, he prayed, and Meridia answered.{{ref|name=TGTAOM}} She felt compassion for her worshipers, but also saw an opportunity: Molag Bal's portal worked both ways. She filled the Lights of Meridia with even more of her divine power, warded the city and pushed it into Coldharbour.{{ref|name=TGTAOM}} The Lights of Meridia and the city's inhabitants were scattered across Coldharbour when the city entered the realm. Many of the city's inhabitants were captured or slain, and the Lights were stolen by the minions of Molag Bal. Despite the fact that not all of her people survived, Meridia still accomplished a major feat; she had sent a portion of her realm into Molag Bal's domain, and he could not touch it.{{ref|name=TGTAOM}} This tactic would pay off in the years to come.{{ref|name=THC|Events of [[ON:The Hollow City (quest)|The Hollow City]] in [[ON:Online|ESO]]}}
+
+====Twilight of the Ayleids====
+Sometime after the [[Lore:Alessian Slave Rebellion|Alessian Slave Rebellion]],{{Ref|name=FBJ|{{Cite Book|Frostbitten Journal}}}} various Ayleid kingdoms launched a desperate search for the fabled [[Lore:Wrathstone|Wrathstone]], which they believed would lead them to a [[Lore:Dragon|weapon]] that would be their salvation against the encroaching forces of the [[Lore:Alessian Empire|Alessian Empire]]. An expedition marched to the [[Lore:Dwemer|Dwemer]] city of [[Lore:Mzulft|Mzulft]], in the hold of [[Lore:Eastmarch|Eastmarch]] in [[Lore:Skyrim|Skyrim]], where it was rumored the Wrathstone was held. The Ayleids besieged Mzulft, but failed to breach it or retrieve the artifact.{{Ref|name=IPOM|{{Cite Book|In Pursuit of Mhuvnak}}}} At the time, the Ayleids were unaware that the Dwemer only possessed the left half of the Wrathstone, and that half was stored not at Mzulft, but at nearby [[Lore:Kagrenzel|Kagrenzel]].{{Ref|name=IPOM}}
+
+After the failure of the raid on Mzulft, Meridia appeared to her faithful with a cryptic warning that the Ayleid Empire would soon fall, and gifted the right half of the Wrathstone to the city of [[Lore:Garlas Malatar|Garlas Malatar]].{{Ref|name=FBJ}} At the time, Garlas Malatar was ruled by King [[Lore:Narilmor|Narilmor]], who was one of Meridia's most devout and favored adherents after Umaril the Unfeathered.{{ref|name=MTCKN}} To keep his piece of the Wrathstone safe,{{Ref|name=FBJ}} Narilmor did not provide aid nor asylum to the desperate Ayleid refugees from other kingdoms, and locked them out of his city.{{ref|name=MTCKN}} The inhabitants of Garlas Malatar were not heard of again. Although Garlas Malatar was eventually besieged by men, some accounts have suggested that the attackers did not even make it inside Narilmor's city before it collapsed into ruin; it was suggested that the city fell from within, brought down by internal conflict or sabotage.{{ref|name=MTCKN}}
+
+===Second Era===
+====Planemeld====
+[[File:ON-npc-Meridia 02.jpg|thumb|right|''"The Dark Prince will need stronger chains than that to stop me."'']]
+During the Planemeld and the [[Lore:Three Banners War|Three Banners War]], Cyrodiil was left in ruins and the provinces were divided by the few were left to oppose the invading Daedra. Meridia had her servant, {{Lore Link|Sees-All-Colors}}, assassinate the leader of the [[Lore:Fighters Guild|Fighters Guild]] in order to assume the role of guildmaster. Under Daedric command and funded by the wealth of Meridia's worshipers,{{ref|name=ESOCountess Hakruba|[[ON:Countess Hakruba|Countess Hakruba]]'s dialogue during [[ON:Will of the Council|Will of the Council]] in [[ON:Online|ESO]]}} the guild began refusing all other contracts and focused its efforts on destroying [[Lore:Dark Anchors|Dark Anchors]] and opposing Molag Bal's schemes.{{ref|name=ESOSees-All-Colors}}{{ref|name=ESOFightersGuild|Events of the [[Online:Fighters Guild|Fighters Guild]] questline in [[Online:Online|''ESO']]}} Meanwhile, the [[Lore:Five Companions|Five Companions]] were reformed following the prophesized arrival of the [[Lore:The Vestige|Vestige]], who freed the Companions from Bal's clutches and reclaimed the Amulet of Kings, defeating [[Lore:Mannimarco|Mannimarco]] in the process.{{ref|name=ESO}}
+
+Disguised as a mortal, Meridia welcomed the Vestige along with the Fighters and [[Lore:Mages Guild|Mages]] guilds into the [[Lore:Hollow City|Hollow City]], which she had thrown into Coldharbour in years past. She allowed them to plot their assault on Molag Bal's citadel within its walls.{{ref|name=THC}} Meridia waited within her city as King Laloriaran Dynar and the {{Lore Link|Lights of Meridia}} returned to her city.{{ref|name=TAOM|Events of [[ON:The Army of Meridia|The Army of Meridia]] in [[ON:Online|ESO]]}} When the guilds finally invaded Molag Bal's fortress, Meridia personally manifested in the {{Lore Link|Planar Vortex}} to destroy it. She erected a forcefield to prevent Molag Bal from harming the Warriors of Light as they destroyed the Dark Anchors within the vortex. The power of the Light of Meridia was unleashed at the focal point of the vortex, and the Planar Vortex was destroyed.{{ref|name=TFA|Events of [[ON:The Final Assault|The Final Assault]] in [[ON:Online|ESO]]}}
+
+The Vestige later faced Molag Bal at the seat of his power and defeated him. This released untold measures of souls from the Prince's grasp. Meridia plucked the Hero's soul as it escaped the realm, and allowed the Vestige to reunite with it in the Colored Rooms.{{ref|name=MeridiaGOS|[[ON:Meridia|Meridia]]'s dialogue during [[ON:God of Schemes|God of Schemes]] in [[ON:Online|ESO]]}}
+
+====The Triad====
+[[File:ON-quest-The Crystal Tower (Darien Dawnbreaker).jpg|thumb|right|Darien sacrifices himself to return the last of Meridia's power to Dawnbreaker]]
+Meridia sent her {{Lore Link|Golden Knight}} to foil the [[Lore:The Triad|Triad]]'s plans. The Knight was kidnapped by agents of [[Lore:Mephala|Mephala]], and Dawnbreaker was shattered. The Vestige sought Meridia's aid in repairing the blade. Meridia added to its power, enabling it to be used to locate her Knight. Nocturnal then invaded the Colored Rooms, abruptly ending the Hero's correspondence with the Daedric Prince.{{ref|name=MeridiaTDC|[[ON:Meridia|Meridia]]'s dialogue during [[ON:The Dreaming Cave|The Dreaming Cave]] in [[Online:Online|ESO]]: ''[[ON:Summerset (Chapter)|Summerset]]''}}{{ref|name=TDCquest}}
+
+With Meridia incapacitated, only the Golden Knight was left to enact her plans. Dawnbreaker was corrupted by Nocturnal during later conflicts,{{ref|name=ANA|Events of [[ON:A Necessary Alliance|A Necessary Alliance]] in [[Online:Online|ESO]]: ''[[ON:Summerset (Chapter)|Summerset]]''}} and the Knight, realizing that he was the last Light of Meridia, sacrificed himself to purge the darkness from the artifact. The Vestige used Dawnbreaker to defeat Nocturnal at the [[Lore:Crystal Tower|Crystal Tower]]'s summit, ending the Triad's threat to Tamriel.{{ref|name=TCT|Events of [[ON:The Crystal Tower|The Crystal Tower]] in [[Online:Online|ESO]]: ''[[ON:Summerset (Chapter)|Summerset]]''}}
+
+Later that year, Meridia's temple at Mount Kilkreath was ravaged by a [[Lore:Harrowstorms|harrowstorm]]. Many of her worshipers were killed or transformed into undead monsters. The remnants of her priesthood delved into the temple and retrieved a relic imbued with her light, known as {{Lore Link|Meridia's Brilliance}}.{{ref|name=MB|Events of [[ON:Meridia's Brilliance|Meridia's Brilliance]] in [[Online:Online|ESO]]: ''[[Online:Greymoor|Greymoor]]''}} It had the power to channel Meridia's light and purge the temple of corruption. One of the surviving priests used the relic to seal the temple following the disaster.{{ref|name=ESOPB|[[ON:Priest Bavian|Priest Bavian]]'s dialogue during [[ON:Meridia's Brilliance|Meridia's Brilliance]] in [[Online:Online|ESO]]: ''[[Online:Greymoor|Greymoor]]''}}
+
+===Third Era===
+Meridia has gifted many different Daedric artifacts to her champions over the years, though some of these relics are associated with other Daedric Princes. Sometime around {{Year|3E 405}}, an [[Lore:Agent|agent of the Blades]] received the [[Lore:Ring of Khajiiti|Ring of Khajiiti]] from Meridia after defeating a sorcerer who betrayed her.{{ref|name=DFMeridia}}
+
+In {{Year|3E 433}}, Meridia charged the [[Lore:Hero of Kvatch|Hero of Kvatch]] with the task of destroying necromancers who were raiding tombs for corpses to raise an army of the undead, again in return for this ring.{{ref|name=OBMeridia|[[Oblivion:Meridia|Events]] of [[Oblivion:Oblivion|''Oblivion'']].}} The same hero also defeated her champion, Umaril the Unfeathered, who had returned from Oblivion after his defeat in the [[Lore:First Era|First Era]].{{ref|name=KN}}
+
+===Fourth Era===
+Meridia offered the sword [[Lore:Dawnbreaker|Dawnbreaker]] to the [[Lore:Hero|Last Dragonborn]] in {{Year|4E 201}} in return for helping her cleanse her temple, which had become tainted by a necromancer and the [[Lore:Corrupted Shade|shades]] of the corpses he desecrated.{{ref|name=SRBreak|[[Skyrim:The Break of Dawn|Events]] of [[Skyrim:Skyrim|''Skyrim'']]}}
+
+==Artifacts==
+===Dark Orbs===
+{{Lore:Dark Orbs}}
+[[File:LG-cardart-Dawnbreaker 02.jpg|thumb|right|Dawnbreaker (Legends)|150px]]
+===Dawnbreaker===
+{{Lore:Dawnbreaker}}
+===Charm of the Dawn===
+The '''Charm of the Dawn''' is a token created by Meridia at the first light of dawn, at the height of summer, and made into a necklace.{{Ref|name=ONCharm|{{Item Link|Meridia's Charm of the Dawn|summary=50|quality=4|id=54729}} in [[Online:Online|ESO]]}}
+{{NewRight}}
+===Lights of Meridia===
+[[File:ON-furnishing-Light of Meridia.jpg|thumb|right|Light of Meridia (ESO)|150px]]
+{{Lore:Light of Meridia}}
+{{NewRight}}
+[[File:SR-item-Meridia's Beacon.jpg|thumb|right|Meridia's beacon (Skyrim)|150px]]
+===Meridia's Beacon===
+{{Lore:Meridia's Beacon}}
+{{NewRight}}
+[[File:ON-item-Meridia's Brilliance.jpg|thumb|right|Meridia's Brilliance (ESO)|150px]]
+===Meridia's Brilliance===
+{{Lore:Meridia's Brilliance}}
+{{NewRight}}
+[[File:ON-item-Opal Charm.jpg|thumb|right|The Opal Charm|150px]]
+===Opal Charm===
+{{Lore:Opal Charm}}
+{{NewRight}}
+[[File:ON-misc-The Prismatic Core.jpg|thumb|right|The Prismatic Core|150px]]
+===The Prismatic Core===
+{{Lore:Prismatic Core}}
+{{NewRight}}
+[[File:OBR-item-Ring of Khajiiti.jpg|thumb|right|Ring of Khajiiti (Oblivion)|150px]]
+===Ring of Khajiiti===
+{{Lore:Ring of Khajiiti}}
+{{NewRight}}
+
+==The Colored Rooms==
+{{Lore:Colored Rooms}}
+
+==See Also==
+* For game specific information see the [[Daggerfall:Meridia's Quest|''Daggerfall'']], [[Oblivion:Meridia|''Oblivion'']], [[Skyrim:Meridia|''Skyrim'']] and [[Online:Meridia|ESO]] articles.
+
+===Books===
+*{{Book Link|Curano's Journal}}
+*{{Book Link|Exegesis of Merid-Nunda}}
+*{{Book Link|Words of the Fallen}}
+
+==Notes==
+* The Invocation of the [[Lore:Pocket Guide to the Empire, 1st Edition/Invocation|''Pocket Guide to the Empire, First Edition'']], states that Meridia "contains the Plenum".
+* [[Lore:Mankar Camoran|Mankar Camoran]] once claimed that the realm of [[Lore:Coldharbour|Coldharbour]] belongs to Meridia, in spite of it belonging to her enemy Molag Bal.{{ref|name=OBMankar|[[Oblivion:Mankar Camoran|Mankar Camoran]]'s dialogue in [[Oblivion:Oblivion|''Oblivion'']]}} 
+* Similarly to other Magna Ge she is now synonymous with the [[Lore:Stars|star]], which she created.{{Ref|name=EOMN}}{{ref|name=WOT|{{Cite Book|Wayshrines of Tamriel}}}} Which star Meridia is associated with is unclear, though a rough translation of tablets in Abagarlas read "Fourth Star Hour (time?) Terror-of-the-Most-Terror of Meridia come (came?)." {{ref|name=OblivionAbagarlas}}
+
+==Gallery==
+<gallery>
+File:DF-prince-Meridia.gif|Meridia<br>(Daggerfall)
+File:SR-npc-Meridia.jpg|Meridia manifesting on Nirn<br>(Skyrim)
+File:OB-quest-Meridia.jpg|A statue of Meridia<br>(Oblivion)
+File:SR-place-Shrine to Meridia.jpg|A statue of Meridia<br>(Skyrim)
+File:ON-place-Meridia's Shrine.jpg|Shrine of Meridia<br>(ESO)
+File:ON-crown store-Meridia Lady of Infinite Energies Statue.jpg|A shrine of Meridia<br>(ESO)
+File:SR-concept-Meridia.jpg|Concept art<br>(Skyrim)
+File:ON-item-Meridia's Brilliance.jpg|Meridia's Brilliance<br>(ESO)
+File:ON-npc-Meridia.jpg|Meridia<br>(ESO)
+File:ON-npc-The Groundskeeper 02.jpg|Meridia as the Groundskeeper<br>(ESO)
+File:ON-statue-Meridia.jpg|Meridia speaking through her statue<br>(ESO)
+File:ON-creature-Symphony of Blades 04.jpg|The Symphony of Blades, a Blessed Sentinel<br>(ESO)
+File:ON-misc-Anniversary Art.jpg|Artwork featuring Meridia <small>(top right)</small><br>(ESO)
+File:ON-sky-Theater of the Ancestors.jpg|Meridia's star in her realm<br>(ESO)
+</gallery>
+
+==References==
+<references/>
+{{UOL}}
+<references group=UOL/>
+{{Lore Daedric Princes}}{{Lore Magna Ge}}{{Lore Altmer Religion}}{{Lore Ayleid Religion}}{{Lore Khajiit Religion}}</noinclude>
