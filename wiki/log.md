@@ -190,6 +190,16 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 00:30] ingest | Sotha Sil cluster (9 source) | touched: 28 pages
+- 사용자 회의감 + §3.1 정정 (매 source 대화 → agent 자율 ingest + 결정점만 concurrence) 후 *첫 실제 카파시 cycle*
+- 9 source ingest (raw/Lore → _ingested): Loremaster's Archive — The Clockwork City + Ald Sotha + Seht + Clockwork City + House Sotha + Mechanical Heart + On the Clockwork City + Clockwork Apostles + Mask of Sotha Sil
+- sotha-sil.md 심층 재작성 (19줄 → 200+줄): 어린 시절 트라우마, Tribunal 신성화, Coldharbour Compact, Dagon 추방, Almalexia 살해, 자유의지 부정, Nirn-Ensuing, Mainspring Ever-Wound, Tarvus 부활 등
+- 22 신규 entity: clockwork-city(재작성)/clockwork-apostles/mechanical-heart/mask-of-sotha-sil/ald-sotha/house-sotha/sotha-nall/truth-in-sequence/mainspring-ever-wound/coldharbour-compact/tarvus/factotum/mecinar/brass-fortress/tamriel-final/barilzar/barilzars-mazed-band/luciana-pullo/clockwork-probabilis/numidium/kagrenacs-tools/battle-of-red-mountain/kagrenac/dumac/tribunal-temple/tiber-septim
+- 2 신규 book: loremasters-archive-the-clockwork-city / on-the-clockwork-city
+- cascading 갱신: tribunal(전면 재작성), vivec, almalexia, mephala, mournhold, mehrunes-dagon, dunmer, chimer, dagoth-ur, heart-of-lorkhan, nerevarine, red-mountain, dwemer
+- 최종: 페이지 1010 → 1037, Orphan 0 유지, Broken 874 → 883 (cluster 작업이 *새 broken 노출, 후속 cycle 대상)
+- Apostle 신학 (Truth in Sequence), Mainspring Ever-Wound, Tamriel Final, Coldharbour Compact의 *Tribunal lore에서 차지하는 위치* 명료화
+
 ## [2026-05-28 23:00] orphan cycle 1 | 색인 페이지 자동 생성 | orphan 647 → 0 (100%)
 - 사용자 합의 (orphan 먼저, broken 후순위): 시리즈 색인·카테고리 색인이 *대량 흡수에 효율 ↑*. *broken은 *cascading 사이클로 *점진 해결*.
 - 20개 색인 페이지 생성:

@@ -25,5 +25,12 @@ ingested_at: 2026-05-28
 - *Mundus 창조 + Tribunal 신성의 *공통 원천*.
 - *Lorkhan = Heart-less God* — *영원히 *심장 찾는 *Doom Drum*.
 
+## Mechanical Heart — Sotha Sil의 *기계 복제*
+
+*2E 882* [[dagoth-ur|Dagoth Ur]] 사건으로 *Tribunal이 *Heart 접근 차단되자* *[[sotha-sil|Sotha Sil]]이 *[[mechanical-heart|Mechanical Heart]] 개발 *착수* — *Heart of Lorkhan의 *기계적 *복제 (Clockwork City 동력)*. *4E 200 완성*. *Sotha Sil의 *자체 [[kagrenacs-tools|Kagrenac's Tools]] 변종*도 *동시 *제작 (제어·해체용)*.
+
+즉 *Heart of Lorkhan은 *원본 외에도 *Sotha Sil의 *기계 *변종*이 *존재* — *Mer-Made God의 *동력원이 *재생 가능*함을 *증명*.
+
 ## 출처
 - UESP: Lore:Heart of Lorkhan
+- [[sotha-sil|Sotha Sil]], [[mechanical-heart|Mechanical Heart]] cascading

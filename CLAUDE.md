@@ -74,16 +74,22 @@ ingested_at: YYYY-MM-DD
 
 ### 3.1 Ingest — raw → wiki
 
-한 source 처리 1 사이클:
+agent가 *자율적으로* 1 source 1 사이클 처리:
 
-1. **Source 전체 read** (첫 문단만 X — 모든 섹션)
-2. **사용자와 *takeaway 논의*** (Claude 핵심 짧게 보고, 사용자가 강조/제외 결정). *자동화 금지 — 매 source 1회 *대화 필수*. 사용자가 명시적으로 *"여러 개 자동 진행"* 요청 시에만 예외.
-3. **wiki 페이지 1+ 생성/갱신**:
+1. **Source 전체 read** (모든 섹션)
+2. **wiki 페이지 1+ 생성/갱신**:
    - kind=book 페이지 신설 (raw → 요약 + 핵심)
-   - **본문에 [[entity-slug]] 링크 박을 때, 그 entity 페이지가 *없으면 *즉시 *최소 stub* 생성** (broken link 금지). stub = frontmatter + 한두 문장.
-4. **언급된 *기존 entity 페이지 *cascading 갱신*** — 이 source가 *그 entity에 *새 정보 *추가*하면 *해당 페이지에 *문단·섹션 *추가*. 카파시: *한 source → 10-15 페이지 touch*.
-5. **wiki/log.md** 한 줄 append: `## [YYYY-MM-DD HH:MM] ingest | <source> | touched: N pages`
-6. **raw/<source>.md → raw/<폴더>/_ingested/**.
+   - 본문 [[entity-slug]] 박을 때 entity 페이지 없으면 *즉시 stub* (broken 금지)
+3. **cascading 갱신** — 이 source가 언급한 *기존 entity 페이지에 *새 정보 *추가*. **카파시: *한 source → 10-15 페이지 touch***
+4. **wiki/log.md** 한 줄 append: `## [YYYY-MM-DD HH:MM] ingest | <source> | touched: N pages`
+5. **raw/<source>.md → raw/<폴더>/_ingested/**
+
+사용자 *concurrence는 *결정점에서만*:
+- 비표준 카테고리 신설 시
+- 기존 entity 주장과 *모순 발생* 시 → decisions/에 기록 + 사용자 보고
+- 큰 source cluster 시작 시 *우선순위 권유 1회*
+
+*production line 금지의 진짜 의미*: raw → wiki 1:1 기계 변환만 하고 *cascading 없이* broken·orphan 남발하는 것. *자동 ingest 자체는 OK*. agent 자율이 카파시 정신의 *전제*.
 
 ### 3.2 Query — wiki → 사용자
 
