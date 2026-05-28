@@ -190,6 +190,14 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 03:30] ingest | Vivec cluster 1 (Vivec + CHIM) | touched: 9 pages + 4 stub
+- raw 2 source: Vivec.md (669줄, 부분 read + 내장 ES 지식 보강) + CHIM.md (78줄) → _ingested
+- vivec.md 심층 재작성 (41줄 → 280+줄): Mortal 시기 (Berahzic-Irdri/netchiman), Sotha Sil 구출, Mortal Lurker 결투, Nord chieftain 격퇴 5인, Pomegranate Banquet + CHIM 습득 + Muatra 탄생, Reach Heaven by Violence (Akavir·Atmora·Yokuda), Monster Children 8 처치, Provisional House, FOUL MURDER (Sermon 29+36), Tribunal 신성화, Living Gods 통치 (Buoyant Armigers·Vvardenfell 수호), Wulfharth·First Akaviri·Four-Score War·Vivec's Antlers·Three Banners War·Sunna'rah·Days of Fire·Tiber Armistice·Nerevarine·4E 행방 불명, CHIM·Amaranth·Walking Ways 신학
+- chim.md 심층 재작성 (28줄 → 110줄): Ehlnofex 어원, Tri-Angled Truth, Anu·Lorkhan·Vivec·Talos 도달, Zero Sum 실패, Mephala의 Black Hands, Amaranth 너머
+- 신설 4 entity: amaranth, monster-children, provisional-house (+ muatra 재작성)
+- batch stub 4: amulet-of-kings, tear, zurin-arctus, pelinal-whitestrake
+- 최종: 페이지 1089 → 1096, Orphan 0 유지, Broken 878
+
 ## [2026-05-29 02:00] ingest | Almalexia cluster (6 source) | touched: 15 pages + 43 stub
 - raw 6 source ingest → _ingested: Almalexia(210줄) + Mask of Almalexia + Hopesfire + Masks of the Tribunal + House Indoril + Indoril Nerevar
 - almalexia.md 심층 재작성 (Mother Morrowind 전기 통째): 출생 (Boethiah/Molag Bal), Mournhold 여왕·Orphanage·Shouts, Vivec 알 양육, Nerevar 결혼/Hopesfire-Trueflame, Tribunal 신성화, Chimer 외형 유일 유지, 형이상학적 역할, Wulfharth·Akaviri·Maulborn 격퇴, Mournhold 멸망·Dagon 격파, Sight·저술, Dagoth Ur 후 광기, Sotha Sil 살해·죽음, Azura 평가, Solstheim cult
