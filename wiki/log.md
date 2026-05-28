@@ -190,6 +190,12 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 10:30] ingest | Sheogorath cluster (1 source, 228줄) | touched: 7 pages
+- raw 1 source: Sheogorath.md → _ingested
+- sheogorath.md 심층 재작성 (22→200줄): Madness/Creativity, Shivering Isles realm, Jyggalag 저주 (Order의 원래 형태), Greymarch cycle, Sithis-shaped hole, Khajiit Sheggorath/Skooma Cat, Chimer/Dunmer House of Troubles, Baar Dau (Vivec City 던짐), Apostle "Gray Prince of Order went mad in the knowing", 16 Accords of Madness, Shalidor Eyevea, Hero of Kvatch mantling (3E 433 Greymarch 종결), 4E Pelagius/Theodor Gorlash
+- 신설 6 entity: shivering-isles, wabbajack, aureal, mazken, greymarch, hero-of-kvatch
+- 최종: 페이지 1128 → 1134, Orphan 0 유지
+
 ## [2026-05-29 09:00] ingest | Molag Bal cluster (1 source, 358줄) | touched: 9 pages
 - raw 1 source: Molag Bal.md → _ingested
 - molag-bal.md 심층 재작성 (22→230줄): Domination/Brutality/Lies/Enslavement, Stone-Fire 어원, Coldharbour realm, 가족 (Ozozzachar/Molag Grunda/Haymon Camoran/Vampire 자손), Boethiah arch-enemy, Vivec Pomegranate Banquet (CHIM 수여 + Muatra 탄생 + Bal Ur 추방), 다층 호칭/문화 (Altmer/Ayleid/Dunmer/Khajiit Molagh/Reachmen), Gil-Var-Delle 파괴 (Coldharbour Compact 촉발), Lamae Bal Vampire 시조, Culanwe Coldharbour 고문, Soulburst (2E 578)/Planemeld (2E 582) 주도, Xivkyn 창조, 4E Mace of Molag Bal
