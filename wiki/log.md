@@ -190,6 +190,12 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 12:00] ingest | Hircine cluster (1 source, 366줄) | touched: 6 pages
+- raw 1 source: Hircine.md → _ingested
+- hircine.md 심층 재작성 (22→180줄): Lord of the Hunt, Hunting Grounds realm, 5 Aspects (Alrabeg/Storihbeg/Uricanbeg/Gulibeg/Hrokkibeg) + Glenmoril 6번째 Owl, Law of Fair Hunt, Father of Manbeasts (Lycanthropy), Bloodmoon/Great Hunt, 문화별 (Bosmer Wild Hunt + Y'ffre Green Pact 대립 / Reachfolk + Glenmoril Wyrd / Druids Elk of Arrows / Altmer 금지 / Khajiit Y'ffer Graht-Elk), Sheogorath 16 Accords 패배, Savior's Hide·Ring of Hircine
+- 신설 5 entity: hunting-grounds, savior-hide, werewolf, bloodmoon, great-hunt (wild-hunt 기존)
+- 최종: 페이지 1134 → 1139, Orphan 0 유지
+
 ## [2026-05-29 10:30] ingest | Sheogorath cluster (1 source, 228줄) | touched: 7 pages
 - raw 1 source: Sheogorath.md → _ingested
 - sheogorath.md 심층 재작성 (22→200줄): Madness/Creativity, Shivering Isles realm, Jyggalag 저주 (Order의 원래 형태), Greymarch cycle, Sithis-shaped hole, Khajiit Sheggorath/Skooma Cat, Chimer/Dunmer House of Troubles, Baar Dau (Vivec City 던짐), Apostle "Gray Prince of Order went mad in the knowing", 16 Accords of Madness, Shalidor Eyevea, Hero of Kvatch mantling (3E 433 Greymarch 종결), 4E Pelagius/Theodor Gorlash
