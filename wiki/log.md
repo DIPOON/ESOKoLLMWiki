@@ -190,6 +190,12 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 13:30] ingest | Nocturnal cluster (1 source, 167줄) | touched: 10 pages
+- raw 1 source: Nocturnal.md → _ingested
+- nocturnal.md 심층 재작성 (22→230줄): Night/Darkness/Mystery, Evergloam realm, Ur-dra (Hermaeus Mora·Namira와 경쟁), "before Oblivion, there was Nocturnal", Khajiit Noctra (Lorkhaj Dark Heart 검은 피), Reachfolk Mistress of Shadows, Song of Hrormir (Gray Cowl 기원), Fable of the Gryphon, Twilight Sepulcher + Ebonmere + Nightingale Trinity, Witchmother coven, Shadow Magic + Gloaming Gates, Daedric Triad (Clavicus Vile + Mephala + Nocturnal, 2E 230 K'Tora 결탁→Crystal Tower 사건), 2E 582 Clockwork City 침공 + Crystal Tower 사건 (Nocturnal Vile·Mephala 배신→Vestige·Darien Gautier·Meridia가 격퇴), 3E·4E (Mercer Frey Skeleton Key 도난·Last Dragonborn 회수)
+- 신설 9 entity: skeleton-key, gray-cowl-of-nocturnal, twilight-sepulcher, ebonmere, nightingales, daedric-triad, ur-dra, noctra, dark-heart (evergloam 기존)
+- 최종: 페이지 1139 → 1148, Orphan 0 유지
+
 ## [2026-05-29 12:00] ingest | Hircine cluster (1 source, 366줄) | touched: 6 pages
 - raw 1 source: Hircine.md → _ingested
 - hircine.md 심층 재작성 (22→180줄): Lord of the Hunt, Hunting Grounds realm, 5 Aspects (Alrabeg/Storihbeg/Uricanbeg/Gulibeg/Hrokkibeg) + Glenmoril 6번째 Owl, Law of Fair Hunt, Father of Manbeasts (Lycanthropy), Bloodmoon/Great Hunt, 문화별 (Bosmer Wild Hunt + Y'ffre Green Pact 대립 / Reachfolk + Glenmoril Wyrd / Druids Elk of Arrows / Altmer 금지 / Khajiit Y'ffer Graht-Elk), Sheogorath 16 Accords 패배, Savior's Hide·Ring of Hircine
