@@ -166,3 +166,11 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 진행도: raw/Lore 219 → 272 _ingested (53↑), 13729 → 13676 남음
 - lore: 153 → 206 (53↑), termbase: 696 변동 X
 - lint: broken termbase 0, broken lore ≥4회 10종 (Sithis, Great Houses, Dark Brotherhood, Systres, Fa-Nuit-Hen, Dagoth Ur, Zaan-the-Scalecaller, Necrom, Hist, Barons of Move Like This — 자연 trigger 대기)
+
+## [2026-05-28] goal lore ingest 라운드 5 (200 commit 체크포인트) | feature/uesp_ingest
+- A 시작 알파벳 계속 (63 신규 lore): A Study of Fabricants, A Summoner's Guide to Nymics, A Supplicant's Song, A Tale Forever Told, A Tale of Baar Dau, A Tale of Greed, A Tale of Kieran, A Threnody to Lost Love, A Time of Troubles, A Tough Audience, A Trader's Eye for Fashion, A Tragedy in Black, A Travel Guide to Tamriel Castles, A Treatise on the Knot, A Trespasser in Ivyhame, A Vision of the Twin Citadels, A Warning to the Aldmeri Dominion, A Werewolf's Confession, A World of Corpses, A Year Among the Eagleseer Clan, A conversation with Orbath gro-Agdurz, A'tor, ABCs for Barbarians, AIOS, ART OF SMASHING VOL. 1, Aalto, Abah's Landing Merchant Lords 6+색인, Abah's Landing, Abamath, Abanabi Caves, Abecean Sea, Abelle Chriditte, Abernanit, **Abnur Tharn**, Aberrant Welkynd Stones, Abolisher, Abomination, Abyss, Abyssal Geysers, Academy of Chorrol, Academy's Rejection Letter, Accession War, Acharyai, Achieving Harmony with Death, Actors Guild, Ada'Soom Dir-Kamal, Ada, **Adamantine Tower**, Adamantium, Adamus Phillida Slain!, Adjacent Place, Adrimk, Advances in Lockpicking, Adventurer's Almanac 색인, **Aedra (심층)**, Aedra and Daedra (Kirkbride)
+- 진행도: raw/Lore 272 → 374 _ingested (102↑), 13676 → 13574 남음
+- lore: 206 → 269 (63↑), termbase: 696 변동 X
+- 시리즈 완결: Abah's Landing Merchant Lords (6 + 색인), Adventurer's Almanac (3 + 색인)
+- 메타-lore 심층: Abnur Tharn (Five Companions + Dragonhold), Adamantine Tower (Convention 무대), Aedra (8 culture creation myth)
+- lint: broken termbase 0, broken lore ≥5회 8종 (Dark Brotherhood/Sithis/Great Houses/Fa-Nuit-Hen/Dagoth Ur/Systres/Forebears/Ayrenn — 자연 trigger 대기)
