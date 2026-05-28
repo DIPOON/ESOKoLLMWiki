@@ -190,6 +190,14 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 05:00] ingest | Azura cluster (9 source) | touched: 12 pages + 4 stub
+- raw 9 source: Azura(205줄) + Azurah(redirect) + Azura's Star(51) + Azura's Coast + Veloth(114줄) + Good Daedra + The Anticipations + Azura and the Box + Nerevarine Prophecy → _ingested
+- azura.md 심층 재작성 (22줄 → 200+줄): Twilight·Liminality·Fate·Prophecy/Mystery·Magic, Moonshadow, Anticipation 시스템, Tribunal 저주 (핵심!), Khajiit Azurah 신화 (Fadomai/Lorkhaj/Dark Heart/Khajiit 창조/Magrus Eye), Coldharbour Compact, 2E 582 Vivec 도움 (begrudgingly), 3E 427 Nerevarine 인도, 4E Reclamations, 핵심 평가 (Sotha Sil-Azura 적대+협력 복합)
+- veloth.md 신설 (Saint Veloth, Velothi exodus, Good Daedra 신앙 수립, Maulborn 위협 후 회수)
+- 부속 7 신설: moon-and-star, azuras-star, good-daedra, reclamations, azurah, anticipations, nerevarine-prophecy (moonshadow 기존)
+- batch stub 4: ashlander, conoon-chodala, aldmer, red-year
+- 최종: 페이지 1096 → 1108, Orphan 0 유지, Broken 888
+
 ## [2026-05-29 03:30] ingest | Vivec cluster 1 (Vivec + CHIM) | touched: 9 pages + 4 stub
 - raw 2 source: Vivec.md (669줄, 부분 read + 내장 ES 지식 보강) + CHIM.md (78줄) → _ingested
 - vivec.md 심층 재작성 (41줄 → 280+줄): Mortal 시기 (Berahzic-Irdri/netchiman), Sotha Sil 구출, Mortal Lurker 결투, Nord chieftain 격퇴 5인, Pomegranate Banquet + CHIM 습득 + Muatra 탄생, Reach Heaven by Violence (Akavir·Atmora·Yokuda), Monster Children 8 처치, Provisional House, FOUL MURDER (Sermon 29+36), Tribunal 신성화, Living Gods 통치 (Buoyant Armigers·Vvardenfell 수호), Wulfharth·First Akaviri·Four-Score War·Vivec's Antlers·Three Banners War·Sunna'rah·Days of Fire·Tiber Armistice·Nerevarine·4E 행방 불명, CHIM·Amaranth·Walking Ways 신학
