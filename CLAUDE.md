@@ -55,7 +55,7 @@ frontmatter 표준 필드 (kind 별):
 name: 표시 이름 (한글 우선)
 aliases: [영문, 한글, 별칭...]
 kind: entity | book | synthesis | misc
-category: 인물 | 지명 | 신성 | 진영 | 종족 | 사건 | 게임용어 | 유물 | 책 | ...
+category: 인물 | 지명 | 신성 | 진영 | 종족 | 사건 | 유물 | 개념 | 책 | 던전 | synthesis
 # kind=book의 경우:
 series: <시리즈명>
 series_index: <권 번호>
@@ -125,8 +125,9 @@ ingested_at: YYYY-MM-DD
 - `진영` — 길드·가문·조직 (Thieves Guild, House Telvanni, Aldmeri Dominion)
 - `종족` — 종족 (Altmer, Khajiit, Vampire, Werewolf)
 - `사건` — 역사 사건 (Battle of Red Mountain, Soulburst, Red Year)
-- `유물` — 무기·아티팩트 (Chrysamere, Amulet of Kings, Wrathstone)
-- `개념` — 게임용어·신학 개념 (CHIM, Walking Ways, Dragon Break)
+- `유물` — 무기·아티팩트 (Chrysamere, Amulet of Kings, Wrathstone) — *아이템 통합*
+- `개념` — 게임용어·신학 개념 (CHIM, Walking Ways, Dragon Break) — *게임용어 통합*
+- `던전` — ESO 인스턴스 던전·delve (211개. *지명과 *분리 — 게임 instance 정체성)
 - `책` — kind=book 페이지 *모두* (시·편지·일기·우화 등 *세부 분류 폐기*)
 - `synthesis` — kind=synthesis 페이지
 

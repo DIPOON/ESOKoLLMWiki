@@ -23,7 +23,7 @@ status: 사후 정당화 (재발 방지)
    - 지명 보강 + 추가 (Akavir, Atmora, Yokuda, Aldmeris, Pyandonea, Morrowind, Cyrodiil, Skyrim, High Rock, Hammerfell, Elsweyr, Black Marsh, Valenwood, Summerset Isles, Vvardenfell, Solstheim, Resdayn, Red Mountain)
    - lint 보강 5 (CHIM, High Isle, The Serpent, Vivec City, Auridon/Daggerfall/Iliac Bay)
 
-5. lore wikilink 204개 `[[lore/X]]` → `[[termbase/X|한글]]` 일괄 갱신.
+5. lore wikilink 204개 `[[X]]` → `[[X|한글]]` 일괄 갱신.
 
 ## 위반 사실 (§11 단서)
 

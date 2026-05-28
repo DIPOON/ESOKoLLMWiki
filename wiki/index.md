@@ -1,153 +1,163 @@
+---
+kind: misc
+updated: 2026-05-28
+---
+
 # Wiki Index
 
-CLAUDE.md §5.5에 따라 위키 전체 카탈로그. **매 라운드 끝 / 50 commit / batch 종료 시 갱신**.
-
-마지막 갱신: 2026-05-28 (라운드 2 끝 + 메타-termbase 사건 직후)
+ESOKoLLMWiki 전체 카탈로그. *flat namespace 마이그레이션 후 *재구축*. CLAUDE.md §3.2 *Query 진입점*.
 
 ---
 
-## 한눈 통계
+## 한눈 통계 (2026-05-28 마이그레이션 후)
 
-| 항목 | 수 |
-|---|---|
-| Termbase | **696** (이전 630 → 메타 60+ ESO 동맹 5) |
-| Lore | **269** (라운드 1: 33 → 2: 110 → 3: 153 → 4: 206 → 5: 269) |
-| Decisions | 8 (시드 import 6 + meta-termbase-emergency 1 + seed-import 종합 1) |
-| raw/Lore 진행 | 374 _ingested / 13574 남음 (2.7%) |
-| raw/Online | 316 _ingested / 73145 남음 (0.4% — 라운드 1 발췌만) |
-| raw/Books | 0 / 114 남음 (미진행) |
+| 항목 | 수 | 비고 |
+|---|---|---|
+| **wiki 페이지 (kind 보유)** | **987** | entity 745 + book 220 + decisions 9 + 기타 |
+| Entity | 745 | 인물·지명·신성·진영·종족·사건·유물·개념·던전 |
+| Book | 220 | raw → 단일 책/문서 흡수 |
+| Decisions | 9 | wiki/decisions/ |
+| Broken link (unique) | 867 | 마이그레이션 *후 *드러난 실상. ≥5회 22종 stub 완료 |
+| Orphan (in-link 0) | 647 | 66% — *대부분 *책 페이지 (cascading 부족) |
 
 ---
 
 ## 진입점 (어디서 시작할까)
 
-- 새 사관: [[#세션 시작 의례 (CLAUDE.md §6)]] 참조 → log.md 마지막 5줄 → 본 index
-- 번역 묶음 작업: §4 워크플로 → [[style-guide]] + 묶음 entity termbase
-- lore ingest: §4-c 워크플로 → raw/Lore에서 *자연 trigger* (사용자 질문 또는 등장)로 시작. *카테고리 사전 채움 금지* (§4-c.1)
-- 시드 import: §4-b → seed-policy 파일 + 사용자 명시 승인 (§11)
-- 정책 변경: 본 문서 + [[decisions/2026-05-28-meta-termbase-emergency]] (위반 사례 교훈)
+- **새 사관**: 세션 시작 의례 (CLAUDE.md §6) → `log.md` 마지막 5줄 → 본 index
+- **lore 질문 (사용자)**: 카테고리 섹션 → 해당 entity 페이지 → cross-ref 따라가기
+- **Ingest 사이클 (Claude)**: CLAUDE.md §3.1 → raw/Lore 또는 raw/Online에서 *자연 trigger*로 1 source 선택
+- **번역 plugin (Phase 2)**: CLAUDE.md §5 → `term:` + `target_ko:` 필드 보유 entity가 *연동 대상*
+- **정책 변경 이력**: [[decisions/2026-05-28-mission-pivot]] (가장 큰 사건)
 
 ---
 
-## Termbase (691)
+## 카테고리별 (Entity)
 
-### 카테고리별 분포
+> 옵시디언 Dataview 플러그인이 있으면 *동적 조회 가능*. 아래는 *주요 entity만 *수동 큐레이션*.
 
-| 카테고리 | 수 | 비고 |
-|---|---|---|
-| [던전](termbase/) | 211 | 시드: 던전 시트 |
-| [지명](termbase/) | 183 | 시드 175 + 메타-termbase 신설 18 (Akavir/Atmora/Yokuda/Aldmeris/Pyandonea/Morrowind/Cyrodiil/Skyrim/High Rock/Hammerfell/Elsweyr/Black Marsh/Valenwood/Summerset Isles/Vvardenfell/Solstheim/Resdayn/Red Mountain) + lint 보강 3 (Auridon/Daggerfall/Iliac Bay) + High Isle/Vivec City |
-| [게임용어](termbase/) | 95 | 시드 93 + CHIM + Walking Ways + The Serpent |
-| [아이템](termbase/) | 63 | 시드 |
-| [인물](termbase/) | 61 | 시드 (인명사전) |
-| [종족](termbase/) | 28 | 시드 15 + 메타-termbase 신설 13 (Altmer/Bosmer/Dunmer/Argonian/Breton/Imperial/Khajiit/Orsimer/Redguard/Falmer/Maormer/Tsaesci/Ayleid) |
-| [신성](termbase/) | 26 | **메타-termbase 신설 25** (Daedric Princes 16 + Aedra 8 + Magnus + Tribunal 3 + ALMSIVI) + Lorkhan |
-| [신성·개념](termbase/) | 5 | Aedra / Daedra / et-ada / Anu / Aetherius |
-| [진영](termbase/) | 9 | 시드 |
-| [기타·우주·개념·역사적 인물](termbase/) | 9 | 시드 4 + 메타-termbase 신설 5 (Aurbis/Mundus/Padomay/Lorkhan/Nerevar 등) |
+### 신성 (39)
+**전체 목록**: [[deities-색인]]
+- [[aedra]] · [[daedra]] — Anu·Padomay 양극의 영적 후예
+- [[daedric-princes]] — 16 + α 군주 색인
+- [[tribunal]] — Almalexia · Sotha Sil · Vivec
+- [[sheogorath]] · [[hircine]] · [[mehrunes-dagon]] · [[boethiah]] · [[azura]] · [[mephala]]
+- [[akatosh]] · [[arkay]] · [[stendarr]] · [[talos]]
+- [[sithis]] · [[anu]] · [[lorkhan]]
+- [[hist]] — Argonian 시조 신
+- [[fa-nuit-hen]] — Hidden Knower (demiprince)
 
-### 출처별 트레이서빌리티
+### 인물 (88)
+**전체 목록**: [[characters-색인]]
+- [[vivec]] · [[almalexia]] · [[sotha-sil]] — Tribunal 3주
+- [[nerevar]] · [[indoril-nerevar]] — Chimer Hortator
+- [[abnur-tharn]] · [[varen-aquilarios]] · [[mannimarco]] — ESO 1막 핵심
+- [[ayrenn]] · [[jorunn-the-skald-king]] · [[high-king-emeric]] — 3 동맹 지도자
+- [[dagoth-ur]] · [[divayth-fyr]] — Morrowind 영겁
+- [[tiber-septim]] · [[talos]] — 제 3제국
+- [[zaan-the-scalecaller]] · [[shalidor]]
 
-- **시드 import (1차)**: 619 페이지. frontmatter `source_sheet`, `source_row`, `source_file` 채워짐. [[decisions/seed-import]] 참조.
-- **UESP 자동 보강 (#D)**: 371 페이지에 description 자동 추가.
-- **메타-termbase 일괄 신설 (2026-05-28)**: **54+8 페이지 — *§11 권한 트리거 우회* 사후 정당화**. 트레이서빌리티 0 (source_* 미기록). 자세한 사정은 [[decisions/2026-05-28-meta-termbase-emergency]].
+### 지명 (200)
+**전체 목록**: [[places-색인]]
+- [[tamriel]] · [[nirn]] · [[mundus]] — 세계
+- [[morrowind]] · [[skyrim]] · [[high-rock]] · [[hammerfell]] · [[summerset-isles]] · [[valenwood]] · [[elsweyr]] · [[black-marsh]] · [[cyrodiil]] — 9 지방
+- [[vivec-city]] · [[necrom]] · [[mournhold]] · [[sadrith-mora]] — Morrowind 도시
+- [[the-reach]] · [[markarth]] · [[whiterun]] · [[windhelm]] — Skyrim
+- [[systres]] — High Isle DLC
+- [[coldharbour]] — Molag Bal의 영지
+- [[adamantine-tower]] · [[red-mountain]] · [[baar-dau]] — 신화 지물
 
-### 한글 표기 정정 (2026-05-28)
-- Hircine: 하르신느 → **허씬** | Mehrunes Dagon: 메루네스 데이곤 → **메이룬스 데이건** | Jyggalag: 직갈라그 → **지갈렉** | Almalexia: 알마렉시아 → **아말렉시아** | Arkay: 아카이 → **아케이**
-- 구 표기는 aliases에 유지 (검색 호환).
+### 진영 (24)
+**전체 목록**: [[factions-색인]]
+- [[aldmeri-dominion]] · [[ebonheart-pact]] · [[daggerfall-covenant]] — 3 동맹
+- [[great-houses]] · [[house-telvanni]] · [[house-hlaalu]] · [[house-redoran]] · [[house-indoril]] · [[house-dres]] — Morrowind 가문
+- [[dark-brotherhood]] · [[morag-tong]] · [[thieves-guild]] · [[mages-guild]] · [[fighters-guild]] · [[psijic-order]] — 길드
+- [[crowns]] · [[forebears]] — Redguard 분파
+- [[dragon-cult]] · [[ordinator]] — 종교 조직
 
-### 핵심 신성 entity 진입점
-- [[termbase/almsivi|ALMSIVI]] (Tribunal) — [[termbase/almalexia|아말렉시아]] · [[termbase/sotha-sil|소사 실]] · [[termbase/vivec|Vivec]] · [[termbase/nerevar|네레바]]
-- **Aedra (9 Divines)**: [[termbase/akatosh|아카토시]] · [[termbase/arkay|아케이]] · [[termbase/stendarr|스텐다르]] · [[termbase/kynareth|키나리스]] · [[termbase/mara|마라]] · [[termbase/julianos|줄리아노스]] · [[termbase/dibella|디벨라]] · [[termbase/zenithar|제니타르]] · [[termbase/lorkhan|로칸]]
-- **Daedric Princes 16**: [[termbase/sheogorath|셰오고라스]] · [[termbase/malacath|말라카스]] · [[termbase/vaermina|베르미나]] · [[termbase/hircine|허씬]] · [[termbase/sanguine|생귄]] · [[termbase/namira|나미라]] · [[termbase/nocturnal|녹터널]] · [[termbase/mephala|메팔라]] · [[termbase/azura|아주라]] · [[termbase/boethiah|보에시아]] · [[termbase/molag-bal|몰라그 발]] · [[termbase/mehrunes-dagon|메이룬스 데이건]] · [[termbase/clavicus-vile|클라비쿠스 바일]] · [[termbase/peryite|페리아이트]] · [[termbase/meridia|메리디아]] · [[termbase/jyggalag|지갈렉]]
-- **우주론**: [[termbase/aurbis|Aurbis]] · [[termbase/mundus|Mundus]] · [[termbase/aetherius|Aetherius]] · [[lore/oblivion|Oblivion]]
-- **개념**: [[termbase/chim|CHIM]] · [[termbase/walking-ways|Walking Ways]] · [[termbase/anu|Anu]]/[[termbase/padomay|Padomay]]
+### 종족 (30)
+**전체 목록**: [[races-색인]]
+- [[altmer]] · [[bosmer]] · [[dunmer]] · [[chimer]] · [[falmer]] · [[ayleid]] · [[dwemer]] — Mer
+- [[nord]] · [[breton]] · [[imperial]] · [[redguard]] · [[reachman]] — Man
+- [[argonian]] · [[khajiit]] · [[orc]] · [[orsimer]] — 그 외
+- [[vampire]] · [[werewolf]] · [[goblin]]
 
----
+### 사건 (1)
+- [[2e-582]] — Three Banners War 시작
 
-## Lore (88)
+### 유물 (65)
+**전체 목록**: [[artifacts-색인]]
+- [[amulet-of-kings]] · [[heart-of-lorkhan]] · [[chim-el-adabal]]
+- [[wrathstone]] · [[chrysamere]] · [[volendrung]]
 
-### 시리즈
+### 개념 (104)
+**전체 목록**: [[concepts-색인]]
+- [[chim]] · [[walking-ways]] · [[dragon-break]] · [[towers]] — 형이상학
+- [[mantling]] · [[soul-gem]] · [[soul-trap]] · [[white-gold-tower]] — 영혼·tower
 
-#### 36 Lessons of Vivec (37 sermon + 1 색인 = 38)
-[[lore/36-lessons-of-vivec-시리즈-색인|시리즈 색인]] | sermon [[lore/36-lessons-of-vivec-sermon-1|1]] · [[lore/36-lessons-of-vivec-sermon-2|2]] · [[lore/36-lessons-of-vivec-sermon-3|3]] · [[lore/36-lessons-of-vivec-sermon-4|4]] · [[lore/36-lessons-of-vivec-sermon-5|5]] · [[lore/36-lessons-of-vivec-sermon-6|6]] · [[lore/36-lessons-of-vivec-sermon-7|7]] · [[lore/36-lessons-of-vivec-sermon-8|8]] · [[lore/36-lessons-of-vivec-sermon-9|9]] · [[lore/36-lessons-of-vivec-sermon-10|10]] ~ [[lore/36-lessons-of-vivec-sermon-36|36]] · [[lore/36-lessons-of-vivec-sermon-37|37 (비공식 C0DA)]]
+### 책 (220)
+**단발 책 전체 목록**: [[standalone-books-색인]] (125편 시리즈 없는 책)
 
-#### 2920 시리즈 (12권 + 색인 = 13)
-[[lore/2920-시리즈-색인|시리즈 색인]] | [[lore/2920-morning-star-v1|1·Morning Star]] · [[lore/2920-suns-dawn-v2|2·Suns Dawn]] · [[lore/2920-first-seed-v3|3·First Seed]] · [[lore/2920-rains-hand-v4|4·Rains Hand]] · [[lore/2920-second-seed-v5|5·Second Seed]] · [[lore/2920-midyear-v6|6·Midyear]] · [[lore/2920-suns-height-v7|7·Suns Height]] · [[lore/2920-last-seed-v8|8·Last Seed]] · [[lore/2920-hearth-fire-v9|9·Hearth Fire]] · [[lore/2920-frostfall-v10|10·Frostfall]] · [[lore/2920-suns-dusk-v11|11·Suns Dusk]] · [[lore/2920-evening-star-v12|12·Evening Star]]
+**시리즈 색인 (11)**:
+- [[36-lessons-of-vivec-시리즈-색인]] (37권)
+- [[2920-시리즈-색인]] (12권 = 1년 12달)
+- [[a-dance-in-fire-시리즈-색인]] (8권)
+- [[abahs-landing-merchant-lords-시리즈-색인]] (7권)
+- [[monument-island-plaques-시리즈-색인]] (5권)
+- [[a-feast-among-the-dead-시리즈-색인]] (5권)
+- [[a-culinary-adventure-시리즈-색인]] (5권)
+- [[a-memory-book-시리즈-색인]] (4권)
+- [[16-accords-of-madness-시리즈-색인]] (3권)
+- [[manifestos-of-kinlord-rilis-xii-시리즈-색인]] (3권)
+- [[a-hunters-journey-시리즈-색인]] (2권)
+- [[adventurers-almanac-시리즈-색인]] · [[a-history-of-shipbuilding-시리즈-색인]] · [[a-life-barbaric-and-brutal-시리즈-색인]] (각 1권)
 
-#### 16 Accords of Madness (4)
-[[lore/16-accords-of-madness-시리즈-색인|시리즈 색인]] | [[lore/16-accords-of-madness-v6-hircine의-이야기|v6 허씬]] · [[lore/16-accords-of-madness-v9-vaermina의-이야기|v9 베르미나]] · [[lore/16-accords-of-madness-v12-malacath의-이야기|v12 말라카스]]
-
-#### Monument Island Plaques (5)
-[[lore/1-스라시안-역병|1·스라시안 역병]] · [[lore/2-baron-admiral-bendu-olo|2·Baron-Admiral Bendu Olo]] · [[lore/3-all-flags-navy|3·All Flags Navy]] · [[lore/4-instrument-of-vengeance|4·Instrument of Vengeance]] · [[lore/5-construction-of-monument-island|5·Monument Island 건설]]
-
-#### Manifestos of Kinlord Rilis XII (3)
-[[lore/2nd-manifesto-of-kinlord-rilis-xii|2nd]] · [[lore/3rd-manifesto-of-kinlord-rilis-xii|3rd]] · [[lore/4th-manifesto-of-kinlord-rilis-xii|4th]]
-
-#### A Culinary Adventure (5)
-[[lore/a-culinary-adventure|색인]] | [[lore/a-culinary-adventure-volume-1|v1]] · [[lore/a-culinary-adventure-volume-2|v2]] · [[lore/a-culinary-adventure-volume-3|v3]] · [[lore/a-culinary-adventure-volume-4|v4]]
-
-### 단편 (A- 시작 19개)
-- [[lore/a-betrayal-of-our-heritage|A Betrayal of Our Heritage]] (Crowns 순혈주의)
-- [[lore/a-bloody-journal|A Bloody Journal]] (TES4 Fighters Guild 학살)
-- [[lore/a-bosmeri-sleeping-song|A Bosmeri Sleeping-song]] (Bosmer 자장가)
-- [[lore/a-brief-history-of-ald-sotha|A Brief History of Ald Sotha]] (Sotha Sil 기원)
-- [[lore/a-brief-history-of-house-telvanni|A Brief History of House Telvanni]] (Aldmeri 첩보)
-- [[lore/a-brothers-plea|A Brother's Plea]] (Dragon Cult)
-- [[lore/a-call-for-common-hair|A Call for Common Hair]] (Prince Hew 풍자)
-- [[lore/a-call-for-recollection|A Call for Recollection]] (Bosmer-Ayleid 회복주의)
-- [[lore/a-case-for-open-borders|A Case for Open Borders]] (Summerset 개방 호소)
-- [[lore/a-cats-serenade|A Cat's Serenade]] (Khajiit 사랑 노래)
-- [[lore/a-challengers-thoughts|A Challenger's Thoughts]] (Bedlam Veil)
-- [[lore/a-change-in-the-chimer|A Change in the Chimer]] (1E 700 동시대 Dunmer 변형)
-- [[lore/a-childs-play|A Child's Play]] (Green Lady Gwaering 어린 시절)
-- [[lore/a-childs-tamriel-bestiary|A Child's Tamriel Bestiary]] (A-Z 운문 도감)
-- [[lore/a-citizens-petition|A Citizen's Petition]] (Blackcaster Mages Guild)
-- [[lore/a-clothiers-primer|A Clothier's Primer]] (Shattered Masque 튜토리얼)
-- [[lore/a-cure-for-lycanthropy|A Cure for Lycanthropy]] (Silver Dawn 부패)
-- [[lore/a-cyrodilic-merchants-lament|A Cyrodilic Merchant's Lament]] (Pact 비판 + 첩보)
-
-### 기타 (8)
-- [[lore/2e-582|2E 582 (ESO 게임 시점)]] · [[lore/2nd-manifesto-of-kinlord-rilis-xii|2nd Manifesto]] · [[lore/트롤-지방의-101가지-용도|101 Uses for Troll Fat]]
-
----
-
-## Style Guide
-
-- [[style-guide]] — 10개 섹션 (명명/세트/NPC 톤/퀘스트/가구/시스템 토큰/검수/헷갈리는 케이스/갱신 정책/출처)
+### 던전 (211)
+**전체 목록**: [[dungeons-색인]]
+- ESO 인스턴스 던전·delve. 각 던전 페이지에 입장 조건·boss·loot 정보.
 
 ---
 
-## Decisions (8)
+## 메타 페이지
 
-| 파일 | 형식 | 내용 |
-|---|---|---|
-| [[decisions/seed-import]] | 종합 | 시드 import 마찰점 + CLAUDE.md 갱신 후보 |
-| [[decisions/seed-debate]] | 데이터 | "토론중" 시트 339행 |
-| [[decisions/seed-merkmire]] | 데이터 | "머크마이어" 시트 97행 |
-| [[decisions/seed-policy]] | 데이터 | "번역자들 참고논의" 33행 (style-guide 시드) |
-| [[decisions/seed-npc-tone]] | 데이터 | "npc말투" 10행 (style-guide 시드) |
-| [[decisions/seed-pending]] | 데이터 | "보류" 4행 |
-| [[decisions/seed-quest-naming]] | 데이터 | "퀘스트 관련" 4행 |
-| [[decisions/2026-05-28-meta-termbase-emergency]] | **사후 결정** | ⚠ §11 권한 트리거 우회 사실 + 사후 정당화 (재발 방지 자료) |
+- [[index]] (본 페이지)
+- [[log]] — 시간순 작업 로그
+- [[style-guide]] — 번역 plugin용 톤·규칙 (Phase 2)
+- [[decisions/2026-05-28-mission-pivot]] — 미션 재정의 (네임스페이스 폐기)
+- [[decisions/2026-05-25-meta-termbase-emergency]] — 위반 사례 회고 (legacy)
+- [[decisions/seed-policy-eso-고유명사-xlsx]] — 시드 import 정책
+- [[decisions/seed-import]] — 시드 종합 회고
+- [[decisions/round-1]] ~ [[decisions/round-5]] — 라운드별 회고 (legacy)
 
 ---
 
-## Sections
+## 데이터셋 옵시디언 Dataview 예시
 
-- `wiki/sections/` — **미생성**. DB 묶음 작업 시작 시 자연 생성.
+옵시디언 Dataview 플러그인 활성화 시:
+
+````dataview
+TABLE category, kind, status
+FROM "wiki"
+WHERE kind = "entity" AND status = "stub"
+SORT category, file.name
+````
+
+stub 페이지만 우선 보강할 때 활용.
+
+````dataview
+TABLE category, length(file.outlinks) AS out
+FROM "wiki"
+WHERE kind = "book" AND length(file.outlinks) < 2
+SORT file.name
+````
+
+cross-ref 부족 책 페이지 식별.
 
 ---
 
-## 미해결 후속 작업 (우선순위 순)
+## 알려진 문제 (마이그레이션 후)
 
-1. **§4-c lore ingest 계속** — A 시작 알파벳 계속, 그 다음 raw/Online 진입 검토 (현재 발췌 316만, ingest 0).
-2. **평문 등장 termbase 위키링크 승격** — mundus/redguard/meridia/imperial 등 lore 평문 등장 분 [[termbase/...]] 링크화. *fix-as-you-go* + 라운드 끝 lint.
-3. **in-link 0인 9개 termbase 자연 등장 trigger 대기** — bosmer/dibella/falmer/jyggalag/maormer/namira/peryite/sanguine/zenithar. 등장 시 즉시 활용. (강제 등장 X — §4-c 정신 위반된 사전 채움이므로)
-4. **§6 세션 시작 의례 정착** — 사관 교체 시 *log.md 마지막 5줄 + index.md 한눈 통계*로 진입.
-5. **decisions/seed-* 별도 폴더 분리 여부** — 다음 외부 시드 자료 한 번 더 보고 결정.
-6. **§5.5 갱신 의무 강화** — 본 index가 *2026-05-26 이후 갱신 0*이었음. 50 commit 또는 라운드 끝마다 *반드시* 본 페이지 갱신.
-
----
-
-> *시간순 변경 이력은 [[log]] 참조.* index.md는 *현재 상태 스냅샷*.
+1. **Orphan 65.4%** — 대부분 책 페이지가 *카테고리 본문에 *링크 안 됨*. 시리즈 색인·카테고리 페이지로 *흡수 필요* (deferred).
+2. **Broken link 867** — 주로 책 본문이 언급한 작은 entity 전용 페이지 없음. ≥5회 22종은 *stub 완료*. 나머지는 자연 trigger 대기 또는 다음 cascading 사이클.
+3. **Cross-ref 양방향 누락** — A→B 링크 있는데 B에 A backlink 없음. 옵시디언 backlink 패널 또는 Dataview로 해결 가능.
+4. **카테고리 "기타" 5종** — `adept`, `almsivi`, `vicecanon`, `nebarra`, `bosriel` — 정확 분류 후속 결정 필요.

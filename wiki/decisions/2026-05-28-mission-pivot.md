@@ -34,7 +34,7 @@ status: 채택 (사용자 결정)
 1. **Phase 2 미진입**: ESOKo API + DB 테이블 *전부 미구현, 0회 사용*. *미실현 미래를 위해 *현 wiki 왜곡 가치 X*
 2. **termbase namespace의 *기능적 가치 0*** (Phase 1):
    - termbase 696개 중 *lore 페이지에서 *cross-ref 4개*만
-   - lore에서 termbase 인용 시 *[[termbase/X|한글]] 번거로움*
+   - lore에서 termbase 인용 시 *[[X|한글]] 번거로움*
    - *Tamriel·Nirn·Adamantine Tower·Vivec City* 등이 *termbase·lore 어느 쪽에 둘지 *경계 모호*
 3. **카파시 정신** = *flat wiki* (단일 directory). *namespace 분기 자체가 *원래 없음*
 
@@ -42,7 +42,7 @@ status: 채택 (사용자 결정)
 
 - **CLAUDE.md 전면 재작성**: §0 미션, §1 구조, §2 API, §4 워크플로, §5 페이지 규약, §7-§11 — 거의 *모두 갱신*. Phase Marker 폐기. ESOKo 섹션 *plugin 후순위로 강등*.
 - **디렉토리 마이그레이션**: 696 termbase + 270 lore → wiki/<slug>.md flat. wiki/decisions/만 유지 (메타-결정 분리).
-- **위키링크 일괄 교체**: `[[termbase/X]]`, `[[lore/X]]` → `[[X]]`. 수천 개 교체 예상.
+- **위키링크 일괄 교체**: `[[X]]`, `[[X]]` → `[[X]]`. 수천 개 교체 예상.
 - **frontmatter 통일**: `kind: entity | book | synthesis | decision | misc` 필드 도입. *현재 산발적 *category 22종 → 통합*.
 - **번역 도메인 후순위**: ESOKo API, claude_batches, terms 테이블 매핑 등은 *향후 *plugin*으로 *분리 처리*. 본 wiki는 그것 없이 *자립*.
 

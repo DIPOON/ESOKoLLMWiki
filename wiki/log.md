@@ -76,7 +76,7 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 443 TODO 페이지(이전 451에서 작업 후 줄어듦)에 대해 raw/Online + raw/Lore 정확 일치 매칭
 - **371개 보강** (Online 316 + Lore 55, 보강율 84%) — UESP markup cleaning 후 첫 문단 추출
 - 남은 72개(매칭 없음 69 + stub 3): 직책/일반 아이템 등 entity 페이지 없는 케이스
-- 예시 [[termbase/dremora]]: "Dremora are an intelligent, humanoid Daedric race that despises mortals..."
+- 예시 [[dremora]]: "Dremora are an intelligent, humanoid Daedric race that despises mortals..."
 - 위키 *진짜 가공 가능* 입증 — 이전 "전수 ingest 비현실" 답변 정정
 
 ## [2026-05-27] raw 분류 시스템 + CLAUDE.md §11 정정 | feature/uesp_ingest
@@ -115,9 +115,9 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 
 ## [2026-05-28] lore 메타-개념 termbase 승격 | feature/uesp_ingest
 - 사용자 의견: "Tamriel 탐리엘 이런 말은 되게 공용으로 여기저기서 쓰이는 것이니까 용어집같은 걸 추가하는게 좋지 않나요"
-- 분석: lore/ 본문에 247개 broken [[lore/X]] 링크 — 핵심 신성·종족·지명·메타-개념이 *xlsx 시드에서 누락*
+- 분석: lore/ 본문에 247개 broken [[X]] 링크 — 핵심 신성·종족·지명·메타-개념이 *xlsx 시드에서 누락*
 - **termbase 54개 신설** (Daedric Princes 16 + Aedra 8 + Magnus·Lorkhan + 우주 메타 8 + Tribunal 5 + 종족 14 + 지명 2 + Walking Ways)
-- **lore wikilink 204개 일괄 갱신** ([[lore/X]] → [[termbase/X|한글표기]]) 회차 2번
+- **lore wikilink 204개 일괄 갱신** ([[X]] → [[X|한글표기]]) 회차 2번
 - broken lore link: 247 → 189 (58 해결)
 - termbase 총수: 630 → 684
 
@@ -174,3 +174,29 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 시리즈 완결: Abah's Landing Merchant Lords (6 + 색인), Adventurer's Almanac (3 + 색인)
 - 메타-lore 심층: Abnur Tharn (Five Companions + Dragonhold), Adamantine Tower (Convention 무대), Aedra (8 culture creation myth)
 - lint: broken termbase 0, broken lore ≥5회 8종 (Dark Brotherhood/Sithis/Great Houses/Fa-Nuit-Hen/Dagoth Ur/Systres/Forebears/Ayrenn — 자연 trigger 대기)
+
+## [2026-05-28 22:00] migration | termbase + lore → wiki/ flat | 965 files migrated
+- 사용자 mission pivot 결정 ([[decisions/2026-05-28-mission-pivot]]): namespace 폐기 + ES 전문가 wiki 미션
+- 이동: 696 termbase + 270 lore (1 충돌 자동 합병 = aedra) → wiki/<slug>.md flat 965개
+- 위키링크 일괄 교체: 2941 substitution (`[[termbase/X]]`, `[[lore/X]]` → `[[X]]`). 깨진 형식 1건 수동 fix.
+- frontmatter 통일: kind: entity(745) + book(220), category closed list (책 220, 던전 211, 지명 196, 개념 103, 인물 83, 유물 65, 신성 36, 종족 29, 진영 17, 기타 4, 사건 1)
+- CLAUDE.md §4.3에 *던전* 추가 (211개라 별도 카테고리 가치)
+
+## [2026-05-28 22:30] lint + stub | broken/orphan 실측 + top 22 stub
+- 마이그레이션 후 *실상* (namespace 가림막 제거 후): broken 889 unique slugs, orphan 647 (66.8%)
+  - 즉 이전 진단(broken 274, orphan 129)은 *flat 시야로 *재측정해야 *진짜 수치*
+- top 22 broken (≥5회) 내장 ES 지식으로 stub 생성 (status: stub): Dark Brotherhood/Sithis/Ayrenn/Fa-Nuit-Hen/Great Houses/Dagoth Ur/Systres/Forebears/Necrom/Baar Dau/Barons of Move Like This/House Telvanni/Hist/Zaan the Scalecaller/Bosriel/Divayth Fyr/The Reach/Crowns/Dragon Cult/Goblin/Ordinator/Mannimarco
+- stub은 *최소 정의 + 자연 trigger 시 §3.1 ingest로 *심층 보강 예약*. *bosriel = needs-research flag.
+- 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
+- index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
+
+## [2026-05-28 23:00] orphan cycle 1 | 색인 페이지 자동 생성 | orphan 647 → 0 (100%)
+- 사용자 합의 (orphan 먼저, broken 후순위): 시리즈 색인·카테고리 색인이 *대량 흡수에 효율 ↑*. *broken은 *cascading 사이클로 *점진 해결*.
+- 20개 색인 페이지 생성:
+  - 카테고리 색인 8: dungeons (211), places (200), concepts (106), characters (88), artifacts (65), deities (40), races (30), factions (25)
+  - 시리즈 색인 11 (신규): a-dance-in-fire(8), abahs-landing-merchant-lords(7), monument-island-plaques(5), a-feast-among-the-dead(5), a-culinary-adventure(5), a-memory-book(4), manifestos-of-kinlord-rilis-xii(3), a-hunters-journey(2), 단권 3 (adventurers-almanac/a-history-of-shipbuilding/a-life-barbaric-and-brutal)
+  - 단발 책 색인 1: standalone-books-색인 (125편)
+- 카테고리 *기타* 4 entity 재분류: almsivi→신성, vicecanon→진영, nebarra→개념, adept→개념 (bosriel만 stub 유지)
+- index.md 각 카테고리에 [[X-색인]] 링크 추가 → 색인 페이지 자체도 *in-link 보유*
+- 결과: **orphan 647 → 0 (100% 해결)**, broken 877 → 874, 페이지 990 → 1010
+- deferred: broken 874 → 자연 trigger ingest 또는 stub 사이클 (#35로 후속)
