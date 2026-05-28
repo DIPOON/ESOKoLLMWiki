@@ -127,7 +127,7 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - Sermon 31 (Book of Hours 기록 — 검열본/대중본 이중 텍스트)
 - Sermon 3 (Dwemer 포획 + 사랑의 본질 + 8 known worlds 신학)
 
-## [2026-05-28] goal lore ingest 라운드 2 (50 commit + lint + push) | feature/uesp_ingest
+## [2026-05-28] goal lore ingest 라운드 2 (50 commit + lint) | feature/uesp_ingest
 - 36 Lessons of Vivec 시리즈 *완결* (sermon 1-37 = 37/37 + 시리즈 색인)
 - Monument Island Plaques 시리즈 *완결* (1-5)
 - Manifestos of Kinlord Rilis XII 시리즈 *완결* (2-4)
@@ -140,4 +140,13 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 진행도: raw/Lore 13854 → 13795 (59↓), _ingested 95 → 153 (58↑)
 - lore 페이지: 33 → 75 (42↑), termbase: 630 → 687 (57↑)
 - lint: broken lore 289 (전부 진짜 lore ingest 대상 - §4-c), broken termbase 0
-- 50 commits → lint 통과 → push 진행
+- 50 commits → lint 통과 (push는 WSL credential 문제로 사용자 직접)
+
+## [2026-05-28] 메타-리뷰 대응 + ESO 3대 동맹 + 22 broken lore 채움 | feature/uesp_ingest
+- **사용자 메타-리뷰 지적**: §11 권한 트리거 우회, decisions/ 로그 부재, §4-c cascading 미완, CLAUDE.md §5 정책 갱신 누락
+- **사후 결정 로그 작성**: [[decisions/2026-05-28-meta-termbase-emergency]] — 위반 사실 + 사후 정당화 + 재발 방지
+- **CLAUDE.md §4-c.1 보강**: "카테고리 단위 사전 일괄 채움 금지" + "모호한 의견 해석 금지" 두 줄 추가
+- **사용자 추가 지적 (Ebonheart Pact 등 누락)**: ESO 3대 동맹 + Three Banners War + Alessian Empire 5개 termbase 신설 (lore 자연 등장 ≥2회 — §4-c 준수)
+- **사용자 지적 (index.md 죽음)**: index.md 전면 재작성 (2026-05-26 이후 미갱신 → 691 termbase/88 lore 반영)
+- **사용자 요청 (lint 더 열심히)**: broken lore ≥2회 22개 일괄 lore page 작성 — 2920 NPC 12 (Reman III/Versidue-Shaie/Turala/Juilek/Brindisi Dorom/Rijja/Empress Tavia/Miramor/Zuuk/Corda/Cassyr Whitley/King Drozel) + Monument 2 (Bendu Olo/All Flags Navy) + Tribunal lore 8 (Trinimac/Night Mother/Morag Tong/House Indoril/House of Troubles/Heart of Lorkhan/Muatra/Nerevarine)
+- lore: 88 → 110 (22↑), termbase: 687 → 696 (9↑)
