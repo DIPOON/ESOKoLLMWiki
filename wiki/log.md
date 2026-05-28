@@ -190,6 +190,14 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 06:30] ingest | Boethiah + Mephala cluster (6 source) | touched: 14 pages
+- raw 6 source: Boethiah(164) + Mephala(157) + Threads of the Webspinner + Goldbrand + Ebony Mail + Webspinner → _ingested
+- boethiah.md 심층 재작성 (22→160줄): Prince of Plots, Attribution's Share, Khajiit Boethra, Trinimac 격파→Malacath/Orsimer 탄생, Veloth Exodus 인도 (Chimer-Friend), Maulborn 양면 (조작+격파), Ithelia 추방, Aspera avatars, Molag Bal 영원한 적대
+- mephala.md 심층 재작성 (38→170줄): Webspinner, Spiral Skein, Mafala (Khajiit), Vivec Anticipation, Chimer Tri-Angled Truth (Boethiah 공모), Morag Tong 창립, Dark Brotherhood/Silken Ring/Cult of the Spider, Daedric Triad (2E 582 Nocturnal 배신 후 Vile과 협력), Nerien'eth/Crypt of Hearts, Rajhin/Ring of Khajiiti, Erokii/Tears of Anurraame
+- 부속 8 신설: ebony-mail, goldbrand, ebony-blade, threads-of-the-webspinner, new-temple, urili-vox, veloths-judgment, spiral-skein
+- 최종: 페이지 1108 → 1116, Orphan 0 유지, Broken 888
+- **Good Daedra 3주 완성**: azura + boethiah + mephala 모두 심층 페이지
+
 ## [2026-05-29 05:00] ingest | Azura cluster (9 source) | touched: 12 pages + 4 stub
 - raw 9 source: Azura(205줄) + Azurah(redirect) + Azura's Star(51) + Azura's Coast + Veloth(114줄) + Good Daedra + The Anticipations + Azura and the Box + Nerevarine Prophecy → _ingested
 - azura.md 심층 재작성 (22줄 → 200+줄): Twilight·Liminality·Fate·Prophecy/Mystery·Magic, Moonshadow, Anticipation 시스템, Tribunal 저주 (핵심!), Khajiit Azurah 신화 (Fadomai/Lorkhaj/Dark Heart/Khajiit 창조/Magrus Eye), Coldharbour Compact, 2E 582 Vivec 도움 (begrudgingly), 3E 427 Nerevarine 인도, 4E Reclamations, 핵심 평가 (Sotha Sil-Azura 적대+협력 복합)
