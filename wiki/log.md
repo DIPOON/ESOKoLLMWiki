@@ -190,6 +190,14 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 02:00] ingest | Almalexia cluster (6 source) | touched: 15 pages + 43 stub
+- raw 6 source ingest → _ingested: Almalexia(210줄) + Mask of Almalexia + Hopesfire + Masks of the Tribunal + House Indoril + Indoril Nerevar
+- almalexia.md 심층 재작성 (Mother Morrowind 전기 통째): 출생 (Boethiah/Molag Bal), Mournhold 여왕·Orphanage·Shouts, Vivec 알 양육, Nerevar 결혼/Hopesfire-Trueflame, Tribunal 신성화, Chimer 외형 유일 유지, 형이상학적 역할, Wulfharth·Akaviri·Maulborn 격퇴, Mournhold 멸망·Dagon 격파, Sight·저술, Dagoth Ur 후 광기, Sotha Sil 살해·죽음, Azura 평가, Solstheim cult
+- 신설 8 entity + 1 redirect: mask-of-almalexia, hopesfire, trueflame, masks-of-the-tribunal, house-indoril(재작성), hands-of-almalexia, maulborn, almalexias-tear, mother-stones, almalexia-city
+- cascading: nerevar (Foul Murder 상세), tribunal·vivec·sotha-sil·mournhold·mehrunes-dagon (이전 cluster에서 *주요 갱신, 추가 cross-ref만)
+- **batch lint 1+2**: top broken 43 stub 일괄 생성 — wulfharth/house-redoran/dragon-break/psijic-order/talos/reachman/daedric-princes/shalidor/varen-aquilarios/fighters-guild/the-vestige/ashfalls-tear/kemel-ze/baron-admiral/gideon/high-kinlord-rilis-xii/eight-divines/towers/buoyant-armigers/ehlnofey/morihaus/hermaeus-mora/blackwood-company/prince-hubalajad/hews-bane/necromancy/mafala/cathay-raht/wild-hunt/durcorach + mages-guild/crystal-tower/house-dres/saint-alessia/house-hlaalu/eternal-champion/green-lady/thieves-guild/chrysamere/ithelia/second-akaviri-invasion/vivecs-ash-mask/the-towers
+- 최종: 페이지 1037 → 1089, Orphan 0 유지, Broken ≥5회 = 0 (top 22 stub 이후 *완전 해소)
+
 ## [2026-05-29 00:30] ingest | Sotha Sil cluster (9 source) | touched: 28 pages
 - 사용자 회의감 + §3.1 정정 (매 source 대화 → agent 자율 ingest + 결정점만 concurrence) 후 *첫 실제 카파시 cycle*
 - 9 source ingest (raw/Lore → _ingested): Loremaster's Archive — The Clockwork City + Ald Sotha + Seht + Clockwork City + House Sotha + Mechanical Heart + On the Clockwork City + Clockwork Apostles + Mask of Sotha Sil
