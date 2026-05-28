@@ -11,9 +11,9 @@ CLAUDE.md §5.5에 따라 위키 전체 카탈로그. **매 라운드 끝 / 50 c
 | 항목 | 수 |
 |---|---|
 | Termbase | **696** (이전 630 → 메타 60+ ESO 동맹 5) |
-| Lore | **110** (이전 33 → 라운드 1·2 ingest + 22 broken 채움) |
+| Lore | **153** (라운드 1: 33 → 라운드 2: 110 → 라운드 3: 153) |
 | Decisions | 8 (시드 import 6 + meta-termbase-emergency 1 + seed-import 종합 1) |
-| raw/Lore 진행 | 168 _ingested / 13780 남음 (1.2%) |
+| raw/Lore 진행 | 219 _ingested / 13729 남음 (1.6%) |
 | raw/Online | 316 _ingested / 73145 남음 (0.4% — 라운드 1 발췌만) |
 | raw/Books | 0 / 114 남음 (미진행) |
 

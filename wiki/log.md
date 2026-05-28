@@ -150,3 +150,11 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - **사용자 지적 (index.md 죽음)**: index.md 전면 재작성 (2026-05-26 이후 미갱신 → 691 termbase/88 lore 반영)
 - **사용자 요청 (lint 더 열심히)**: broken lore ≥2회 22개 일괄 lore page 작성 — 2920 NPC 12 (Reman III/Versidue-Shaie/Turala/Juilek/Brindisi Dorom/Rijja/Empress Tavia/Miramor/Zuuk/Corda/Cassyr Whitley/King Drozel) + Monument 2 (Bendu Olo/All Flags Navy) + Tribunal lore 8 (Trinimac/Night Mother/Morag Tong/House Indoril/House of Troubles/Heart of Lorkhan/Muatra/Nerevarine)
 - lore: 88 → 110 (22↑), termbase: 687 → 696 (9↑)
+
+## [2026-05-28] goal lore ingest 라운드 3 (100 commit 체크포인트) | feature/uesp_ingest
+- A 시작 알파벳 ingest 계속: A Dance in Fire 7권+색인, A Dance in Moonlight, A Daughter's Journal, A Deal is Struck, A Diet of Eyes, A Distracted Enemy, A Dragonhorn, A Dream of Sovngarde, A Dubious Tale Crystal Tower, A Feast Among the Dead 4ch+색인, A Final Appeal, A Folk Tale, A Forebear Warrior's Song, A Fortune Behind Those Walls, A Free Argonian's Manifesto, A Game at Dinner, A Gentleman's Guide to Whiterun, A Gift of Sanctuary, A Gold Coast Children's Bestiary, A Grand Transformation, A Grifter's Apology, A Guide to Dwemer Mega-Structures, A Guide to Fishing Tamriel, A Guide to Liturgical Vestments, A Guide to the Deadlands, A Harrowing Sea Voyage, A Helpful Steadfast Hand, A Hero's Weapon, A History of Blackrose Prison, A History of Daggerfall
+- redirect _ingested 이동 9건 (Dance in Fire v1-v7 + Conversation Arabelle/Ascendant + Dance in Fire compilation)
+- 진행도: raw/Lore 153 → 219 _ingested (66↑), 13795 → 13729 남음
+- lore: 110 → 153 (43↑), termbase: 696 변동 X
+- lint: broken termbase 0, broken lore ≥3회 15종 (다음 사이클 자연 trigger 대기 — Systres/Necrom/Forebears/Dagoth Ur/Wild Hunt/Mach-Makka/Kagrenac/Hist/Cathay-raht/Battle of Red Mountain 등)
+- 시리즈 완결: A Dance in Fire (7+색인), A Feast Among the Dead (4+색인)
