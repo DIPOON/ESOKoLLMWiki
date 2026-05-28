@@ -190,6 +190,20 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 16:30] ingest | Aedric 8 batch (8 source, 969줄) | touched: 8 pages
+- raw 8 source: Akatosh (206) + Arkay (116) + Dibella (117) + Julianos (80) + Kynareth (123) + Mara (142) + Stendarr (106) + Zenithar (79) → _ingested
+- 8 페이지 심층 재작성:
+  - akatosh: Dragon God of Time, Convention 주역, Auri-El/Alkosh/Alduin/Satakal/Tosh Raka 문화별, Saint Alessia covenant, Martin Septim mantling, 4E White-Gold Concordat
+  - arkay: Burial Rites/Wheel of Life, 전 Mortal Hermit 기원, Necromancy 적, Vigilants of Stendarr 동맹
+  - dibella: Beauty·Love·Art, Sybil 전통, Markarth Sanctum
+  - julianos: Wisdom·Logic·Magic, Jhunal와의 관계, Mages Guild 후원
+  - kynareth: Air·Heavens·Winds, Nordic Kyne, Morihaus 어머니, Saint Alessia 후원
+  - mara: Mother Goddess, Almalexia의 Anticipation (4E Reclamations 후 Boethiah로 교체), Skyrim 결혼 의례
+  - stendarr: Mercy·Justice, Apologist of Men (Lorkhan 변호), 4E Vigilants of Stendarr
+  - zenithar: Work·Commerce·Trade, Yokudan Z'en 통합, Veloth 일부 연결
+- **Aedric 8 Divines 심층 완성** — Tribunal·Good Daedra·Daedric Princes 16과 함께 *Tamriel 전체 *Pantheon 완성*
+- 최종: 페이지 1148 (변동 없음), Orphan 0 유지, Broken 916
+
 ## [2026-05-29 15:00] ingest | 잔여 Daedric Princes 9 batch (9 source, ~1756줄) | touched: 9 pages
 - raw 9 source 일괄: Mehrunes Dagon (406) + Meridia (169) + Clavicus Vile (178) + Malacath (272) + Sanguine (159) + Vaermina (166) + Peryite (149) + Namira (170) + Jyggalag (87) → _ingested
 - 각 페이지 심층 재작성:
