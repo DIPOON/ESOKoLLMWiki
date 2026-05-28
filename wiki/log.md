@@ -190,6 +190,12 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 09:00] ingest | Molag Bal cluster (1 source, 358줄) | touched: 9 pages
+- raw 1 source: Molag Bal.md → _ingested
+- molag-bal.md 심층 재작성 (22→230줄): Domination/Brutality/Lies/Enslavement, Stone-Fire 어원, Coldharbour realm, 가족 (Ozozzachar/Molag Grunda/Haymon Camoran/Vampire 자손), Boethiah arch-enemy, Vivec Pomegranate Banquet (CHIM 수여 + Muatra 탄생 + Bal Ur 추방), 다층 호칭/문화 (Altmer/Ayleid/Dunmer/Khajiit Molagh/Reachmen), Gil-Var-Delle 파괴 (Coldharbour Compact 촉발), Lamae Bal Vampire 시조, Culanwe Coldharbour 고문, Soulburst (2E 578)/Planemeld (2E 582) 주도, Xivkyn 창조, 4E Mace of Molag Bal
+- 신설 8 entity: lamae-bal, vampire, planemeld, soulburst, bal-ur, mace-of-molag-bal, dark-anchors, worm-cult
+- 최종: 페이지 1120 → 1128, Orphan 0 유지
+
 ## [2026-05-29 07:30] ingest | Hermaeus Mora cluster (1 source) | touched: 6 pages
 - raw 1 source: Hermaeus Mora.md (404줄, 부분 read + 내장 지식 보강) → _ingested
 - hermaeus-mora.md 심층 재작성 (13 → 180줄): Knowledge·Fate·Secrets·Forbidden Knowledge, Apocrypha realm, Multitudes (Wretched Abyss form), Mythos 기원 (Mundus 던져진 아이디어), Coldharbour Compact + Mortal pact, Mephala 자매, Pomegranate Banquet 엿봄 → Vvardenfell Mora 신전 영구 금지 (Vivec 적대), 다층 문화 (Atmoran Herma-Mora/Bosmer/Ayleid Hyrma Mora/Khajiit Hermorah Tide King/Dunmer Devotees), Ysgramor Hare 일화 (Shor 구출), Rajhin Oghma Infinium 도난, Ithelia 추방, 4E Miraak/Last Dragonborn
