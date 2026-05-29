@@ -33,3 +33,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Necromancy.md` (233줄)
+
+
+- *Undead: *[[skeleton|Skeleton]] (시체 + 영혼 부분 재주입), *[[bone-colossus|Bone Colossus]] (거대 Skeletal Undead)

@@ -190,6 +190,15 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 09:00] ingest | 9 creature batch (9 source, ~452줄) | touched: 13 pages
+- raw 9 source: Skeleton + Draugr + Spriggan + Wisp + Wispmother + Ash Hopper + Daedra Lord + Banekin + Bone Colossus → _ingested
+- 종족 Undead 3: skeleton (시체 + 영혼 재주입), draugr (Dragon Cult 후예 Nordic 무덤), bone-colossus (거대 Skeletal)
+- 종족 Lesser Daedra 2: daedra-lord (최상 위계), banekin (Scamp Cyrodiil 변형)
+- 종족 자연 1: ash-hopper (Solstheim Red Year 후 생물)
+- 신성 Nature Spirit 3: spriggan (Y'ffre 자연 수호), wisp (늪 영혼), wispmother (Wisp 어머니)
+- 신규 link: dragon-cult (draugr), necromancy (skeleton+bone-colossus), wisp (wispmother), solstheim (ash-hopper)
+- 최종: 페이지 1520 → 1528, Orphan 0 유지, Broken 708 → 706
+
 ## [2026-05-31 08:00] ingest | 7 era·daedra·creature batch (7 source, ~1760줄) | touched: 11 pages
 - raw 7 source: Daedra·First Era·Yoku·Wolf·Horse·Flame Atronach·Frost Atronach → _ingested
 - 신성 1: daedra (deep 갱신 — 16+17 Princes + Lesser Daedra 8종 분류 + Coldharbour Compact)

@@ -27,3 +27,5 @@ Solstheim (meaning Sun's Home) is a large island in the Sea of Ghosts to the nor
 ## Skaal 부족 + All-Maker
 
 *[[skaal|Skaal Village]]는 *Solstheim 북부의 *Atmoran 원래 *Nord 영적 *전통 *유지하는 *부족. *[[all-maker|All-Maker]] 신앙 + 6 *Stone (Earth·Beast·Sun·Water·Wind·Tree) *Dragonborn DLC 핵심.
+
+- *4E 5 Red Year 이후 *생물: *[[ash-hopper|Ash Hopper]] (반-곤충·반-개구리, Dunmer 난민 수렵)
