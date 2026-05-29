@@ -190,6 +190,12 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 15:00] ingest | 3 culture final batch (3 source, ~12줄) | touched: 5 pages
+- raw 3 source: Crown + Forebear + Indoril → _ingested
+- 진영 3: crown (Hammerfell Akaviri-Yokudan 전통), forebear (Sentinel Imperial 친화), indoril (Tribunal Temple + Ordinator + Buoyant Armiger)
+- 신규 link: hammerfell + sentinel (crown + forebear)
+- 최종: 페이지 1545 → 1548, Orphan 0 유지, Broken 703 유지
+
 ## [2026-05-31 14:00] ingest | 5 final 2 batch (5 source, ~102줄) | touched: 8 pages
 - raw 5 source: Black Drake + Imperial City Archives + Imperial City Prison + Inner Sea + Telvanni → _ingested
 - 진영 1: telvanni (redirect to great-house-telvanni)

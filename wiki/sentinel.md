@@ -14,8 +14,8 @@ ingested_at: 2026-05-29
 ## Forebear vs Crowns
 
 *Hammerfell *Redguard는 *2 *분파:
-- **Forebear** (Sentinel) — Imperial 친화, 신문화 수용
-- **Crowns** (Sentinel 외) — Akaviri-Yokudan 전통 *고수
+- **[[forebear|Forebear]]** (Sentinel) — Imperial 친화, 신문화 수용
+- **[[crown|Crowns]]** (Sentinel 외) — Akaviri-Yokudan 전통 *고수
 
 *Sentinel은 *Forebear 본거지로 *Crowns와 *영원 *긴장.
 
