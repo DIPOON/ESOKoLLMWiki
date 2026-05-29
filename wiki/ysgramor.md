@@ -35,3 +35,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Ysgramor.md` (154줄)
+
+
+- *[[ysgramor-dynasty|Ysgramor Dynasty]] — Yngol + Ylgar 2 아들의 *Skyrim 왕족 명맥, Tiber Septim도 Hjalti Early-Beard 후예 주장

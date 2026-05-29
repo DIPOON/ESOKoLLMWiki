@@ -36,3 +36,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Dwemer.md` (247줄)
+
+
+- *Mortal에 *지속 *위협: *[[dwarven-centurion|Dwarven Centurion]] (수천 년 *동력 *유지)

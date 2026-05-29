@@ -21,3 +21,8 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Magical Transportation.md` (185줄)
+
+
+## *Wayshrine 시스템
+
+*[[wayshrines|Wayshrines]] — Aedric (주로 Akatosh) 후원의 *대륙 *고정 *순간이동 지점. *Mortal이 *활성화 의례 후 *지점간 *이동 가능.

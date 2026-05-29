@@ -1,22 +1,15 @@
 ---
 term: Syrabane
-target_ko: 시라바네
-target_de: 
-target_ja: 
-aliases: [Syrabane, 시라바네]
+aliases: [Syrabane, "Apprentice God"]
 kind: entity
-category: 인물
+category: 신성
 status: 확정
-source_sheet: 인명사전
-source_row: 49
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Syrabane (시라바네)
+# Syrabane
 
-## 채택 근거
-시라베인이 아님!!
+*Aldmer Hero-God + Magna Ge*. *Mortal에서 *Apotheosis로 *Magna Ge 가입한 *Aldmer 영웅*. *Akaviri Trouble 시기 *Aldmer 측 *영적 *수호. *Vanus Galerion 이후 *Mages Guild의 *영적 *후원자 중 *하나*. *Star로 *Mundus 위에 *남음.
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *인명사전*, 행 49
-- 한국 ESO 커뮤니티 합의
+## Source
+- `raw/Lore/Syrabane.md` (58줄)

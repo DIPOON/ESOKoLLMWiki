@@ -13,7 +13,7 @@ ingested_at: 2026-05-29
 
 ## Crusader's Relic
 
-*Pelinal Whitestrake가 *Alessian 봉기 시기 *사용한 *Aedric 유물 8 (Helm·Cuirass·Greaves·Boots·Gauntlets·Shield·Mace·Sword)*. *Hero of Kvatch가 *Crusader's Relic 수집 → *Umaril 처치 (Pelinal Whitestrake 영혼이 *Hero에게 *깃듦).
+*Pelinal Whitestrake가 *Alessian 봉기 시기 *사용한 *Aedric 유물 8 ([[crusaders-relics|Crusader's Relics]] - Helm·Cuirass·Greaves·Boots·Gauntlets·Shield·Mace·Sword)*. *Hero of Kvatch가 *Crusader's Relic 수집 → *Umaril 처치 (Pelinal Whitestrake 영혼이 *Hero에게 *깃듦).
 
 ## Source
 - `raw/Lore/Knights of the Nine.md` (70줄)

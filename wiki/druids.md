@@ -17,3 +17,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Druids.md` (246줄)
+
+
+- *[[druid-king|Druid King]] — Galen 섬 Circle of the Stonelore 지도자

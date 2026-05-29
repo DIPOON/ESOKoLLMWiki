@@ -190,6 +190,18 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 00:00] ingest | 14 expansion 4 batch (14 source, ~820줄) | touched: 22 pages
+- raw 14 source: Imperial Battlemages·Gray Host·Four Ambitions·Blue Palace·Ysgramor Dynasty·Wayshrines·Syrabane·Crusader's Relics·Dwarven Centurion·Druid King·Colovian Highlands·Failed Incarnates·Mnemo-Li·Solstice (island) → _ingested
+- 진영 3: imperial-battlemages (황실 마법사 전사), gray-host (1E 1029 Reachfolk+Yokudan+Bretons 연합), ysgramor-dynasty
+- 사건 1: failed-incarnates (Nerevarine 이전 환생 실패)
+- 인물 2: syrabane (Apprentice God Magna Ge), druid-king (Galen Stonelore)
+- 지명 3: blue-palace (Solitude 왕궁 Pelagius Wing), colovian-highlands, solstice-island
+- 유물 2: crusaders-relics (Pelinal 8 + Hero of Kvatch 수집), wayshrines (Aedric 순간이동)
+- 종족 1: dwarven-centurion (Dwemer 기계)
+- 개념 2: four-ambitions (Mannimarco 4 영적 목적), mnemo-li (Magna Ge 기억)
+- 신규 link: knights-of-the-nine (crusaders-relics), druids (druid-king), dwemer (dwarven-centurion), nerevarine (failed-incarnates), tiber-septim (imperial-battlemages), summerset (solstice-island), magical-transportation (wayshrines), ysgramor (ysgramor-dynasty)
+- 최종: 페이지 1448 → 1462, Orphan 0 유지, Broken 741 → 737
+
 ## [2026-05-30 23:00] ingest | 15 expansion 3 batch (15 source, ~1325줄) | touched: 25 pages
 - raw 15 source: Eyevea·Merethic Era·Harrowstorms·Alessian Order·Siege of Orsinium·Umaril·Mede Dynasty·Skyreach·Great Hunt·Greenheart·Lillandril·Sunport·Library·Black Heights·Karinwe Corelanya → _ingested
 - 지명 7: eyevea (Shalidor Mages Guild 본거지), greenheart (Valenwood Greenshade), lillandril (Summerset), sunport (Elsweyr 항구), skyreach (Reach 고대 유적), black-heights (Cyrodiil Imperial 고지)

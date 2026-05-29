@@ -32,3 +32,6 @@ One of the Delves required for Zone Completion is found on Artaeum.
 
 
 - *주요 도시: *Alinor (수도), *[[lillandril|Lillandril]] (상업), *Cloudrest, *Firsthold
+
+
+- *Maormer 경계: *[[solstice-island|Solstice]] (Altmer-Maormer 경계 섬)

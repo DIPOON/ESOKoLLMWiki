@@ -32,3 +32,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Nerevarine.md` (122줄)
+
+
+- *3E 427 *Nerevarine 이전: *[[failed-incarnates|Failed Incarnates]] (Azura 예언 부분 충족 후 실패)

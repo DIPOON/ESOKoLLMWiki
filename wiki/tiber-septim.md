@@ -42,3 +42,6 @@ ingested_at: 2026-05-29
 ## Sancre Tor 전투 + Cuhlecain 사망
 
 *[[battle-of-sancre-tor|Battle of Sancre Tor]] (2E 854) — Hjalti + Cuhlecain의 *Cyrodiil 통일 *결정적 *전투. *Cuhlecain 사망 후 *Hjalti가 *Tiber Septim 가명으로 *Empire 직접 *통치.
+
+
+- *Imperial Battlemage Zurin Arctus = *[[imperial-battlemages|Imperial Battlemages]] (Cyrodiil 황실 직속 마법사 전사)
