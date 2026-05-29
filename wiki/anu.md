@@ -38,3 +38,8 @@ ingested_at: 2026-05-29
 ## Anuad — Anu + Padomay 창조 신화
 
 *Anu와 *Padomay의 *원초 *대립이 *Aurbis 창조로 *이어지는 *Tamriel 창조 신화는 *[[anuad|Anuad]]로 *공식 *명명*.
+
+
+## Anuiel — Anu의 *Order 본성
+
+- *[[anuiel|Anuiel]] — Anu의 *자기 인식 형태, Order·Continuity 본성·Akatosh의 *영적 *원천

@@ -25,3 +25,8 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Mythic Dawn.md` (79줄)
+
+
+## [[mysterium-xarxes|Mysterium Xarxes]] — Mehrunes Dagon 작성 비밀 경전
+
+*Mehrunes Dagon이 *직접 *작성한 *Daedric 신학·의례 *책. *Mankar Camoran이 *Mortal 측 *해설서 *Manifesto 작성. *3E 433 *Hero of Kvatch가 *Mysterium Xarxes 회수.

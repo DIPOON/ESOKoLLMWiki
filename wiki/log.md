@@ -190,6 +190,14 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 21:00] ingest | 7 cosmology·book·event batch (9 source, ~519줄) | touched: 11 pages
+- raw 9 source: Magna Ge·Watcher·Anuiel·Mysterium Xarxes·Battle of Sancre Tor·Skooma Cat·Auriel + Sotha Sil·Daedric Princes (이미 wiki 있음, raw _ingested 이동만)
+- 신성 4: magna-ge (Magnus 추종 Aetherius 별), watcher (Ehlnofey 직위), anuiel (Anu 자기 인식), skooma-cat (Sheogorath Khajiit), auriel (auri-el redirect)
+- 유물 1: mysterium-xarxes (Mehrunes Dagon 작성 Mythic Dawn 경전)
+- 사건 1: battle-of-sancre-tor (2E 854 Cuhlecain 사망)
+- 신규 link: anu (anuiel), tiber-septim (battle-of-sancre-tor), mythic-dawn (mysterium-xarxes)
+- 최종: 페이지 1419 → 1425, Orphan 0 유지, Broken 748 → 745
+
 ## [2026-05-30 20:00] ingest | 14 expansion·daedric·region batch (15 source, ~1706줄) | touched: 16 pages
 - raw 15 source: Ithelia + Rimmen + Firsthold + Stonefalls + Third Era + Telenger + Telenger the Artificer + Giant + The Rift + Magical Transportation + Senchal + Stirk + Phrygias + Dwynnen + Vastyr → _ingested
 - Daedric Prince 1: ithelia (17번째 Prince, Paths, ESO Necrom DLC)

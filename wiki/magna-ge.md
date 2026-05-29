@@ -1,6 +1,6 @@
 ---
-name: "Magna Ge"
-aliases: ["Magna Ge", Magna-Ge, "Magnae Ge", "Star Children"]
+term: Magna Ge
+aliases: ["Magna Ge", "Magnae Geis"]
 kind: entity
 category: 신성
 status: 확정
@@ -9,12 +9,20 @@ ingested_at: 2026-05-29
 
 # Magna Ge
 
-*[[magnus|Magnus]]의 *작은 *영혼들*. *Convention 시기 *Magnus와 함께 *Mundus 희생 *피해 *Aetherius로 *도주 → *각각 *Aetherius 별이 됨* — **Stars = Magna Ge의 *도주 자국**.
+*[[magnus|Magnus]]의 *직계 *Aedric 자손/추종자*. *Convention 시기 *Mundus 창조의 *희생을 *거부 → *Magnus + Magna Ge가 *Mundus를 *Aetherius로 *탈출 *(Magicka 통로 = 하늘의 *별)*. *Aedric Princes와 *별개 *Aetherius 거주.
 
-각 *Magna Ge는 *독립 *영혼*. *유명*:
-- **[[meridia|Merid-Nunda]]** — 후일 *Daedric Prince Meridia로 *변환 (Magnus 부적절한 행위 추방)
-- *기타 *수많은 *별 *영혼
+## Convention 탈출
 
-*Mythic Dawn 신학*: *Magna Ge가 *[[lyg|Lyg]]에서 *비밀로 *Mehrunes Dagon을 *제작 — *원래 *Prince of Good으로 (hope 부여)*. *그 후 *Dagon이 *destruction으로 *변모*.
+*Mundus 창조 시기 *수많은 *Aedric 영혼이 *희생되어 *Earth Bones (Ehlnofey)으로 *변환됨*. *Magnus + Magna Ge가 *이 *희생을 *거부 → *Magnus가 *Aurbis 안의 *Mundus 위로 *천공을 *뚫고 *Aetherius로 *탈출 → *Magnus가 *Mundus 위의 *해 (Sun)로 *남고 *Magna Ge는 *별 (Stars)로 *남음.
 
-*Magnus와 *Aetherius 사이의 *연속체*. *Aldmeri 신학에서 *Star Children으로 *경배*.
+## Mortal과의 *관계
+
+*Magna Ge는 *Magnus + Star 형태로 *Mundus 위에서 *Mortal에게 *Magicka *공급. *각 *별이 *Mortal Magicka 흐름의 *Aetherius 통로. *Tamriel Mortal 마법의 *직접 *원천 *(Magnus가 *Mortal Magicka를 *Mundus에 *남긴 *Aedric 희생).
+
+## 주요 Magna Ge 멤버
+
+- **[[meridia|Meridia]]** — *Aedric *Daedric Prince *변환 *(나중에 *Daedric 분류)
+- *Mnemoli, *Xen, *Tava (Yokudan 별), *Ne Quin-al, *Lull (Argonian 별) 등
+
+## Source
+- `raw/Lore/Magna Ge.md` (47줄)
