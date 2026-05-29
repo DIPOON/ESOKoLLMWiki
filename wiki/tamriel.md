@@ -70,3 +70,7 @@ ingested_at: 2026-05-29
 - *[[multiraciality|Multiraciality]] — Mer-Man 혼혈 *가능성·역사적 *사례
 - *[[disease|Disease]] — 질병 *총칭 (Vampirism + Lycanthropy + Corprus 등)
 - *[[nature-spirit|Nature Spirit]] — Spriggan·Wisp·Hagraven 등 *자연 영혼
+
+
+- *[[magical-transportation|Magical Transportation]] — Mages Guild Guild Guide·Wayshrine·Stilt Strider·Carriage·Recall Spell·Door of Oblivion 등
+

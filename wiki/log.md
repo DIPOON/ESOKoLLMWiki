@@ -190,6 +190,18 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 20:00] ingest | 14 expansion·daedric·region batch (15 source, ~1706줄) | touched: 16 pages
+- raw 15 source: Ithelia + Rimmen + Firsthold + Stonefalls + Third Era + Telenger + Telenger the Artificer + Giant + The Rift + Magical Transportation + Senchal + Stirk + Phrygias + Dwynnen + Vastyr → _ingested
+- Daedric Prince 1: ithelia (17번째 Prince, Paths, ESO Necrom DLC)
+- 지역 6: rimmen (Akaviri-Khajiit 융합), firsthold (Auridon Aldmer 수도, Morgiah 왕비), stonefalls (Kamal 격퇴 Pact 결성), the-rift (Stormcloak Hold), senchal (Elsweyr Pellitine), stirk (Sancre Tor 회의)
+- Bretons 작은 왕국 3: phrygias, dwynnen, vastyr (Warp in the West Iliac Bay)
+- 진영 1: blackfeather-court (Nocturnal Mortal 측)
+- 시대 1: third-era (Septim Dynasty 시대 + 4 Elder Scrolls 게임 배경)
+- 인물 1: telenger-the-artificer (Psijic Order Artificer)
+- 종족 1: giant (Nord 원형 추정)
+- 개념 1: magical-transportation (Mages Guide·Wayshrine·Carriage·Recall 등)
+- 페이지 1406 → 1419, Orphan 0 유지, Broken 759 → 748
+
 ## [2026-05-30 19:00] lint | 15 broken link 추가 stub | touched: 15 stub
 - elder-scrolls (Throat of World Time-Wound), middle-dawn (1E 1200 Marukhati Dragon Break), great-war (4E 171-175 Aldmeri vs Cyrodiil), minotaur (Belharza 후예), ogre, xivilai (Lesser Daedra), silver-dawn (Vampire 사냥), ja-khajay (Lunar Lattice redirect), the-shouts (Thu'um redirect), systres-archipelago (High Isle), atrius-building-commission (Balmora), malabal-tor + southpoint (Valenwood), morgiah (Barenziah 딸), eadwyre (Wayrest 왕)
 - 페이지 1391 → 1406, Orphan 0, Broken 774 → 759

@@ -17,7 +17,7 @@ ingested_at: 2026-05-29
 - **[[solitude|Solitude]]** (북서) — High King 수도
 - **[[markarth|Markarth]]** (서) — Reach (Forsworn·Reachfolk *원래 영토)
 - **[[falkreath|Falkreath]]** (남) — Pine forest
-- **[[riften|Riften]]** (남동) — Thieves Guild
+- **[[riften|Riften]]** (남동, [[the-rift|The Rift Hold]]) — Thieves Guild
 - **[[windhelm|Windhelm]]** (북동) — 가장 오래된 도시, [[ulfric-stormcloak|Ulfric Stormcloak]]
 - **[[dawnstar|Dawnstar]]** (북) — Vaermina Skull 사건
 - **[[morthal|Morthal]]** (북서) — 늪
