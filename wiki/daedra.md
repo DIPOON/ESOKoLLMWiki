@@ -13,7 +13,7 @@ ingested_at: 2026-05-29
 
 ## 분류
 
-- **16 Daedric Princes** — 각자 *Sphere 보유 *(Sheogorath 광기·Mehrunes Dagon 파괴·Hermaeus Mora 지식 등)
+- **16 [[daedric|Daedric]] Princes** — 각자 *Sphere 보유 *(Sheogorath 광기·Mehrunes Dagon 파괴·Hermaeus Mora 지식 등)
 - **17번째 Ithelia** — Paths·Possibility (다른 15 Princes에 *추방·기억 지움)
 - **Lesser Daedra** — Aedric Demigod 대응. *Atronach·Dremora·Daedroth·Scamp·Clannfear·Spider Daedra·Winged Twilight·Xivilai 등
 - **Demiprince** — Daedric Prince의 *자손 (Fa-Nuit-Hen, Dearola 등)
@@ -39,3 +39,5 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Daedra.md` (249줄)
+
+- *Demiprince: *[[demiprince|Demiprince]] (Daedric Prince 자손) — Fa-Nuit-Hen, Dearola 등

@@ -190,6 +190,13 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 17:00] ingest | 4 cosmology + Daedric batch (4 source, ~92줄) | touched: 6 pages
+- raw 4 source: Fadomai + Lorkhaj + Daedric + Demiprince → _ingested
+- 신성 2: fadomai (Khajiit Mother, Ahnurr 배우자), lorkhaj (Khajiit Lorkhan, Moon Beast 시조)
+- 개념·종족 2: daedric (Daedra 형용사), demiprince (Daedric Prince 자손)
+- 신규 link: daedra (daedric + demiprince)
+- 최종: 페이지 1557 → 1561, Orphan 0 유지, Broken 703 유지
+
 ## [2026-05-31 16:00] ingest | 9 Khajiit pantheon batch (9 source, ~95줄) | touched: 11 pages
 - raw 9 source: Hermorah + Khenarthi + Mafala + Magrus + Merrunz + Molagh + Noctra + Sangiin + Sermons → _ingested
 - 신성 8 (Khajiit Pantheon Aedric 대응): khenarthi (Kynareth, 62줄 deep), hermorah (Hermaeus Mora), mafala (Mephala), magrus (Magnus Sun-Cat), merrunz (Mehrunes Dagon), molagh (Molag Bal), noctra (Nocturnal), sangiin (Sanguine)
