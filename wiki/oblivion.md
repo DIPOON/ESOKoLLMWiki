@@ -1,24 +1,44 @@
 ---
 term: Oblivion
-target_ko: 오블리비언
-target_de: 
-target_ja: 
-aliases: [Oblivion, 오블리비언]
+aliases: [Oblivion, "the Void", "Planes of Oblivion"]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 112
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Oblivion (오블리비언)
+# Oblivion
 
-## 채택 근거 (UESP 자동 보강)
-Oblivion is a realm within the Aurbis, which lies away from Tamriel and beyond the Mundus. Several zones are located in Oblivion: Apocrypha, Coldharbour, The Deadlands, and Fargrave. On the map of the Aurbis, Artaeum and the Clockwork City are represented alongside these Oblivion realms as being places outside the confines of Tamriel.
+*[[padomay|Padomay]]의 *영역. *[[daedric-princes|Daedric Princes]] 16 + α의 *planes의 *총합*. *[[aurbis|Aurbis]]의 *Padomaic 측*.
 
-**출처**: `raw/Online/Oblivion.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
+## 구조
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 112
-- 한국 ESO 커뮤니티 합의
+*무한 *plane의 *집합*. 각 *Prince의 *Realm:
+- *[[coldharbour|Coldharbour]] (Molag Bal)
+- *[[deadlands|Deadlands]] (Mehrunes Dagon)
+- *[[apocrypha|Apocrypha]] (Hermaeus Mora)
+- *[[shivering-isles|Shivering Isles]] (Sheogorath)
+- *[[hunting-grounds|Hunting Grounds]] (Hircine)
+- *[[moonshadow|Moonshadow]] (Azura)
+- *[[evergloam|Evergloam]] (Nocturnal)
+- *[[ashpit|Ashpit]] (Malacath)
+- *[[attributions-share|Attribution's Share]] (Boethiah)
+- *[[spiral-skein|Spiral Skein]] (Mephala)
+- *[[colored-rooms|Colored Rooms]] (Meridia)
+- *[[scuttling-void|Scuttling Void]] (Namira)
+- *[[fields-of-regret|Fields of Regret]] (Clavicus Vile)
+- *[[pits-of-peryite|Pits of Peryite]] (Peryite)
+- *[[quagmire|Quagmire]] (Vaermina)
+- *[[myriad-realms-of-revelry|Myriad Realms of Revelry]] (Sanguine)
+- *기타 *Demiprince *영역
+
+## Mundus와의 *경계
+
+*Mundus와 *Oblivion 사이의 *경계가 *얇은 *지점에 *Daedric *침공 *가능*. *[[oblivion-crisis|Oblivion Crisis]] (3E 433) = *Mehrunes Dagon의 *대규모 *침공*. *[[planemeld|Planemeld]] (2E 582) = *Molag Bal의 *Mundus *흡수 *시도*.
+
+## 평가
+
+*Oblivion = *Daedric Princes의 *영원한 *영역*. *Padomay의 *Change가 *결정화된 *현실*. *Mundus에서 *볼 때 *별 사이의 *Void처럼 *나타남 (Mortal 영혼이 *진입 시 *대개 *위험)*.
+
+## Source
+- `raw/Lore/Oblivion.md` (93줄)

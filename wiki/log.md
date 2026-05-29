@@ -190,6 +190,23 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 18:00] ingest | Aurbis 원초 신성 12 batch (12 source, 1216줄) | touched: 12 pages
+- raw 12 source: Lorkhan (284) + Magnus (73) + Anu (93) + Padomay (83) + Sithis (151) + Aurbis (31) + Aetherius (73) + Oblivion (93) + Mundus (101) + Nirn (117) + Convention (51) + Dawn Era (66) → _ingested
+- 12 페이지 심층 재작성:
+  - anu/padomay: Aurbis 외부 두 원초 원리, CHIM의 Godhead 신학, Apostle "only Anu" 부정
+  - aurbis: Wheel 형태, hub=Mundus, spoke=Aedric, "I" Tower
+  - lorkhan: Mundus 창조 Trickster (Heart-less God), Doom Drum, Shor/Shezarr/Lorkhaj/Sep 문화별, Tower 신학 처음 목격, Amaranth 실패
+  - magnus: Mundus Architect, Convention 후 Aetherius 도주 (Sun=도주 자국), Magna Ge (Stars), Magicka 원천
+  - sithis: Padomay의 Aldmeri 표현, Dark Brotherhood 본존, Apostle 부정 대상, Vivec Sermon 35 "Original Death"
+  - aetherius: Anu Soul 영역, Magnus/Magna Ge/Aedric 영혼, Sovngarde/Far Shores, 영혼 cycle
+  - oblivion: 16 Daedric realms 전체 매핑, Mundus 경계, Oblivion Crisis/Planemeld
+  - mundus: Lorkhan 창조 Mortal 영역, Aedric 희생, Tower 안정
+  - nirn: 행성, 대륙 (Tamriel/Atmora/Akavir/Yokuda/Pyandonea/Aldmeris/Lyg)
+  - convention: Mundus 창조 우주 사건 8단계, Aedra 희생, Magnus 도주, Lorkhan 처형
+  - dawn-era: Convention 후 + Merethic Era 전, 시간·공간 flux, Aedra Mortal Walking, Akatosh Time 고정 종결
+- **Tamriel 형이상학 우주관 완성**: 원초 (Anu·Padomay·Sithis) + Aurbis + 3 영역 (Aetherius·Oblivion·Mundus) + 행성 (Nirn) + 사건 (Convention·Dawn Era) + Lorkhan + Magnus
+- 최종: 페이지 1148 → 1150 (convention·dawn-era 신규), Orphan 0 유지, Broken 917
+
 ## [2026-05-29 16:30] ingest | Aedric 8 batch (8 source, 969줄) | touched: 8 pages
 - raw 8 source: Akatosh (206) + Arkay (116) + Dibella (117) + Julianos (80) + Kynareth (123) + Mara (142) + Stendarr (106) + Zenithar (79) → _ingested
 - 8 페이지 심층 재작성:

@@ -25,7 +25,7 @@ ingested_at: 2026-05-29
 
 *Lorkhan이 *Aedra를 *Mundus 창조에 *유도 → *Akatosh가 *Time 정렬 → *나머지 *Aedra가 *각자 *Mortal 영역 *형성 → *희생*. *Aedra 중 *가장 *적게 *희생 (시간의 *연속성을 *위해)*.
 
-*[[lorkhan|Lorkhan]] vs Akatosh*: *Lorkhan은 *Mundus 창조의 *trickster, *Akatosh는 *그것을 *허용한 *Chief — *둘의 *paradox 관계*.
+*[[lorkhan|Lorkhan]] vs Akatosh*: *Lorkhan은 *Mundus 창조의 *trickster, *Akatosh는 *[[convention|Convention]] 시 *Time을 *정렬한 *Chief — *둘의 *paradox 관계*.
 
 ## Saint Alessia + Covenant
 
