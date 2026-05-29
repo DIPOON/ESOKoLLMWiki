@@ -190,6 +190,11 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 03:30] ingest | Magic Schools 6 batch (6 source, 254줄) | touched: 6 pages
+- raw 6 source: Alteration (45) + Conjuration (46) + Destruction (38) + Illusion (38) + Mysticism (41) + Restoration (46) → _ingested
+- 6 페이지 심층 재작성: Tamriel 6 마법 학파 (Alteration/Conjuration/Destruction/Illusion/Mysticism/Restoration)
+- 최종: 페이지 1216 → 1222, Orphan 0 유지, Broken 886
+
 ## [2026-05-30 02:00] lint | top broken 26 stub batch | touched: 26 pages
 - 신규 stub 26: dragonguard, empire, akaviri, hlaalu-helseth, barenziah, nixad, saint-felms, ardent-hope, destructions-solace, alessian-order, lilmothiit, wrothgar, druids, faolchu, jagar-tharn, ivyhame, vinedusk-rangers, mortuum-vivicus, at-addin-syndicate, house-vien, thazahrr-cartel, gurges-and-associates, order-of-the-black-worm, forgotten-hero, sea-sload, scathing-bay
 - 최종: 페이지 1190 → 1216, Orphan 0 유지, Broken 891

@@ -117,3 +117,5 @@ updated: 2026-05-28
 - [[woodworker|woodworker]]
 - [[writ-voucher|writ-voucher]]
 - [[xivkyn|xivkyn]]
+
+- [[mysticism|Mysticism (Schools of Magic)]] — Telekinesis, Soul Trap, Divine Intervention (4E 해체)
