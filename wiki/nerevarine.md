@@ -35,3 +35,5 @@ ingested_at: 2026-05-29
 
 
 - *3E 427 *Nerevarine 이전: *[[failed-incarnates|Failed Incarnates]] (Azura 예언 부분 충족 후 실패)
+
+- *주된 *참고 *문서: *[[plan-to-defeat-dagoth-ur|Plan to Defeat Dagoth Ur]] (Tribunal 작성, Sunder/Keening/Wraithguard 전략)

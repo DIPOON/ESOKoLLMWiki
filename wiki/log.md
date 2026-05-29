@@ -190,6 +190,14 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 20:00] ingest | 4 lore final batch (4 source, ~304줄) | touched: 8 pages
+- raw 4 source: Invocation of Azura + Plan to Defeat Dagoth Ur + Second Era Wars + University of Gwylim → _ingested
+- 책 2: invocation-of-azura (Daggerfall Azura 의례), plan-to-defeat-dagoth-ur (Tribunal Nerevarine 전략서)
+- 사건 1: second-era-wars (Akaviri + Three Banners + Ranser's + Soulburst 등 통합)
+- 진영 1: university-of-gwylim (High Rock 학문 기관)
+- 신규 link: azura + nerevarine + second-era + mages-guild
+- 최종: 페이지 1568 → 1572, Orphan 0 유지, Broken 696 유지
+
 ## [2026-05-31 19:00] ingest | 5 region 2 batch (5 source, ~322줄) | touched: 7 pages
 - raw 5 source: Camlorn + Evermore + Iliac Bay + Sea of Ghosts + Mages Guild Charter → _ingested
 - 지명 4: camlorn (Bretons Lion Guard), evermore (High Rock 동부), iliac-bay (Warp in the West 무대), sea-of-ghosts (Skyrim 북부, Atmoran 침공 경로)

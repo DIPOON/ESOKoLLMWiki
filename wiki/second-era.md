@@ -28,3 +28,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Second Era.md` (253줄)
+
+
+- *전쟁의 *총칭: *[[second-era-wars|Second Era Wars]] (Akaviri + Three Banners + Ranser's War + Soulburst 등)

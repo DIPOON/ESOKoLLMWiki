@@ -140,3 +140,6 @@ Vivec은 *Boethiah가 *bruise color 요청 + Vivec의 *lamentation으로 *Chimer
 - `raw/Lore/Azura and the Box.md` (53줄, 별도 *우화)
 - `raw/Lore/Nerevarine Prophecy.md` (162줄, 미처리 — 후속 cycle)
 - [[sotha-sil|Sotha Sil]] / [[almalexia|Almalexia]] / [[vivec|Vivec]] cascading
+
+
+- *Daedric Cult 측 *주된 *교본: *[[invocation-of-azura|Invocation of Azura]] (Daggerfall 시기 Azura 소환 의례)

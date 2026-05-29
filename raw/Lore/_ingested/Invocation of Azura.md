@@ -1,0 +1,23 @@
+# Lore:Invocation of Azura
+
+<!-- UESP / ns 130 / dump 2026-03-13 -->
+
+{{Lore Book
+|MW=1
+|SR=1
+|ON=1
+|author=[[Lore:Books by Author#Sigillah Parate|Sigillah Parate]]
+|writer=Ted Peterson
+|description=A work written by a priestess of Azura arguing the superiority of Azura to other Daedra Princes
+|lorenote=''This is the modern version of this book.  A similar but not identical book exists in ''[[Daggerfall:Daggerfall|Daggerfall]]''; see ''[[Lore:Invocation of Azura (Daggerfall)|Invocation of Azura]]'' for the Daggerfall version.''
+}}
+{{LetterPic|F}}or three hundred years{{nst||ON=,}} I have been a priestess of [[Lore:Azura|Azura]], the [[Lore:Daedric Princes|Daedric Prince{{nst|ss|ON=}}]] of {{Lore Link|Moonshadow}}, Mother of the Rose, and Queen of the Night Sky. Every Hogithum, which we celebrate on the 21st of First Seed, we summon her for guidance, as well as to offer things of worth and beauty to Her Majesty. She is a cruel but wise mistress. We do not invoke her on any Hogithum troubled by thunderstorms, for those nights belong to the Mad One, [[Lore:Sheogorath|Sheogorath]], even if they do coincide with the occasion. Azura at such times understands our caution.
+ 
+Azura's invocation is a very personal one. I have been priestess to three other Daedric Princes, but Azura values the quality of her worship{{nst|p|ON=}}ers{{nst|,|ON=}} and the truth behind our adoration of her. When I was a {{Lore Link|Dunmer|Dark Elven}} maid of sixteen, I joined my grandmother's coven, worship{{nst|p|ON=}}ers of [[Lore:Molag Bal|Molag Bal]], the Schemer Princess. Blackmail, extortion, and bribery are as much the weapons of the Witches of Molag Bal as is dark magic. The Invocation of Molag Bal is held on the 20th of Evening Star, except during stormy weather. This ceremony is seldom missed, but Molag Bal often appears to her cultists in mortal guise on other dates. When my grandmother died in an attempt to poison the heir of {{Lore Link|Firewatch}}, I re-examined my faith in the cult.
+ 
+My brother was a {{nst|warlock|SR=wizard}} of the cult of [[Lore:Boethiah|Boethiah]]{{nst|-a|ON=, a}}nd from what he told me, the Dark Warrior was closer to my spirit than the treacherous Molag Bal. Boethiah is a Warrior Princess who acts more overtly than any other Daedroth. After years of skulking and scheming, it felt good to perform acts for a mistress which had direct, immediate consequences. Besides, I liked it that Boethiah was a Daedra of the Dark Elves. Our cult would summon her on the day we called the Gauntlet, the 2nd of Sun's Dusk. Bloody competitions would be held in her honor, and the duels and battles would continue until nine cultists were killed at the hands of other cultists. Boethiah cared little for her cultists{{nst|-s|ON=. S}}he only cared for our blood. I do think I saw her smile when I accidentally slew my brother in a sparring session. My horror, I think, greatly pleased her.
+ 
+I left the cult soon after that. Boethiah was too impersonal for me, too cold. I wanted a mistress of greater depth. For the next eighteen years of my life, I worship{{nst|p|ON=}}ed no one. Instead I read and researched. I{{nst|t was i|ON=}}n an old and profane tom{{nst|e that|ON=e,}} I came upon the name of [[Lore:Nocturnal|Nocturnal]]{{nst|-N|ON=<nowiki>:</nowiki> N}}octurnal the Night Mistress, Nocturnal the Unfathomable. As the book prescribed, I called to her on her holy day, the 3rd of Hearth Fire. At last{{nst||ON=,}} I had found the personal mistress I had so long desired. I strove to understand her labyrinthine philosophy, the source of her mysterious pain. Everything about her was dark and shrouded, even the way she spoke and the acts she required of me. It took years for me to understand the simple fact that I could never understand Nocturnal. Her mystery was as essential to her as savagery was to Boethiah or treachery was to Molag Bal. To understand Nocturnal is to negate her, to pull back the curtains cloaking her realm of darkness. As much as I loved her, I recognized the futility of unraveling her enigmas. I turned instead to her sister, Azura.
+ 
+Azura is the only Daedra Princess I have ever worship{{nst|p|ON=}}ed who seems to care about her followers. Molag Bal wanted my mind, Boethiah wanted my arms, and Nocturnal perhaps my curiosity. Azura wants all of that, and our love above all. Not our abject slavering, but our honest and genuine caring in all its forms. It is important to her that our emotions be engaged in her worship. And our love must also be directed inward. If we love her and hate ourselves, she feels our pain. I will, for all time, have no other mistress.
+{{Book End}}
