@@ -29,3 +29,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Aldmeri Dominion.md` (62줄)
+
+
+*([[aldmeri|Aldmeri]] = 'Aldmer의' 형용사 — Dominion·Pantheon·Language 등에 *공통)*

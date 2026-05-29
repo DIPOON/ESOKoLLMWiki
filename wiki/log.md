@@ -190,6 +190,13 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 10:00] ingest | 3 mer batch (3 source, ~130줄) | touched: 4 pages
+- raw 3 source: Sea Sload + Aldmeri + Mer → _ingested
+- 종족 2: mer (Aldmer 8 분파 + Bretons), sea-sload (Sload Pyandonea 해상)
+- 개념 1: aldmeri (Aldmer 형용사)
+- 신규 link: aldmeri-dominion (aldmeri 형용사 호명)
+- 최종: 페이지 1528 → 1531, Orphan 0 유지, Broken 706 유지
+
 ## [2026-05-31 09:00] ingest | 9 creature batch (9 source, ~452줄) | touched: 13 pages
 - raw 9 source: Skeleton + Draugr + Spriggan + Wisp + Wispmother + Ash Hopper + Daedra Lord + Banekin + Bone Colossus → _ingested
 - 종족 Undead 3: skeleton (시체 + 영혼 재주입), draugr (Dragon Cult 후예 Nordic 무덤), bone-colossus (거대 Skeletal)
