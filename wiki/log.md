@@ -190,6 +190,14 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-06-01 04:00] ingest | 3 break-1600 batch (3 source, ~210줄) | touched: 4 pages
+- raw 3 source: Eltheric Ocean + Fa-Nuit-Hen + Ascendant Lord → _ingested
+- 지명 1: eltheric-ocean (Tamriel 서쪽 대양 + Maormer + Yokuda 이주 경로)
+- 신성 1: fa-nuit-hen (deep, Boethiah demiprince, ESO Maelstrom Arena 주최자)
+- 인물 1: ascendant-lord (Mehrunes Dagon 추종자 호, ESO Blackwood)
+- 신규 link: order-of-waking-flame (ascendant-lord)
+- 최종: 페이지 1597 → 1596 (1 통합), Orphan 0 유지, Broken 693 → 690
+
 ## [2026-06-01 03:00] ingest | 2 end batch (2 source, ~82줄) | touched: 4 pages
 - raw 2 source: Hannibal Traven + Order of the Black Worm → _ingested
 - 인물 1: hannibal-traven (3E 433 Mages Guild Arch-Mage, Necromancy 공식 금지 주도)

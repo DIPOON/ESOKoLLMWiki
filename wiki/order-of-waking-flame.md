@@ -13,3 +13,5 @@ ingested_at: 2026-05-29
 
 ## Source
 - 종합 (Mehrunes Dagon + Blackwood DLC 항목)
+
+- *주된 *지도자: *[[ascendant-lord|Ascendant Lord]] (Mehrunes Dagon 측 추종자 호)
