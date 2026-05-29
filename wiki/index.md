@@ -13,11 +13,12 @@ ESOKoLLMWiki 전체 카탈로그. *flat namespace 마이그레이션 후 *재구
 
 | 항목 | 수 | 비고 |
 |---|---|---|
-| **wiki 페이지 (kind 보유)** | **~1436** | entity ~1200+ + book + decisions 9 + 기타 |
-| Entity 추가 (이번 세션) | +449 | 신학·종족·지역·인물·사건·유물·진영·개념 cascade |
+| **wiki 페이지 (kind 보유)** | **~1505** | entity ~1300+ + book + decisions 9 + 기타 |
+| Entity 추가 (이번 세션) | +518 | 신학·종족·지역·인물·사건·유물·진영·개념 cascade |
 | Book | 200+ | raw → 단일 책/문서 흡수 + 시리즈 색인 |
 | Decisions | 9 | wiki/decisions/ |
-| Broken link (unique) | **744** | 마이그레이션 직후 867 → 추가 stub로 ↓ |
+| raw _ingested (Lore 폴더) | **843** | 13950+ 중 6% 처리 (대부분 마이너 item) |
+| Broken link (unique) | **709** | 마이그레이션 직후 867 → 추가 stub로 ↓ |
 | Orphan (in-link 0) | **0** | 정책: 새 페이지 100% in-link 보장 + 즉시 wikilink |
 
 ## 이번 세션 (2026-05-29) 핵심 ingest 카테고리
