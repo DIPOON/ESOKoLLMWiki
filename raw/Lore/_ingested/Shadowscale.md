@@ -1,7 +1,0 @@
-# Lore:Shadowscale
-
-<!-- UESP / ns 130 / dump 2026-03-13 -->
-
-#REDIRECT [[Lore:Shadowscales]] 
-[[Category:Redirects from Plural]]
-[[Category:Lore-Factions]] [[Category:Lore-All Terms]]
