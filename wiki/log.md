@@ -190,6 +190,13 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 09:00] ingest | 15 realm batch (15 source, ~984줄) | touched: 17 pages
+- raw 15 source: Apocrypha (113) + Coldharbour (95) + Deadlands (110) + Detritus (35) + Evergloam (46) + Hunting Grounds (68) + Maelstrom (43) + Moonshadow (42) + Pinnacle Rock (21) + Quagmire (47) + Shivering Isles (128) + Soul Cairn (62) + Sovngarde (94) + Spiral Skein (49) + Attribution's Share (31) → _ingested
+- 15 Oblivion 영역 + Sovngarde:
+  - Apocrypha (Hermaeus Mora 무한 도서관 + Miraak), Coldharbour (Molag Bal Planemeld + Vestige), Deadlands (Mehrunes Dagon 용암 + Battlespire), Evergloam (Nocturnal Twilight + Sepulcher), Hunting Grounds (Hircine Werewolf 영혼), Moonshadow (Azura 아름다움), Pinnacle Rock (Peryite 중립 회담), Quagmire (Vaermina 악몽), Shivering Isles (Sheogorath Mania/Dementia + Greymarch), Soul Cairn (Ideal Masters Black Soul Gem), Sovngarde (Shor Hall of Valor + Alduin 대결), Spiral Skein (Mephala 거미줄), Detritus (Hircine/Hollowjack 일부), Maelstrom-Arena (Fa-Nuit-Hen, 슬러그 변경), Attribution's Share (Jyggalag)
+- 신규 link: peryite (Pinnacle Rock 호명), coldharbour (Soul Cairn 인접), hircine (Detritus 일부), maelstrom-arena (a-challengers-thoughts 기존 broken link 해결)
+- 최종: 페이지 1268 → 1283, Orphan 0 유지, Broken 880
+
 ## [2026-05-30 08:00] ingest | 24 hero·artifact batch (24 source, ~1772줄) | touched: 25 pages
 - raw 24 source 처리 + black-book + 6 Five Companions/Vestige 신규
 - ESO Five Companions + Vestige 7: vestige, lyris-titanborn, sai-sahan, the-prophet, abnur-tharn, cadwell + ESO 메인 퀘스트 종합

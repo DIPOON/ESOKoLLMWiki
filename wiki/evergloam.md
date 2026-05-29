@@ -1,32 +1,19 @@
 ---
 term: Evergloam
-target_ko: 에버글롬
-target_de: 
-target_ja: 
-aliases: [Evergloam, 에버글롬]
+aliases: [Evergloam, "Realm of Nocturnal"]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 63
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Evergloam (에버글롬)
+# Evergloam
 
-## 채택 근거 (UESP 자동 보강)
-Evergloam may refer to:
-*Evergloam (Clockwork City), a part of the eponymous plane of Oblivion accessed from the Clockwork City
-*Evergloam (Summerset), another part of the realm, accessed from the Dreaming Cave on Artaeum
-*Crow's Wood, a public dungeon in the Evergloam
-*Garden of Shadows, an event location in the Evergloam
-*Exarchs' Egress, a group boss site in the Evergloam
-*The Shadow Cleft, a delve in the Evergloam
-*Shadow Queen's Labyrinth, a player manor within the Evergloam
-*Evergloam, a Cyrodiil event campaign name
+*[[nocturnal|Nocturnal]]의 *Oblivion 영역*. *Twilight (해 진 후의 *영원한 *황혼)*. *Crow Folk·Twilight 거주*. *Shadows·Luck·Secret의 *영원한 *원천. *Crow Caller·Crow Chief 주민.
 
-**출처**: `raw/Online/Evergloam.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
+## Twilight Sepulcher
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 63
-- 한국 ESO 커뮤니티 합의
+*Evergloam과 *Nirn 경계의 *사원*. *[[skeleton-key|Skeleton Key]] 수호 *장소*. *Nightingale Trinity의 *영혼이 *영원히 *Evergloam에 *Crow Folk로 *거주.
+
+## Source
+- `raw/Lore/Evergloam.md` (46줄)

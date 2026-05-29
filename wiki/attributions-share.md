@@ -1,22 +1,15 @@
 ---
 term: Attribution's Share
-target_ko: 귀속의 장
-target_de: 
-target_ja: 
-aliases: [Attribution's Share, 귀속의 장]
+aliases: ["Attribution's Share", "Realm of Jyggalag"]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 23
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Attribution's Share (귀속의 장)
+# Attribution's Share
 
-## 채택 근거
-보에디아의 왕국
+*[[jyggalag|Jyggalag]] (Daedric Prince of Order)의 *Oblivion 영역*. *완전한 *대칭·기하학적 *완벽함의 *영원한 *공간*. *원래 *Daedra Prince 중 *가장 *강력했지만 *다른 *Princes 동맹의 *Greymarch 저주로 *Sheogorath 변환 *주기 *강요*. *4E *Hero of Kvatch가 *Sheogorath 후계 되어 *Jyggalag 일시 *해방.
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 23
-- 한국 ESO 커뮤니티 합의
+## Source
+- `raw/Lore/Attribution's Share.md` (31줄)

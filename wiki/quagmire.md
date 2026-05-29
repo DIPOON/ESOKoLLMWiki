@@ -1,22 +1,15 @@
 ---
 term: Quagmire
-target_ko: 퀘그마이어
-target_de: 
-target_ja: 
-aliases: [Quagmire, 퀘그마이어]
+aliases: [Quagmire, "Realm of Vaermina"]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 121
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Quagmire (퀘그마이어)
+# Quagmire
 
-## 채택 근거
-데이드릭 프린스 베르미나의 영역. 쿼그마이어로 읽힐 수 있으나, 베르미나 스스로 퀘크마이어라고 발음함.
+*[[vaermina|Vaermina]] (Daedric Prince of Nightmares·Dreams)의 *Oblivion 영역*. *Mortal 악몽의 *총합. *번개 *영원히 *치는 *밤. *Mortal이 *깊은 *꿈에 *빠지면 *Vaermina가 *Mortal의 *영혼을 *Quagmire로 *수송 *(악몽 *고문).
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 121
-- 한국 ESO 커뮤니티 합의
+## Source
+- `raw/Lore/Quagmire.md` (47줄)

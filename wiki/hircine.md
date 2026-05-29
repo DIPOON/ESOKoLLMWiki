@@ -20,7 +20,7 @@ related: [daedric-princes, coldharbour-compact, hunting-grounds, werewolf, lycan
 - *Realm*: **[[hunting-grounds|Hunting Grounds]]** — *endless forest, *위대한 *짐승·인간·Daedra 사냥*
 - *Summoning*: 5th Mid Year
 - *Symbol*: **거대 *spear + elk head·skull** (Khajiit 신화: *[[yffer|Y'ffer]]의 *champion *[[graht-elk|Graht-Elk]] *해골)
-- *Servants*: *Huntsmen, *5 Aspects (각자 *동물 형태), [[dearola|Dearola]] (Demiprince *딸), Lord of Fishing, [[hollowjack|Hollowjack]] (Detritus 영역)
+- *Servants*: *Huntsmen, *5 Aspects (각자 *동물 형태), [[dearola|Dearola]] (Demiprince *딸), Lord of Fishing, [[hollowjack|Hollowjack]] ([[detritus|Detritus]] 영역)
 
 **Law of Fair Hunt** — *Hare (prey)에 *진짜 *탈출 기회 *보장. *사냥꾼 *속이는 *프레이가 *Hircine의 *존경 *받음*. *직설적·정직 — *시험 + 보상의 *명료*.
 
@@ -97,7 +97,7 @@ related: [daedric-princes, coldharbour-compact, hunting-grounds, werewolf, lycan
 - *적*: [[ebonarm|Ebonarm]]
 - *동맹 의혹*: [[mehrunes-dagon|Mehrunes Dagon]] (Lyranth 부정)
 - *자손*: [[dearola|Dearola]] (Demiprince)
-- *연결*: [[hollowjack|Hollowjack]] (Detritus = Hunting Grounds 일부)
+- *연결*: [[hollowjack|Hollowjack]] ([[detritus|Detritus]] = Hunting Grounds 일부)
 
 ## 평가
 

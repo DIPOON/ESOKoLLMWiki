@@ -9,7 +9,7 @@ ingested_at: 2026-05-29
 
 # Peryite
 
-**[[daedric-princes|Daedric Prince]]** of **Pestilence, Order (의 *낮은 *측면), Natural Order, Plague, Tasks**. *Realm*: **[[pits-of-peryite|Pits of Peryite]]**. *Servants*: **Daedra Lords (Plague), Afflicted, Diseased**. *Summoning*: 9th Sun's Dawn.
+**[[daedric-princes|Daedric Prince]]** of **Pestilence, Order (의 *낮은 *측면), Natural Order, Plague, Tasks**. *Realm*: **[[pits-of-peryite|Pits of Peryite]]** (ESO에서는 **[[pinnacle-rock|Pinnacle Rock]]**로도 *호명*). *Servants*: **Daedra Lords (Plague), Afflicted, Diseased**. *Summoning*: 9th Sun's Dawn.
 
 ## "약한 Daedric Prince" 논쟁
 
