@@ -190,6 +190,17 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 10:00] ingest | 22 vampire·lycanthropy·artifact batch (22 source, ~1113줄) | touched: 27 pages
+- raw 22 source: Harkon (49) + Serana (45) + Valerica (34) + Volkihar (47) + Lord Harkon (5, dup) + Dawnguard (41) + Vampire Lord (4) + Vampirism (5) + Necromancy (233) + Lich (102) + Glenmoril (9) + Lycanthropy (226) + Bloodmoon (24) + Werebear/Wereboar/Werelion/Wereshark (각 4) + Dawnbreaker (42) + Oghma Infinium (61) + Ring of Namira (25) + Savior's Hide (55) + Skull of Corruption (30) + Spellbreaker (60) → _ingested
+- Volkihar Court 4: harkon (Pure-Blood + Tyranny of Sun), serana (Elder Scroll), valerica (Soul Cairn 피신), volkihar
+- Vampire 신학 3: vampirism (Lamae Bal 기원), vampire-lord (Magicka 비행), dawnguard (4E Vigilants 후계)
+- Necromancy 신학 2: necromancy (Mannimarco 체계화 + Soul Cairn 거래), lich (Phylactery + Mannimarco 정점)
+- Lycanthropy 3: lycanthropy (7 Werecreature 종류 + Glenmoril 변환), glenmoril, bloodmoon (Hircine Solstheim)
+- 4 Werecreature 변형: werebear/wereboar/werelion/wereshark
+- 6 Daedric Artifact: dawnbreaker (Meridia Undead), oghma-infinium (Mora 능력치), ring-of-namira (식인 ring), saviors-hide (Hircine armor), skull-of-corruption (Vaermina clone), spellbreaker (Peryite shield)
+- 신규 link: meridia, vampire, mannimarco, hircine (Werecreature 5 + Great Hunt), namira, vaermina, peryite
+- 최종: 페이지 1283 → 1303 (22 source + 22 page rewrite), Orphan 0 유지, Broken 879
+
 ## [2026-05-30 09:00] ingest | 15 realm batch (15 source, ~984줄) | touched: 17 pages
 - raw 15 source: Apocrypha (113) + Coldharbour (95) + Deadlands (110) + Detritus (35) + Evergloam (46) + Hunting Grounds (68) + Maelstrom (43) + Moonshadow (42) + Pinnacle Rock (21) + Quagmire (47) + Shivering Isles (128) + Soul Cairn (62) + Sovngarde (94) + Spiral Skein (49) + Attribution's Share (31) → _ingested
 - 15 Oblivion 영역 + Sovngarde:

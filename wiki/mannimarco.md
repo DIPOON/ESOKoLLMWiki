@@ -29,7 +29,7 @@ ingested_at: 2026-05-29
 
 ## 3E 433 — Oblivion Crisis 후
 
-*Daggerfall 시기·Mages Guild 시기의 *영겁 활동*. *최종 *Necromancer's Moon 의례로 *Lich가 됨*.
+*Daggerfall 시기·Mages Guild 시기의 *영겁 활동*. *최종 *Necromancer's Moon 의례로 *[[lich|Lich]]가 됨*.
 
 ## 평가
 

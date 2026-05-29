@@ -25,7 +25,7 @@ ingested_at: 2026-05-29
 
 ## 2E 582 — Crystal Tower 사건
 
-*[[daedric-triad|Daedric Triad]] (Vile·Mephala·Nocturnal)의 *Colored Rooms 침공 → *Meridia *어둠 감금*. *그녀의 *champion [[darien-gautier|Darien Gautier (Light of Meridia)]]·Vestige + Psijic Order가 *반격 → *Dawnbreaker 복구 → *Crystal Tower 회복 → *Nocturnal 격퇴 + Meridia 해방*.
+*[[daedric-triad|Daedric Triad]] (Vile·Mephala·Nocturnal)의 *Colored Rooms 침공 → *Meridia *어둠 감금*. *그녀의 *champion [[darien-gautier|Darien Gautier (Light of Meridia)]]·Vestige + Psijic Order가 *반격 → *[[dawnbreaker|Dawnbreaker]] 복구 → *Crystal Tower 회복 → *Nocturnal 격퇴 + Meridia 해방*.
 
 *Meridia가 *2E *Planemeld (Molag Bal) *주 대항자 — *Army of Meridia 결성 → *Vestige + Coldharbour 침공 *주도*.
 
@@ -35,7 +35,7 @@ ingested_at: 2026-05-29
 
 ## 유물
 
-- **Dawnbreaker** — *대표 *Daedric *sword. *Undead에 *폭발 + Soul Trap. *Light + Fire 부여*. *Daedric Artifact 16 중 하나*.
+- **[[dawnbreaker|Dawnbreaker]]** — *대표 *Daedric *sword. *Undead에 *폭발 + Soul Trap. *Light + Fire 부여*. *Daedric Artifact 16 중 하나*.
 - **Ring of the Khajiit** (alternative — Khajiit 시각)
 - *Welkynd Stones (Ayleid 유물에 *그녀의 *light)
 

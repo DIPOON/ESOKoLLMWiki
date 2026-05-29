@@ -42,3 +42,5 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Peryite.md` (149줄)
+
+- *대표 *유물: *[[spellbreaker|Spellbreaker]] (위 *Spellbreaker 항목)도 *공식 *Peryite Daedric Artifact

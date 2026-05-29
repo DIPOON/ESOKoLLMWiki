@@ -47,3 +47,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Namira.md` (170줄)
+
+
+- *대표 *유물: *[[ring-of-namira|Ring of Namira]] — *식인 의례 *후원 *반지

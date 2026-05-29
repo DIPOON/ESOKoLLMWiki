@@ -46,3 +46,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Vaermina.md` (166줄)
+
+
+- *대표 *유물: *[[skull-of-corruption|Skull of Corruption]] — *Clone 소환 + 악몽 *고문

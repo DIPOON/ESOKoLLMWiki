@@ -58,7 +58,7 @@ related: [daedric-princes, coldharbour-compact, hunting-grounds, werewolf, lycan
 
 ### Altmer
 
-*공식 *금지 (Divine Prosecution)*. *Summerset 개방 후 *lycanthropy 확산 *문제 (Thornfang Pack)*. *Lady Ghisiliane처럼 *비밀 *Great Hunt 운영 사례.
+*공식 *금지 (Divine Prosecution)*. *Summerset 개방 후 *lycanthropy 확산 *문제 (Thornfang Pack)*. *Lady Ghisiliane처럼 *비밀 *[[great-hunt|Great Hunt]] 운영 사례.
 
 ### Imperial / Khajiit / Nord
 
@@ -108,3 +108,9 @@ related: [daedric-princes, coldharbour-compact, hunting-grounds, werewolf, lycan
 - `raw/Lore/Hircine.md` (366줄, 부분 read + 내장 지식)
 - [[wild-hunt|Wild Hunt]] / [[werewolf|Werewolf]] / [[bloodmoon|Bloodmoon]] cascading
 - [[reachman|Reachfolk]] / [[bosmer|Bosmer]] cascading
+
+## 관련 *유물·하위 *변환
+
+- *[[ring-of-hircine|Ring of Hircine]] — *Werewolf 변환 *제어 *반지
+- *[[saviors-hide|Savior's Hide]] — *Werewolf 가죽 *Light Armor
+- *Werecreature 변형: *[[werebear|Werebear]] (Solstheim), *[[wereboar|Wereboar]] (High Rock), *[[werelion|Werelion]] (Elsweyr), *[[wereshark|Wereshark]] (Yokuda)
