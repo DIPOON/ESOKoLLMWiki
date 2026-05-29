@@ -11,7 +11,7 @@ ingested_at: 2026-05-29
 
 **[[hammerfell|Hammerfell]] 토착 *Man 종족**. *[[yokuda|Yokuda]] (서쪽 *대륙) 출신 — *침몰 후 *Ra Gada ("Warrior-Wave") *이주*. *Tamriel 가장 *늦게 *도착한 *Man 종족 (1E)*.
 
-## Yokudan 신학
+## [[yokudan|Yokudan]] 신학
 
 - *[[satakal|Satakal]] (Snake That Eats Itself, *Akatosh의 *시간 cycle 형태)
 - *[[ruptga|Ruptga]] (Tall Papa, *최고 신)

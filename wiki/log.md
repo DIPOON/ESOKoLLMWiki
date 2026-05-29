@@ -190,6 +190,13 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 23:00] ingest | 2 final batch (2 source, ~48줄) | touched: 4 pages
+- raw 2 source: Sigil Stone + Yokudan → _ingested
+- 유물 1: sigil-stone (Oblivion Gate 동력, 3E 433 Oblivion Crisis 회수)
+- 개념 1: yokudan (Hammerfell Redguard 영적·문화 기반)
+- 신규 link: deadlands + hero-of-kvatch + bruma (sigil-stone), redguard (yokudan)
+- 최종: 페이지 1585 → 1587, Orphan 0 유지, Broken 693 유지
+
 ## [2026-05-31 22:00] ingest | 8 closing batch (9 source, ~672줄) | touched: 14 pages
 - raw 9 source: Ehlnofex + Anticlere + Titus Mede II + Summerset Isle + Gortwog + Black Dragon + Immortal Blood + West Gash + The Windhelm Letters → _ingested
 - 개념·언어 1: ehlnofex (Ehlnofey 언어, Aldmeris 전신, Mortal 신학 원전)

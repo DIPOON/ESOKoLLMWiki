@@ -21,7 +21,7 @@ ingested_at: 2026-05-29
 
 ## 4E 401 Oblivion Crisis
 
-*Mythic Dawn이 *Cyrodiil 곳곳에 *Oblivion Gate 열어 *Deadlands에서 *Daedra 무한 *수송*. *각 *Gate 내부에 *Sigil Stone 회수가 *Gate 폐쇄의 *유일 *방법*. *Hero of Kvatch가 *수많은 *Sigil Stone 회수·Gate 폐쇄.
+*Mythic Dawn이 *Cyrodiil 곳곳에 *Oblivion Gate 열어 *Deadlands에서 *Daedra 무한 *수송*. *각 *Gate 내부에 *[[sigil-stone|Sigil Stone]] 회수가 *Gate 폐쇄의 *유일 *방법*. *Hero of Kvatch가 *수많은 *[[sigil-stone|Sigil Stone]] 회수·Gate 폐쇄.
 
 ## Source
 - `raw/Lore/Deadlands.md` (110줄)
