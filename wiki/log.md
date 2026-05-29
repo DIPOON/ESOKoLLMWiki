@@ -190,6 +190,20 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 01:00] ingest | Akavir 5 + Oblivion Crisis 4 batch (5 source) | touched: 9 pages
+- raw 5 source: Akaviri (42) + Tsaesci (131) + Kamal (20) + Tang Mo (12) + Ka Po' Tun (21) → _ingested
+- 9 페이지 심층 재작성 (Akavir 5 + Oblivion Crisis 4):
+  - akavir: 4 종족 매핑, 1E·2E 두 번의 Tamriel 침공
+  - tsaesci: Snake-Folk 불멸 영혼 흡수, Dragonguard 흡수 (Blades 기원)
+  - kamal: Snow Demons, Second Akaviri Invasion → Ebonheart Pact 형성
+  - tang-mo: Monkey-Folk, 가장 우호적
+  - ka-po-tun: Tiger-Folk + Tosh Raka Dragon 변환 야망
+  - mythic-dawn: Mehrunes Dagon cult, Mankar Camoran, Oblivion Crisis 주체
+  - mankar-camoran: Bosmer-Breton Camoran 후예, Paradise, CHIM 사용
+  - martin-septim: Septim 비밀 서자, Akatosh Avatar mantling, Dagon 추방
+  - uriel-septim-vii: Septim Dynasty 마지막 황제, 암살 → Crisis 발화
+- 최종: 페이지 1183 → 1190, Orphan 0 유지, Broken 917
+
 ## [2026-05-29 00:00 (5/30)] ingest | 사라진 종족 + Hist 9 batch (9 source, 939줄) | touched: 9 pages
 - raw 9 source: Dwemer (247) + Falmer (91) + Ayleid (274) + Atmoran (5 redirect) + Nedic (4 redirect) + Hist (117) + Sload (102) + Reachman (4 redirect) + Maormer (95) → _ingested
 - 9 페이지 심층 재작성:
