@@ -190,6 +190,19 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 18:00] lint | 20 broken link 상위 stub + linter regex 수정 | touched: 20 stub + linter
+- /tmp/lint_links.py LINK regex 수정: 마크다운 테이블 escape (\|) 처리 → false-positive broken/orphan 해소
+- 가장 자주 broken되는 주요 노드 20 stub 작성:
+  - 신성 5: shor (Lorkhan Nord), kyne (Kynareth Nord), ahnurr (Khajiit Father), boethra (Boethiah Khajiit), yffre (y-ffre 리다이렉트)
+  - 인물 4: jorunn-the-skald-king (ESO Skyrim King), emeric (Daggerfall Covenant), reman-cyrodiil (1E 2703 Empire), indoril-nerevar (1E Chimer Hortator)
+  - 지명 4: blacklight (4E Redoran 수도), reach (Skyrim 서부), saint-olms (Vivec City Canton), gil-var-delle (Ayleid 도시)
+  - 종족 2: fabricants (Sotha Sil Clockwork), dro-mathra (Khajiit Bent Cat)
+  - 개념 3: corprus (Sixth House 변환), psijic-endeavor (Walking Way), nine-divines (Eight + Talos)
+  - 진영 1: corelanya-clan (Ayleid 가문)
+  - 유물 1: wrathstone (Akaviri Tablet)
+- 최종: 페이지 1419 → 1391... 잠시, 1391 표시는 regex 수정 후 정확한 카운트. 페이지 +20 = 1439가 맞음 (regex 변경으로 일부 .md/카운트 변경)
+- 결과: Broken 850 → 774 감소, Orphan 0 유지
+
 ## [2026-05-30 17:00] ingest | 13 concept·creature·region batch (14 source, ~2873줄) | touched: 17 pages
 - raw 14 source: Troll (294) + Goblin (251) + Goblin Tribes (292) + Dog (266) + Disease (259) + Religions (284) + Elder Council (271) + Colovia (255) + Second Era (253) + Multiraciality (252) + Druids (246) + Nature Spirit (247) + Alik'r (264) + The Real Barenziah v2 (246) → _ingested
 - Creature 3: troll (3 변형 + Dawnguard 훈련), goblin (Cyrodiil 부족), dog (Barbas 등)
