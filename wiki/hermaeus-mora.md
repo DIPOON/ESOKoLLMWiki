@@ -126,3 +126,6 @@ related: [daedric-princes, apocrypha, mephala, ithelia, coldharbour-compact, ogh
 - `raw/Lore/Hermaeus Mora.md` (404줄, 부분 read + 내장 지식 보강)
 - [[vivec|Vivec]] cascading (Pomegranate Banquet)
 - [[ithelia|Ithelia]] / [[apocrypha|Apocrypha]] / [[mephala|Mephala]] cascading
+
+
+- *Mortal 측 *Apocrypha 대응: *[[library|Library]] (Arcane University·Sotha Sil Clockwork·Bards College 등 학자 지식 축적)

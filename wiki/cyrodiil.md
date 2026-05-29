@@ -44,3 +44,6 @@ ingested_at: 2026-05-29
 ## Cyrodiilic 문화
 
 *[[cyrodiilic|Cyrodiilic]] = *Cyrodiil Empire의 *문화·언어·정치 *전반의 *형용사*. *Imperial과 *동등 *사용 *(엄밀한 *구분 *없음)*.
+
+
+- *Imperial 고지: *[[black-heights|Black Heights]] — Akaviri 역사 *연관

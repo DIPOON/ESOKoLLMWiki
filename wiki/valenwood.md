@@ -41,3 +41,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Valenwood.md` (179줄)
+
+
+- *[[greenheart|Greenheart]] (Greenshade 주요 도시)

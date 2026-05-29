@@ -34,3 +34,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Ayleid.md` (274줄)
+
+
+- *[[karinwe-corelanya|Karinwe Corelanya]] — *Corelanya Clan 수장, Niflhel Queen

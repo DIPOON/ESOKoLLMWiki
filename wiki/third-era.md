@@ -22,3 +22,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Third Era.md` (190줄)
+
+
+- *[[mede-dynasty|Mede Dynasty]] — 4E Cyrodiil Empire 명목 황실 (Septim 후계)

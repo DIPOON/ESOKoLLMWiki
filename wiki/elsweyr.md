@@ -48,3 +48,5 @@ ingested_at: 2026-05-29
 
 
 - *주요 도시: *[[rimmen|Rimmen]] (Anequina), *[[senchal|Senchal]] (Pellitine), *[[dune|Dune]] (Anequina)
+
+- *[[sunport|Sunport]] (남부 Pellitine 항구)

@@ -29,3 +29,6 @@ One of the Delves required for Zone Completion is found on Artaeum.
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 147
 - 한국 ESO 커뮤니티 합의
+
+
+- *주요 도시: *Alinor (수도), *[[lillandril|Lillandril]] (상업), *Cloudrest, *Firsthold

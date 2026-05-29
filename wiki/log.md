@@ -190,6 +190,16 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 23:00] ingest | 15 expansion 3 batch (15 source, ~1325줄) | touched: 25 pages
+- raw 15 source: Eyevea·Merethic Era·Harrowstorms·Alessian Order·Siege of Orsinium·Umaril·Mede Dynasty·Skyreach·Great Hunt·Greenheart·Lillandril·Sunport·Library·Black Heights·Karinwe Corelanya → _ingested
+- 지명 7: eyevea (Shalidor Mages Guild 본거지), greenheart (Valenwood Greenshade), lillandril (Summerset), sunport (Elsweyr 항구), skyreach (Reach 고대 유적), black-heights (Cyrodiil Imperial 고지)
+- 사건 3: harrowstorms (ESO Greymoor), siege-of-orsinium (1E 950 Bretons+Redguard 공성), great-hunt (Hircine grand 의례 deep)
+- 인물 2: umaril (Ayleid King), karinwe-corelanya (Niflhel Queen)
+- 진영 2: alessian-order (Marukh 결성, Direnni 격파), mede-dynasty (4E Empire 명목 황실)
+- 개념 2: merethic-era (Aldmer 정착 시대), library (Tamriel 주요 Library)
+- 신규 link: elsweyr (sunport), summerset (lillandril), valenwood (greenheart), orsinium (siege-of-orsinium), cyrodiil (black-heights), reach (skyreach), ayleid (karinwe-corelanya), third-era (mede-dynasty), hermaeus-mora (library), volkihar (harrowstorms)
+- 최종: 페이지 1436 → 1448, Orphan 0 유지, Broken 744 → 741
+
 ## [2026-05-30 22:00] ingest | 15 expansion 2 batch (15 source, ~1483줄) | touched: 17 pages
 - raw 15 source: Jorunn·Dumac·Dragon Break·Planemeld·Leovic·Durcorach·Haafingar·Northpoint·Mount Firesong·Dune·Scamp·Arcanists·Alchemy·Crab·Bark and Sap → _ingested
 - 인물 4: jorunn-the-skald-king (Stonefalls 격퇴 + Pact 결성, deep), dumac (Dwemer King + Battle of Red Mountain), leovic (Varen 이전 황제), durcorach (Reach Orc Warlord)

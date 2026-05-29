@@ -21,3 +21,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Volkihar.md` (47줄)
+
+
+- *4E *Harrowstorms 사건: *Icereach Coven (Hagraven + Vampire 협력) → *[[harrowstorms|Harrowstorms]] 발생 (ESO Greymoor DLC)
