@@ -63,3 +63,5 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Khajiit.md` (608줄)
+
+- *[[hidden-moon|Hidden Moon]] — *Masser+Secunda 외 *3번째 *비밀의 *Moon (Lorkhaj 영적 Moon)

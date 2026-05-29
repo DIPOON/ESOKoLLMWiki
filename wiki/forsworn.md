@@ -17,3 +17,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Forsworn.md` (38줄)
+
+
+- *영적 *시조: *[[red-eagle|Red Eagle]] (Faolan, 1E Reachman 영웅 왕). *4E Last Dragonborn이 *Red Eagle 영혼 *처치 + Sword of Red Eagle 수여.

@@ -190,6 +190,17 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 02:00] ingest | 15 misc 2 batch (8 source + 7 broken stub, ~243줄) | touched: 21 pages
+- raw 8 source: The Reach + Red Eagle + Galen + Worm Cult + Skyrim Civil War + Hidden Moon + Ansei + Imperial Watch → _ingested
+- 지명 2: reach (deep, Skyrim+High Rock 경계 + Markarth Incident + 4E 580 Greymoor), galen (Druid Stonelore + Firesong)
+- 인물 5 stub: red-eagle (1E Faolan Forsworn 시조), fargrave (Deadlands 도시), order-of-waking-flame (ESO Blackwood), athyn-llethan (Morrowind 왕 - Helseth 전임), elysana (Eadwyre 딸 Wayrest), mikael-the-bard, dhaunayne-aundae (Aundae Clan 수장)
+- 진영 3: worm-cult (Mannimarco 결사), ansei (Yokudan Sword Singer), imperial-watch (Cyrodiil 시민 경찰)
+- 사건 1: skyrim-civil-war (Stormcloak Rebellion 호칭)
+- 개념 1: hidden-moon (Khajiit 3번째 비밀 Moon)
+- 유물 1: abecean-longfin (Cyrodiil 어종)
+- 신규 link: khajiit (hidden-moon), cyrodiil (imperial-watch), forsworn (red-eagle), skyrim (skyrim-civil-war), craglorn (skyreach)
+- 최종: 페이지 1468 → 1481, Orphan 0 유지, Broken 735 → 726
+
 ## [2026-05-31 01:00] ingest | 9 DLC·sub-race batch (10 source, ~381줄) | touched: 14 pages
 - raw 10 source: Crystal-Like-Law·Eldengrove·Forest Wraith·Greymoor·Halls of Colossus·Imperial Cult·Maelstrom Arena·Necrom·Telvanni Peninsula·Wood Orc → _ingested
 - 지명 4: necrom (Indoril Temple City + ESO DLC), telvanni-peninsula, halls-of-colossus (Akaviri Dragonhold), eldengrove

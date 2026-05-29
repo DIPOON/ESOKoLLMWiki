@@ -32,7 +32,7 @@ ingested_at: 2026-05-29
 - **2E 572 — Akaviri 침공** — Jorunn + Wulfharth + Almalexia → Ebonheart Pact 형성
 - **2E 580 — Three Banners War**
 - **4E 5 — Red Year 직접 영향**: Solstheim에 *Dunmer 난민
-- **4E 201 — [[last-dragonborn|Last Dragonborn]] + Stormcloak 봉기**
+- **4E 201 — [[last-dragonborn|Last Dragonborn]] + [[skyrim-civil-war|Skyrim Civil War]] (Stormcloak 봉기)**
 
 ## 문화
 
