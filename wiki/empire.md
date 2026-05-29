@@ -20,3 +20,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Empire.md` (32줄)
+
+
+- *[[elder-council|Elder Council]] — *Cyrodiil Empire 공식 *Imperial 의회

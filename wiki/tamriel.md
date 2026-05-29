@@ -62,3 +62,11 @@ ingested_at: 2026-05-29
 
 - *[[calendar|Calendar]] — 12달 + 7일 주 + Merethic→1E→2E→3E→4E *Era 표기
 - *[[era|Era]] — Tamriel 역사 *대시대 *구분
+
+
+## 관련 *개념 *링크
+
+- *[[religions|Religions]] — 문화·종족별 *신앙 *체계 (Eight Divines, Nordic, Tribunal Temple, Aldmer 등 총괄)
+- *[[multiraciality|Multiraciality]] — Mer-Man 혼혈 *가능성·역사적 *사례
+- *[[disease|Disease]] — 질병 *총칭 (Vampirism + Lycanthropy + Corprus 등)
+- *[[nature-spirit|Nature Spirit]] — Spriggan·Wisp·Hagraven 등 *자연 영혼

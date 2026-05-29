@@ -25,3 +25,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Companions.md` (157줄)
+
+
+- *훈련 *동물: *[[dog|Dog]] (Companions 사냥 *동반자)

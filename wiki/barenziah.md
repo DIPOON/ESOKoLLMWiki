@@ -27,3 +27,8 @@ ingested_at: 2026-05-29
 
 - *[[helseth|Hlaalu Helseth]] — *아들, 3E Morrowind 왕
 - *Symmachus — *남편, Mournhold 통치
+
+
+## 자서전 *시리즈
+
+*[[the-real-barenziah|The Real Barenziah]] (Plotinus Mardona 편집 5권 시리즈)이 *Barenziah 자서전의 *주된 *기록.

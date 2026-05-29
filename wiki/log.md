@@ -190,6 +190,17 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 17:00] ingest | 13 concept·creature·region batch (14 source, ~2873줄) | touched: 17 pages
+- raw 14 source: Troll (294) + Goblin (251) + Goblin Tribes (292) + Dog (266) + Disease (259) + Religions (284) + Elder Council (271) + Colovia (255) + Second Era (253) + Multiraciality (252) + Druids (246) + Nature Spirit (247) + Alik'r (264) + The Real Barenziah v2 (246) → _ingested
+- Creature 3: troll (3 변형 + Dawnguard 훈련), goblin (Cyrodiil 부족), dog (Barbas 등)
+- Concept 4: disease (Vampirism + Lycanthropy + Corprus + Knahaten Flu + Peryite Plague), religions (10 Pantheon), multiraciality (Mer-Man 혼혈), nature-spirit
+- Region 2: colovia (Cyrodiil 서부 전사), alikr (Hammerfell 사막)
+- Politics 2: elder-council (Imperial 의회), second-era (Akaviri Potentate + Interregnum + ESO 배경)
+- Druids: Systres High Isle DLC
+- Book: the-real-barenziah (5권 시리즈)
+- 신규 link: tamriel (religions/multiraciality/disease/nature-spirit 4), empire (elder-council), barenziah (the-real-barenziah), companions (dog)
+- 최종: 페이지 1406 → 1419, Orphan 0 유지, Broken 850
+
 ## [2026-05-30 16:00] ingest | 17 ancient·sub-race·concept batch (19 source, ~894줄) | touched: 22 pages
 - raw 19 source: Snow Elves·Snow Prince·Auri-El·Saarthal·All-Maker·Skaal·Chimer·Velothi·Velothi Mountains·Dagoth·Tang Mo·Calendar·Era·Time·Tribunal·Slavery·Slave·Dragonguard·Empire → _ingested
 - Snow Elf/Atmoran 4: snow-elves (Ysgramor 학살 + Dwemer 보호 → Falmer 변환), snow-prince (Solstheim 결전), auri-el (Aldmer Akatosh + Chantry), saarthal (Night of Tears + Eye of Magnus)

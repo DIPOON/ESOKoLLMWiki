@@ -1,14 +1,21 @@
 ---
-name: "Goblin (고블린)"
-aliases: [Goblin, 고블린]
+term: Goblin
+aliases: [Goblin]
 kind: entity
 category: 종족
-status: stub
-created_at: 2026-05-28
+status: 확정
+ingested_at: 2026-05-29
 ---
 
-# Goblin (고블린)
+# Goblin
 
-> **Stub** — 이 페이지는 *최소 정의*만 있음. 자연 trigger 발생 시 §3.1 ingest 사이클로 *심층 보강*.
+*Tamriel *동굴·황무지 *거주 *부족 *생물*. *작은 *체격 + 무기·도구 *사용 + 부족 *조직*. *Imperial 제국 *주적 *Cyrodiil 시기. *수많은 *부족별 *변형. *Tamriel 전역 *분포.
 
-*Tamriel 전역에 *분포한 *야만 *부족 종족*. *동굴·폐허 *서식*. *Orc·Ogre와 *원시 *유사*. *부족별 *문화·신앙 *상이*.
+## 주요 부족 (Cyrodiil)
+
+- *각 *Goblin Tribe는 *Tribe Shaman + War Chief 위계
+- *Skull-Crusher, Cracked Wood, Bleaker's Way, Three Sisters Lodge 등 *Cyrodiil 부족
+- *Solstheim, Skyrim 등에도 *변형
+
+## Source
+- `raw/Lore/Goblin.md` (251줄) + `raw/Lore/Goblin Tribes.md` (292줄)
