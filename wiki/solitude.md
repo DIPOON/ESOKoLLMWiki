@@ -17,3 +17,5 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Solitude.md` (175줄)
+
+- *[[bards-college|Bards College]] — Tamriel 4E 시인·예술·역사 공식 교육

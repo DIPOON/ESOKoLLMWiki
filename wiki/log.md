@@ -190,6 +190,14 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 06:00] ingest | 5 short batch (8 source, ~167줄) | touched: 8 pages
+- raw 8 source: Bards College + Boethra + Eastmarch + Magicka + Niben + Topal + Werewolf + Soulburst → _ingested
+- 진영 1: bards-college (Solitude Tamriel 4E 시인 학교)
+- 지명 3: eastmarch (Stormcloak Eastmarch Hold), niben (Cyrodiil Nibenese 강·만), topal (Cyrodiil 남부 해상)
+- 개념 1: magicka (Magnus + Magna Ge Aetherius 영적 유산)
+- 신규 link: solitude (bards-college), magnus (magicka), cyrodiil (niben + topal)
+- 최종: 페이지 1505 → 1510 (1 중복 삭제), Orphan 0 유지, Broken 709 → 708
+
 ## [2026-05-31 05:00] ingest | 9 Aldmer + Lesser Daedra batch (9 source, ~424줄) | touched: 11 pages
 - raw 9 source: Aldmer + Aldmeris + Anequina + Clannfear + Knight + Pellitine + Spider Daedra + Thief + Winged Twilight → _ingested
 - 종족 4: aldmer (조상 8 분파 분리), clannfear (Mehrunes Dagon), spider-daedra (Mephala 직속), winged-twilight (Azura 전령)

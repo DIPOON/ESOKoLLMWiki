@@ -49,3 +49,6 @@ ingested_at: 2026-05-29
 - *Imperial 고지: *[[black-heights|Black Heights]] — Akaviri 역사 *연관
 
 - *[[imperial-watch|Imperial Watch]] — Cyrodiil 도시별 시민 경찰 (Imperial Legion 외)
+
+
+- *지리: *[[niben|Niben]] 강·만 유역 (Nibenese 문화), *[[topal|Topal]] 해안·만 (남부 해상)

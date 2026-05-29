@@ -35,3 +35,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Magnus.md` (73줄)
+
+
+- *[[magicka|Magicka]] — Mortal 마법의 영적 에너지. Magnus + Magna Ge Aetherius 떠날 때 남긴 영적 유산 (Mortal 별이 통로)
