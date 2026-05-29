@@ -3,3 +3,16 @@
 .obsidian/cache
 .DS_Store
 .claude/settings.local.json
+
+# JetBrains IDE 개인 설정 — v2부터 추적 제외
+.idea/
+
+# 대량 UESP dump — *미처리 raw*는 git 추적 X
+# v2 정책: 처리된 source는 raw/processed/<namespace>/ 로 이동하면 자동 추적됨
+# (raw/Books/*, raw/Lore/*, raw/Online/* 패턴은 raw/processed/ 에 매칭 안 됨)
+raw/Books/*
+raw/Lore/*
+raw/Online/*
+
+# 대용량 게임 텍스트 추출 (108MB)
+raw/en.lang.csv
