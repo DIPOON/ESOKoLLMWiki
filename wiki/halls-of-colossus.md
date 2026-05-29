@@ -13,3 +13,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Halls of Colossus.md` (44줄)
+
+
+- *4E ESO 시기 *주요 *Dragon: *[[mulaamnir|Mulaamnir]] + *[[nahviintaas|Nahviintaas]] (Khajiit Pellitine 처치 대상)

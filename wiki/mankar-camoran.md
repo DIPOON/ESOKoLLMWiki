@@ -17,3 +17,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Mankar Camoran.md` (69줄)
+
+
+- *딸: *[[ruma-camoran|Ruma Camoran]] (Mythic Dawn 분파, Paradise 동행)

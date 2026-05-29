@@ -37,3 +37,5 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Argonian.md` (537줄)
+
+- *영적 *수역: *[[sea-of-pearls|Sea of Pearls]] (Topal Sea + Padomaic 경계, Argonian + Maormer 영향)

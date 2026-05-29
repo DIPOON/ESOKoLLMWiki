@@ -13,3 +13,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - 종합 (Elsweyr + Knahaten Flu 항목)
+
+
+- *역사적 *재앙: *[[the-burning-of-senchal|Burning of Senchal]] (도시 화재 + 내부 반란)

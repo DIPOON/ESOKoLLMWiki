@@ -1,22 +1,15 @@
 ---
 term: Sea of Pearls
-target_ko: 진주의 바다
-target_de: 
-target_ja: 
-aliases: [Sea of Pearls, 진주의 바다]
+aliases: ["Sea of Pearls"]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 131
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Sea of Pearls (진주의 바다)
+# Sea of Pearls
 
-## 채택 근거
-서머셋 아일즈
+*Tamriel *남부 *Topal Sea + Padomaic Ocean *경계의 *바다 *지역*. *Black Marsh + Cyrodiil + Akavir 사이의 *해상 *교역 *통로*. *Maormer 해적·Pyandonea Maormer의 *영향*. *Argonian Eye of Argonia 영적 *수호 *수역.
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 131
-- 한국 ESO 커뮤니티 합의
+## Source
+- `raw/Lore/Sea of Pearls.md` (49줄)

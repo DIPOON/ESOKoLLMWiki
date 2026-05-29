@@ -31,3 +31,6 @@ ingested_at: 2026-05-29
 ## Et'Ada — Anu+Padomay 자손
 
 *Ehlnofey의 *상위 *분류는 *[[et-ada|Et'Ada]] = Anu+Padomay의 *직접 *자손 *원초 *영혼. *Aedric 측 (Mundus 참여, Ehlnofey 변환) + Daedric 측 (참여 거부)으로 *분리.
+
+
+- *후예 *총칭: *[[predecessors|Predecessors]] (Aldmer + Atmoran + Nedic + Yokudan + Hist 후예 등)

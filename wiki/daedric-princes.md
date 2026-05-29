@@ -17,3 +17,6 @@ created_at: 2026-05-29
 
 각 Prince는 *Aedra와 *반대* — *변화·혼돈·creation의 *반항적 *원리*. *Aedra가 *Mundus 창조에 *희생했다면 *Daedra는 *그것을 *거부한 *것들*. *[[truth-in-sequence|Truth in Sequence]] (Apostle 신학)에서는 *"of the Nothing"으로 *부정됨*.
 
+
+
+*주된 *공식 *Imperial Cult *해설서: *[[the-book-of-daedra|The Book of Daedra]] (16 Princes Sphere/Realm/Servant/Summoning 기록)

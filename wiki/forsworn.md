@@ -20,3 +20,6 @@ ingested_at: 2026-05-29
 
 
 - *영적 *시조: *[[red-eagle|Red Eagle]] (Faolan, 1E Reachman 영웅 왕). *4E Last Dragonborn이 *Red Eagle 영혼 *처치 + Sword of Red Eagle 수여.
+
+
+- *주요 *분파: *[[spiritblood-clan|Spiritblood Clan]] (영혼 조작 + Daedric)
