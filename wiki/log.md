@@ -190,6 +190,14 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 14:00] ingest | 5 final 2 batch (5 source, ~102줄) | touched: 8 pages
+- raw 5 source: Black Drake + Imperial City Archives + Imperial City Prison + Inner Sea + Telvanni → _ingested
+- 진영 1: telvanni (redirect to great-house-telvanni)
+- 인물 1: black-drake (Durcorach Black Drake 별칭)
+- 지명 3: imperial-city-archives (Mages Guild Arcane University 서고), imperial-city-prison (Hero of Kvatch 시작지), inner-sea (deep, Morrowind 내해 4 주요 항구)
+- 신규 link: great-house-telvanni (telvanni 별칭), durcorach (black-drake), arcane-university (imperial-city-archives)
+- 최종: 페이지 1543 → 1548, Orphan 0 유지, Broken 704 유지
+
 ## [2026-05-31 13:00] ingest | 3 WGT batch (3 source, ~204줄) | touched: 4 pages
 - raw 3 source: White-Gold Tower (deep) + Memory Stone + Wing of the Dragon → _ingested
 - 지명 1: white-gold-tower (deep — Ayleid 기원 + Imperial 수도 + 5 주요 사건)

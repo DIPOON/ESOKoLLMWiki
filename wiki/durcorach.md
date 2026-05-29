@@ -13,3 +13,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Durcorach.md` (97줄)
+
+
+*([[black-drake|Black Drake]]도 *동일 *별칭)*

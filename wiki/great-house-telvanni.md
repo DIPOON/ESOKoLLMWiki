@@ -30,3 +30,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Great House Telvanni.md` (6줄)
+
+
+*([[telvanni|Telvanni]] 단독 *호명도 *동일)*
