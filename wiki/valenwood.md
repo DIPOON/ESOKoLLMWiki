@@ -44,3 +44,8 @@ ingested_at: 2026-05-29
 
 
 - *[[greenheart|Greenheart]] (Greenshade 주요 도시)
+
+
+- *[[eldengrove|Eldengrove]] — Bosmer 고대 Graht-oak 그로브, Y'ffre 직접 영향력
+- *[[forest-wraith|Forest Wraith]] — Y'ffre 후원 자연 영혼, Wild Hunt 변환 결과
+- *[[wood-orc|Wood Orc]] — Valenwood 거주 Orsimer 부족 (Orsinium 후예와 별개)

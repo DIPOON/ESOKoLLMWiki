@@ -15,7 +15,7 @@ ingested_at: 2026-05-29
 
 1. **[[adamantine-tower|Adamantine Tower/Ada-Mantia]]** — *High Rock, *Convention 장소, *Aldmer 최고
 2. **[[red-tower|Red Tower/Red Mountain]]** — *Vvardenfell, *Heart of Lorkhan
-3. **[[crystal-tower|Crystal Tower/Crystal-Like-Law]]** — *Summerset, *Altmer
+3. **[[crystal-tower|Crystal Tower]]/[[crystal-like-law|Crystal-Like-Law]]** — *Summerset, *Altmer
 4. **[[white-gold-tower|White-Gold Tower]]** — *Cyrodiil, *Ayleid 건립
 5. **[[snow-throat|Snow Throat/Throat of the World]]** — *Skyrim, *Time-Wound 발생지
 6. **[[orichalc-tower|Orichalc Tower/Orichalc]]** — *Yokuda·Hammerfell

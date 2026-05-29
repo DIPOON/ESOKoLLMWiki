@@ -190,6 +190,16 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 01:00] ingest | 9 DLC·sub-race batch (10 source, ~381줄) | touched: 14 pages
+- raw 10 source: Crystal-Like-Law·Eldengrove·Forest Wraith·Greymoor·Halls of Colossus·Imperial Cult·Maelstrom Arena·Necrom·Telvanni Peninsula·Wood Orc → _ingested
+- 지명 4: necrom (Indoril Temple City + ESO DLC), telvanni-peninsula, halls-of-colossus (Akaviri Dragonhold), eldengrove
+- 종족 2: forest-wraith (Y'ffre Wild Hunt 변환), wood-orc (Valenwood Orsimer 부족)
+- 사건 1: greymoor (4E 580 Western Skyrim)
+- 진영 1: imperial-cult (Eight Divines 교단)
+- 지명 redirect 1: crystal-like-law (Crystal Tower 공식 호칭)
+- 신규 link: towers (crystal-like-law), valenwood (eldengrove+forest-wraith+wood-orc), harrowstorms (greymoor), talos (imperial-cult)
+- 최종: 페이지 1462 → 1468, Orphan 0 유지, Broken 737 → 735
+
 ## [2026-05-31 00:00] ingest | 14 expansion 4 batch (14 source, ~820줄) | touched: 22 pages
 - raw 14 source: Imperial Battlemages·Gray Host·Four Ambitions·Blue Palace·Ysgramor Dynasty·Wayshrines·Syrabane·Crusader's Relics·Dwarven Centurion·Druid King·Colovian Highlands·Failed Incarnates·Mnemo-Li·Solstice (island) → _ingested
 - 진영 3: imperial-battlemages (황실 마법사 전사), gray-host (1E 1029 Reachfolk+Yokudan+Bretons 연합), ysgramor-dynasty

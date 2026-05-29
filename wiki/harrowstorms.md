@@ -13,3 +13,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Harrowstorms.md` (89줄)
+
+
+*4E 580 *ESO [[greymoor|Greymoor]] DLC 무대 — Western Skyrim + Lord Verandis.

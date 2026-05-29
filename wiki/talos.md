@@ -38,3 +38,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Talos.md` (45줄)
+
+
+- *[[imperial-cult|Imperial Cult]] — Cyrodiil Empire 공식 Eight (Nine) Divines 교단. *Talos 9th Divine 시기에 *최대 *영향. *4E 175 *Talos 금지로 *Eight Divines로 *축소.
