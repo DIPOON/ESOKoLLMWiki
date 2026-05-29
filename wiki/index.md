@@ -1,6 +1,6 @@
 ---
 kind: misc
-updated: 2026-05-28
+updated: 2026-05-29
 ---
 
 # Wiki Index
@@ -9,16 +9,27 @@ ESOKoLLMWiki 전체 카탈로그. *flat namespace 마이그레이션 후 *재구
 
 ---
 
-## 한눈 통계 (2026-05-28 마이그레이션 후)
+## 한눈 통계 (2026-05-29 대규모 ingest 사이클 완료)
 
 | 항목 | 수 | 비고 |
 |---|---|---|
-| **wiki 페이지 (kind 보유)** | **987** | entity 745 + book 220 + decisions 9 + 기타 |
-| Entity | 745 | 인물·지명·신성·진영·종족·사건·유물·개념·던전 |
-| Book | 220 | raw → 단일 책/문서 흡수 |
+| **wiki 페이지 (kind 보유)** | **~1436** | entity ~1200+ + book + decisions 9 + 기타 |
+| Entity 추가 (이번 세션) | +449 | 신학·종족·지역·인물·사건·유물·진영·개념 cascade |
+| Book | 200+ | raw → 단일 책/문서 흡수 + 시리즈 색인 |
 | Decisions | 9 | wiki/decisions/ |
-| Broken link (unique) | 867 | 마이그레이션 *후 *드러난 실상. ≥5회 22종 stub 완료 |
-| Orphan (in-link 0) | 647 | 66% — *대부분 *책 페이지 (cascading 부족) |
+| Broken link (unique) | **744** | 마이그레이션 직후 867 → 추가 stub로 ↓ |
+| Orphan (in-link 0) | **0** | 정책: 새 페이지 100% in-link 보장 + 즉시 wikilink |
+
+## 이번 세션 (2026-05-29) 핵심 ingest 카테고리
+
+- **신학 / 우주** (60+): Aedric 8 + Daedric 16 (+ Ithelia 17) + Tribunal 3 + Good Daedra 3 + 영역 15 (Apocrypha/Coldharbour/Deadlands/Shivering Isles/Hunting Grounds/Spiral Skein/Quagmire/Soul Cairn/Sovngarde/Moonshadow/Evergloam/Pinnacle Rock/Attribution's Share/Detritus/Maelstrom)
+- **종족** (30+): 10 본토 종족 + 9 lost races + Werecreature 5 + Vampire 분류 + Daedric 종족 5 + Reachfolk·Hagraven·Giant·Troll·Goblin
+- **지역** (40+): 10 본토 province + 29 도시 (Cyrodiil 9 + Skyrim 9 + Morrowind 6 + 기타) + Akavir 5
+- **인물·사건** (50+): Tribunal 3 + 5 Companions + 게임 영웅 (Nerevarine/Hero of Kvatch/Last Dragonborn/Vestige/Eternal Champion) + Mannimarco/Tiber Septim/Mankar Camoran/Martin Septim/Barenziah/Helseth/Pelagius III/Akaviri Potentate 등
+- **유물** (20+): Amulet of Kings/Numidium/Mantella/Heart of Lorkhan + Daedric Artifact 13
+- **진영** (20+): 9 guild + 3 alliance + 5 House + Tribunal Temple + Imperial Legion + Thalmor + Stormcloak 등
+- **개념** (30+): CHIM/Mantling/Walking Ways/Tonal Architecture/Towers/Necromancy/Lycanthropy + Voice 5 + Green Pact/Wild Hunt/Lunar Lattice/Magical Transportation/Calendar 등
+- **사건** (15+): Battle of Red Mountain/Oblivion Crisis/Soulburst/Planemeld/Greymarch/Great War/Stormcloak Rebellion/Three Banners War/Akavir 침공/Warp in the West/Knahaten Flu/Argonian Invasion/Battle of Sancre Tor/Middle Dawn 등
 
 ---
 
