@@ -190,6 +190,13 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 13:00] ingest | 3 WGT batch (3 source, ~204줄) | touched: 4 pages
+- raw 3 source: White-Gold Tower (deep) + Memory Stone + Wing of the Dragon → _ingested
+- 지명 1: white-gold-tower (deep — Ayleid 기원 + Imperial 수도 + 5 주요 사건)
+- 유물 2: memory-stone (영적 기록), wing-of-the-dragon (Dragon Cult 영적 유물)
+- 신규 link: dragons (wing-of-the-dragon)
+- 최종: 페이지 1540 → 1543, Orphan 0 유지, Broken 704 유지
+
 ## [2026-05-31 12:00] ingest | 5 race final batch (5 source, ~450줄) | touched: 8 pages
 - raw 5 source: Bretons + Cyrodilic + Dunmer + Imga + Imperial Province → _ingested
 - 종족 3: bretons (redirect to breton), dunmer (deep, 4 Great House + Aldmer-Velothi-Chimer-Dunmer 4단계 영적 변환), imga (Valenwood Aldmer 모방)

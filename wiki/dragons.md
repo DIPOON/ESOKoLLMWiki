@@ -21,3 +21,5 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Dragons.md` (6줄)
+
+- *Mortal 측 *영적 *유물: *[[wing-of-the-dragon|Wing of the Dragon]] — Akatosh Dragon Wing 형태의 영적 대응
