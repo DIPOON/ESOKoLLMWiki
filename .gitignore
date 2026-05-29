@@ -4,17 +4,15 @@
 .DS_Store
 .claude/settings.local.json
 
-# 대량 UESP dump — *미처리분만* git 추적 X
-# 처리된(ingest 완료) 파일은 raw/<폴더>/_ingested/로 이동되며 git 추적 O
-# (그래야 어떤 raw가 termbase에 흡수됐는지 reproducibility 보존)
-# 주의: 디렉토리 자체(raw/Books/)를 ignore하면 negate(!) 불가하므로
-# 내부 항목(raw/Books/*)을 ignore + _ingested/ 만 예외로 빼는 패턴 사용.
+# JetBrains IDE 개인 설정 — v2부터 추적 제외
+.idea/
+
+# 대량 UESP dump — *미처리 raw*는 git 추적 X
+# v2 정책: 처리된 source는 raw/processed/<namespace>/ 로 이동하면 자동 추적됨
+# (raw/Books/*, raw/Lore/*, raw/Online/* 패턴은 raw/processed/ 에 매칭 안 됨)
 raw/Books/*
-!raw/Books/_ingested/
 raw/Lore/*
-!raw/Lore/_ingested/
 raw/Online/*
-!raw/Online/_ingested/
 
 # 대용량 게임 텍스트 추출 (108MB)
 raw/en.lang.csv
