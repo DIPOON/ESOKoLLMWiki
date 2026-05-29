@@ -1,24 +1,27 @@
 ---
 term: Soul Gem
-target_ko: 소울젬
-target_de: 
-target_ja: 
-aliases: [Soul Gem, 소울젬]
+aliases: ["Soul Gem"]
 kind: entity
-category: 개념
+category: 유물
 status: 확정
-source_sheet: 확정됨
-source_row: 3
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Soul Gem (소울젬)
+# Soul Gem
 
-## 채택 근거
-지금 영혼석, 소울젬 으로 혼용되고있는데
-게임 내에서 소비되는 아이템인 이상
-영어 명칭 그대로 소울젬으로 가는게 맞는거 같음
+*Mortal 영혼을 *trap 가능한 *마법 *보석*. *주요 *분류:
+- *White Soul Gem (Petty/Lesser/Common/Greater/Grand) — *동물 영혼 *trap
+- *Black Soul Gem — *Mortal (지각 *Mortal) 영혼 *trap. *Mannimarco가 *Necromancer's Moon 시기 *기획.
+- *Daedric Star — *Daedric 영혼 *trap (드물)
+- *Sigil Stone — *Oblivion Gate 동력 (Mortal 영혼 *희생)
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *확정됨*, 행 3
-- 한국 ESO 커뮤니티 합의
+## Black Soul Gem
+
+*Mortal 영혼을 *trap한 *Black Soul Gem은 *Necromancer + Vampire 의례에 *주된 *재료. *영혼 *trap 후 *Mortal은 *Coldharbour Soul Cairn에 *영구 *수송 (Mannimarco·Molag Bal 의례).
+
+## Enchantment 사용
+
+*Soul Gem의 *영혼 *동력을 *Weapon·Armor에 *Enchantment 형태로 *전이*. *Mages Guild + Imperial 공식 *마법 *재료.
+
+## Source
+- `raw/Lore/Soul Gem.md` (128줄)

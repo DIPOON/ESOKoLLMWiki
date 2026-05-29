@@ -37,3 +37,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Mannimarco.md` (278줄)
+
+
+- *3E 421 *[[necromancers-moon|Necromancer's Moon]] 의례 — Mortal Moon 생성 + Mages Guild 공식 Necromancy 금지 (Hannibal Traven 시기)

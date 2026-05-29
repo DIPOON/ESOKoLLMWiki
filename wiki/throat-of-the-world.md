@@ -17,3 +17,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Throat of the World.md` (114줄)
+
+
+- *[[time-wound|Time Wound]] — Dragon War 시기 시공 균열, Last Dragonborn Dragonrend 학습 장소

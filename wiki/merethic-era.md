@@ -22,3 +22,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Merethic Era.md` (89줄)
+
+
+*([[mereth|Mereth]]로도 *호명)*

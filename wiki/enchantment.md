@@ -1,22 +1,15 @@
 ---
 term: Enchantment
-target_ko: 마법부여 효과
-target_de: 
-target_ja: 
-aliases: [Enchantment, 마법부여 효과]
+aliases: [Enchantment]
 kind: entity
 category: 개념
 status: 확정
-source_sheet: 확정됨
-source_row: 15
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Enchantment (마법부여 효과)
+# Enchantment
 
-## 채택 근거
-(명사) 인챈트할 때 쓰이는 재료
+*Soul Gem의 *영혼 *동력을 *Weapon·Armor 등 *Mortal 물품에 *영구 *부여하는 *Mages Guild 공식 *마법*. *Mortal 영혼 *동력 (Black Soul Gem) 사용은 *Necromancy 의례 *연관 → *Mages Guild 공식 *금지. *Enchantment + Soul Trap 마법 *결합.
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *확정됨*, 행 15
-- 한국 ESO 커뮤니티 합의
+## Source
+- `raw/Lore/Enchantment.md` (6줄)

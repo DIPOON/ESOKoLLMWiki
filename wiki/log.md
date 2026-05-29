@@ -190,6 +190,15 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 04:00] ingest | 7 cosmology/concept batch (8 source, ~387줄) | touched: 12 pages
+- raw 8 source: Ehlnofey + Et'Ada + Necromancer's Moon + Black Books (이미 wiki) + Enchantment + Eye of Argonia + Soul Gem + Time Wound → _ingested
+- 신성 2: ehlnofey (deep, Old + Wandering 분리), et-ada (Anu+Padomay 원초 자손)
+- 유물 3: necromancers-moon (Mannimarco 3E 421), soul-gem (Black/White/Sigil + Necromancy), eye-of-argonia (Argonian Hist 영적)
+- 지명 1: time-wound (Throat of World 시공 균열)
+- 개념 1: enchantment (Soul Gem 영혼 부여)
+- 신규 link: ehlnofey (et-ada), mannimarco (necromancers-moon), throat-of-the-world (time-wound), black-marsh (eye-of-argonia), merethic-era (mereth)
+- 최종: 페이지 1497 → 1500, Orphan 0 유지, Broken 710 유지
+
 ## [2026-05-31 03:00] lint | 15 추가 broken stub | touched: 15 stub
 - 지명 6: inner-sea (Morrowind 내해), banished-cells (Auridon Daedric 던전), evermore (High Rock), blackrose-prison (Black Marsh ESO Murkmire), thurzo-fortress, mor-khazgur (Skyrim Orc Stronghold)
 - 인물 3: raven-direnni (Direnni 마법사), pelladil-direnni (Hegemony 수장), king-laloriaran-dynar (Ayleid 마지막 King)

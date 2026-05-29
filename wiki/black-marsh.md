@@ -41,3 +41,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Black Marsh.md` (154줄)
+
+
+- *Hist 영적 *유물: *[[eye-of-argonia|Eye of Argonia]] (Argonian 고대 영적 중심)
