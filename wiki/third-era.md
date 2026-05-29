@@ -25,3 +25,6 @@ ingested_at: 2026-05-29
 
 
 - *[[mede-dynasty|Mede Dynasty]] — 4E Cyrodiil Empire 명목 황실 (Septim 후계)
+
+
+- *주요 *내전: *[[war-of-the-red-diamond|War of the Red Diamond]] (3E 121-127, Septim 후계 분쟁, Cephorus II 등극)

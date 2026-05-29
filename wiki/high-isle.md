@@ -1,23 +1,15 @@
 ---
 term: High Isle
-target_ko: 하이 아일
-target_de: 
-target_ja: 
-aliases: [High Isle, 하이 아일]
+aliases: ["High Isle"]
 kind: entity
 category: 지명
 status: 확정
+ingested_at: 2026-05-29
 ---
 
-# High Isle (하이 아일)
+# High Isle
 
-## 채택 근거
-- 한국 ESO 커뮤니티 통용 표기.
-- *Systres Archipelago의 가장 큰 섬* ([[high-rock|High Rock]] 남서 바다).
+*[[systres-archipelago|Systres Archipelago]] *주요 *섬*. *ESO High Isle DLC 무대*. *Druid Circle of the Stonelore + Circle of the Eldertide 본거지. *Bretons 본토와 *수세기 *고립. *Vastyr (수도) + Druid 영적 *전통.
 
-## 요약
-**ESO High Isle 챕터 (2022)의 무대**. *[[breton|Breton]] 귀족 휴양지*. *Druid Order 부활*. [[all-flags-navy|All Flags Navy]]의 본거지 + [[monument-island|Monument Island]] 위치.
-
-## 관련
-- [[all-flags-navy|All Flags Navy]]
-- [[druid-order|Druid Order]]
+## Source
+- `raw/Lore/High Isle.md` (92줄)

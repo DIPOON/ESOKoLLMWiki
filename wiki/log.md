@@ -190,6 +190,13 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 21:00] ingest | 5 region/event batch (5 source, ~456줄) | touched: 8 pages
+- raw 5 source: High Isle + Bergama + Torval + Velyn Harbor + War of the Red Diamond → _ingested
+- 지명 4: high-isle (Systres Druid 본거지), bergama (Alik'r Hammerfell), torval (Pellitine Khajiit Mane 수도), velyn-harbor (Valenwood)
+- 사건 1: war-of-the-red-diamond (3E 121-127 Septim 후계 내전)
+- 신규 link: elsweyr (torval), valenwood (velyn-harbor), third-era (war-of-red-diamond)
+- 최종: 페이지 1572 → 1577, Orphan 0 유지, Broken 696 유지
+
 ## [2026-05-31 20:00] ingest | 4 lore final batch (4 source, ~304줄) | touched: 8 pages
 - raw 4 source: Invocation of Azura + Plan to Defeat Dagoth Ur + Second Era Wars + University of Gwylim → _ingested
 - 책 2: invocation-of-azura (Daggerfall Azura 의례), plan-to-defeat-dagoth-ur (Tribunal Nerevarine 전략서)
