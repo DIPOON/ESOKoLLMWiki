@@ -190,6 +190,13 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 16:00] ingest | 9 Khajiit pantheon batch (9 source, ~95줄) | touched: 11 pages
+- raw 9 source: Hermorah + Khenarthi + Mafala + Magrus + Merrunz + Molagh + Noctra + Sangiin + Sermons → _ingested
+- 신성 8 (Khajiit Pantheon Aedric 대응): khenarthi (Kynareth, 62줄 deep), hermorah (Hermaeus Mora), mafala (Mephala), magrus (Magnus Sun-Cat), merrunz (Mehrunes Dagon), molagh (Molag Bal), noctra (Nocturnal), sangiin (Sanguine)
+- 개념 1: sermons (Tamriel 주요 Sermon 모음)
+- 신규 link: khajiit-religion (khenarthi + sangiin), 36-lessons-of-vivec (sermons)
+- 최종: 페이지 1548 → 1557, Orphan 0 유지, Broken 703 유지
+
 ## [2026-05-31 15:00] ingest | 3 culture final batch (3 source, ~12줄) | touched: 5 pages
 - raw 3 source: Crown + Forebear + Indoril → _ingested
 - 진영 3: crown (Hammerfell Akaviri-Yokudan 전통), forebear (Sentinel Imperial 친화), indoril (Tribunal Temple + Ordinator + Buoyant Armiger)

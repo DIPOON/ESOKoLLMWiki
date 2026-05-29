@@ -1,5 +1,5 @@
 ---
-name: "Noctra"
+term: Noctra
 aliases: [Noctra]
 kind: entity
 category: 신성
@@ -9,6 +9,7 @@ ingested_at: 2026-05-29
 
 # Noctra
 
-*[[khajiit|Khajiit]] 신화상 *[[nocturnal|Nocturnal]]의 *형태 (또는 *별개 *영혼)*. *[[lorkhaj|Lorkhaj]]의 *Dark Heart 검은 *피에서 *Void Gate 계단에 *탄생*. *[[boethra|Boethra]]가 *결투 → *"Namiira 아님" 자각 → *[[azurah|Azurah]] 심판 → *Khajiit 봉사 조건 *생존*. *반항 — *Azurah의 *[[skeleton-key|Skeleton Key]] 훔쳐 *Void *도주*. *Khajiit 부족에 *luck·darkness·silent movement *제공 *합의*.
+*Khajiit Pantheon의 *Shadow·Luck *신*. *[[nocturnal|Nocturnal]]의 *Khajiit 대응. *Khajiit Mortal의 *비밀·운·도둑의 *영적 *후원. *Twilight Sepulcher의 *Khajiit 측 *대응.
 
-*Bladesongs of Boethra III*: *Skeleton Key를 *자기에게 *사용 → *shadow와 *cloth의 *cloak으로 *변모 → *Aether Prism 보호*. *"not Namiira at last" 선언*.
+## Source
+- `raw/Lore/Noctra.md` (4줄)

@@ -56,3 +56,6 @@ Vivec의 핵심 말: *"For I have crushed a world with my left hand, but in my r
 
 ## 출처
 - `raw/Lore/_ingested/36 Lessons of Vivec, Sermon 1.md`
+
+
+*(36 Lessons는 Tamriel 주요 [[sermons|Sermons]] 모음 중 Vivec 정통 교본)*
