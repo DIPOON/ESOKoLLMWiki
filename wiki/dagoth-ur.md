@@ -1,29 +1,35 @@
 ---
-name: "Dagoth Ur (다고스 우르)"
-aliases: [Dagoth Ur, 다고스 우르, Voryn Dagoth, "Sharmat", "Sixth House Lord"]
+term: Dagoth Ur
+aliases: ["Dagoth Ur", "Voryn Dagoth", "Lord Dagoth", Sharmat, "Sixth House Lord"]
 kind: entity
 category: 인물
 status: 확정
 ingested_at: 2026-05-29
-related: [house-dagoth, nerevar, tribunal, heart-of-lorkhan, kagrenacs-tools, red-mountain, nerevarine, sotha-sil, mechanical-heart]
 ---
 
-# Dagoth Ur (다고스 우르)
+# Dagoth Ur
 
-본명 **Voryn Dagoth**. *[[nerevar|Nerevar]]의 *오랜 *친구이자 *House Dagoth의 *수장*. *[[battle-of-red-mountain|Battle of Red Mountain]]에서 *[[heart-of-lorkhan|Heart of Lorkhan]]을 *수호*. *Sixth House의 *교주로 *각성하여 *Morrowind에 *Blight (Corprus)* 퍼뜨림*. *Morrowind 본편 *최종 보스*.
+*1E *[[house-dagoth|House Dagoth]] *Voryn Dagoth*. *Battle of Red Mountain 후 *Tribunal과 *결별하여 *Red Mountain 안에 *수면*. *3E 시기 *Heart of Lorkhan 일부 *회수로 *부활 → *Sixth House Cult 결성·Vvardenfell 위협 *대장*. *Nerevarine 처치 *대상.
 
-## 2E 882 — Tribunal 차단 사건
+## 1E Battle of Red Mountain
 
-*Dagoth Ur가 *각성*하여 *[[tribunal|Tribunal]]의 *Red Mountain 연례 *순례를 *기습 + 거의 살해*. **결과**: 
+*Indoril Nerevar의 *친구·동료 *Voryn Dagoth이 *Battle of Red Mountain 후 *Nerevar 시신을 *Heart 챔버에서 *지킴 *(또는 *Tribunal에 *Heart 사용을 *반대)*. *Tribunal과 *결별 후 *Red Mountain 안 *6000년 *수면.
 
-1. *Tribunal이 *Heart of Lorkhan에서 *신성 갱신 *영구 차단*
-2. *[[kagrenacs-tools|Kagrenac's Tools]] 탈취*
-3. *Tribunal 신성 *서서히 *감소 시작*
-4. *[[sotha-sil|Sotha Sil]]이 *[[mechanical-heart|Mechanical Heart]] 개발 *착수*
-5. *결국 [[almalexia|Almalexia]] 광기 → *Sotha Sil 살해 → *Tribunal 종결의 *연쇄*
+## 3E 부활 + Sharmat 자칭
 
-즉 **Dagoth Ur의 2E 882 기습이 *Tribunal 종결의 *근본 *원인***. *직접 *Tribunal 죽이지는 *못했으나 *그들의 *신성 동력을 *차단하여 *수백 년에 걸쳐 *부식시킴*.
+*Voryn Dagoth → Dagoth Ur (Sharmat = *False Prophet *호의 *반대) → *Red Mountain 안 *Heart 회수 *시도 + Sixth House Cult 전염 *(Corprus 질병으로 *Sleeper → Dreamer → Ash Vampire 변환)*. *Akulakhan (Numidium 모방 *기계 *신) 제작 *시도.
 
-## 3E 427 — Nerevarine
+## Ash Vampire 6
 
-*[[nerevarine|Nerevarine]] 예언 성취* → *Nerevarine이 *Kagrenac's Tools 회수* → *Heart of Lorkhan 파괴* → *Dagoth Ur·Tribunal 신성 *모두 *영구 *상실*. *Morrowind 본편 결말*.
+*Dagoth Ur의 *영원한 *형제·동료 *6 (Voryn 본인 + Dagoth Gares·Dagoth Ulen·Dagoth Tureynul·Dagoth Endus·Dagoth Vemyn·Dagoth Odros)이 *Corprus의 *영원한 *불멸 형태 *Ash Vampire로 *변환.
+
+## 처치 (3E 427)
+
+*Nerevarine이 *Heart 챔버 도달 → *Sunder + Keening + Wraithguard 3 *Dwemer 도구로 *Heart 파괴 → *Dagoth Ur + 6 *Ash Vampire 사망 + Tribunal Magicka 상실 시작.
+
+## 평가
+
+*Dagoth Ur = *Morrowind 영적·정치 *위협의 *3E *주된 *적*. *원래 *Nerevar 친구의 *비극*. *Sharmat (False Prophet) — *Nerevarine과의 *대칭적 *역할.
+
+## Source
+- `raw/Lore/Dagoth Ur.md` (222줄)

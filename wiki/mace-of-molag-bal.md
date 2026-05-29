@@ -1,6 +1,6 @@
 ---
-name: "Mace of Molag Bal"
-aliases: ["Mace of Molag Bal"]
+term: Mace of Molag Bal
+aliases: ["Mace of Molag Bal", "Vampire's Mace"]
 kind: entity
 category: 유물
 status: 확정
@@ -9,6 +9,7 @@ ingested_at: 2026-05-29
 
 # Mace of Molag Bal
 
-*[[molag-bal|Molag Bal]]의 *대표 *Daedric *Mace*. *Daedric Artifact 16 중 하나*. **영혼 + 마법 *흡수 + Soul Trap 효과**. *Bal의 *Domination·Brutality의 *물리적 *형상*. *대형 *spike + 검은 *철*.
+*[[molag-bal|Molag Bal]]의 *Daedric Artifact*. *Mace 형태. *대상의 *영혼 *흡수 + Vampire 영혼 *Black Soul Gem에 *trap. *Skyrim 4E *Markarth Boethiah Cult 사건과 *연관 *(또는 *수년 *동안 *수많은 *Vampire에 *전달).
 
-*수많은 *수여 사례*: *3E Hero of Daggerfall, *4E 201 Last Dragonborn (Markarth Logrolf the Willful 처치 후).
+## Source
+- `raw/Lore/Mace of Molag Bal.md` (40줄)

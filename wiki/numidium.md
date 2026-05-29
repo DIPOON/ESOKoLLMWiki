@@ -1,38 +1,31 @@
 ---
-name: Numidium
-aliases: [Numidium, "Brass God", "Walking Brass God", "Antipodal God-Thing"]
+term: Numidium
+aliases: [Numidium, "Brass God", Walk-Brass, "Brass Tower"]
 kind: entity
 category: 유물
 status: 확정
 ingested_at: 2026-05-29
-related: [dwemer, kagrenacs-tools, heart-of-lorkhan, tiber-septim, clockwork-apostles, sotha-sil]
 ---
 
-# Numidium — *Brass God*
+# Numidium
 
-[[dwemer|Dwemer]]의 *최대 작품*. *Lord [[kagrenac|Kagrenac]]이 *[[heart-of-lorkhan|Heart of Lorkhan]]을 *동력원*으로 *제작한 *거대 *기계 거인 신*. *Mer-Made God*. *훗날 *[[tiber-septim|Tiber Septim]]이 *사용해 *제3제국 *통일*.
+*Dwemer가 *Heart of Lorkhan 동력으로 *제작한 *거대 *Brass 골렘*. *Anti-Aedric 무기 (Aedra 처치 가능)*. *1E *Battle of Red Mountain 사건의 *직접 *원인. *3E *Tiber Septim의 *Aldmeri Dominion 굴복 *도구.
 
-## Clockwork Apostles의 평가
+## Dwemer 제작 (1E 668경)
 
-[[clockwork-apostles|Clockwork Apostles]] 신학 ([[truth-in-sequence|The Truth in Sequence]])에서 **최대 위협**:
+*[[kagrenac|Kagrenac]]가 *Heart of Lorkhan 동력으로 *Numidium 제작*. *목적 *논쟁: Dwemer를 *Tonal Architecture로 *Aedric 형태 *변환 + Mundus 탈출 + 또는 *Lorkhan에 대한 *복수의 *Anti-Aedric 무기*. *Battle of Red Mountain 시기 *작동 미완성.
 
-- *"walking horror"*
-- *"Antipodal God-Thing"*
-- *"reigns over the darkest pole of the sacred Nirn-Sphere"*
-- *"welded knot at the center of Anu that must be untied"*
+## Tiber Septim 사용 (2E 854)
 
-*Aios (Clockwork City 감독 Factotum)*도 *2E에 *Numidium을 *존재론적 *위협 *1순위로 *지목*.
+*Tiber Septim이 *Vivec과의 *Armistice로 *Numidium 받음 → *Wulfharth (Underking) 영혼을 *Mantella에 *trap → *Mantella를 *Numidium 동력으로 *Aldmeri Dominion 굴복 → *Tamriel 통일.
 
-이유: *Numidium은 *Apostle 신학의 *대척점에 *있는 *Dwemer 유산의 *극치*. *Apostle이 *Tamriel Final로 *Anu 통일성 회복*을 *추구한다면*, *Numidium은 *Dwemer의 *Multitudes 외침의 *물리적 *구현*. *Anu의 *완성을 *기계적으로 *방해하는 *존재*.
+## Warp in the West (3E 417)
 
-## 역사 (대강)
+*3E 405 *Mantella 회수 *시도로 *Numidium *Iliac Bay 지역에서 *4 *왕국 *(Daggerfall·Wayrest·Sentinel·Orsinium)에 *동시 *발현 → *Dragon Break (모든 *결과 동시 *현실) 발생*. *Eternal Champion II Daggerfall 게임의 *결말.
 
-- *Dwemer 시대*: Kagrenac 설계, *Heart of Lorkhan 동력화 시도*. *Battle of Red Mountain에서 *Dwemer 절멸*.
-- *3E 후반*: [[tiber-septim|Tiber Septim]]이 *[[zurin-arctus|Zurin Arctus]] 등과 *조립·사용하여 *제3제국 *통일*. *Dragon Break (Warp in the West) 발생*.
-- *4E*: 행방 *불명*. *조각 산재*.
+## 평가
+
+*Numidium = *Tamriel 정치·신학 *가장 *강력한 *유물*. *Anti-Aedric 무기 사용이 *Walking Ways 일부 *(Mantling: Dwemer가 *Aedric 형태 *Mantle).
 
 ## Source
-
-- [[clockwork-apostles|Clockwork Apostles]] cascading
-- [[truth-in-sequence|The Truth in Sequence]] cascading
-- *raw/Lore/Numidium.md* (미처리 — 다음 cycle)
+- `raw/Lore/Numidium.md` (77줄)

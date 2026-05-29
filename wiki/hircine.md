@@ -87,7 +87,7 @@ related: [daedric-princes, coldharbour-compact, hunting-grounds, werewolf, lycan
 - **Spear of Bitter Mercy** — 대표 유물. Alrabeg 사용. *Sheogorath이 *한때 *훔침 (Nerevarine에 수여)
 - **Spear of the Hunter** — Alrabeg 대체 무기
 - **[[savior-hide|Savior's Hide]]** — *Lycanthrope 가죽 armor*. *Daedric Artifact 16 중 하나*. *Hero of Kvatch에 *수여
-- **Ring of Hircine** — *Werewolf 변환 *제어 ring
+- **[[ring-of-hircine|Ring of Hircine]]** — *Werewolf 변환 *제어 ring
 - **Totem of Claw and Fang** — Hrokkibeg
 - **Wolf Skull Totem** — Storihbeg
 - **Wand of Bone** — Gulibeg (Lorkh 갈비)

@@ -1,30 +1,23 @@
 ---
-name: Trueflame
-aliases: [Trueflame, "Blade of Nerevar"]
+term: Trueflame
+aliases: [Trueflame, "Sword of Nerevar"]
 kind: entity
 category: 유물
 status: 확정
 ingested_at: 2026-05-29
-related: [nerevar, almalexia, hopesfire, dumac, dwemer, battle-of-red-mountain, nerevarine]
 ---
 
-# Trueflame — *Blade of Nerevar*
+# Trueflame
 
-[[hopesfire|Hopesfire]]의 *쌍둥이*. *[[dwemer|Dwemer]] 1E *one-handed *sword*. *Unearthly *fire enchantment*. *[[dumac|Dumac Dwarfking]]이 *[[nerevar|Nerevar]]·[[almalexia|Almalexia]] *결혼 선물로 *증정*.
+*1E *Chimer 영웅 *[[indoril-nerevar|Indoril Nerevar]]의 *불 검*. *Battle of Red Mountain에서 *3 *조각으로 *깨짐*. *3E 427 *Nerevarine이 *Mournhold·Bamz-Amschend·Norenen-dur에서 *조각 *회수 + 재단조*. *Almalexia가 *유물 *집착·광기.
 
-## Battle of Red Mountain (1E 668)
+## 재조립 + Almalexia 광기
 
-[[battle-of-red-mountain|Battle of Red Mountain]] 중 *깨짐*. *조각이 *Tamriel 전역에 *흩어짐*.
+*Nerevarine이 *Trueflame 재조립 후 *Almalexia가 *영적 *집착으로 *유물 *요구 → *Nerevarine 처치 *시도 → *Nerevarine이 *Trueflame로 *Almalexia 처치 (3E 427 Tribunal DLC 결말)*. *Tribunal 신성도 *몰락의 *극단적 *상징.
 
-## 3E 427 — 재조립
+## 평가
 
-*[[nerevarine|Nerevarine]]이 *조각 *수집·재주조* — *Hortator·Nerevarine 신원의 *상징*. *Dagoth Ur 격파의 *주 무기*.
-
-## Hopesfire와의 *상징
-
-*Hopesfire (Almalexia) + Trueflame (Nerevar)* = *Chimer-Dwemer 동맹의 *물리적 *결정체*. *결혼 선물 + Nerevar 사망 후 *분리됨*. *둘 다 *Nerevarine 시기까지 *남음*.
+*Trueflame = *Nerevar 영웅 유물의 *3E 427 *재발현*. *Almalexia 광기의 *직접 *원인. *Tribunal 신성 *몰락의 *Mortal 무기.
 
 ## Source
-
-- `raw/Lore/Hopesfire.md` (Trueflame 언급)
-- *raw/Lore/Trueflame.md* (미처리 — 후속 cycle)
+- `raw/Lore/Trueflame.md` (34줄)

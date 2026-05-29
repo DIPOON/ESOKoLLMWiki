@@ -98,7 +98,7 @@ Varieties of Faith: *Sheogorath = *"the [[sithis|Sithis]]-shaped hole" — *[[lo
 ## 유물
 
 - **[[wabbajack|Wabbajack]]** — *대표 *staff*. *대상을 *랜덤 *생물·물건으로 *변환*. *Daedric Artifact 16 중 하나*.
-- **Spear of Bitter Mercy** — *Morrowind 3E 427 Nerevarine 수여 (Fork of Horripilation 임무)
+- **[[spear-of-bitter-mercy|Spear of Bitter Mercy]]** — *Morrowind 3E 427 Nerevarine 수여 (Fork of Horripilation 임무)
 - **Fork of Horripilation** — *광기의 *fork
 - **Cold Finger** — *staff, *Dervenin·Giant Skeever 이야기
 - **Folium Discognitum** — *Shalidor가 *Eyevea를 *건 *책

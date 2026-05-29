@@ -1,6 +1,6 @@
 ---
-name: "Hero of Kvatch"
-aliases: ["Hero of Kvatch", "Champion of Cyrodiil", "Champion of the Septim Dynasty"]
+term: Hero of Kvatch
+aliases: ["Hero of Kvatch", "Champion of Cyrodiil", "Champion of Tamriel", Madgod]
 kind: entity
 category: 인물
 status: 확정
@@ -9,8 +9,19 @@ ingested_at: 2026-05-29
 
 # Hero of Kvatch
 
-*Oblivion Crisis (3E 433)의 *주인공 *총칭*. *Kvatch (Mehrunes Dagon이 *침공한 *첫 도시) *해방 후 *Champion 칭호*. **Martin Septim과 함께 *Oblivion Gate 봉인 + Mehrunes Dagon 격퇴*** → *Septim Dynasty 종결 (Martin 희생)*.
+*3E 433 *Oblivion Crisis의 *Imperial 측 *영웅*. *Imperial City Prison 출신*. *Uriel Septim VII의 *마지막 *지령으로 *Amulet of Kings 운반·Martin Septim 발견. *후에 *Sheogorath 후계자 → *Madgod로 *변환.
 
-이후 *Shivering Isles 침공 → **[[sheogorath|Sheogorath]] *mantling으로 *[[jyggalag|Jyggalag]] 격파 + Greymarch 종결*** — *Walking Ways의 *대표 *Mortal 사례*. *4E *현재 *Sheogorath = Hero of Kvatch *후계 (Mantle 지속)*.
+## Oblivion Crisis (3E 433)
 
-*수많은 *Daedric Artifact 수집*: Wabbajack, Goldbrand, Ebony Blade, Spell Breaker, Volendrung, Skeleton Key, Sanguine Rose, Mace of Molag Bal 등.
+*Uriel Septim VII 암살 *현장에서 *우연히 *탈출 → *Amulet of Kings 운반 → *Kvatch 도착 → *Kvatch Oblivion Gate 닫기 → *Sheogorath 사원 *Martin Septim 발견 → *Mythic Dawn 처치 → *Bruma 방어 → *Camoran 처치 → *Martin Septim Amulet 깨뜨려 *Akatosh Avatar로 *Mehrunes Dagon 격퇴.
+
+## Madgod — Sheogorath 후계자
+
+*Oblivion DLC Shivering Isles에서 *Hero of Kvatch가 *Sheogorath의 *Greymarch 격퇴 → *Sheogorath의 *(Jyggalag 변환 *전 *원래 *Sheogorath) *후계자가 *되어 *새 *Sheogorath로 *Apotheosis*. *Walking Ways의 *현대 *사례.
+
+## 평가
+
+*Hero of Kvatch = *Septim Dynasty 종식 + Sheogorath 신성 *후계 *2 *역사적 *역할*. *Oblivion 게임의 *주인공.
+
+## Source
+- `raw/Lore/Hero of Kvatch.md` (130줄)

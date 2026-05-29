@@ -190,6 +190,14 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 08:00] ingest | 24 hero·artifact batch (24 source, ~1772줄) | touched: 25 pages
+- raw 24 source 처리 + black-book + 6 Five Companions/Vestige 신규
+- ESO Five Companions + Vestige 7: vestige, lyris-titanborn, sai-sahan, the-prophet, abnur-tharn, cadwell + ESO 메인 퀘스트 종합
+- 게임 영웅 5: nerevarine (Azura Seven Visions + Heart 파괴), hero-of-kvatch (Madgod 후계자), last-dragonborn (다중 역할 + Alduin 처치), champion-of-cyrodiil, eternal-champion (Arena/3E 389), dagoth-ur (Voryn → Sharmat 6 Ash Vampire)
+- 핵심 유물 13: numidium (Brass God + Warp in the West), wabbajack, skeleton-key, trueflame (Almalexia 광기 처치), volendrung (Hammerfell 연원), mehrunes-razor, ebony-blade (Mephala 친구 흡수), eye-of-magnus, ring-of-hircine, spear-of-bitter-mercy, mace-of-molag-bal, sanguine-rose, black-books (기존 페이지 갱신·중복 black-book.md 삭제)
+- hermaeus-mora·miraak·hircine·sheogorath·sanguine·magnus·mehrunes-dagon·winterhold에 신규 wikilink 삽입
+- 최종: 페이지 1244 → 1268 (1 중복 삭제 후), Orphan 0 유지, Broken 880
+
 ## [2026-05-30 07:00] ingest | 29 cities batch (29 source, ~3489줄) | touched: 29 pages
 - raw 29 source 처리 (3 batch: Cyrodiil 9 + Skyrim 9 + Morrowind 6 + High Rock/Hammerfell 3 + Valenwood/Summerset 2)
 - Cyrodiil 9: imperial-city (White-Gold Tower), bruma (Oblivion Crisis Great Gate), anvil (Yokudan), skingrad (Vampire 백작), cheydinhal (Dark Brotherhood), chorrol (Fighters Guild), kvatch (Oblivion 첫 Gate), leyawiin (Blackwood Company), bravil (Lucky Old Lady)

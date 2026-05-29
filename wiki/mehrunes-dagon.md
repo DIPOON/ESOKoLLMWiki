@@ -88,7 +88,7 @@ related: [daedric-princes, house-of-troubles, deadlands, mythic-dawn, mankar-cam
 2. *[[amulet-of-kings|Amulet of Kings]] 도난
 3. *Tamriel 전역에 *Oblivion Gates *오픈 — *Kvatch (첫 도시), 이후 *모든 *Imperial 도시
 4. *Hero of Kvatch가 *Martin Septim (Uriel의 *비밀 *서자) *발견·보호
-5. *Daedric Princes *유물 *수집 (Champion of Cyrodiil)
+5. *Daedric Princes *유물 *수집 ([[champion-of-cyrodiil|Champion of Cyrodiil]])
 6. *Mankar Camoran의 *Paradise 진입 → *Camoran 처치 + Amulet 회수
 7. *Martin이 *Akatosh 화신 mantling → *Mehrunes Dagon *Mundus 추방*. *Septim Dynasty *종결*.
 

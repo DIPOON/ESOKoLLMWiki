@@ -1,29 +1,34 @@
 ---
-name: "Nerevarine — Nerevar의 환생"
-aliases: [Nerevarine, the Nerevarine]
+term: Nerevarine
+aliases: [Nerevarine, "Nerevar Reborn", "Indoril Nerevar Reborn", Hortator, Incarnate]
 kind: entity
 category: 인물
-source_uesp: "UESP: Lore:Nerevarine"
-ingested_at: 2026-05-28
+status: 확정
+ingested_at: 2026-05-29
 ---
 
-# Nerevarine (네레바린)
+# Nerevarine
 
-## 요약
-**[[nerevar|Indoril Nerevar]]의 *환생/incarnate***. *TES3 Morrowind의 *플레이어 캐릭터*. *Azuran 예언* — *그가 Tribunal 신앙을 끝내고 [[dagoth-ur|Dagoth Ur]] 처치*하리라.
+*1E *[[indoril-nerevar|Indoril Nerevar]] (1E *Chimer 영웅·Tribunal 동료)의 *3E 427 *환생*. *Azura의 *예언으로 *[[ashlanders|Ashlanders]] 4 *부족이 *수호*. *3E 427 *Vvardenfell에서 *Dagoth Ur·Heart 처치의 *주역. *Morrowind 게임의 *주인공.
 
-[[36-lessons-of-vivec-sermon-37|Sermon 37 (C0DA)]]: *Nerevar가 inconstant faces 입고 통치하다가 *apocalypse*에 이른다*는 미래 환영.
+## Azura의 *예언 — Seven Visions
 
-## 핵심
-- *TES3 Morrowind 메인 퀘스트의 *주인공 정체*.
-- *Tribunal 신성 종말의 *촉발자*.
+*Azura가 *Nerevar 환생을 *예언:
+1. *Nerevarine은 *Outlander로 *등장
+2. *Moon and Star (Nerevar 반지) 착용
+3. *Chimer/Dunmer 4 Great House Hortator로 *인정
+4. *Ashlanders 4 부족 *Nerevarine으로 *인정
+5. *Sixth House Dagoth Ur 처치
+6. *Heart of Lorkhan 파괴
+7. *Dunmer 외세 통치 *해방
 
-## Almalexia에 의한 조작 — Sotha Sil 죽음의 도구
+## Heart 파괴 (3E 427)
 
-*3E 427* [[almalexia|Almalexia]]가 *Nerevarine을 *조작해 *[[barilzars-mazed-band|Barilzar's Mazed Band]] 회수 *유도*. *Almalexia가 *그 반지를 *사용해 *[[clockwork-city|Clockwork City]] 진입하여 *[[sotha-sil|Sotha Sil]] 살해*. 이후 *Sotha Sil fabricant을 *[[mournhold|Mournhold]]에 *풀어 혼란* → *Nerevarine을 *Clockwork City로 *유인해 *"Sotha Sil 죽인 *책임을 *덮어씌움"*.
+*Nerevarine이 *Red Mountain 안의 *Heart 챔버 도달 → *Sunder + Keening + Wraithguard 3 *Dwemer 도구로 *Heart 파괴 → *Dagoth Ur 사망 + Tribunal 신성도 *Magicka 상실 *시작*. *Nerevarine은 *3E 시기 *Morrowind 영적 *완전 *재편의 *주역.
 
-**Nerevarine이 *Clockwork City에서 *Sotha Sil 시신을 *발견 + Almalexia의 *거짓 *알아챔* → *돌아와 *Almalexia 처치***. *Tribunal 신성 *완전 *종결*.
+## 4E 사라짐
 
-## 출처
-- UESP: Lore:Nerevarine
-- [[almalexia|Almalexia]], [[sotha-sil|Sotha Sil]], [[clockwork-city|Clockwork City]] cascading
+*Nerevarine은 *3E 433 *Akavir 탐험·Tang Mo·Tsaesci 등 *동방 *모험 *기록 후 *4E *사라짐*. *Tamriel 영웅 *전통 *순환 (Vestige·Hero of Kvatch·Last Dragonborn 등 *각 *시대의 *영웅 *예시).
+
+## Source
+- `raw/Lore/Nerevarine.md` (122줄)

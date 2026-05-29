@@ -29,7 +29,7 @@ ingested_at: 2026-05-29
 
 ## 3E 433 — Hero of Kvatch
 
-*Sanguine이 *Hero에게 *연회 침공 *임무 → *Sanguine Rose 수여*. *대규모 *오크 *연회 *파괴.
+*Sanguine이 *Hero에게 *연회 침공 *임무 → *[[sanguine-rose|Sanguine Rose]] 수여*. *대규모 *오크 *연회 *파괴.
 
 ## 4E 201 — Skyrim Whiterun
 
