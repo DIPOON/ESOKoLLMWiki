@@ -190,6 +190,10 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 19:00] lint | 15 broken link 추가 stub | touched: 15 stub
+- elder-scrolls (Throat of World Time-Wound), middle-dawn (1E 1200 Marukhati Dragon Break), great-war (4E 171-175 Aldmeri vs Cyrodiil), minotaur (Belharza 후예), ogre, xivilai (Lesser Daedra), silver-dawn (Vampire 사냥), ja-khajay (Lunar Lattice redirect), the-shouts (Thu'um redirect), systres-archipelago (High Isle), atrius-building-commission (Balmora), malabal-tor + southpoint (Valenwood), morgiah (Barenziah 딸), eadwyre (Wayrest 왕)
+- 페이지 1391 → 1406, Orphan 0, Broken 774 → 759
+
 ## [2026-05-30 18:00] lint | 20 broken link 상위 stub + linter regex 수정 | touched: 20 stub + linter
 - /tmp/lint_links.py LINK regex 수정: 마크다운 테이블 escape (\|) 처리 → false-positive broken/orphan 해소
 - 가장 자주 broken되는 주요 노드 20 stub 작성:
