@@ -13,3 +13,8 @@ created_at: 2026-05-29
 
 *Ehlnofex* = *그들의 *언어* — *모든 Tamrielic 언어의 *조상*.
 
+
+
+## Merethic Era
+
+*Ehlnofey 후예 *Mer가 *Tamriel 정착한 *시기를 *[[mereth|Merethic Era]]로 *명명.

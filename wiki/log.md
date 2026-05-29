@@ -190,6 +190,15 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 15:00] ingest | 19 NPC·history batch (21 source, ~1010줄) | touched: 28 pages
+- raw 21 source 처리. 인물·황제·문화 정리:
+- Dunmer 정치 4: barenziah (Tiber Septim과 관계 + 4E 생존), helseth (Hlaalu 왕 + Argonian 노예 폐지), divayth-fyr (4000+세 Telvanni + Corprusarium), yagrum-bagarn (Dwemer 유일 생존자)
+- Mer/Yokudan 영웅 4: vanus-galerion (Mannimarco 원수), frandar-hunding (HoonDing 화신 Book of Circles), hira (Yokuda Hunding 라이벌), camoran-usurper (Wild Hunt 군대)
+- Imperial 황제·정치 5: cuhlecain (Hjalti 첫 주군), pelagius (Septim 명칭 4 Pelagius), pelagius-iii (Mad Pelagius + Sheogorath Pelagius's Mind), katariah (Dunmer 황후), akaviri-potentate (Versidue-Shaie + Savirien-Chorak)
+- NPC·사건·유물 6: tar-meena (Mythic Dawn 학자), crassius-curio (Hlaalu Council), selene (Skyrim 동료), argonian-invasion (4E 5-6), crown-of-verity (High Rock 왕관), mereth (Merethic Era)
+- 신규 link: an-xileel (argonian-invasion), great-house-hlaalu (crassius-curio), tiber-septim (cuhlecain), barenziah (helseth), akaviri-potentate (tar-meena), camoran-usurper (hira), pelagius (katariah), ehlnofey (mereth), last-dragonborn (selene), daggerfall-covenant (crown-of-verity), morrowind+house-dres (argonian-invasion), septim+sheogorath (pelagius)
+- 최종: 페이지 1370 → 1389, Orphan 0 유지, Broken 855
+
 ## [2026-05-30 14:00] ingest | 17 lore concept·character·event batch (17 source, ~1082줄) | touched: 22 pages
 - raw 17 source: Kamal·Po Tun·Septim·Tsaesci·Wulfharth·Akulakhan·Almsivi·Anuad·Cyrodiilic·Knahaten Flu·Knights of the Nine·Mantella·Moon Sugar·Skooma·Underking·Warp in the West·Whirling School → _ingested
 - Akavir 종족 3: kamal (Stonefalls 침공), po-tun (Tiger-Dragon), tsaesci (Snake-People/Dragonguard 후예) — sotha-sil 이미 처리

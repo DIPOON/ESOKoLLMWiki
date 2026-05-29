@@ -13,7 +13,7 @@ ingested_at: 2026-05-29
 
 ## 기원
 
-*원래 *Breton·Nord 혼혈 *Hjalti Early-Beard* (Bretons는 *그를 *Hjalti, Nord는 *Talos로 부름)*. *전사로 시작*. *Imperial Battlemage Zurin Arctus의 *조언*.
+*원래 *Breton·Nord 혼혈 *Hjalti Early-Beard* (Bretons는 *그를 *Hjalti, Nord는 *Talos로 부름)*. *2E 854 *Cyrodiil 통일 *직전 *[[cuhlecain|Cuhlecain]] 장군의 *주군 아래 *Hjalti의 *Cyrodiil 첫 *주군*. *Sancre Tor 사건 후 *Hjalti = Tiber Septim 가명으로 *Empire 직접 *통치*. *Imperial Battlemage Zurin Arctus의 *조언*.
 
 ## Numidium 사용
 

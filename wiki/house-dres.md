@@ -13,9 +13,9 @@ ingested_at: 2026-05-29
 
 ## Plantation 경제
 
-*House Dres 영지는 *Tamriel *최대 *plantation 농장*. *Argonian 노예 *대규모 *사용*. *Black Marsh 인근 *지리가 *Argonian 약탈 *용이*. *4E *Argonian 침공의 *최대 *피해 House.
+*House Dres 영지는 *Tamriel *최대 *plantation 농장*. *Argonian 노예 *대규모 *사용*. *Black Marsh 인근 *지리가 *Argonian 약탈 *용이*. *4E *[[argonian-invasion|Argonian 침공]]의 *최대 *피해 House.
 
-## Argonian 침공 (4E 5-6)
+## [[argonian-invasion|Argonian 침공]] (4E 5-6)
 
 *3E 433 *Red Year + Oblivion Crisis 후 *약화된 *Morrowind를 *Argonian An-Xileel 정부가 *침공*. *House Dres가 *주된 *복수 *대상*. *Tear 지역 *대부분 *파괴*. *House Dres 사실상 *몰락.
 

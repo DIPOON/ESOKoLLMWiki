@@ -19,7 +19,7 @@ ingested_at: 2026-05-29
 
 - **[[hlaalu-helseth|King Hlaalu Helseth]]** — *3E *Morrowind *왕*. *[[barenziah|Barenziah]] 아들. *Tribunal Temple 후원에서 *Hlaalu 우위 시기.
 - **[[barenziah|Queen Mother Barenziah]]** — Hlaalu 모계
-- **Crassius Curio** — Council 멤버 (3E 427)
+- **[[crassius-curio|Crassius Curio]]** — Council 멤버 (3E 427)
 
 ## 4E 몰락
 

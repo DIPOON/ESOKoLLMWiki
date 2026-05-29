@@ -38,7 +38,7 @@ ingested_at: 2026-05-29
 - **3E 414 — Vvardenfell 식민 개방**
 - **3E 427 — Nerevarine + Tribunal 종결**
 - **4E 5 — Red Year** — Vvardenfell 파괴
-- **4E 6 — Argonian 침공** — Mournhold 함락
+- **4E 6 — [[argonian-invasion|Argonian 침공]]** — Mournhold 함락
 - **4E — New Temple + Reclamations**
 
 ## 5 Great Houses

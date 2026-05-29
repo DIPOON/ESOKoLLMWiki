@@ -1,0 +1,41 @@
+# Lore:Selene
+
+<!-- UESP / ns 130 / dump 2026-03-13 -->
+
+<noinclude>{{Lore People Summary
+|race=Changeling
+|gender=Female
+|appears=[[Online:Selene|ESO]]
+|image=ON-render-Selene 02.jpg
+|fullimgdesc=Selene}}</noinclude>
+[[Lore:Selene|Selene]] is a [[Lore:Changeling|Changeling]], a rare forest spirit found in [[Lore:Valenwood|Valenwood]]. She is also a powerful sorceress and the High Priestess of [[Lore:Shagrath|Shagrath]], the Goddess of Spiders. She possesses the ability to shapeshift, which she has been witnessed using to take the form of a giant [[Lore:Spider|spider]] and a female humanoid.{{ref|[[Online:Selene|Selene]] in [[ESO:ESO|ESO]]}} Her domain is known as [[Lore:Selene's Web|Selene's Web]] and her followers know her as the '''Forest Mother'''.{{Ref|name=lONngclaw|[[Online:Longclaw|Longclaw]]'s dialogue in [[Online:Online|ESO]]}}<noinclude>
+
+==History==
+===Dawn Era===
+Originally, Selene was a reclusive forest spirit who had done nothing to harm mortals. Time meant little to her, and it is believed that she is a remnant of the [[Lore:Dawn Era|Dawn Era]] who was never given a concrete form by [[Lore:Y'ffre|Y'ffre]], thus making her one of the earliest creatures of [[Lore:Nirn|Nirn]].{{ref|name=MtCS|{{Cite Book|Meet the Character - Selene}}}}
+
+===Second Era===
+{{Quote Box|''I am a... spirit. A being of the ancient forest. Some call my kind Changelings.''|Selene}}
+In the early [[Lore:Second Era|Second Era]], the Great Mage [[Lore:Vanus Galerion|Vanus Galerion]] attempted to set up the first continental branch of the newly-formed [[Lore:Mages Guild|Mages Guild]] in the [[Lore:Bosmer|Bosmer]]i capital of [[Lore:Elden Root|Elden Root]], and was sent by [[Lore:The Silvenar|the Silvenar]] to explore the uncharted wilderness of Selene's Web in an attempt to deter him. Taking up the challenge, Galerion and his guild mages entered Selene's domain and were captured by her. Although hostile to their presence, Selene was curious, and shifted forms from that of a spider to an [[Lore:Altmer|Altmer]]i woman with Galerion's features. She eventually agreed to release the mages provided the Guild would never intrude uninvited again and would bargain on her behalf to prevent the Bosmer from encroaching on her territory. The Silvenar and [[Lore:Green Lady|Green Lady]] were unsettled to discover the existence of a Changeling, but agreed to respect the boundaries of her domain.{{ref|name=MtCS}}
+
+In {{Year|2E 582}}, Warlock Carindon of the Mages Guild betrayed Galerion's accord and launched an expedition into the forests of Selene's Web to research Selene. Unbeknownst to the other expedition members, Carindon planned to kill Selene and steal her soul for dissection, despite a deal she had made with the guild to be left in peace. Carindon also hired the [[Lore:Undaunted|Undaunted]] for protection. At the time, Selene was worshipped by a tribe of Bosmer and several [[Lore:Khajiit|Khajiit]], to whom she granted "spirit life" upon death. Along with her army of woodland creatures, her followers attempted to keep the intruders at bay. Only Carindon and the Undaunted succeeded in reaching her inner sanctum, where Selene was slain and her soul captured. Carindon planned to publish a codex from the knowledge he would obtain from her spirit. He planned to use her aura for various potions, and study her ability to spin "arcane threads" in order to utilize it in a multitude of spell types.{{ref|name=Web|[[Online:Knowledge Gained|Knowledge Gained]] quest in [[Online:Online|ESO]]}}
+
+Later that year, after the Imperial battlemage [[Lore:Abnur Tharn|Abnur Tharn]] inadvertently unleashed the [[Lore:Dragon|Dragons]] from their containment in the [[Lore:Halls of Colossus|Halls of Colossus]], many came out of hiding after learning of [[Lore:Kaalgrontiid|Kaalgrontiid]]'s return. The Dragon [[Lore:Maarselok|Maarselok]] took residence near the mountains within the [[Lore:Tenmar|Tenmar]] Valley, near the Valenwood and [[Lore:Elsweyr|Elsweyr]] border. There, he emitted the dreadful [[Lore:Azure Blight|Azureblight]] from his body, a dangerous blight that served to twist all life to his will, part of a plot to create an "azure world". Carindon, Selene, the Undaunted, and a pair of Bosmer mediators working for King {{Lore:Aeradan Camoran|Aeradan Camoran}} sought to stop the corruption from spreading to the [[Lore:Elden Root|Elden Tree]]. Carindon reluctantly agreed to loosen his grip on Selene so that she could assist the mediators by cleansing the Azureblight. Selene demanded her freedom in exchange for her assistance, to which the mediators agreed. In the final battle with Maarselok, his corruption took root in Selene, twisting her to his will. The Undaunted and Maarselok fought over control of Selene, but she managed to shake off his influence. After Maarselok was slain, Carindon tried to back down from his promise to release Selene, infuriating her. The mediators intervened, ensnaring Carindon and allowing her to escape.{{ref|name=ESOScalebreaker|[[Online:The Azure Blight|The Azure Blight]] quest in [[Online:Online|ESO]]: ''[[Online:Scalebreaker|Scalebreaker]]''}} Selene then worked to heal the damage Maarselok caused, steering clear of mortals as she restored the valley.{{Ref|name=ONAllanwen|[[Online:Allanwen|Allanwen]]'s dialogue during [[Online:The Dragonguard's Legacy|The Dragonguard's Legacy]] in [[Online:Online|ESO]]: ''[[Online:Dragonhold|Dragonhold]]''}}
+
+The significance of Selene meant that she was documented within the [[Lore:Infinite Archive|Infinite Archive]] in [[Lore:Apocrypha|Apocrypha]]. There, copies of various entities were subsequently created as [[Lore:Maligraphy|maligraphies]], creatures composed of vivified ink that manifest from the contents of books and serve as mindless extensions of the [[Lore:Daedric Lord|Daedric Lord]] [[Lore:Tho'at Replicanum|Tho'at Replicanum]]. A maligraphic copy of Selene was formed during Tho'at's invasion of the Archive, but it was destroyed by a mortal adventurer, aided by augmentations granted directly by [[Lore:Hermaeus Mora|Hermaeus Mora]]. The defeated maligraphy of Selene faded into a puddle of ink.{{ref|name=LAIA|{{Cite Book|Loremaster's Archive - Infinite Archive}}}}{{ref|name=MM|[[ON:Master Malkhest|Master Malkhest]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Necrom (Chapter)|Necrom]]''}}{{Ref|name=Enemies|[[Online:Selene (Infinite Archive)|Selene]] [[ON:Infinite Archive/Enemies|enemy]] in [[ON:Infinite Archive|Infinite Archive]] in [[Online:Online|ESO]]}}
+
+===Third Era===
+Some time after this, a now free Selene constructed a fortress in Selene's Web. She began consorting with undead, and infused her lifeforce into a great jewel, the Heart of Selene. During the [[Lore:Imperial Simulacrum|Imperial Simulacrum]], she began to spread her dark influence throughout Valenwood, draining corpses of all fluid and raising them as living dead with no memories of their former existence. The city of Elden Root sent out scouts to investigate, and Selene sent back an emissary with their decapitated heads. She gave the Bosmer an ultimatum: "surrender Valenwood or die". With no standing army, the peaceful Bosmer had no means to defeat her army of spiders and undead. {{Lore Link|Ulandra|Queen Ulandra}} of Elden Root struck a deal with the [[Lore:Hero|Eternal Champion]], offering to reveal the sacred location of [[Lore:Elden Grove|Elden Grove]] in exchange for the Heart of Selene. The Champion then infiltrated Selene's Web and claimed the jewel. With it, Ulandra was able to blackmail Selene into calling off her attacks with her life now hanging in the balance.{{ref|[[Arena:Queen Ulandra|Queen Ulandra]]'s dialogue in ''[[Arena:Arena|Arena]]''}}{{ref|[[Arena:Elden Grove|Elden Grove]] quest in ''[[Arena:Arena|Arena]]''}}<noinclude>
+
+==Gallery==
+<gallery>
+File:ON-npc-Selene 02.jpg|Selene as a humanoid
+File:ON-creature-Selene.jpg|Selene as a spider
+File:ON-npc-Selene.jpg|Selene's soul
+File:ON-furnishing-Trophy, Selene.jpg|Selene's head, taken as a trophy by the Undaunted
+File:AR-item-Heart of Selene.png|The Heart of Selene
+File:ON-npc-Selene (Infinite Archive).jpg|A maligraphy in the Infinite Archive taking the form of Selene
+</gallery>
+
+==References==
+<references/>{{Lore Bosmer Religion}}</noinclude>

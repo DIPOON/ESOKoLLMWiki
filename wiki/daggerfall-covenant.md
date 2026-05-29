@@ -27,3 +27,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Daggerfall Covenant.md` (72줄)
+
+
+- *Crown of Verity — *진정한 *High King만 *착용 가능: *[[crown-of-verity|Crown of Verity]] (Emeric 정통성 *증명)

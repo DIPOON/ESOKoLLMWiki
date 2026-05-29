@@ -14,7 +14,7 @@ ingested_at: 2026-05-29
 ## 주요 황제
 
 - **Tiber Septim** (2E 854 - 3E 38) — *Apotheosis로 *9th Divine
-- **Pelagius Septim** (3E 38 - 41) — 광기 시기
+- **[[pelagius|Pelagius Septim I]]** (3E 38 - 41) — 광기 시기
 - **Uriel Septim V** (3E 268-290) — Akavir 침공 (실패)
 - **Uriel Septim VI**, **Morihatha Septim**, **Cephorus II**
 - **Uriel Septim VII** (3E 368 - 433) — Oblivion Crisis 시기 *암살

@@ -34,3 +34,8 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Last Dragonborn.md` (131줄)
+
+
+## Selene
+
+*4E 201 *Skyrim에서 *Last Dragonborn의 *수많은 *동료 중 *[[selene|Selene]] (Falinesti-Bosmer 혼혈) 등 *Mortal NPC 동행 *가능.
