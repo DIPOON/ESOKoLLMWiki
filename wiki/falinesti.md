@@ -1,25 +1,23 @@
 ---
 term: Falinesti
-target_ko: 팔리네스티
-target_de: 
-target_ja: 
-aliases: [Falinesti, 팔리네스티]
+aliases: [Falinesti]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 64
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Falinesti (팔리네스티)
+# Falinesti
 
-## 채택 근거 (UESP 자동 보강)
-Category:Online-Places-GreenshadeCategory:Online-Places-Malabal TorCategory:Online-Places-Reaper's MarchCategory:Online-Places-Grahtwood
-Falinesti is a moving tree city which can be found at varying locations within Valenwood. It can usually be found in one of four locations, depending on the season. In the spring, it travels to northeastern Greenshade, northwest of Marbruk. In the summer, it moves north to western Malabal Tor, east of Velyn Harbor. In autumn, it travels to a spot in Reaper's March, west-northwest of Rawl'kha. And in the winter, it moves south to Grahtwood, where it can usually be found just west of Elden Root.
+*[[valenwood|Valenwood]] *이동하는 *거대 *Graht-oak 도시*. *원래 *Valenwood 중심부 *Bosmer 영적 *중심 (Camoran Dynasty 수도)*. *4E 시기 *사라짐 (이동 정지·소멸 추정)*. *Elden Root와 함께 *Bosmer 2 *주요 *Graht-oak 도시.
 
-**출처**: `raw/Online/Falinesti.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
+## 이동성
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 64
-- 한국 ESO 커뮤니티 합의
+*Falinesti는 *살아있는 *Graht-oak이 *영적·자연적 *Mortal 도시 *형태로 *천천히 *이동*. *수십년 *주기 *순환. *Bosmer 영적 *수행자만이 *이동 *시기 *예측 *가능*. *Y'ffre 후원 *증거.
+
+## 4E 사라짐
+
+*4E 시기 *Falinesti가 *Valenwood에서 *사라짐. *원인 *불명 (이동 정지·다른 *차원 *수송·Mortal 측 *영적 *균열 추정)*. *Bosmer 영적 *재앙으로 *해석.
+
+## Source
+- `raw/Lore/Falinesti.md` (149줄)

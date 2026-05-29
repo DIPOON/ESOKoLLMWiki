@@ -36,3 +36,5 @@ ingested_at: 2026-05-29
 
 
 - *Undead: *[[skeleton|Skeleton]] (시체 + 영혼 부분 재주입), *[[bone-colossus|Bone Colossus]] (거대 Skeletal Undead)
+
+- *영원의 Undead: *[[wraith|Wraith]] (Mortal 영혼 Soul Cairn·Coldharbour 비-수송, *Necromancer + Vampire 조작)

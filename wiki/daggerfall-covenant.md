@@ -33,3 +33,6 @@ ingested_at: 2026-05-29
 
 
 - *주요 도시: *Wayrest (수도), *Daggerfall, *[[northpoint|Northpoint]] (High Rock 북부 항구)
+
+
+- *간접 *결성 *원인: *[[ransers-war|Ranser's War]] (2E 566경 King Ranser vs Wayrest, Emeric의 *Khajiit 왕녀 결혼 사건)

@@ -190,6 +190,15 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 11:00] ingest | 10 expansion 5 batch (10 source, ~1377줄) | touched: 14 pages
+- raw 10 source: Falinesti + Guar + Septim Dynasty + Second Empire + Alessian Empire + Ranser's War + Winterhold (region) + Gryphon + Bird + Wraith → _ingested
+- 지명 2: falinesti (이동하는 Graht-oak 도시 4E 사라짐), winterhold-region (Hold 영토)
+- 종족 4: guar (Morrowind 대형 Reptile 가축), gryphon (Aldmer 영적 상징), bird (Hawk·Eagle·Crow), wraith (Mortal 영혼 영원의 Undead)
+- 진영 3: septim (Septim Dynasty 황제 명단 deep, Pelagius I 등 포함), second-empire (Reman Dynasty 3 황제), alessian-empire (1E Alessia + Belharza)
+- 사건 1: ransers-war (2E 566경 King Ranser, Daggerfall Covenant 간접 결성 원인)
+- 신규 link: tamriel (bird·gryphon), daggerfall-covenant (ransers-war), winterhold (winterhold-region), necromancy (wraith)
+- 최종: 페이지 1531 → 1536, Orphan 0 유지, Broken 706 → 705
+
 ## [2026-05-31 10:00] ingest | 3 mer batch (3 source, ~130줄) | touched: 4 pages
 - raw 3 source: Sea Sload + Aldmeri + Mer → _ingested
 - 종족 2: mer (Aldmer 8 분파 + Bretons), sea-sload (Sload Pyandonea 해상)

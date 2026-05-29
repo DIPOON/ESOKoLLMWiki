@@ -17,3 +17,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Winterhold.md` (8줄)
+
+
+*([[winterhold-region|Winterhold (Region)]] = Hold 영토, *Winterhold = 도시 (4E 122 Great Collapse 후 대부분 붕괴, College of Winterhold만 남음))*

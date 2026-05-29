@@ -83,3 +83,6 @@ ingested_at: 2026-05-29
 
 
 - *동물 *총칭: *[[wolf|Wolf]] (Skyrim 야생) + *[[horse|Horse]] (Imperial 기마·Carriage) + *[[crab|Crab]] (Mudcrab)
+
+- *Bird *생물: *[[bird|Bird]] (Hawk·Eagle·Falcon·Crow 등)
+- *Aldmer *상징: *[[gryphon|Gryphon]] (반-Eagle·반-Lion, Summerset 가문 문장)
