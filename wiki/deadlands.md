@@ -16,7 +16,7 @@ ingested_at: 2026-05-29
 - *영원한 *용암 바다
 - *Lava·Storm Atronach·Flame Atronach
 - *Sigil Keep (Sigil Stone 거주)
-- *Battlespire (1E *영원한 *Imperial 무사 *훈련소·Battlespire 게임 무대)
+- *[[battlespire|Battlespire]] (1E *영원한 *Imperial 무사 *훈련소·Battlespire 게임 무대)
 - *Mehrunes Dagon의 *거대 *형태가 *멀리 *시야
 
 ## 4E 401 Oblivion Crisis

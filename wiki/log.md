@@ -190,6 +190,16 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 07:00] ingest | 5 misc 3 batch (7 source, ~241줄) | touched: 9 pages
+- raw 7 source: Battlespire + Dragonfires + Akaviri Diary Translation + Five Companions + Cassyr Whitley + Markarth Side + Anvil of Mithas → _ingested
+- 지명 1: battlespire (Aetherius-Oblivion 사이 Imperial Tower)
+- 개념 1: dragonfires (Cyrodiil Imperial Palace 영원의 불꽃 + Covenant of Akatosh)
+- 책 1: akaviri-diary-translation (Akaviri 베테랑 일기 번역)
+- 진영 1: five-companions (Vestige 동맹 5인)
+- 인물 1: cassyr-whitley (Bretons 학자)
+- 신규 link: deadlands+spear-of-bitter-mercy (battlespire), akaviri-potentate (akaviri-diary-translation), amulet-of-kings (dragonfires), vestige (five-companions)
+- 최종: 페이지 1510 → 1514, Orphan 0 유지, Broken 708 유지
+
 ## [2026-05-31 06:00] ingest | 5 short batch (8 source, ~167줄) | touched: 8 pages
 - raw 8 source: Bards College + Boethra + Eastmarch + Magicka + Niben + Topal + Werewolf + Soulburst → _ingested
 - 진영 1: bards-college (Solitude Tamriel 4E 시인 학교)

@@ -1,25 +1,15 @@
 ---
-name: "Cassyr Whitley — Reman의 Breton 첩자"
-aliases: [Cassyr Whitley, Cassyr]
+term: Cassyr Whitley
+aliases: ["Cassyr Whitley"]
 kind: entity
 category: 인물
-race: Breton
-appearance: 2920 시리즈
-source_uesp: "UESP: Lore:Cassyr Whitley"
-ingested_at: 2026-05-28
+status: 확정
+ingested_at: 2026-05-29
 ---
 
-# Cassyr Whitley (캐시르 휘틀리)
+# Cassyr Whitley
 
-## 요약
-[[2920-시리즈-색인|2920 시리즈]] 등장 *[[breton|Breton]] 첩자/모험가*. *Reman 첩보 활동* + *[[turala|Turala (Dunmer 망명자)]]와 사랑 빠짐*. 그녀와 함께 *Morrowind 도주 + Skeffington Coven 합류*.
+*Bretons 학자·여행가*. *Tamriel 다양한 *지역 *기록*. *Pocket Guide to the Empire (1st Edition) 등 *주요 *Bretons 사가 *저자.
 
-## 등장
-- 2920 시리즈 v3-v12.
-
-## 핵심
-- *Breton-Dunmer 종족 간 사랑* + *충성 갈등* (Reman vs Turala).
-- *2920 시리즈의 *로맨스 축*.
-
-## 출처
-- UESP: Lore:Cassyr Whitley
+## Source
+- `raw/Lore/Cassyr Whitley.md` (4줄)

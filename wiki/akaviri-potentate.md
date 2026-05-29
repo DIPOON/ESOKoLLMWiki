@@ -30,3 +30,6 @@ ingested_at: 2026-05-29
 ## Akaviri 외교·문화
 
 - *Tar-Meena 같은 *Argonian 학자 (Imperial 시기 Mages Guild Arcane University)는 *Akaviri 외교 *기록 *연구 *수행 — *[[tar-meena|Tar-Meena]]가 *3E 433 *Hero of Kvatch에게 *Mythic Dawn 정보 *제공 시 *Akaviri 문서 *참조
+
+
+- *주요 *원전: *[[akaviri-diary-translation|Akaviri Diary Translation]] (Akaviri 베테랑 일기, Imperial 학자 번역)

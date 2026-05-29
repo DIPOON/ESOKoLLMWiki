@@ -34,3 +34,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - 종합 ESO 메인 퀘스트
+
+
+- *주된 *동맹 *집단: *[[five-companions|Five Companions]]

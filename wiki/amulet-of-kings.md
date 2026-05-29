@@ -25,3 +25,8 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Amulet of Kings.md` (97줄)
+
+
+## Dragonfires
+
+*Cyrodiil Imperial Palace의 *영원의 *불꽃 *[[dragonfires|Dragonfires]]가 *타는 *동안 *Covenant of Akatosh로 *Daedric Realm 직접 *침공 *불가능. *Dragonblood 직계 *황제만이 *Amulet 착용 + Dragonfires 점화 가능. *3E 433 *Uriel Septim VII 암살 + Dragonfires 꺼짐 → *Oblivion Crisis 직접 *원인.
