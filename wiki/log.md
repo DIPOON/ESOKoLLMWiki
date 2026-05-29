@@ -190,6 +190,19 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 16:00] ingest | 17 ancient·sub-race·concept batch (19 source, ~894줄) | touched: 22 pages
+- raw 19 source: Snow Elves·Snow Prince·Auri-El·Saarthal·All-Maker·Skaal·Chimer·Velothi·Velothi Mountains·Dagoth·Tang Mo·Calendar·Era·Time·Tribunal·Slavery·Slave·Dragonguard·Empire → _ingested
+- Snow Elf/Atmoran 4: snow-elves (Ysgramor 학살 + Dwemer 보호 → Falmer 변환), snow-prince (Solstheim 결전), auri-el (Aldmer Akatosh + Chantry), saarthal (Night of Tears + Eye of Magnus)
+- Solstheim 2: all-maker (6 Stone), skaal (Atmoran 원래 Nord 전통)
+- Dunmer 3: chimer (Boethiah-Veloth + Azura 저주), velothi (Aldmer 분리), velothi-mountains, dagoth-family (House Dagoth 명칭)
+- Akavir 1: tang-mo (Monkey-People 평화적)
+- 시간 3: calendar (12달 + 7일 + Era 표기), era (Merethic → 4E), time (Akatosh Sphere)
+- 노예제 1: slavery (Ayleid + Morrowind + Helseth 폐지 + 4E Argonian 복수)
+- 군사 1: dragonguard (Tsaesci 흡수 + Blades 전신 + Sky Haven Temple)
+- 통일 1: empire (3 Empire 정리)
+- 신규 link: skyrim (Saarthal + Snow Elves), falmer (Snow Elves), solstheim (Skaal + All-Maker), throat-of-the-world+akatosh (Time), tamriel (Calendar + Era), velothi (Velothi Mountains), snow-elves (Snow Prince), house-dagoth (Dagoth 가문)
+- 최종: 페이지 1389 → 1406, Orphan 0 유지, Broken 853
+
 ## [2026-05-30 15:00] ingest | 19 NPC·history batch (21 source, ~1010줄) | touched: 28 pages
 - raw 21 source 처리. 인물·황제·문화 정리:
 - Dunmer 정치 4: barenziah (Tiber Septim과 관계 + 4E 생존), helseth (Hlaalu 왕 + Argonian 노예 폐지), divayth-fyr (4000+세 Telvanni + Corprusarium), yagrum-bagarn (Dwemer 유일 생존자)

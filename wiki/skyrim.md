@@ -25,8 +25,8 @@ ingested_at: 2026-05-29
 
 ## 역사
 
-- **Merethic — Falmer (Snow Elves) 영토** — Ysgramor 침공으로 *학살
-- **Ysgramor의 *Sacking of Saarthal** — Nord 정착
+- **Merethic — Falmer ([[snow-elves|Snow Elves]]) 영토** — Ysgramor 침공으로 *학살
+- **Ysgramor의 *[[saarthal|Sacking of Saarthal]]** — Nord 정착
 - **1E 240경 — First Empire of the Nords**
 - **1E 668 — Battle of Red Mountain** — Wulfharth가 *Dwemer·Chimer와 *전투
 - **2E 572 — Akaviri 침공** — Jorunn + Wulfharth + Almalexia → Ebonheart Pact 형성

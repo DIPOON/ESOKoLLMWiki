@@ -1,18 +1,22 @@
 ---
-name: "Empire (Tamrielic)"
-aliases: [Empire, "Tamrielic Empire", "Imperial Empire"]
+term: Empire
+aliases: [Empire, "Cyrodiil Empire", "Imperial Empire"]
 kind: entity
 category: 진영
 status: 확정
 ingested_at: 2026-05-29
 ---
 
-# Empire (Tamrielic)
+# Empire
 
-*Tamriel 대륙의 *통일 *국가의 *총칭*. *3 *주요 *Empire*:
-1. **[[alessian-empire|Alessian Empire]]** (1E 242~) — Saint Alessia 봉기
-2. **[[reman-empire|Reman Empire/Second Empire]]** (1E 2700~) — Reman Cyrodiil
-3. **[[third-empire|Third Empire/Septim]]** (2E 896~3E 433) — Tiber Septim
-+ *4E *Mede Dynasty
+*Cyrodiil 중심 *Tamriel 통일 *국가의 *총칭*. *3 *주요 *Empire:
+1. **1st Empire — Alessian** (1E 243 - 1E 2920) — *Saint Alessia·Reman Dynasty 후예
+2. **2nd Empire — Reman + Akaviri Potentate** (1E 2703 - 2E 430) — *Reman Cyrodiil → Akaviri 흡수 → Potentate
+3. **3rd Empire — Septim** (2E 854 - 3E 433) — *Tiber Septim Apotheosis로 *Tamriel 전 *대륙 *통일
 
-*Imperial Cult (Eight/Nine Divines) 신앙, *Akatosh covenant 기반*. *Cyrodiil 수도. *각 Empire이 *대륙 통일의 *서로 다른 *시도.
+## 4th Era 약화
+
+*3E 433 *Septim Dynasty 종식 → *Mede Dynasty (4E 시작)가 *명목상 *Empire 유지지만 *Aldmeri Dominion에 *White-Gold Concordat 강제 (4E 175)·Hammerfell 상실·Skyrim Stormcloak 봉기 등으로 *영토·정치 *영향력 *대폭 *축소.
+
+## Source
+- `raw/Lore/Empire.md` (32줄)

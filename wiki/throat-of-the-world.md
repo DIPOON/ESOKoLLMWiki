@@ -9,7 +9,7 @@ ingested_at: 2026-05-29
 
 # Throat of the World
 
-*[[skyrim|Skyrim]] *중부 *최고봉 + Mundus *Tower 중 *하나 (Snow Throat)*. *[[paarthurnax|Paarthurnax]] 거주 + [[greybeards|Greybeards]] *High Hrothgar 산기슭 본거지. *Time-Wound (Dragon War 시기 *Alduin이 *4E로 *전송된 *순간) 발생지.
+*[[skyrim|Skyrim]] *중부 *최고봉 + Mundus *Tower 중 *하나 (Snow Throat)*. *[[paarthurnax|Paarthurnax]] 거주 + [[greybeards|Greybeards]] *High Hrothgar 산기슭 본거지. *[[time|Time]]-Wound (Dragon War 시기 *Alduin이 *4E로 *전송된 *순간) 발생지.
 
 ## Time-Wound
 

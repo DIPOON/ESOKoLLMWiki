@@ -22,3 +22,8 @@ Solstheim (meaning Sun's Home) is a large island in the Sea of Ghosts to the nor
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 144
 - 한국 ESO 커뮤니티 합의
+
+
+## Skaal 부족 + All-Maker
+
+*[[skaal|Skaal Village]]는 *Solstheim 북부의 *Atmoran 원래 *Nord 영적 *전통 *유지하는 *부족. *[[all-maker|All-Maker]] 신앙 + 6 *Stone (Earth·Beast·Sun·Water·Wind·Tree) *Dragonborn DLC 핵심.

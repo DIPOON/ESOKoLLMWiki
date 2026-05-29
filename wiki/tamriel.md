@@ -56,3 +56,9 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Tamriel.md` (128줄)
+
+
+## Tamriel 달력·시대
+
+- *[[calendar|Calendar]] — 12달 + 7일 주 + Merethic→1E→2E→3E→4E *Era 표기
+- *[[era|Era]] — Tamriel 역사 *대시대 *구분

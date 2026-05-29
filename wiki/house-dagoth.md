@@ -29,3 +29,8 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/House Dagoth.md` (103줄)
+
+
+## Dagoth 가문 *개요
+
+*[[dagoth-family|Dagoth]] 가문 *명칭의 *총칭. *Voryn Dagoth (Dagoth Ur)의 *가문.

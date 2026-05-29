@@ -1,6 +1,6 @@
 ---
 term: Falmer
-aliases: [Falmer, "Snow Elves", "Ice Elves", "Old Falmer", Betrayed, "Snow Elf"]
+aliases: [Falmer, "[[snow-elves|Snow Elves]]", "Ice Elves", "Old Falmer", Betrayed, "Snow Elf"]
 kind: entity
 category: 종족
 status: 확정
@@ -19,7 +19,7 @@ ingested_at: 2026-05-29
 
 *지하 도주 시 *Dwemer가 *노예로 *수용 → *조건부 *생존 — *눈 *멀게 하는 *식물 *섭취 강요 → *세대 *반복으로 *눈 *멀고 *외형 *변형 → *4E *"Falmer" (지하 *야만 종족)*. *원래 *외형·언어·문화 *대부분 *상실*.
 
-## 4E — Snow Elves 잔존
+## 4E — [[snow-elves|Snow Elves]] 잔존
 
 *Skyrim Dragonborn DLC *Forgotten Vale에 *순수 *Snow Elf 잔존 *발견 — *Auriel's Bow 사용·Knight-Paladin Gelebor 등.
 

@@ -54,3 +54,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Akatosh.md` (206줄)
+
+
+*Tamriel 시간의 *직접 *Sphere = [[time|Time]] (Akatosh의 *고유 *영역).
