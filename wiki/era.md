@@ -13,3 +13,8 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Era.md` (5줄)
+
+
+- *[[first-era|First Era]] (1E 0 - 2920, ~3000년): Saint Alessia·Reman Dynasty·Akaviri 침공·Battle of Red Mountain·Middle Dawn Dragon Break 등
+- *[[second-era|Second Era]] (1E 2920 - 2E 854): Akaviri Potentate·Interregnum·Three Banners War·Soulburst
+- *[[third-era|Third Era]] (2E 854 - 3E 433): Septim Dynasty·Numidium·Warp in the West·Nerevarine·Oblivion Crisis

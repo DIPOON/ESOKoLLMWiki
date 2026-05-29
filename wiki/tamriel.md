@@ -80,3 +80,6 @@ ingested_at: 2026-05-29
 
 - *[[knight|Knight]] — 기사 (Breton·Imperial·Companions·Buoyant Armiger 등)
 - *[[thief|Thief]] — 도둑 (Thieves Guild·Daggerfall Agent 등)
+
+
+- *동물 *총칭: *[[wolf|Wolf]] (Skyrim 야생) + *[[horse|Horse]] (Imperial 기마·Carriage) + *[[crab|Crab]] (Mudcrab)

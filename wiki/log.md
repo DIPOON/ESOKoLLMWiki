@@ -190,6 +190,15 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 08:00] ingest | 7 era·daedra·creature batch (7 source, ~1760줄) | touched: 11 pages
+- raw 7 source: Daedra·First Era·Yoku·Wolf·Horse·Flame Atronach·Frost Atronach → _ingested
+- 신성 1: daedra (deep 갱신 — 16+17 Princes + Lesser Daedra 8종 분류 + Coldharbour Compact)
+- 시대 1: first-era (1E 0 - 2920, 주요 사건 8 정렬)
+- 언어 1: yoku (Yokudan/Redguard 모국어 + 영적)
+- 종족 4: wolf (Skyrim 야생), horse (Imperial 기마), flame-atronach (Mehrunes Dagon 불 원소), frost-atronach (Coldharbour 서리 원소)
+- 신규 link: era (3 Era), atronach (Flame+Frost), tamriel (Wolf+Horse), yokuda (Yoku 언어)
+- 최종: 페이지 1514 → 1520, Orphan 0 유지, Broken 708 유지
+
 ## [2026-05-31 07:00] ingest | 5 misc 3 batch (7 source, ~241줄) | touched: 9 pages
 - raw 7 source: Battlespire + Dragonfires + Akaviri Diary Translation + Five Companions + Cassyr Whitley + Markarth Side + Anvil of Mithas → _ingested
 - 지명 1: battlespire (Aetherius-Oblivion 사이 Imperial Tower)

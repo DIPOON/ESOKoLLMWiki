@@ -22,3 +22,7 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Atronach.md` (9줄)
+
+
+- *[[flame-atronach|Flame Atronach]] — *불 *원소 (Mehrunes Dagon Deadlands)
+- *[[frost-atronach|Frost Atronach]] — *서리 *원소 (Coldharbour + Skyrim)
