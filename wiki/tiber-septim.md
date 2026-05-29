@@ -1,33 +1,39 @@
 ---
-name: Tiber Septim
-aliases: ["Tiber Septim", "Talos", "Hjalti Early-Beard", "Emperor Tiber Septim", "Ysmir Wulfharth"]
+term: Tiber Septim
+aliases: ["Tiber Septim", Talos, "Hjalti Early-Beard", "Ysmir Stormcrown", "Septim I"]
 kind: entity
 category: 인물
 status: 확정
 ingested_at: 2026-05-29
-related: [talos, numidium, dragon-break, third-empire, zurin-arctus, wulfharth, septim-dynasty]
 ---
 
-# Tiber Septim — *제3제국 창건자*
+# Tiber Septim
 
-[[third-empire|제3제국 (Third Empire)]]의 *창건 황제*. *전 *Nord *전사 *Hjalti Early-Beard*. *9 Divines의 *9번째 신 *[[talos|Talos]]로 *사후 *Apotheosis*. *[[walking-ways|Walking Ways]] 신학의 *대표 *Mer-Made God *Man 버전* — *오직 *Mortal에서 *진정한 *Divine까지 *상승한 *유일 *사례*.
+**제3제국 (Third Empire) 창건자**. *Mortal에서 *Apotheosis로 *진정한 *Aedric 신성에 *도달한 *유일 *사례*. *Eight Divines 9번째 *Divine [[talos|Talos]]로 *변환*.
+
+## 기원
+
+*원래 *Breton·Nord 혼혈 *Hjalti Early-Beard* (Bretons는 *그를 *Hjalti, Nord는 *Talos로 부름)*. *전사로 시작*. *Imperial Battlemage Zurin Arctus의 *조언*.
 
 ## Numidium 사용
 
-[[numidium|Numidium]]을 *재조립 + 가동*하여 *Tamriel 전역 *통일 (3E 38경)*. *[[zurin-arctus|Zurin Arctus]] (Imperial Battlemage)와 *공동 *작업*. *[[wulfharth|Wulfharth (Underking)]]의 *영혼이 *Numidium 동력원에 *연관*된다는 설.
+*[[numidium|Numidium]]을 *Cyrodiil로 *재조립 → *Wulfharth (Underking)의 *영혼을 *Mantella에 *trap → *Numidium 동력 → *Summerset Isles 정복 + Aldmeri Dominion 굴복*. *Dragon Break (Warp in the West) 발생*. *Tamriel 전 *대륙 *통일.
 
-*Numidium 가동의 *부작용 = *Dragon Break (Warp in the West)* — *시간의 *왜곡 *현상*. *[[dragon-break|Dragon Break]] 항목 참조.
+## Vivec과의 *Armistice
 
-## Clockwork Apostle의 평가
+*Morrowind는 *Numidium 사용 *전 *Armistice로 *autonomy 보존*. *Vivec이 *Numidium 선물 → *Tiber Septim의 *Summerset 정복 도구*.
 
-[[clockwork-apostles|Clockwork Apostles]]는 *Tiber Septim의 *Numidium 사용을 *우주적 *재앙*으로 *간주*. *Numidium = *"Antipodal God-Thing" = Apostle의 *최대 위협*. *Tiber Septim의 *영광은 *Sotha Sil의 *Tamriel Final에 *반하는 *사건*.
+## Septim Dynasty
 
-## Talos 신앙
+*Tiber Septim Dynasty *3E 433 *Martin Septim 희생까지 *지속*.
 
-*Apotheosis 후 *[[talos|Talos]]로 *Imperial Cult의 *9번째 신*. *4E *Aldmeri Dominion *White-Gold Concordat (4E 175)으로 *공식 *금지* → *Stormcloak 반란의 *명분 중 *하나*.
+## Apotheosis → Talos
+
+*Tiber Septim·Wulfharth·Zurin Arctus 영혼의 *Enantiomorph (3 *영혼 *융합)이 *Apotheosis → *9번째 *Divine *Talos*. *Walking Ways의 *대표 *사례*. *Aldmer 적대 — *4E *White-Gold Concordat으로 *Talos 신앙 *공식 금지.
+
+## 평가
+
+*Tiber Septim = *Mortal·Mer 역사상 *가장 *결과 *광범위한 *Mortal*. *Numidium 사용으로 *Dwemer·Aldmer 모두 *완전 *제압*. *Talos Apotheosis는 *Mer-Made God 신학의 *Man 버전*. *4E *Stormcloak 봉기의 *직접 *원인 (Talos 금지)*.
 
 ## Source
-
-- *raw/Lore/Tiber Septim.md* (미처리 — 우선)
-- [[numidium|Numidium]] cascading
-- [[dragon-break|Dragon Break]] cascading
+- `raw/Lore/Tiber Septim.md` (297줄)

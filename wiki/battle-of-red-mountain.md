@@ -1,41 +1,47 @@
 ---
-name: Battle of Red Mountain
-aliases: ["Battle of Red Mountain", "Red Mountain Battle", "붉은 산 전투"]
+term: Battle of Red Mountain
+aliases: ["Battle of Red Mountain", "1E 700 Battle", "Red Moment", "붉은 산 전투"]
 kind: entity
 category: 사건
 status: 확정
 ingested_at: 2026-05-29
-related: [red-mountain, nerevar, dwemer, dagoth-ur, tribunal, heart-of-lorkhan, kagrenacs-tools, chimer, dunmer, azura, numidium]
 ---
 
-# Battle of Red Mountain (1E 668)
+# Battle of Red Mountain
 
-[[chimer|Chimer]]·[[dwemer|Dwemer]] 동맹 *내부 분열로 발화*한 *Resdayn 결정적 *전투*. *Tribunal 신성화·Dwemer 절멸·Chimer→Dunmer 변환·Dagoth Ur 탄생의 *공통 *기원*. *Tamriel 역사상 *가장 *결과 *광범위한 *전투 중 *하나*.
+**1E 668경 (또는 1E 700)** [[red-mountain|Red Mountain]] 전쟁의 *최종 *전투. *Resdayn의 *Chimer-Dwemer 동맹과 *Nord-Wulfharth 군의 *내부 *분열*. *Tribunal 신성화·Chimer→Dunmer 변환·Dagoth Ur 탄생·Dwemer 사라짐의 *공통 *원인.
 
 ## 주체
 
-- *Chimer*: [[nerevar|Lord Indoril Nerevar]] (Hortator), *Tribunal 3주 (Ayem·Seht·Vehk)*, *House Dagoth 수장 [[dagoth-ur|Voryn Dagoth]]*, 5 Great Houses
-- *Dwemer*: [[dumac|Dumac Dwarfking]], *[[kagrenac|Lord Kagrenac]] (Chief Tonal Architect)*
-- *Daedric 외교*: [[azura|Azura]] (Chimer 측), *기타 Good Daedra*
+- *Chimer (Nerevar·Tribunal·Voryn Dagoth)
+- *Dwemer (Dumac·Kagrenac)
+- *Nord-Wulfharth 군 (외부 침공)
+- *Daedric Princes (Azura의 *Nerevar 후원, 기타)
 
-## 발화 원인
+## 발화 — Kagrenac의 Heart 사용
 
-[[kagrenac|Lord Kagrenac]]이 *[[heart-of-lorkhan|Heart of Lorkhan]] 발견* + *[[kagrenacs-tools|Kagrenac's Tools]] 제작*하여 *[[numidium|Numidium]] 동력화 시도*. *Chimer가 *이를 *신성 모독·동맹 위반으로 *간주*하고 *공격 개시*. (전쟁 명분에 *Azura 개입설 등 *여러 *판본 존재.)
+*Kagrenac이 *Heart of Lorkhan 발견·Numidium 동력화 시도 → *Chimer가 *동맹 *배신 *간주 → *전쟁 발화*. *Voryn Dagoth가 *Chimer 진영의 *제보자*.
+
+## 4 판본 (Vivec, Alandro Sul, Wulfharth Songs, Sermons)
+
+각 판본이 *Tribunal 살해 의혹과 *서로 *모순:
+1. *Alandro Sul (Ashlander): Tribunal이 *Nerevar 살해 (poison candles·robes·invocations)
+2. *Wulfharth Songs: Voryn Dagoth가 *Nord 측 *유인 → *Tribunal 측 승리, *Vivec이 *Wulfharth 추방
+3. *Vivec Account: Tribunal 살해 부정, *Nerevar는 *전투 *부상 사망
+4. *Vivec Sermons: Almsivi가 *Numidium 격파, *Dwemer 사라짐, *Nerevar Red Mountain 깊이 진입 사망
 
 ## 결과
 
-1. **[[dwemer|Dwemer]] 전 종족 *Mundus에서 *제거*** — Kagrenac이 *Heart에 *Tools 사용한 *순간*. *원인 불명*. *모든 Dwemer가 *동시에 *사라짐*.
-2. **[[nerevar|Nerevar]] 사망** — *전투 중 또는 *전투 후*. *Tribunal의 *살해 *의혹* (Sermon 36 *FOUL MURDER*).
-3. **[[tribunal|Tribunal]] 신성화** — *Tribunal이 *Tools 사용해 *Heart에서 *신성 추출* → *Living Gods 됨*.
-4. **[[chimer|Chimer]] → [[dunmer|Dunmer]] 변환** — *[[azura|Azura]]의 *저주*. *Nerevar에게 *맹세 깬 *대가*. 피부 회색, 눈 빨강.
-5. **[[dagoth-ur|Voryn Dagoth]] 잔존** — *Heart of Lorkhan 수호자로 *Red Mountain 깊이 *틀어박힘*. *2E 882에 *각성하여 *Tribunal 기습*.
+1. **Dwemer 사라짐** — Kagrenac이 *Heart에 *Tools 사용 *순간 *전 종족 *Mundus 제거
+2. **Nerevar 사망** — Tribunal 살해 또는 *전투 부상
+3. **Tribunal 신성화** — Tools 사용 → *Heart에서 *신성 추출 → *Living Gods
+4. **Chimer → Dunmer** — Azura의 *맹세 위반 *저주
+5. **Voryn Dagoth 잔존** — Heart of Lorkhan 수호자로 *Red Mountain 깊이
+6. **Mortal 우주의 *반복 신학 *전환** — *Mer-Made God 신학·CHIM·Walking Ways의 *직접 *발화 사건
 
-## Sotha Sil 시각
+## 평가
 
-[[sotha-sil|Sotha Sil]]의 *Red Mountain 후 *역할은 *"Dunmer spirit를 *피난시키고 *who we had become을 *가르침"* (Tarvus 증언). *즉 *Sotha Sil이 *Chimer→Dunmer 변환 후 *정체성 형성을 *주도*. *Tribunal Temple 신학의 *지식 기반 형성*.
+*Battle of Red Mountain = *Tamriel 역사상 *가장 *결과 *광범위한 *전투*. *Tribunal·Dunmer·Dagoth Ur·Tribunal Temple·New Temple·4E *Morrowind·Vivec·Sotha Sil·Almalexia·Nerevar·Nerevarine·CHIM·FOUL MURDER·Mer-Made God 신학의 *모든 *기원*. *Sermon 36·Foul Murder의 *근본 사건.
 
 ## Source
-
-- *raw/Lore/Battle of Red Mountain.md* (미처리 — 다음 cycle 우선)
-- [[red-mountain|Red Mountain]], [[tribunal|Tribunal]], [[sotha-sil|Sotha Sil]] 등 cascading
-- [[36-lessons-of-vivec-sermon-36|36 Lessons of Vivec, Sermon 36]] (Foul Murder)
+- `raw/Lore/Battle of Red Mountain.md` (87줄)

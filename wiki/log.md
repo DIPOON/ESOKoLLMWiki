@@ -190,6 +190,21 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 22:30] ingest+lint | 28 lint stub + 대형 사건/인물 10 batch (10 source) | touched: 38 pages
+- batch lint: top broken 28 stub 생성: fadomai, auri-el, ebonarm, deadlands, darien-gautier, longhouse-emperors, oblivion-crisis, lyg, magna-ge, lorkhaj, neb-crescen, tel-aruhn, kothringi, gilverdale, euraxia-tharn, kaalgrontiid, markarth, murkmire, grabber, birthsigns, war-of-the-first-council, dissident-priests, house-dagoth, ruelde, dragon, blackcaster-mages-guild, hagraven, welkynd-stone
+- 대형 사건+인물 10 source: Battle of Red Mountain (87) + Mannimarco (278) + Ysgramor (154) + Tiber Septim (297) + Talos (45) + Reman (66) + Ayrenn (87) + Ulfric Stormcloak (78) + Pelinal Whitestrake (119) + Lamae Bal (54) → _ingested + 심층 재작성
+  - battle-of-red-mountain: 4 판본·Tribunal 살해 의혹·결과
+  - mannimarco: King of Worms, Psijic 추방·Soulburst·Planemeld·Lich
+  - ysgramor: Five Hundred Companions, Falmer 학살, Sovngarde
+  - tiber-septim: 제3제국 창건, Numidium 사용, Enantiomorph 3 영혼, Apotheosis→Talos
+  - talos: Enantiomorph 3 영혼, CHIM, Mantling Lorkhan, 4E 신앙 금지
+  - reman: Second Empire 창건, Akaviri 격퇴
+  - ayrenn: Aldmeri Dominion Queen, Psijic 수행
+  - ulfric-stormcloak: 4E 201 Stormcloak 봉기, Talos 신앙
+  - pelinal-whitestrake: Alessian 광기 전사, 시간 왜곡, Umaril 결투
+  - lamae-bal: 최초 Vampire, Molag Bal 원수, Rite of the Scion
+- 최종: 페이지 1150 → 1181 (28 lint + 3 신규 = 31), Orphan 0 유지, Broken 920
+
 ## [2026-05-29 21:00] ingest | 10 지방 batch (10 source, 2626줄) | touched: 10 pages
 - raw 10 source: Tamriel (128) + Cyrodiil (128) + Skyrim (453) + Hammerfell (549) + High Rock (223) + Valenwood (179) + Summerset Isles (110) + Elsweyr (265) + Black Marsh (154) + Morrowind (437) → _ingested
 - 10 페이지 심층 재작성:
