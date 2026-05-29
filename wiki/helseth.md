@@ -9,7 +9,7 @@ ingested_at: 2026-05-29
 
 # Hlaalu Helseth
 
-*[[barenziah|Barenziah]] + Symmachus 아들*. *3E *Hlaalu *Morrowind 왕*. *Tribunal DLC (3E 427) *Nerevarine 시기 *Mournhold *왕좌. *Argonian 노예제 *공식 *폐지 칙령 (4E 시기 *Houses 분노).
+*[[barenziah|Barenziah]] + [[symmachus|Symmachus]] 아들*. *3E *Hlaalu *Morrowind 왕*. *Tribunal DLC (3E 427) *Nerevarine 시기 *Mournhold *왕좌. *Argonian 노예제 *공식 *폐지 칙령 (4E 시기 *Houses 분노).
 
 ## 정치 *재능
 

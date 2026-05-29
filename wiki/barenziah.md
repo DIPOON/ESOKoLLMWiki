@@ -9,11 +9,11 @@ ingested_at: 2026-05-29
 
 # Barenziah
 
-*Dunmer 왕족*. *Mournhold *Indoril 가문 출생 → 4 Symmachus의 *아내·Mournhold 통치 → *Tiber Septim과의 *오랜 *관계 + Helseth의 *어머니. *Tamriel 정치 4000년 *생존자*. *4E *Skyrim 시기에도 *생존.
+*Dunmer 왕족*. *Mournhold *Indoril 가문 출생 → 4 [[symmachus|Symmachus]]의 *아내·Mournhold 통치 → *Tiber Septim과의 *오랜 *관계 + Helseth의 *어머니. *Tamriel 정치 4000년 *생존자*. *4E *Skyrim 시기에도 *생존.
 
 ## Tiber Septim과의 *관계
 
-*Barenziah가 *Tiber Septim과의 *비밀 *관계로 *임신 → *Imperial Battlemage Zurin Arctus가 *낙태 *마법 *시행 *(Tiber Septim Dynasty 명예 *수호)*. *Barenziah가 *원망·증오 *경험. *Helseth (3E *Hlaalu Helseth)는 *후의 *King Symmachus 아들.
+*Barenziah가 *Tiber Septim과의 *비밀 *관계로 *임신 → *Imperial Battlemage Zurin Arctus가 *낙태 *마법 *시행 *(Tiber Septim Dynasty 명예 *수호)*. *Barenziah가 *원망·증오 *경험. *Helseth (3E *Hlaalu Helseth)는 *후의 *King [[symmachus|Symmachus]] 아들.
 
 ## 4E *생존
 
