@@ -1,5 +1,5 @@
 ---
-name: "Miraak"
+term: Miraak
 aliases: [Miraak, "First Dragonborn"]
 kind: entity
 category: 인물
@@ -9,8 +9,23 @@ ingested_at: 2026-05-29
 
 # Miraak
 
-**최초의 *[[dragonborn|Dragonborn]]** (Atmoran 시기, *Akavir 침공 이전)*. *Dragon Cult의 *사제였으나 *용 *지배자에 *반란 → *[[hermaeus-mora|Hermaeus Mora]]와 *계약 → *Bend Will Shout (용 지배 thu'um) 학습 → *Mora의 *Apocrypha *champion이 됨 → *수천 년 *Apocrypha 거주*.
+*첫 *Dragonborn*. *Atmoran 시기 *Solstheim *Dragon Cult 사제*. *Dragon War 시기 *Alduin 배반 → *Hermaeus Mora의 *deal로 *Apocrypha로 *수송 → *수천 년 *Mora의 *champion*. *4E *Last Dragonborn에 의해 *처치.
 
-*4E 201 *Solstheim Red Year 후 *Mora의 *[[black-books|Black Books]]로 *Solstheim에 *영향력 *재행사 시도* → *주민 *조종 + 거대 사원 *건설 시도* → *[[last-dragonborn|Last Dragonborn]] 출현 + Mora가 *Miraak 배신 *원함 → *Last Dragonborn이 *Apocrypha에서 *Miraak 처치 → *Mora의 *새 *champion 강제 *지명*.
+## 첫 *Dragonborn
 
-*Skyrim Dragonborn DLC의 *주 적*.
+*Miraak은 *기록된 *첫 *Dragonborn (Dovahkiin)*. *Atmoran 시기 *Solstheim Dragon Cult의 *주된 *사제. *Alduin과의 *영적 *유대.
+
+## Alduin 배반 + Apocrypha
+
+*Dragon War 시기 *Miraak이 *Alduin 배반 → *Mortal 동맹 *시도 → *Hermaeus Mora의 *deal로 *Apocrypha 진입 (Mora가 *Miraak 영혼을 *Alduin으로부터 *보호 *대가로 *수세기 *종노릇)*. *Miraak은 *Apocrypha에서 *수많은 *Black Book 지식 *습득.
+
+## 4E 201 — Solstheim 영향력 *재흥
+
+*Solstheim 4E 5 *Red Year 후 *Mora 영향력 *재흥 *기획*. *Miraak이 *Black Book *Waking Dreams로 *Solstheim 주민 *조종 + 거대 *사원 *건축*. *Last Dragonborn이 *Apocrypha 진입 → *Mora가 *Miraak 배신 *원함 → *Last Dragonborn이 *Miraak 처치 → *Mora의 *새 *champion이 됨.
+
+## 평가
+
+*Miraak = *첫 *Dragonborn + 첫 *Dragon Cult 영적 *반란자 + Mora의 *수세기 *종*. *Tamriel *영웅 *전통의 *어두운 *대척점.
+
+## Source
+- `raw/Lore/Miraak.md` (77줄)

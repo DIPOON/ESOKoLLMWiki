@@ -1,14 +1,23 @@
 ---
-name: "Dragon Cult (드래곤 컬트)"
-aliases: [Dragon Cult, 드래곤 컬트]
+term: Dragon Cult
+aliases: ["Dragon Cult"]
 kind: entity
 category: 진영
-status: stub
-created_at: 2026-05-28
+status: 확정
+ingested_at: 2026-05-29
 ---
 
-# Dragon Cult (드래곤 컬트)
+# Dragon Cult
 
-> **Stub** — 이 페이지는 *최소 정의*만 있음. 자연 trigger 발생 시 §3.1 ingest 사이클로 *심층 보강*.
+*Atmoran 시기 *Dragon (Akatosh의 *자손)을 *영적·정치 *지배자로 *모신 *종교 *집단*. *Atmoran·Skyrim 정착 *초기 *Dragon이 *Mortal *압제*. *Dragon Priest (Volsung·Vokun·Otar·Krosis 등) 사제 *위계.
 
-*Merethic Era *Atmoran *용 숭배 종교*. *Dragon Priest 사제 *피라미드*. *Skyrim의 *고대 *Nordic 고분과 *Mask들이 *유산*. *드래곤이 *Mortal을 *지배하던 *시대의 *종교*.
+## Dragon Priest
+
+*Dragon Cult 사제. *Dragon 영혼 *후원 + 강력한 *마법·Shout 권능*. *수많은 *Dragon Priest가 *4E 시기 *Skyrim *수많은 *Nordic 무덤에 *영혼 *재발현*. *Last Dragonborn이 *각 *Dragon Priest 처치 + Dragon Priest Mask (15개 + Konahrik) 수집.
+
+## Dragon War
+
+*Atmoran·Skyrim *Mortal이 *Dragon Cult 압제에 *반란 → *Paarthurnax이 *Mortal에 *Thu'um 전수 + Alduin 처치*. *Dragon Cult 종식 → *Nord 영적 *해방.
+
+## Source
+- `raw/Lore/Dragon Cult.md` (50줄)

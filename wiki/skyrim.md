@@ -32,12 +32,12 @@ ingested_at: 2026-05-29
 - **2E 572 — Akaviri 침공** — Jorunn + Wulfharth + Almalexia → Ebonheart Pact 형성
 - **2E 580 — Three Banners War**
 - **4E 5 — Red Year 직접 영향**: Solstheim에 *Dunmer 난민
-- **4E 201 — Last Dragonborn + Stormcloak 봉기**
+- **4E 201 — [[last-dragonborn|Last Dragonborn]] + Stormcloak 봉기**
 
 ## 문화
 
 - *Shor (Lorkhan), Kyne (Kynareth), Tsun, Stuhn, Mara, Dibella, *Talos 신앙
-- *Way of the Voice — Greybeards (High Hrothgar)
+- *[[way-of-the-voice|Way of the Voice]] — [[greybeards|Greybeards]] (High Hrothgar)
 - *Dragon Cult 잔재 — Word Walls + Dragon Priest Mask
 - *Sovngarde = afterlife
 - *Companions (Whiterun) = Hircine Werewolf 비밀 *집단
@@ -52,7 +52,7 @@ ingested_at: 2026-05-29
 
 ## 평가
 
-*Skyrim = *Atmoran 후예 *전사 문화의 *물리적 *기반*. *Snow Throat = *Mundus Tower 중 하나*. *Dragon Cult·Way of the Voice·Sovngarde의 *우주적 *연결*. *4E 200 Stormcloak 봉기로 *Imperial과 *분열.
+*Skyrim = *Atmoran 후예 *전사 문화의 *물리적 *기반*. *Snow Throat = *Mundus Tower 중 하나*. *Dragon Cult·[[way-of-the-voice|Way of the Voice]]·Sovngarde의 *우주적 *연결*. *4E 200 Stormcloak 봉기로 *Imperial과 *분열.
 
 ## Source
 - `raw/Lore/Skyrim.md` (453줄)

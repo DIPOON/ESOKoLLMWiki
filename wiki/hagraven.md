@@ -1,6 +1,6 @@
 ---
-name: "Hagraven"
-aliases: [Hagraven, Hagravens]
+term: Hagraven
+aliases: [Hagraven, Hag]
 kind: entity
 category: 종족
 status: 확정
@@ -9,4 +9,11 @@ ingested_at: 2026-05-29
 
 # Hagraven
 
-*[[reachman|Reachfolk]] 여성이 *Hircine·Nocturnal·Mephala 등 *Daedric *의례로 *변형한 *마녀 *종족*. *깃털·갈고리·날카로운 손톱*. *동굴·고대 의례 장소 *거주*. *Glenmoril Wyrd Coven의 *상위 *멤버 *다수 = Hagraven*. *Crow Mother가 *Nocturnal의 *Nether-Niece (가장 *유명 *Hagraven)*.
+*Reach 여성·Witch가 *Y'ffre 또는 *Daedric (Hircine·Molag Bal 등) 의례로 *자발 *변환한 *Witch *존재*. *반-인간·반-까마귀 형태*. *Briarheart 의례 + Glenmoril 변환 등 *Reach 어두운 *마법의 *주된 *수행자.
+
+## Glenmoril Witches
+
+*[[glenmoril|Glenmoril Witches]]는 *Hircine 후원 *Hagraven *집단. *Lycanthropy 변환·cure 의례 *전문.
+
+## Source
+- `raw/Lore/Hagraven.md` (73줄)

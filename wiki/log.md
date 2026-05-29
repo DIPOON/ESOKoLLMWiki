@@ -190,6 +190,15 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 11:00] ingest | 19 dragon·voice·reach batch (19 source, ~897줄) | touched: 22 pages
+- raw 19 source: Paarthurnax + Odahviing + Miraak + Mirmulnir + Sahloknir + Durnehviir + Dragons + Dragon Cult + Dragon War + Dragonborn + Dovahzul + Thu'um + Greybeards + Tongues + Way of the Voice + Forsworn + Reachfolk + Hagraven + Briarheart → _ingested
+- Dragon 6: paarthurnax (Alduin 배반·Way of Voice), odahviing (Dragonsreach), miraak (첫 Dragonborn·Mora), mirmulnir (4E 첫 처치), sahloknir, durnehviir (Soul Cairn Undead)
+- Dragon 신학 3: dragons (Akatosh 자손), dragon-cult (Dragon Priest), dragon-war (Mortal 봉기)
+- Voice 5: dragonborn (Miraak·Reman·Tiber·Septim·Last Dragonborn), dovahzul (Words of Power), thuum (Shout 구조 + Way of Voice + Tongues), greybeards (High Hrothgar 4E 호출), tongues, way-of-the-voice
+- Reach 4: forsworn (4E Markarth Incident·Briarheart), reachfolk (Reach 원주민), hagraven (Glenmoril), briarheart (Forsworn 의례)
+- 신규 link: alduin (5 Dragon + 2 사건 + Tongues 후예), dragons (Dovahzul/Dragonborn), skyrim (4E 201/Way of Voice/Greybeards), thuum (Paarthurnax/Dovahzul/Dragon War), forsworn (Briarheart)
+- 최종: 페이지 1303 → 1322 (19 신규), Orphan 0 유지, Broken 875
+
 ## [2026-05-30 10:00] ingest | 22 vampire·lycanthropy·artifact batch (22 source, ~1113줄) | touched: 27 pages
 - raw 22 source: Harkon (49) + Serana (45) + Valerica (34) + Volkihar (47) + Lord Harkon (5, dup) + Dawnguard (41) + Vampire Lord (4) + Vampirism (5) + Necromancy (233) + Lich (102) + Glenmoril (9) + Lycanthropy (226) + Bloodmoon (24) + Werebear/Wereboar/Werelion/Wereshark (각 4) + Dawnbreaker (42) + Oghma Infinium (61) + Ring of Namira (25) + Savior's Hide (55) + Skull of Corruption (30) + Spellbreaker (60) → _ingested
 - Volkihar Court 4: harkon (Pure-Blood + Tyranny of Sun), serana (Elder Scroll), valerica (Soul Cairn 피신), volkihar
