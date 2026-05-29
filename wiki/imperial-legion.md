@@ -32,3 +32,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Imperial Legion.md` (415줄)
+
+
+- *해군: *[[imperial-navy|Imperial Navy]] (Anvil 본부, Pyandonea Maormer 대응)

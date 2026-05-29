@@ -190,6 +190,14 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-06-01 00:00] ingest | 5 mide batch (5 source, ~345줄) | touched: 8 pages
+- raw 5 source: Titus Mede I + Imperial Navy + Nahfahlaar + Darien Gautier + Salas En → _ingested
+- 인물 3: titus-mede-i (Mede Dynasty 시조), nahfahlaar (ESO Elsweyr Dragon 동맹), darien-gautier (Meridia champion)
+- 진영 1: imperial-navy (Anvil 본부)
+- 지명 1: salas-en (Black Marsh Hist 영적 순례지)
+- 신규 link: mede-dynasty (titus-mede-i), imperial-legion (imperial-navy), black-marsh (salas-en)
+- 최종: 페이지 1587 → 1590, Orphan 0 유지, Broken 693 유지
+
 ## [2026-05-31 23:00] ingest | 2 final batch (2 source, ~48줄) | touched: 4 pages
 - raw 2 source: Sigil Stone + Yokudan → _ingested
 - 유물 1: sigil-stone (Oblivion Gate 동력, 3E 433 Oblivion Crisis 회수)

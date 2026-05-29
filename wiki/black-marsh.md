@@ -44,3 +44,5 @@ ingested_at: 2026-05-29
 
 
 - *Hist 영적 *유물: *[[eye-of-argonia|Eye of Argonia]] (Argonian 고대 영적 중심)
+
+- *Hist 영적 *순례지: *[[salas-en|Salas En]] (ESO Murkmire DLC)

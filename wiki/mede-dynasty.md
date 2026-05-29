@@ -22,3 +22,5 @@ ingested_at: 2026-05-29
 
 
 - *[[titus-mede-ii|Titus Mede II]] (4E 175 White-Gold Concordat 강제 시기 황제, 4E 201 Dark Brotherhood 암살 가능)
+
+- *[[titus-mede-i|Titus Mede I]] (4E 초 Empire 재통일 시조)
