@@ -52,3 +52,5 @@ ingested_at: 2026-05-29
 - *[[sunport|Sunport]] (남부 Pellitine 항구)
 
 - *[[torval|Torval]] (Pellitine 주요 도시, Khajiit Mane 수도)
+
+- *영웅 *왕: *[[khunzar-ri|Khunzar-ri]] (수세기 전 Anequina 통일 + Akaviri Dragon 격퇴 + Halls of Colossus 무대)

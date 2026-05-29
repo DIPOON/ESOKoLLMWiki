@@ -34,3 +34,5 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Septim Dynasty.md` (147줄)
+
+- *[[uriel-i|Uriel Septim I]] (3E 64-118, 3E 초 Empire 안정화)

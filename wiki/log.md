@@ -190,6 +190,23 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-06-01 08:00] ingest | 5 cycle 3 + 5 cycle 4 (10 source, ~415줄) | touched: 15 pages — **세션 종료**
+- cycle 3: kingdom-of-hammerfell (4E 175 Concordat 거부), knights-of-the-true-horn, silsailen, verminous-fabricant, tome-of-the-undaunted + Undaunted 신규
+- cycle 4: war-of-the-isle (Maormer 격퇴), uriel-i (Septim 3E 64-118), yngol-barrow (Ysgramor 아들), khunzar-ri (Khajiit 영웅 왕), totambu (Yokuda 고대 지역)
+- 신규 link: hammerfell + akatosh + auridon + maormer + septim + ysgramor + elsweyr + yokuda
+- **세션 종료 시점 (사용자 지시): 페이지 1606 → 1616, Orphan 0 유지, Broken 689 → 687**
+
+---
+
+# 세션 마무리 (2026-05-29 ~ 2026-06-01)
+
+- wiki 페이지: 987 → **1616** (+629, 64% ↑)
+- raw _ingested: ~374 → **975+**
+- Orphan: 647 → **0** (정책 100% 유지)
+- Broken link: 867 → **687** (-180)
+- 배치 클러스터: **59+**
+- git commit: **80+** (DiPoon author)
+
 ## [2026-06-01 06:00] ingest | 6 post-1600 batch (6 source, ~411줄) | touched: 11 pages
 - raw 6 source: Alkosh + Lion Guard + Kothringi + Bloodfall + Wind Keep + Songs of Vvardenfell → _ingested
 - 신성 1: alkosh (Khajiit Dragon King, Akatosh 대응)

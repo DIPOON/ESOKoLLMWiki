@@ -38,3 +38,6 @@ ingested_at: 2026-05-29
 
 
 - *[[ysgramor-dynasty|Ysgramor Dynasty]] — Yngol + Ylgar 2 아들의 *Skyrim 왕족 명맥, Tiber Septim도 Hjalti Early-Beard 후예 주장
+
+
+- *아들 *Yngol의 *무덤: *[[yngol-barrow|Yngol Barrow]] (Eastmarch, Helm of Winterhold 수호)

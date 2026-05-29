@@ -25,3 +25,5 @@ Yokuda is a continent west of Tamriel which partially sank into the sea during t
 
 
 - *언어: *[[yoku|Yoku]] (Yokudan/Redguard 모국어 + 영적 *언어. Book of Circles·Tu'whacca·Tall Papa·Satakal 신학의 원전 언어)
+
+- *고대 *Sword Singer 지역: *[[totambu|Totambu]] (Frandar Hunding + Hira 전장)

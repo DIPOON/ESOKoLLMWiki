@@ -29,3 +29,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Maormer.md` (95줄)
+
+
+- *3E 침공 *격퇴 *사건: *[[war-of-the-isle|War of the Isle]] (Summerset 인근 Altmer 격퇴)
