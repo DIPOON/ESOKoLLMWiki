@@ -190,6 +190,13 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-06-01 03:00] ingest | 2 end batch (2 source, ~82줄) | touched: 4 pages
+- raw 2 source: Hannibal Traven + Order of the Black Worm → _ingested
+- 인물 1: hannibal-traven (3E 433 Mages Guild Arch-Mage, Necromancy 공식 금지 주도)
+- 진영 1: order-of-the-black-worm (Mannimarco Worm Cult 공식 호칭)
+- 신규 link: mages-guild + necromancers-moon (hannibal-traven)
+- 최종: 페이지 1595 → 1597, Orphan 0 유지, Broken 693 유지
+
 ## [2026-06-01 02:00] ingest | 3 last batch (3 source, ~93줄) | touched: 5 pages
 - raw 3 source: Coldharbour Compact + Helstrom + Akaviri Empire → _ingested
 - 사건 1: coldharbour-compact (16 Princes Mortal 침공 제한 조약, Molag Bal Planemeld 위반)

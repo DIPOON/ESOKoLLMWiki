@@ -30,7 +30,7 @@ ingested_at: 2026-05-29
 - **2E 230경 — Psijic Order Vanus Galerion 추방** → *Galerion이 *Mages Guild 결성
 - **2E 321 — Imperial 인정**
 - **2E 582 — Three Banners War로 *분열·Eyevea 회수** (Vestige + Shalidor 협력)
-- **3E — Mannimarco·Worm Cult와의 *전쟁** — *Necromancy 공식 *금지 (Hannibal Traven 시기)
+- **3E — Mannimarco·Worm Cult와의 *전쟁** — *Necromancy 공식 *금지 ([[hannibal-traven|Hannibal Traven]] 시기)
 - **4E — Skyrim College of Winterhold + Mages Guild 분파**
 
 ## 신학·연관
