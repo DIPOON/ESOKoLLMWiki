@@ -52,3 +52,6 @@ ingested_at: 2026-05-29
 
 - *[[alchemy|Alchemy]] — Mages Guild 정식 *학문
 - *[[arcanists|Arcanists]] — Hermaeus Mora 후원 분파 (ESO Necrom)
+
+
+- *공식 *근거: *[[mages-guild-charter|Mages Guild Charter]] (2E 321 Imperial 인정 + Vanus Galerion 체계 + Necromancy 금지 규약)

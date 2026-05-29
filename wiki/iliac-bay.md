@@ -1,19 +1,15 @@
 ---
 term: Iliac Bay
-target_ko: 일리악 만
-target_de: 
-target_ja: 
-aliases: [Iliac Bay, 일리악 만, 일리악-만]
+aliases: ["Iliac Bay", Iliac]
 kind: entity
 category: 지명
 status: 확정
+ingested_at: 2026-05-29
 ---
 
-# Iliac Bay (일리악 만)
+# Iliac Bay
 
-## 채택 근거
-- 한국 ESO 커뮤니티 통용 표기 '일리악 만'.
-- [[high-rock|High Rock]]과 [[hammerfell|Hammerfell]] 사이의 큰 만.
+*[[high-rock|High Rock]]·[[hammerfell|Hammerfell]] 사이의 *해상 *경계 *bay*. *Wayrest·Daggerfall·Sentinel·Orsinium 등 *주요 *항구 *왕국이 *주변에 *위치*. *3E 405 *Warp in the West (Numidium Dragon Break) 사건의 *직접 *무대*. *Eternal Champion II Daggerfall (1996 게임) 무대.
 
-## 요약
-**High Rock과 Hammerfell을 가르는 큰 내해**. *Daggerfall*, *Sentinel*, *Wayrest* 등 도시가 위치. TES2 Daggerfall의 무대.
+## Source
+- `raw/Lore/Iliac Bay.md` (54줄)

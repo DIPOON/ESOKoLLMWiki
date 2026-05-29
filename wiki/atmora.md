@@ -22,3 +22,6 @@ Atmora, or Altmora in Aldmeris, (meaning "Elder Wood"), and referred to as "the 
 ## 출처
 - `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 22
 - 한국 ESO 커뮤니티 합의
+
+
+- *Ysgramor 침공의 *경로: *[[sea-of-ghosts|Sea of Ghosts]] (Atmora → Skyrim 횡단)

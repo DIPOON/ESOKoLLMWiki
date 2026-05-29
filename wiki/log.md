@@ -190,6 +190,13 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 19:00] ingest | 5 region 2 batch (5 source, ~322줄) | touched: 7 pages
+- raw 5 source: Camlorn + Evermore + Iliac Bay + Sea of Ghosts + Mages Guild Charter → _ingested
+- 지명 4: camlorn (Bretons Lion Guard), evermore (High Rock 동부), iliac-bay (Warp in the West 무대), sea-of-ghosts (Skyrim 북부, Atmoran 침공 경로)
+- 책 1: mages-guild-charter (2E 321 Imperial 인정)
+- 신규 link: mages-guild (charter), atmora (sea-of-ghosts)
+- 최종: 페이지 1565 → 1570, Orphan 0 유지, Broken 697 유지
+
 ## [2026-05-31 18:00] ingest | 8 varia batch (8 source, ~392줄) | touched: 15 pages
 - raw 8 source: Mulaamnir + Nahviintaas + Ruma Camoran + Spiritblood Clan + The Book of Daedra + The Burning of Senchal + Predecessors + Sea of Pearls → _ingested
 - 인물 3: mulaamnir + nahviintaas (ESO Elsweyr Dragon), ruma-camoran (Mankar Camoran 딸)
