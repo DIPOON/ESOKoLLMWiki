@@ -190,6 +190,13 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-06-01 05:00] ingest | 6 order batch — **1600 페이지 마일스톤** (6 source, ~139줄) | touched: 9 pages
+- raw 6 source: Akaviri Sunderblade + Stormcrown + Buoyant Armiger + Order of the Hour + Order of the Lamp + Ordinator → _ingested
+- 유물 2: akaviri-sunderblade (Akaviri 검술 검), stormcrown (Tiber Septim 영적 호)
+- 진영 4: buoyant-armiger (Vivec 직속), ordinator (Indoril Temple 경비), order-of-the-hour (Akatosh 직속 Cyrodiil), order-of-the-lamp (Mages Guild 경비)
+- 신규 link: dragonguard + tiber-septim + mages-guild
+- **최종: 페이지 1596 → 1600 (마일스톤!), Orphan 0 유지, Broken 693 → 689**
+
 ## [2026-06-01 04:00] ingest | 3 break-1600 batch (3 source, ~210줄) | touched: 4 pages
 - raw 3 source: Eltheric Ocean + Fa-Nuit-Hen + Ascendant Lord → _ingested
 - 지명 1: eltheric-ocean (Tamriel 서쪽 대양 + Maormer + Yokuda 이주 경로)

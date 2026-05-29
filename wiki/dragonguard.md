@@ -21,3 +21,5 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Dragonguard.md` (151줄)
+
+- *Akaviri 검술 *주된 *무기: *[[akaviri-sunderblade|Akaviri Sunderblade]]

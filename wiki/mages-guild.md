@@ -57,3 +57,5 @@ ingested_at: 2026-05-29
 - *공식 *근거: *[[mages-guild-charter|Mages Guild Charter]] (2E 321 Imperial 인정 + Vanus Galerion 체계 + Necromancy 금지 규약)
 
 - *학술 *동맹: *[[university-of-gwylim|University of Gwylim]] (High Rock 주요 학문 기관)
+
+- *경비 *분파: *[[order-of-the-lamp|Order of the Lamp]] (Vanus Galerion 시기 결성)

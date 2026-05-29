@@ -1,14 +1,15 @@
 ---
-name: "Ordinator (오디네이터)"
-aliases: [Ordinator, 오디네이터]
+term: Ordinator
+aliases: [Ordinator]
 kind: entity
 category: 진영
-status: stub
-created_at: 2026-05-28
+status: 확정
+ingested_at: 2026-05-29
 ---
 
-# Ordinator (오디네이터)
+# Ordinator
 
-> **Stub** — 이 페이지는 *최소 정의*만 있음. 자연 trigger 발생 시 §3.1 ingest 사이클로 *심층 보강*.
+*[[indoril|Indoril]] 가문 *전사 *Temple 경비*. *[[tribunal-temple|Tribunal Temple]] *공식 *경비 + Tribunal 신성 *수호*. *Vvardenfell + 본토 *모든 *Temple에 *Ordinator 거주. *High Ordinator (Mournhold 한정 *Almalexia 직속)도 *별도 *위계.
 
-*[[tribunal|Tribunal]] Temple의 *신앙기사단*. *[[vivec-city|Vivec City]]와 *Morrowind 신성 도시 *경비·이단 *심문*. *황금 *갑옷·Daedric 무기*.
+## Source
+- `raw/Lore/Ordinator.md` (5줄)

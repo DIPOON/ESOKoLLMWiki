@@ -1,22 +1,15 @@
 ---
 term: Order of the Hour
-target_ko: 시간 지배자
-target_de: 
-target_ja: 
-aliases: [Order of the Hour, 시간 지배자]
+aliases: ["Order of the Hour"]
 kind: entity
-category: 개념
+category: 진영
 status: 확정
-source_sheet: 확정됨
-source_row: 28
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Order of the Hour (시간 지배자)
+# Order of the Hour
 
-## 채택 근거
-(아이템 스타일)
+*Cyrodiil *[[akatosh|Akatosh]] 직속 *기사 *결사*. *Imperial City Temple of the One의 *경비*. *3E 433 *Mehrunes Dagon 직접 *공격 시 *White-Gold Tower 측 *방어. *4E 시기 *Talos 금지 후 *Akatosh 신앙의 *주된 *Mortal 측 *수호.
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *확정됨*, 행 28
-- 한국 ESO 커뮤니티 합의
+## Source
+- `raw/Lore/Order of the Hour.md` (68줄)

@@ -45,3 +45,5 @@ ingested_at: 2026-05-29
 
 
 - *Imperial Battlemage Zurin Arctus = *[[imperial-battlemages|Imperial Battlemages]] (Cyrodiil 황실 직속 마법사 전사)
+
+- *영적 *호: *Hjalti·Talos·Ysmir·[[stormcrown|Stormcrown]]
