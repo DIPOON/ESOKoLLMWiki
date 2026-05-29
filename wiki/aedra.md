@@ -82,9 +82,9 @@ ingested_at: 2026-05-28
 - **Liminal Barrier** = *Akatosh의 *Sublime Brazier 창조*. *Oblivion Crisis + Planemeld에 *Akatosh 권능 *결정적*.
 - **2E 582**: *Kyne (Keeper Ormi *복원), Y'ffre ([[indaenir|Indaenir]] *Silvenar 부활), Alkosh (Sai Sahan 부활), Mara (사후 *재회)*.
 - **3E 427**: *Divines avatar들이 *Nerevarine에 *나타남*.
-- **3E 433**: *Umaril 격파 후 *Hero of Kvatch *부활* + *Pelinal 알현*.
+- **3E 433**: *Umaril 격파 후 *Hero of Kvatch *부활* + *[[pelinal|Pelinal]] 알현*.
 - **4E 201**: *Mara·Arkay·Dibella가 *priestess에 *직접 통신*.
-- *Alkosh이 *Pelinal Whitestrake 추방 → *Sunspire의 *Time Wound*.
+- *Alkosh이 *[[pelinal|Pelinal Whitestrake]] 추방 → *Sunspire의 *Time Wound*.
 
 ## Realm
 - *대부분 *Aetherius*.

@@ -1,23 +1,23 @@
 ---
 term: Red Mountain
-target_ko: 붉은 산
-target_de: 
-target_ja: 
-aliases: ["Red Mountain", "붉은 산", "Dagoth-Ur (산)", "Vvardenfell 화산"]
+aliases: ["Red Mountain", "Red Tower", "Dagoth-Ur (산)"]
 kind: entity
 category: 지명
 status: 확정
+ingested_at: 2026-05-29
 ---
 
-# Red Mountain (붉은 산)
+# Red Mountain
 
-## 채택 근거
-- 한국 ESO 커뮤니티 통용 표기 '붉은 산'.
-- 영역: **Morrowind 중앙 화산**.
+*[[vvardenfell|Vvardenfell]] *중심 *화산 + Mundus *Tower 중 *하나*. *[[heart-of-lorkhan|Heart of Lorkhan]] 챔버 *내부*. *Battle of Red Mountain (1E 668)·Sixth House (3E 427)·Red Year (4E 5)의 *직접 *무대.
 
-## 요약
-**Vvardenfell 중앙의 거대 화산**. *Dagoth Ur 본거지*. *Heart of Lorkhan 매장지*. *Battle of Red Mountain 무대*.
+## Heart of Lorkhan 챔버
 
-## Tribunal 정기 순례
+*Red Mountain 내부 *깊은 *곳에 *Heart of Lorkhan 챔버*. *Kagrenac·Tribunal·Dagoth Ur 모두 *Heart 사용 *시도*. *Nerevarine이 *3E 427 *Heart 파괴.
 
-*[[battle-of-red-mountain|Battle of Red Mountain]] 후 *[[tribunal|Tribunal]] (Almalexia·Sotha Sil·Vivec)이 *연례적으로 *Red Mountain *순례*하여 *[[kagrenacs-tools|Kagrenac's Tools]]로 *Heart of Lorkhan에서 *신성 갱신*. *2E 882*에 *[[dagoth-ur|Dagoth Ur]] 각성하며 *이 순례를 *기습 + Tools 탈취 → *Tribunal의 *Heart 접근 *영구 차단*. *Tribunal 신성 *부식의 *시작점*. *Sotha Sil이 *대응으로 *[[mechanical-heart|Mechanical Heart]] 개발*.
+## Red Year (4E 5)
+
+*Vivec 실종 후 *Ministry of Truth (Vivec의 *고정 *moonlet)가 *Vvardenfell 직격 → *Red Mountain 거대 *폭발 → *Vvardenfell 대부분 *파괴 + Solstheim Dunmer 난민 *대량 *발생*. *Tribunal 신성 *몰락의 *결정적 *순간.
+
+## Source
+- `raw/Lore/Red Mountain.md` (89줄)

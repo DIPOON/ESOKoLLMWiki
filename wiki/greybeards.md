@@ -9,7 +9,7 @@ ingested_at: 2026-05-29
 
 # Greybeards
 
-*Way of the Voice의 *영적 *수행자*. *High Hrothgar (Throat of the World 산기슭) 본거지*. *Paarthurnax 후원*. *Voice를 *전투가 *아닌 *영적 *명상·기도에 *사용. *4E 201 *Last Dragonborn 호출.
+*Way of the Voice의 *영적 *수행자*. *High Hrothgar ([[throat-of-the-world|Throat of the World]] 산기슭) 본거지*. *Paarthurnax 후원*. *Voice를 *전투가 *아닌 *영적 *명상·기도에 *사용. *4E 201 *Last Dragonborn 호출.
 
 ## High Hrothgar
 

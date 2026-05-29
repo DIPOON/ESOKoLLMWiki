@@ -45,7 +45,7 @@ ingested_at: 2026-05-29
 ## 지리적 특징
 
 - *눈·빙하·험준한 산
-- *Throat of the World (Snow Throat) — *최고봉, Tower 신학
+- *[[throat-of-the-world|Throat of the World]] (Snow Throat) — *최고봉, Tower 신학
 - *Sea of Ghosts 북쪽
 - *Reach 서쪽 — *Reachfolk 영토 (현재 Forsworn)
 - *Solstheim 인근 섬 (Red Year 후 Dunmer 난민)

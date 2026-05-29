@@ -1,24 +1,23 @@
 ---
 term: Direnni
-target_ko: 디레니
-target_de: 
-target_ja: 
-aliases: [Direnni, 디레니]
+aliases: [Direnni, "Direnni Hegemony", "Direnni Clan"]
 kind: entity
-category: 지명
+category: 진영
 status: 확정
-source_sheet: 지명사전
-source_row: 54
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Direnni (디레니)
+# Direnni
 
-## 채택 근거 (UESP 자동 보강)
-The Direnni were a prominent clan of Altmer merchants who became a powerful dynasty that ruled High Rock during the First Era. They faced the Alessian Order at the Glenumbra Moors. The Direnni Tower on the Isle of Balfiera can be sighted from the shores of Glenumbra and Stormhaven, and the reportedly haunted family acropolis can be visited on Summerset Isle.
+*Aldmer Direnni Clan*. *Merethic 시기 *[[high-rock|High Rock]] 전체와 *Cyrodiil 일부 *통치 (Direnni Hegemony)*. *Nedic 노예와의 *혼혈로 *[[breton|Breton]] 종족 *형성. *Alessian Order의 *Mer 적대 *기획의 *주된 *대상.
 
-**출처**: `raw/Online/Direnni.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
+## 1E 482 — Battle of Glenumbria Moors
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 54
-- 한국 ESO 커뮤니티 합의
+*Alessian Order (Imperial 측, Marukhati 후예)와 *Direnni Hegemony의 *결전*. *Direnni 패배 → *High Rock 정치 영향력 *상실 → *Direnni 가문은 *Balfiera 섬 (Adamantine Tower 본거지)에 *은거.
+
+## Adamantine Tower
+
+*Direnni 가문이 *Adamantine Tower (Ada-Mantia, Mundus 최오래된 Tower, Convention 장소)의 *수호자*. *Direnni 한정 *Tower의 *영적 *전수 *지속.
+
+## Source
+- `raw/Lore/Direnni.md` (171줄)

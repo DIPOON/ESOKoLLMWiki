@@ -190,6 +190,16 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 12:00] ingest | 19 cosmology·history·tower batch (19 source, ~1131줄) | touched: 24 pages
+- raw 19 source: Mythic Dawn (79) + Mankar Camoran (69) + Pelinal (7) + Belharza (47) + Morihaus (63) + Alessia (81) + Marukh (37) + Heart of Lorkhan (86) + Mantling (45) + Tonal Architecture (40) + Kagrenac (62) + Kalpa (56) + Earth Bones (5) + Tower (6) + Towers (6) + Crystal Tower (68) + Red Mountain (89) + Throat of the World (114) + Direnni (171) → _ingested
+- Oblivion Crisis 2: mythic-dawn (Camoran Manifesto + Paradise), mankar-camoran (Bosmer-Altmer 혼혈)
+- Alessian Era 4: pelinal (Shezarrine), belharza (Minotaur 시조), morihaus (반-Aedric Bull), alessia (Akatosh Covenant + Eight Divines), marukh (Maruhkati Selectives + Middle Dawn Dragon Break)
+- Cosmic 핵심 5: heart-of-lorkhan (Convention 후 Red Mountain + Dwemer 사용 + Tribunal Apotheosis), mantling (Tiber → Talos), tonal-architecture (Dwemer 비신성 마법), kagrenac (Sunder/Keening/Wraithguard), kalpa (Alduin Kalpa 종결자)
+- Tower 4: earth-bones (Ehlnofey 물리법칙), towers (8 Mundus Tower), crystal-tower (Daedric Triad), red-mountain (Heart 챔버 + Red Year), throat-of-the-world (Time-Wound + Greybeards)
+- Direnni: Aldmer Direnni Clan + Battle of Glenumbria Moors
+- 신규 link: ehlnofey (Earth Bones), aedra/alessia (Pelinal), skyrim·thuum·greybeards (Throat of the World)
+- 최종: 페이지 1322 → 1340 (1 통합), Orphan 0 유지, Broken 871
+
 ## [2026-05-30 11:00] ingest | 19 dragon·voice·reach batch (19 source, ~897줄) | touched: 22 pages
 - raw 19 source: Paarthurnax + Odahviing + Miraak + Mirmulnir + Sahloknir + Durnehviir + Dragons + Dragon Cult + Dragon War + Dragonborn + Dovahzul + Thu'um + Greybeards + Tongues + Way of the Voice + Forsworn + Reachfolk + Hagraven + Briarheart → _ingested
 - Dragon 6: paarthurnax (Alduin 배반·Way of Voice), odahviing (Dragonsreach), miraak (첫 Dragonborn·Mora), mirmulnir (4E 첫 처치), sahloknir, durnehviir (Soul Cairn Undead)

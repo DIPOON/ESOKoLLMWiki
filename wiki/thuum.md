@@ -25,7 +25,7 @@ ingested_at: 2026-05-29
 
 ## [[way-of-the-voice|Way of the Voice]] — [[greybeards|Greybeards]]
 
-*[[greybeards|Greybeards]]가 *Way of the Voice 영적 *수행 → *Thu'um을 *전투가 *아닌 *영적 *명상에 *사용*. *High Hrothgar (Throat of the World 산기슭)에 *은거.
+*[[greybeards|Greybeards]]가 *Way of the Voice 영적 *수행 → *Thu'um을 *전투가 *아닌 *영적 *명상에 *사용*. *High Hrothgar ([[throat-of-the-world|Throat of the World]] 산기슭)에 *은거.
 
 ## Tongues (전투 Voice)
 

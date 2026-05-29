@@ -1,36 +1,31 @@
 ---
-name: "Heart of Lorkhan — Mundus 창조의 심장"
-aliases: [Heart of Lorkhan, Heart of the World]
+term: Heart of Lorkhan
+aliases: ["Heart of Lorkhan", "Heart of Shor", "Heart of the World", "Lorkhan's Heart"]
 kind: entity
-category: 개념
-location: Red Mountain
-source_uesp: "UESP: Lore:Heart of Lorkhan"
-ingested_at: 2026-05-28
+category: 유물
+status: 확정
+ingested_at: 2026-05-29
 ---
 
-# Heart of Lorkhan (로칸의 심장)
+# Heart of Lorkhan
 
-## 요약
-**[[lorkhan|Lorkhan]] 처형 시 *분리된 심장*** — *[[trinimac|Trinimac]] 또는 [[auriel|Auriel]]이 *활로 쏘아 Tamriel에 떨어뜨림** → *[[red-mountain|Red Mountain]] 깊은 곳*에 안치.
+*[[lorkhan|Lorkhan]]의 *심장*. *Convention 후 *Aedric Princes가 *Mortal 영혼 *Mundus 봉인 *대가로 *Lorkhan 처치·심장 *Red Mountain에 *던짐*. *[[dwemer|Dwemer]] (Kagrenac)이 *3 *도구 (Sunder·Keening·Wraithguard)로 *Heart 사용·Numidium 건설*. *Tribunal이 *Heart 사용으로 *Apotheosis. *Nerevarine이 *3E 427 *Heart 파괴.
 
-**[[kagrenac|Kagrenac]]의 도구 (Sunder, Keening, Wraithguard)**가 *심장을 *조작*하여 [[numidium|Numidium]] 동력원으로* 사용. *Battle of Red Mountain*의 핵심 사건.
+## Aedric 처치 후 *낙하
 
-[[36-lessons-of-vivec-sermon-36|Sermon 36]]: *Nerevar가 *전투 중 *Heart bone 처음 목격*. **Tribunal (Almalexia/Sotha Sil/Vivec)이 Heart에서 *신성을 *훔침** = *Sermon 29의 *살해 자백* 핵심 사건.
+*Convention 후 *Lorkhan이 *Aedric Princes에게 *처치되어 *심장이 *공중에서 *떨어짐 → *Tamriel Red Mountain에 *박힘 → *Vvardenfell의 *영적 *중심.
 
-## 등장
-- 36 Lessons (다수 sermon).
-- TES3 Morrowind 메인 퀘스트의 *최종 표적*.
+## Dwemer 사용 (1E 668)
 
-## 핵심
-- *Mundus 창조 + Tribunal 신성의 *공통 원천*.
-- *Lorkhan = Heart-less God* — *영원히 *심장 찾는 *Doom Drum*.
+*Kagrenac이 *Sunder·Keening·Wraithguard 3 *도구로 *Heart 동력 *추출·Numidium 건설*. *Battle of Red Mountain 시기 *Dwemer 종족 *전체가 *Heart 사용 의례 → *Aedric 형태 *변환 *시도 → *Dwemer 종족 *사라짐 (사라짐의 *정확한 *원인은 *논쟁).
 
-## Mechanical Heart — Sotha Sil의 *기계 복제*
+## Tribunal Apotheosis
 
-*2E 882* [[dagoth-ur|Dagoth Ur]] 사건으로 *Tribunal이 *Heart 접근 차단되자* *[[sotha-sil|Sotha Sil]]이 *[[mechanical-heart|Mechanical Heart]] 개발 *착수* — *Heart of Lorkhan의 *기계적 *복제 (Clockwork City 동력)*. *4E 200 완성*. *Sotha Sil의 *자체 [[kagrenacs-tools|Kagrenac's Tools]] 변종*도 *동시 *제작 (제어·해체용)*.
+*Vivec·Almalexia·Sotha Sil이 *Battle of Red Mountain 후 *Dwemer 도구로 *Heart 사용 → *3 *Mer 신성 (Tribunal) *Apotheosis*. *Walking Ways의 *대표 *사례.
 
-즉 *Heart of Lorkhan은 *원본 외에도 *Sotha Sil의 *기계 *변종*이 *존재* — *Mer-Made God의 *동력원이 *재생 가능*함을 *증명*.
+## Nerevarine 파괴 (3E 427)
 
-## 출처
-- UESP: Lore:Heart of Lorkhan
-- [[sotha-sil|Sotha Sil]], [[mechanical-heart|Mechanical Heart]] cascading
+*Nerevarine이 *Heart 챔버 도달 → *3 *도구로 *Heart 파괴 → *Dagoth Ur 사망 + Tribunal Magicka 상실 *시작 → *Morrowind 영적 *4E *재편의 *근본 *원인.
+
+## Source
+- `raw/Lore/Heart of Lorkhan.md` (86줄)
