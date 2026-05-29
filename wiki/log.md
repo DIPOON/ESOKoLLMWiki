@@ -25,6 +25,14 @@ Append-only record of ingests, queries, lint passes, and structural maintenance.
 - **Low**: `.idea/` git 추적 해제 (`git rm --cached -r .idea/`) + `.gitignore`에 `.idea/` 추가. 워킹 트리 파일은 유지 (사용자 IDE 개인 설정).
 - **Medium**: `wiki/decisions/2026-06-01-v2-reset.md`의 ⏳ pending 항목들 ✅로 갱신 (Obsidian 설정·시작 source·pace·Codex 역할 모두 합의됨).
 
+## [2026-06-01] correction | userIgnoreFilters는 `"raw/"`가 정답 (regex anchor 사용 금지)
+
+- 이전 entry (`[2026-06-01] setup | Obsidian raw 제외 + processed 폴더 사전 생성`)에서 Claude가 `"raw/"` → `"^raw/"`로 "정확화"했지만 실제로는 *비정확화*였음.
+- 사용자가 Obsidian에서 직접 확인한 결과 graph에 raw 노드가 계속 보였고, `^` 빼야 정상 작동.
+- 진단: Obsidian의 `userIgnoreFilters`는 regex anchor (`^`) 적용 시 매칭 실패. GUI에서 입력한 형식 (`raw/`)이 정답.
+- 조치: `.obsidian/app.json`을 `"raw/"`로 되돌림. CLAUDE.md §4에 ⚠️ 경고 추가. memory에 `reference-obsidian-ignore-filter-syntax` 신규.
+- 교훈: Obsidian 설정 변경 시 사용자의 GUI 입력 원형을 *건드리지 말 것*. "정확화"라며 regex 문법 강제하지 말 것.
+
 ## [2026-06-01] setup | v2 polish 2 (리뷰 의견 7건 추가 반영)
 
 CLAUDE.md 정정:

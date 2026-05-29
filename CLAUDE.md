@@ -52,7 +52,7 @@
 - `wiki/` = **검증된 백과사전**. 모든 페이지는 source-backed.
 - **wiki 본문 `[[X]]`는 *반드시* `wiki/.../X.md`에 페이지가 존재**해야 함. 미해결 링크는 *stub 즉시 생성* 또는 *평문화* 둘 중 하나. stub 생성 기준은 §11 참조 (substantive 기준 엄격).
 - **raw 노드로 직접 wikilink 금지**. raw 안의 UESP MediaWiki 마크업 (`{{Lore Link|X}}`, `[[Lore:X|...]]`)이 Obsidian vault scope에서 해석되어 graph 오염되는 것 *방지 필요*.
-- **Obsidian vault scope에서 raw/ 제외 (필수)**: `.obsidian/app.json`의 `userIgnoreFilters`에 `^raw/` 추가 **필수**. raw의 UESP wikilink가 vault graph를 오염시키므로 권장이 아닌 *required*. (현재 설정됨)
+- **Obsidian vault scope에서 raw/ 제외 (필수)**: `.obsidian/app.json`의 `userIgnoreFilters`에 `"raw/"` 추가 **필수**. raw의 UESP wikilink가 vault graph를 오염시키므로 권장이 아닌 *required*. (현재 설정됨) ⚠️ regex anchor (`^raw/`)는 *사용 금지* — Obsidian의 매칭 동작과 안 맞아서 ignore가 작동하지 않음. GUI에서 입력한 그대로 (`raw/`)의 형식이 정답.
 - **source 인용**은 다음 셋 중 하나:
   - **source-note 링크**: `[[UESP - Lore - X]]` (wiki/source-notes/ 안)
   - **frontmatter `source_path:`** (raw 경로 명시)
