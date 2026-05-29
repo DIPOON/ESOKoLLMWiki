@@ -13,14 +13,15 @@ ESOKoLLMWiki 전체 카탈로그. *flat namespace 마이그레이션 후 *재구
 
 | 항목 | 수 | 비고 |
 |---|---|---|
-| **wiki 페이지 (kind 보유)** | **1565** | entity ~1370+ + book + decisions 9 + 기타 |
-| Entity 추가 (이번 세션) | +578 | 신학·종족·지역·인물·사건·유물·진영·개념 cascade |
+| **wiki 페이지 (kind 보유)** | **1583** | entity ~1390+ + book + decisions 9 + 기타 |
+| Entity 추가 (이번 세션) | +596 | 신학·종족·지역·인물·사건·유물·진영·개념 cascade |
 | Book | 200+ | raw → 단일 책/문서 흡수 + 시리즈 색인 |
 | Decisions | 9 | wiki/decisions/ |
-| raw _ingested (Lore 폴더) | **924** | 13950+ 중 6.6% 처리 (대부분 마이너 item) |
-| Broken link (unique) | **697** | 마이그레이션 직후 867 → 추가 stub로 ↓ (-170) |
+| raw _ingested (Lore 폴더) | **950** | 13950+ 중 6.8% 처리 (대부분 마이너 item) |
+| Broken link (unique) | **693** | 마이그레이션 직후 867 → 추가 stub로 ↓ (-174) |
 | Orphan (in-link 0) | **0** | 정책: 새 페이지 100% in-link 보장 + 즉시 wikilink |
-| 이번 세션 배치 수 | **47+** | 평균 5-22 페이지/배치, 각 배치당 cascade + commit |
+| 이번 세션 배치 수 | **50+** | 평균 5-22 페이지/배치, 각 배치당 cascade + commit |
+| 이번 세션 git commit | **67+** | 각 클러스터별 1-2 commit |
 
 ## 이번 세션 (2026-05-29) 핵심 ingest 카테고리
 
