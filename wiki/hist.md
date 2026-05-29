@@ -21,7 +21,7 @@ ingested_at: 2026-05-29
 
 ## Sithis와의 *연결
 
-*Argonian이 *[[sithis|Sithis]] (Padomay)와 *깊은 *친화 — *Hist sap이 *Void 접근의 *매개*. *Shadowscale 등 *Sithis 추종 *Argonian 조직*.
+*Argonian이 *[[sithis|Sithis]] (Padomay)와 *깊은 *친화 — *[[hist-sap|Hist sap]]이 *Void 접근의 *매개*. *[[shadowscale|Shadowscale]] 등 *Sithis 추종 *Argonian 조직*.
 
 ## 우주적 *역할
 

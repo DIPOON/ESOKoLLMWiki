@@ -1,38 +1,26 @@
 ---
 term: Green Pact
-target_ko: 녹색 조약
-target_de: 
-target_ja: 
-aliases: [Green Pact, 녹색 조약]
+aliases: ["Green Pact"]
 kind: entity
 category: 개념
 status: 확정
-source_sheet: 기타사전
-source_row: 26
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Green Pact (녹색 조약)
+# Green Pact
 
-## 채택 근거 (UESP 자동 보강)
-Green Pact is an overland set that drops in Grahtwood. It cannot be crafted. Pieces are Wood Elf Style in Heavy Armor.
+*[[bosmer|Bosmer]]가 *[[y-ffre|Y'ffre]] (Forest God)와 *맺은 *영적 *계약*. *Valenwood 안에서 *식물 (살아있는 *나무·꽃·잎)을 *훼손하지 *않음. *대신 *육식 *(Bosmer Mortal 시체 *섭취 포함)이 *유일한 *식량 *허용.
 
-<onlyinclude>
-2 items: Adds <br>
-3 items: Adds <br>
-4 items: Adds <br>
-5 items: While you have a food buff active, your is increased by 58-2500 and by 8-356.
-</onlyinclude>
+## 4가지 *내용
 
-The set consists of heavy armor and jewelry in all slots, as well as weapons and shields of all types. Unique pieces include:
-* , a unique drop from Lieutenant Khari.
-* , a unique drop from Spider Queen.
-* , a unique drop from Nindaeril the Monsoon.
-* , a unique drop from Valanir the Restless.
-* , a quest reward for Heart of the Matter.
+1. *Valenwood 식물·나무 *훼손 *금지 (살아 *있는 *것만; *죽은 *나무는 *건드릴 수 *없음 — *Bosmer는 *Valenwood 외부에서 *목재 *수입 *필수)
+2. *Bosmer 육식 *허용 (살, *생선, *벌레, *Mortal 시체)
+3. *Bosmer 시체가 *Bosmer 동족에게 *직접 *섭취 (Ooze of the Forest 의례)
+4. *Wild Hunt 의례 *수행 *허용 (Y'ffre의 *유일 *예외)
 
-**출처**: `raw/Online/Green Pact.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
+## Bosmer 도시
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *기타사전*, 행 26
-- 한국 ESO 커뮤니티 합의
+*Valenwood 도시는 *Green Pact로 *Graht-oak (살아 있는 *거대 *나무) 안에 *조각해서 *건설. *Elden Root 등.
+
+## Source
+- `raw/Lore/Green Pact.md` (49줄)

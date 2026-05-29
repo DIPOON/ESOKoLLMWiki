@@ -1,24 +1,30 @@
 ---
 term: Dremora
-target_ko: 드레모라
-target_de: 
-target_ja: 
-aliases: [Dremora, 드레모라]
+aliases: [Dremora, "Dremora Lord", Markynaz, Kynval, Kynreeve, Caitiff]
 kind: entity
 category: 종족
 status: 확정
-source_sheet: 기타사전
-source_row: 59
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Dremora (드레모라)
+# Dremora
 
-## 채택 근거 (UESP 자동 보강)
-Dremora are an intelligent, humanoid Daedric race that despises mortals. They refer to themselves as the Kyn. While Dremora are commonly associated with Mehrunes Dagon, various clans can be found serving most of the Princes, though some of the clans are not aligned with anyone and act as mercenaries in Oblivion.
+*[[mehrunes-dagon|Mehrunes Dagon]] (또는 다른 Daedric Prince)의 *주된 *전사 *종족*. *Aedric 인간형 *외양 + 검은·붉은 *피부 + 뿔. *Mortal 언어 (Daedric)와 *Mortal 도구 (Daedric 무기·방패) *사용. *4 *Caste *위계.
 
-**출처**: `raw/Online/Dremora.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
+## Dremora 위계
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *기타사전*, 행 59
-- 한국 ESO 커뮤니티 합의
+- **Markynaz** — *Dremora 귀족·장군
+- **Kynval** — *Mages·전사
+- **Kynreeve** — *중간 *지휘
+- **Churl·Caitiff** — *낮은 *전사
+
+## Mehrunes Dagon Realm
+
+*Deadlands의 *주된 *전사 *종족*. *3E 433 *Oblivion Crisis에서 *Mythic Dawn 측 *주력*. *Battlespire (1E *영원한 *Imperial 무사 *훈련소)에서 *Daedric Hierarchy 관찰 *가능.
+
+## 4E Skyrim — Sanguine 등
+
+*다른 *Daedric Princes에게도 *종속 *가능*. *Sanguine·Hermaeus Mora·Mephala·Vaermina 등 *각 *Prince의 *Dremora 거주.
+
+## Source
+- `raw/Lore/Dremora.md` (104줄)

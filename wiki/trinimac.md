@@ -1,31 +1,27 @@
 ---
-name: "Trinimac — Aedric 전사신, Malacath 이전 형태"
-aliases: [Trinimac, Trinimaxus]
+term: Trinimac
+aliases: [Trinimac]
 kind: entity
 category: 신성
-domain: 전사·강인함
-source_uesp: "UESP: Lore:Trinimac"
-ingested_at: 2026-05-28
+status: 확정
+ingested_at: 2026-05-29
 ---
 
-# Trinimac (트리니맥)
+# Trinimac
 
-## 요약
-**원래 *가장 강력한 Aedric 영웅신*** — *[[aldmer|Aldmer]]의 *주신 중 하나*, *[[lorkhan|Lorkhan]]의 *심장 분리* 처형자*. 
+*원래 *Aldmeri Aedric 강력한 *전사신 (Auriel의 *주된 *champion)*. *Boethiah가 *Trinimac을 *모욕·먹어 *Trinimac을 *Malacath (Mauloch)로 *영원 *변환 → *Aldmer Trinimac 추종자가 *Orsimer (Orc) 종족으로 *영원 *변환*. *Orsimer/Orc 종족의 *영적 *기원.
 
-**그러나 [[boethiah|Boethiah]]가 Trinimac을 *삼킨 후* *그의 가죽을 입고 Veloth 백성 인도*** → *Trinimac은 *변형되어 [[malacath|Malacath]]가 됨*. *그의 추종자도 *변형되어 [[orsimer|Orsimer (Orcs)]]가 됨*.
+## Boethiah의 *Trinimac 모욕
 
-[[36-lessons-of-vivec-sermon-8|Sermon 8]]: Vivec이 *"Boethiah-who-is-you가 Trinimac 가죽을 입고 Veloth 정화"*라 명시.
+*전승 *(Sermon, Daedric 신학 텍스트):
+1. *Boethiah가 *Trinimac을 *제자로 *유혹
+2. *Trinimac을 *영적으로 *모욕·삼킴
+3. *Boethiah의 *몸 *내부에서 *Trinimac이 *변형된 *형태로 *배출 → *Malacath (Mauloch)
+4. *Aldmer Trinimac 추종자가 *동시에 *Orsimer로 *영적 *변환
 
-## 핵심
-- **Aedric 신이 Daedric Prince로 *변형된* 유일 사례**.
-- *Orsimer 종족 기원의 *신학적 설명*.
-- *Altmer 신앙*에서는 *여전히 Trinimac 숭배 잔존* (소수파).
+## 평가
 
-## 관련
-- [[malacath|Malacath (말라카스)]] — 변형 후 형태
-- [[boethiah|Boethiah]] — 변형 가해자
-- [[orsimer|Orsimer]] — 변형된 추종자
+*Trinimac = *Aldmer Aedric의 *비극*. *Boethiah가 *Aldmer 자유 의지의 *영원한 *수호자*. *Orsimer 종족이 *수세기 *Outcast 정체성의 *영적 *기반.
 
-## 출처
-- UESP: Lore:Trinimac
+## Source
+- `raw/Lore/Trinimac.md` (106줄)

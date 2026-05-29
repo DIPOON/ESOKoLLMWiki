@@ -9,7 +9,7 @@ ingested_at: 2026-05-29
 
 # Khajiit
 
-**[[elsweyr|Elsweyr]] 토착 *고양이 *종족**. *17 *Furstock (subraces, *Masser/Secunda 위상에 결정)*. *복합 *신학 + Moon Sugar 문화*.
+**[[elsweyr|Elsweyr]] 토착 *고양이 *종족**. *17 *Furstock ([[lunar-lattice|Lunar Lattice]] 시스템에 따라 *Masser/Secunda 위상에 *결정)*. *복합 *[[khajiit-religion|Khajiit Religion]] + Moon Sugar 문화*.
 
 ## Furstock 17
 

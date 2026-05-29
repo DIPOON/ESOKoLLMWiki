@@ -190,6 +190,18 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 13:00] ingest | 21 culture·pantheon·creature batch (21 source, ~814줄) | touched: 26 pages
+- raw 21 source 처리. 종족별 깊이·Daedra 종류·Yokudan 신학·Bosmer 의례:
+- Khajiit 3: riddle-thar (Two-Moons Path), khajiit-religion (Aedric 대응 + 고유 신 8), lunar-lattice (17 Furstock 결정 시스템)
+- Argonian 3: hist-sap (Argonian 영적 수액), an-xileel (4E Morrowind 침공), shadowscale (Sithis Argonian 암살 조직)
+- Bosmer 3: green-pact (Y'ffre 식물 금지 + 육식 의례), wild-hunt (Daedric 변환 의례 + 영원 사례), camoran-dynasty
+- Daedric 종족 4: atronach (4 원소), dremora (4 Caste), daedroth, lesser-daedra
+- Dragon Cult: dragon-priest (9 주요 Priest + Mask)
+- Yokudan 신학 4: hoonding (Make Way Redguard), tall-papa (Ruptga), satakal (자기 식 뱀), tu-whacca (Far Shores), 
+- Aedric 추가 3: y-ffre (Storyteller + Mundus 분류), mauloch (Orsimer Malacath), trinimac (Boethiah 변환 → Malacath)
+- 신규 link: mankar-camoran (Camoran), hist (hist-sap + shadowscale), ruptga (Tall Papa), khajiit (Lunar Lattice + Khajiit Religion), daedra (Lesser Daedra 분류)
+- 최종: 페이지 1340 → 1355, Orphan 0 유지, Broken 865
+
 ## [2026-05-30 12:00] ingest | 19 cosmology·history·tower batch (19 source, ~1131줄) | touched: 24 pages
 - raw 19 source: Mythic Dawn (79) + Mankar Camoran (69) + Pelinal (7) + Belharza (47) + Morihaus (63) + Alessia (81) + Marukh (37) + Heart of Lorkhan (86) + Mantling (45) + Tonal Architecture (40) + Kagrenac (62) + Kalpa (56) + Earth Bones (5) + Tower (6) + Towers (6) + Crystal Tower (68) + Red Mountain (89) + Throat of the World (114) + Direnni (171) → _ingested
 - Oblivion Crisis 2: mythic-dawn (Camoran Manifesto + Paradise), mankar-camoran (Bosmer-Altmer 혼혈)

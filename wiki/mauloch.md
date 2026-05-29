@@ -1,22 +1,15 @@
 ---
 term: Mauloch
-target_ko: 말록
-target_de: 
-target_ja: 
-aliases: [Mauloch, 말록]
+aliases: [Mauloch, "Malacath (Orsimer 형태)"]
 kind: entity
-category: 인물
+category: 신성
 status: 확정
-source_sheet: 인명사전
-source_row: 62
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Mauloch (말록)
+# Mauloch
 
-## 채택 근거
-말라카스의 이명.
+*[[orsimer|Orsimer]]/Orc *Malacath의 *직접 *이름*. *Mauloch가 *Orsimer의 *직접 *조상 *신*. *Trinimac의 *Boethiah-Malacath 변환 후 *결과로 *Orsimer 종족이 *형성됨 (Boethiah가 *Trinimac을 *Boethiah가 *모욕·먹은 후 *Trinimac → Malacath = Mauloch)*. *Bedlam 호명.
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *인명사전*, 행 62
-- 한국 ESO 커뮤니티 합의
+## Source
+- `raw/Lore/Mauloch.md` (4줄)
