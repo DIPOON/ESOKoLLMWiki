@@ -1,19 +1,31 @@
 ---
 term: Falmer
-target_ko: 팔머
-target_de: 
-target_ja: 
-aliases: [Falmer, 팔머, "Snow Elves"]
+aliases: [Falmer, "Snow Elves", "Ice Elves", "Old Falmer", Betrayed, "Snow Elf"]
 kind: entity
 category: 종족
 status: 확정
+ingested_at: 2026-05-29
 ---
 
-# Falmer (팔머)
+# Falmer
 
-## 채택 근거
-- 한국 ESO 커뮤니티 통용 표기 '팔머'.
-- 영역: **Snow Elves (변질)**.
+*Aldmer 분파 *Mer 종족*. *Atmoran 시기 *Skyrim 토착 *고대 *문명*. *Ysgramor의 *Five Hundred Companions에 *학살 → *대부분 *멸절 + 지하 *Dwemer 노예 *생존 → *Dwemer 약물로 *눈 *멀고 *변형됨*.
 
-## 요약
-**Skyrim의 Snow Elves**. *Atmoran 침공*에 패배 → Dwemer에게 도움 청함 → 노예화 + 눈멀게 됨 → 후일 *Falmer 변종*으로 변질.
+## Old Falmer
+
+*Snow Elf 정통 — *Aldmeri 정통 *신앙 + Auri-El (Akatosh)*. *Skyrim 전역 *고대 *수정·얼음 *도시 (Saarthal 등)*. *Atmoran 침공 (Ysgramor) 시 *대부분 *학살*.
+
+## Betrayed (지하 Falmer)
+
+*지하 도주 시 *Dwemer가 *노예로 *수용 → *조건부 *생존 — *눈 *멀게 하는 *식물 *섭취 강요 → *세대 *반복으로 *눈 *멀고 *외형 *변형 → *4E *"Falmer" (지하 *야만 종족)*. *원래 *외형·언어·문화 *대부분 *상실*.
+
+## 4E — Snow Elves 잔존
+
+*Skyrim Dragonborn DLC *Forgotten Vale에 *순수 *Snow Elf 잔존 *발견 — *Auriel's Bow 사용·Knight-Paladin Gelebor 등.
+
+## 평가
+
+*Falmer = *Tamriel 인종적 *비극의 *대표*. *Old Falmer 정통은 *Aldmeri 문화의 *Skyrim 분파*. *Betrayed 형태는 *Dwemer의 *Mer 형제에 *대한 *극단적 *학대의 *결과*. *Ysgramor·Atmoran 영광의 *어두운 *대가.
+
+## Source
+- `raw/Lore/Falmer.md` (91줄)

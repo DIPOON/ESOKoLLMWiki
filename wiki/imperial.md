@@ -9,7 +9,7 @@ ingested_at: 2026-05-29
 
 # Imperial
 
-**[[cyrodiil|Cyrodiil]] 토착 *Man 종족**. *Tamriel *Imperial Empire (Septim·Reman·Alessian) *전 *3 *제국의 *주도*. *Nedic 후예 (Atmoran *Nord와 *혼혈 + Aldmer 일부 영향)*.
+**[[cyrodiil|Cyrodiil]] 토착 *Man 종족**. *Tamriel *Imperial Empire (Septim·Reman·Alessian) *전 *3 *제국의 *주도*. *[[nedic|Nedic]] 후예 (Atmoran *Nord와 *혼혈 + Aldmer 일부 영향)*.
 
 ## 두 *분파
 

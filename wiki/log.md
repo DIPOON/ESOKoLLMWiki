@@ -190,6 +190,20 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 00:00 (5/30)] ingest | 사라진 종족 + Hist 9 batch (9 source, 939줄) | touched: 9 pages
+- raw 9 source: Dwemer (247) + Falmer (91) + Ayleid (274) + Atmoran (5 redirect) + Nedic (4 redirect) + Hist (117) + Sload (102) + Reachman (4 redirect) + Maormer (95) → _ingested
+- 9 페이지 심층 재작성:
+  - dwemer: Aldmer 분파, Tonal Architecture, Animunculi, Numidium, Battle of Red Mountain에서 종족 동시 제거
+  - falmer: Old Falmer (Snow Elves), Ysgramor 학살, Dwemer 노예→Betrayed, Forgotten Vale 잔존
+  - ayleid: Wild Elves, Welkynd·Varla Stones, Daedric Worship, Alessian Slave Rebellion 추방
+  - atmoran: Nord 직계 조상, Five Hundred Companions, Dragon Cult 원천
+  - nedic: Tamriel Man 시조, Imperial·Breton·Kothringi 분기
+  - hist: Argonian 시조 나무 신, Convention 이전 우주적 존재, Sithis 연결, root mind
+  - sload: Thrassian Plague, All Flags Navy, Daedric Triad·Z'Maja 협력
+  - reachman: 5 Hircine Aspects, Hagraven 변형, Longhouse Emperors, Forsworn Uprising
+  - maormer: Pyandonea Sea Elves, Sun Lord Orgnum, Summerset 침공
+- 최종: 페이지 1181 → 1183, Orphan 0 유지, Broken 920
+
 ## [2026-05-29 22:30] ingest+lint | 28 lint stub + 대형 사건/인물 10 batch (10 source) | touched: 38 pages
 - batch lint: top broken 28 stub 생성: fadomai, auri-el, ebonarm, deadlands, darien-gautier, longhouse-emperors, oblivion-crisis, lyg, magna-ge, lorkhaj, neb-crescen, tel-aruhn, kothringi, gilverdale, euraxia-tharn, kaalgrontiid, markarth, murkmire, grabber, birthsigns, war-of-the-first-council, dissident-priests, house-dagoth, ruelde, dragon, blackcaster-mages-guild, hagraven, welkynd-stone
 - 대형 사건+인물 10 source: Battle of Red Mountain (87) + Mannimarco (278) + Ysgramor (154) + Tiber Septim (297) + Talos (45) + Reman (66) + Ayrenn (87) + Ulfric Stormcloak (78) + Pelinal Whitestrake (119) + Lamae Bal (54) → _ingested + 심층 재작성

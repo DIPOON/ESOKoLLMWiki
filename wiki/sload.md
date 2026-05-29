@@ -1,22 +1,31 @@
 ---
 term: Sload
-target_ko: 슬로드
-target_de: 
-target_ja: 
-aliases: [Sload, 슬로드]
+aliases: [Sload, 슬로드, "Sea Sload", Slug-Folk, Thrassian]
 kind: entity
 category: 종족
 status: 확정
-source_sheet: 기타사전
-source_row: 61
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Sload (슬로드)
+# Sload
 
-## 채택 근거
-종족명임. sea sload 는 그냥 바다 슬로드 정도로 하면 될거같음.
+*[[thras|Thras]] (Sea of Pearls의 *섬 군도) 토착 *slug 종족*. *Tamriel과 *적대적 *교류*. *지능 *높지만 *공포·역겨움의 *대상.
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *기타사전*, 행 61
-- 한국 ESO 커뮤니티 합의
+## Thrassian Plague (1E 2200경)
+
+*Sload가 *Tamriel에 *Plague 살포 → *대륙 *수백만 *사망*. *복수로 *[[all-flags-navy|All Flags Navy]] (Baron Admiral [[bendu-olo|Bendu Olo]] 지휘)가 *Thras 침공·파괴 (1E 2920)*. *Sload 대부분 *멸절·일부 *잔존.
+
+## 2E — Sea Sload K'Tora
+
+*Daedric Triad (Clavicus Vile + Mephala + Nocturnal)와 *결탁 → *Heart of Transparent Law 강탈 *음모*. *Psijic Ritemaster Iachesis 조작. *2E 582 Vestige가 *격파.
+
+## Z'Maja — Cloudrest
+
+*2E 582 *Sea Sload sorceress Z'Maja가 *Nocturnal의 *Amulet으로 *Cloudrest (Summerset) *수많은 *Altmer 살해. *Vestige가 *격파.
+
+## 평가
+
+*Sload = *Tamriel 외부 *적대 종족의 *대표*. *Plague 살포의 *기원*. *Daedric Princes (특히 *Nocturnal·Mephala·Vile)와 *결탁의 *역사. *대부분 *멸절이나 *2E *재출현.
+
+## Source
+- `raw/Lore/Sload.md` (102줄)

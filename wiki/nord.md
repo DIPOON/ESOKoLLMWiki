@@ -42,7 +42,7 @@ ingested_at: 2026-05-29
 
 ## 평가
 
-*Nord = *Atmoran 후예 *전사 *문화의 *극치*. *Shor (Lorkhan) 정통 신앙의 *주 *수호자 (Aldmer 적대 *시각과 *완전 *반대)*. *Dragon Cult의 *유산 (Word Walls·Greybeards)*. *Talos 신앙의 *민족적 *근거.
+*Nord = *[[atmoran|Atmoran]] 후예 *전사 *문화의 *극치*. *Shor (Lorkhan) 정통 신앙의 *주 *수호자 (Aldmer 적대 *시각과 *완전 *반대)*. *Dragon Cult의 *유산 (Word Walls·Greybeards)*. *Talos 신앙의 *민족적 *근거.
 
 ## Source
 - `raw/Lore/Nord.md` (306줄)
