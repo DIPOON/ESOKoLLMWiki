@@ -4,6 +4,23 @@ Append-only record of ingests, queries, lint passes, and structural maintenance.
 
 ---
 
+## [2026-05-30] ingest | UESP Lore:Vvardenfell
+
+- Processed `raw/Lore/Vvardenfell.md` (116줄, UESP community-reference).
+- Source-note: `wiki/source-notes/UESP - Lore - Vvardenfell.md`. Summary + Key Claims (시대별 + 지리 + 정치 + 종교 + Foyada) + Source Limits (ESO 시점 정보 부족, {{fact}} 다수, 시대 혼재) + Follow-Up Sources 10개.
+- 메인 페이지: `wiki/places/Vvardenfell.md` (status: partial). 본 source가 Lore 중심이라 ESO Context 빈약 — 다음 ingest (raw/Online/Vvardenfell.md)로 보강 예정 명시.
+- §11 substantive 기준 8 stub:
+  - places: Red Mountain, Vivec City, Ministry of Truth
+  - factions: Tribunal Temple, House Dagoth
+  - events: Battle of Red Mountain, Red Year
+  - people: Vivec
+- 평문 처리 (stub 안 만듦): Inner Sea, Armistice, Accession War, Foyada, Numidium, Eternal Champion, Jagar Tharn, Katariah, Vuhon, Sul, Ilzheven, Ingenium, Vedam Dren, Llethan, House Hlaalu/Redoran/Telvanni, Dwemer, Chimer, Dunmer, Ashlanders, Reclamations, Nine Divines, House of Troubles, Velothi, Saint Veloth, East Empire Company, Foyada Mamaea, Disappearance of the Dwarves, Dissident Priests, Imperial Provincial District 등 약 30+ entity는 다음 ingest까지 평문 유지.
+- index.md: 8 신규 페이지 + source-note 카탈로그 등록.
+- raw move: `raw/Lore/Vvardenfell.md` → `raw/processed/Lore/Vvardenfell.md`.
+- 첫 v2 ingest. 1 source = 1 commit 원칙 첫 적용.
+
+---
+
 ## [2026-06-01] setup | v2 reset 초기 vault 구조
 
 - v1 wiki (1616 페이지, 989 raw processed)를 `archive/v1-claude-flat-wiki` 브랜치에 백업.
