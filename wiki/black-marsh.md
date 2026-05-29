@@ -46,3 +46,5 @@ ingested_at: 2026-05-29
 - *Hist 영적 *유물: *[[eye-of-argonia|Eye of Argonia]] (Argonian 고대 영적 중심)
 
 - *Hist 영적 *순례지: *[[salas-en|Salas En]] (ESO Murkmire DLC)
+
+- *Imperial 시기 *주요 도시: *[[helstrom|Helstrom]] (3E Argonian 측 수도, 4E Argonian Invasion 시기 파괴)

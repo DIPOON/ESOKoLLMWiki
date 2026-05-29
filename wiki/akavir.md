@@ -39,3 +39,6 @@ ingested_at: 2026-05-29
 - *[[kamal|Kamal]] — *Snow Demons (2E 572 Stonefalls 침공)
 - *[[po-tun|Po Tun]] — *Tiger-Dragon
 - *Tang Mo — *Monkey-People
+
+
+- *[[akaviri-empire|Akaviri Empire]] (Tsaesci 또는 Po Tun 주도 대륙 Empire)
