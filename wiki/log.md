@@ -190,6 +190,10 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 02:00] lint | top broken 26 stub batch | touched: 26 pages
+- 신규 stub 26: dragonguard, empire, akaviri, hlaalu-helseth, barenziah, nixad, saint-felms, ardent-hope, destructions-solace, alessian-order, lilmothiit, wrothgar, druids, faolchu, jagar-tharn, ivyhame, vinedusk-rangers, mortuum-vivicus, at-addin-syndicate, house-vien, thazahrr-cartel, gurges-and-associates, order-of-the-black-worm, forgotten-hero, sea-sload, scathing-bay
+- 최종: 페이지 1190 → 1216, Orphan 0 유지, Broken 891
+
 ## [2026-05-30 01:00] ingest | Akavir 5 + Oblivion Crisis 4 batch (5 source) | touched: 9 pages
 - raw 5 source: Akaviri (42) + Tsaesci (131) + Kamal (20) + Tang Mo (12) + Ka Po' Tun (21) → _ingested
 - 9 페이지 심층 재작성 (Akavir 5 + Oblivion Crisis 4):
