@@ -190,6 +190,20 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 05:00] ingest | 9 주요 guild batch (9 source, 1187줄) | touched: 9 pages
+- raw 9 source: Mages Guild (202) + Fighters Guild (74) + Thieves Guild (66) + Dark Brotherhood (202) + Morag Tong (85) + Companions (157) + Psijic Order (214) + Blades (181) + Vigilants of Stendarr (6) → _ingested
+- 9 페이지 심층 재작성:
+  - mages-guild: Vanus Galerion 결성, Arch-Mage 위계, Eyevea, Necromancy 금지
+  - fighters-guild: 2E 321 공식화, Akaviri Fighters Guild 전신, Blackwood Company 경쟁
+  - thieves-guild: Gray Fox/Nightingale, Hew's Bane (Abah's Landing), Shadowmark
+  - dark-brotherhood: Sithis + Night Mother, Five Tenets, Morag Tong과 원수
+  - morag-tong: Mephala 창립, Writs of Execution, Dark Brotherhood 격파
+  - companions: Ysgramor 후계, Circle Werewolf, Kodlak cure 추구
+  - psijic-order: Tamriel 최오래, Iachesis, Mannimarco 추방, 2E 582 Artaeum 재출현
+  - blades: Dragonguard 후예, Septim 경비, 4E 175 해체, Sky Haven Temple
+  - vigilants-of-stendarr: 4E Daedra·Undead 사냥, Hall of Vigilant 학살
+- 최종: 페이지 1222 → 1225, Orphan 0 유지, Broken 884
+
 ## [2026-05-30 03:30] ingest | Magic Schools 6 batch (6 source, 254줄) | touched: 6 pages
 - raw 6 source: Alteration (45) + Conjuration (46) + Destruction (38) + Illusion (38) + Mysticism (41) + Restoration (46) → _ingested
 - 6 페이지 심층 재작성: Tamriel 6 마법 학파 (Alteration/Conjuration/Destruction/Illusion/Mysticism/Restoration)

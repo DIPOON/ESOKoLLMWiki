@@ -1,32 +1,33 @@
 ---
-name: "Morag Tong — Mephala의 합법 암살자 길드"
-aliases: [Morag Tong]
+term: Morag Tong
+aliases: ["Morag Tong", "모래그 통"]
 kind: entity
 category: 진영
-patron: Mephala
-source_uesp: "UESP: Lore:Morag Tong"
-ingested_at: 2026-05-28
-home: Morrowind
+status: 확정
+ingested_at: 2026-05-29
 ---
 
-# Morag Tong (모라그 통)
+# Morag Tong
 
-## 요약
-**[[morrowind|Morrowind]]의 *합법 암살자 길드*** — [[mephala|Mephala]] 후원. *Writ* (합법 살인 영장) 시스템으로 작동 — *피해자 직계 가족이 *원하는 경우* 발급*.
+*[[mephala|Mephala]] 창립 *공식 *Morrowind 암살 *조직*. *Tamriel 다른 *지역에서는 *추방됨*. *Morrowind 한정 *합법 (Vivec 숭배로 *Mephala 교체 *조건)*. *Writs of Execution 공식 *살인 *허가증.
 
-**[[dark-brotherhood|Dark Brotherhood]]는 *Morag Tong의 *분파 + 광신적 후예*** — *[[sithis|Sithis]] 숭배로 분리*.
+## Writs of Execution
 
-## 등장
-- [[2920-시리즈-색인|2920 시리즈]] — [[empress-tavia|Empress Tavia]] 암살 사건의 주역.
-- 후일 *Versidue-Shaie 자신도 Morag Tong에 암살*.
+*Morrowind Imperial Empire가 *공식 *인정한 *합법 *암살 *허가증*. *각 *Writ는 *대상·이유·보상 *기록*. *Morag Tong이 *Writ를 *공식 *Imperial 사절에 *제출 후 *살인 *수행.
 
-## 핵심
-- *Dunmer 사회의 *합법 살인 시스템* — *Mephala 신학 + 사회 통제*.
-- Morrowind 내부에서만 *합법*, 다른 지역에선 불법.
+## 적 — Dark Brotherhood
 
-## 관련
-- [[mephala|Mephala]]
-- [[dark-brotherhood|Dark Brotherhood]] (광신 분파)
+*수세기 *원수*. *2E 800 *Dark Brotherhood 암살자 *[[dram|Dram]] *처치 → *Brotherhood가 *수십 년 *복수 *맹세*. *3E 427 *Vvardenfell *Ald Sotha (Dark Brotherhood 본거지) *Severa Magia 처형 → *Brotherhood Vvardenfell 활동 *종식*.
 
-## 출처
-- UESP: Lore:Morag Tong
+## 본거지·구조
+
+- **Mournhold** — *Morag Tong 본부
+- *각 도시별 *Shrine + Tong Hall
+- *Grandmaster·Master·Brother·Initiate 위계
+
+## 평가
+
+*Morag Tong = *Mephala의 *직접 *조직*. *Dark Brotherhood의 *역사적 *원수*. *Tribunal 신성 협력으로 *Morrowind 한정 *합법 *지속*. *Writs of Execution 제도가 *Tamriel *유일 *합법 *암살 *조직의 *근거.
+
+## Source
+- `raw/Lore/Morag Tong.md` (85줄)

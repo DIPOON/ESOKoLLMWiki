@@ -11,7 +11,7 @@ ingested_at: 2026-05-29
 
 **[[aedra|Aedric]]** *God of Mercy, Justice, Compassion, Charitable Defense*. *Eight Divines 중 하나*. **Apologist of Men** — *Lorkhan에 *대한 *변호*. *Imperial Cult의 *법·자비 *축*.
 
-## Vigilants of Stendarr
+## [[vigilants-of-stendarr|Vigilants of Stendarr]]
 
 *4E *Stendarr 후원의 *Daedra·Undead 사냥 *교단*. *Skyrim·Tamriel 전역에 *Vigilant 거점*. *Mortal에 *직접 *위험 *주는 *Daedric cult·Vampire·Werewolf 등을 *처치*. *Stendarr의 *Mercy는 *희생자에게는 *자비, *가해자에게는 *정의*.
 
