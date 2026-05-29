@@ -1,13 +1,15 @@
 ---
-name: "Durcorach the Black Drake"
+term: Durcorach
 aliases: [Durcorach, "Durcorach the Black Drake"]
 kind: entity
 category: 인물
-status: stub
-created_at: 2026-05-29
+status: 확정
+ingested_at: 2026-05-29
 ---
 
-# Durcorach the Black Drake
+# Durcorach
 
-*2E *[[reachman|Reachman]] 통일자*. *Black Drake — *Reach 부족 *통합 후 *Cyrodiil 침공*. *Longhouse Emperors 가문의 *시조 — *Leovic·Moricar 등이 *후손*. *Daggerfall Covenant 형성의 *간접 *촉발 요인*.
+*2E *Reach *Orc Warlord*. *Reach + Reachfolk 부족 *Cyrodiil 침공 시도 → *Bretons + Imperial 연합으로 *격퇴 *(2E 541). *Durcorach 처치 + Reach 임시 *복속. *Reachfolk 4E 봉기의 *역사적 *근원.
 
+## Source
+- `raw/Lore/Durcorach.md` (97줄)

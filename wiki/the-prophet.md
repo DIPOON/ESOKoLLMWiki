@@ -17,3 +17,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/The Prophet.md` (42줄)
+
+
+- *[[leovic|Leovic]] — Varen 이전 마지막 황제, Varen 봉기로 처치 (2E 578)

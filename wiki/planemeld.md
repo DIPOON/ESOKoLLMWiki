@@ -1,6 +1,6 @@
 ---
-name: "Planemeld"
-aliases: [Planemeld, "Planar Vortex"]
+term: Planemeld
+aliases: [Planemeld]
 kind: entity
 category: 사건
 status: 확정
@@ -9,18 +9,18 @@ ingested_at: 2026-05-29
 
 # Planemeld
 
-**2E 582** *[[molag-bal|Molag Bal]]의 *Tamriel 침공 *대규모 *시도*. **Nirn을 *[[coldharbour|Coldharbour]]와 *물리적 *융합 시도** — *Mortal 세계 *완전 *지배 *목표*.
+*2E 582 *[[molag-bal|Molag Bal]]의 *Mundus를 *Coldharbour로 *완전 *융합 *기획*. *Anchor (Coldharbour-Mundus 연결 사슬)를 *각 *동맹 *영토에 *떨어뜨려 *Mundus 영역을 *조금씩 *Coldharbour로 *전송*. *Vestige + Five Companions + 3 동맹의 *Anchor 파괴·Coldharbour 침공·Mannimarco 처치로 *Planemeld 격퇴.
 
-도구:
-- **[[dark-anchors|Dark Anchors]]** — Tamriel 전역에 *떨어뜨려 *Nirn을 *Oblivion으로 *끌어냄
-- **Daedric 침공 군** (Dremora·Xivkyn·Vampire·Bloodthorn Cult)
-- **[[worm-cult|Worm Cult]]** ([[mannimarco|Mannimarco]] 결성) — *Nirn 측 *내부 첩보·의례
-- **[[soulburst|Soulburst]] (2E 578)** — *직접 *원인 (Varen 영혼 *Coldharbour 납치로 *Aetherius 연결 *약화)
+## Soulburst — 직접 *원인
 
-대항:
-- **[[meridia|Meridia]] + Army of Meridia** (Bal의 *역사적 원수)
-- **[[the-vestige|The Vestige]]** (Coldharbour 영혼 *추출 *생존자)
-- **3 동맹** (Aldmeri Dominion·Ebonheart Pact·Daggerfall Covenant) — *Coldharbour 침공
-- **[[psijic-order|Psijic Order]]** — *간접 *지원
+*2E 579 *Mannimarco·Molag Bal 의례 *Soulburst → *Mortal 영혼 *대규모 *Coldharbour 흡수 + Varen Aquilarios 영혼 *trap → *Planemeld 의례 *개시.
 
-*Vestige가 *Castle Coldharbour 침공 → *Bal과 *직접 *대면 → *[[amulet-of-kings|Amulet of Kings]] 사용 → *Bal *격퇴 → *Planemeld 종결*. *그러나 *Bal *완전 *처치 *아님* — *영원 *재기 가능*.
+## 격퇴
+
+*Vestige + Five Companions 협력으로 *각 *동맹 *영토의 *Anchor 파괴 + Coldharbour 침공 + Heart of Transparent Law 사용 + Mannimarco 처치 + Molag Bal Planemeld 격퇴 → *Coldharbour-Mundus 분리.
+
+## Source
+- `raw/Lore/Planemeld.md` (96줄)
+
+
+- *Anchor (Coldharbour-Mundus 연결 사슬)는 *[[dark-anchors|Dark Anchors]]로도 *호명 (Vestige + 3 동맹이 *전 *영토에서 *파괴)

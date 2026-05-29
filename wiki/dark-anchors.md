@@ -1,14 +1,15 @@
 ---
-name: "Dark Anchors"
-aliases: ["Dark Anchors", "Daedric Anchors", "Coldharbour Anchors"]
+term: Dark Anchors
+aliases: [dark-anchors, "Dark Anchors", "Coldharbour Anchors"]
 kind: entity
 category: 유물
-status: 확정
+status: stub
 ingested_at: 2026-05-29
 ---
 
 # Dark Anchors
 
-*[[molag-bal|Molag Bal]]이 *[[planemeld|Planemeld]] 도구로 *Tamriel 전역에 *떨어뜨린 *Daedric 기둥*. *Coldharbour로 *Nirn을 *끌어내려는 *물리적 *anchor*. *각 anchor 주변에 *Daedra 무리 + Powerful Daedric Lord (Dark Anchors 보스)*.
+*[[molag-bal|Molag Bal]]의 *[[planemeld|Planemeld]] 의례 *도구*. *Coldharbour-Mundus 연결 *거대 *사슬 *닻*. *각 *동맹 *영토에 *떨어뜨려 *Mundus 영역을 *조금씩 *Coldharbour로 *전송*. *ESO 시기 *Vestige + 3 동맹의 *Anchor 파괴가 *Planemeld 격퇴의 *주된 *수단.
 
-*Vestige + 3 동맹이 *조직적으로 *Dark Anchors 파괴 → *Planemeld 진행 *지연*. *ESO 시기 *반복 *공격 *콘텐츠*.
+## Source
+- 종합 (Planemeld + Coldharbour 항목)

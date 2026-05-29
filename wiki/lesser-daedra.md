@@ -13,3 +13,12 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Lesser Daedra.md` (4줄)
+
+
+## 주요 변형
+
+- *[[scamp|Scamp]] — 작은 *체격, Dremora보다 *낮은 *위계
+- *[[xivilai|Xivilai]] — Dremora 위 *전사
+- *[[dremora|Dremora]] (4 Caste)
+- *[[atronach|Atronach]] (원소 변형)
+- *[[daedroth|Daedroth]] (반-Crocodile)

@@ -46,3 +46,9 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Mages Guild.md` (202줄)
+
+
+## 관련 *기술
+
+- *[[alchemy|Alchemy]] — Mages Guild 정식 *학문
+- *[[arcanists|Arcanists]] — Hermaeus Mora 후원 분파 (ESO Necrom)

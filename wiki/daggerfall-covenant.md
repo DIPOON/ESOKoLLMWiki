@@ -30,3 +30,6 @@ ingested_at: 2026-05-29
 
 
 - *Crown of Verity — *진정한 *High King만 *착용 가능: *[[crown-of-verity|Crown of Verity]] (Emeric 정통성 *증명)
+
+
+- *주요 도시: *Wayrest (수도), *Daggerfall, *[[northpoint|Northpoint]] (High Rock 북부 항구)

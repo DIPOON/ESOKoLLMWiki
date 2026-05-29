@@ -21,3 +21,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Nature Spirit.md` (247줄)
+
+
+- *[[crab|Crab]] — Mudcrab + Emperor Crab

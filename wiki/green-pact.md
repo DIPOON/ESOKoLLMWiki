@@ -24,3 +24,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Green Pact.md` (49줄)
+
+
+- *[[bark-and-sap|Bark and Sap]] (Bosmer Green Pact 해설서)

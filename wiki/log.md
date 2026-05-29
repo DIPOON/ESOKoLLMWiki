@@ -190,6 +190,20 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 22:00] ingest | 15 expansion 2 batch (15 source, ~1483줄) | touched: 17 pages
+- raw 15 source: Jorunn·Dumac·Dragon Break·Planemeld·Leovic·Durcorach·Haafingar·Northpoint·Mount Firesong·Dune·Scamp·Arcanists·Alchemy·Crab·Bark and Sap → _ingested
+- 인물 4: jorunn-the-skald-king (Stonefalls 격퇴 + Pact 결성, deep), dumac (Dwemer King + Battle of Red Mountain), leovic (Varen 이전 황제), durcorach (Reach Orc Warlord)
+- 개념 1: dragon-break (Middle Dawn + Warp in West + Numidium + Kalpa 끝)
+- 사건 1: planemeld (Anchor + Vestige 격퇴)
+- 지역 4: haafingar (Skyrim Imperial Hold), northpoint (High Rock 북부), mount-firesong (Firesong DLC), dune (Anequina)
+- 종족 2: scamp (Lesser Daedra), crab (Mudcrab + Emperor Crab)
+- 진영 1: arcanists (Hermaeus Mora ESO Necrom)
+- 개념 1: alchemy (약초 가공)
+- 책 1: bark-and-sap (Bosmer Green Pact 해설)
+- 신규 link: mages-guild (alchemy + arcanists), elsweyr (3 도시), green-pact (bark-and-sap), systres-archipelago (mount-firesong), daggerfall-covenant (northpoint), the-prophet (leovic), lesser-daedra (5 변형), nature-spirit (crab), planemeld (dark-anchors)
+- 신규 dark-anchors.md (Planemeld 도구 + Vestige 격퇴 대상)
+- 최종: 페이지 1425 → 1435+1, Orphan 0 유지, Broken 745 → 744
+
 ## [2026-05-30 21:00] ingest | 7 cosmology·book·event batch (9 source, ~519줄) | touched: 11 pages
 - raw 9 source: Magna Ge·Watcher·Anuiel·Mysterium Xarxes·Battle of Sancre Tor·Skooma Cat·Auriel + Sotha Sil·Daedric Princes (이미 wiki 있음, raw _ingested 이동만)
 - 신성 4: magna-ge (Magnus 추종 Aetherius 별), watcher (Ehlnofey 직위), anuiel (Anu 자기 인식), skooma-cat (Sheogorath Khajiit), auriel (auri-el redirect)

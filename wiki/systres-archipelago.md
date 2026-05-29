@@ -13,3 +13,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - 종합 (Druids + High Isle + High Rock 항목)
+
+
+- *[[mount-firesong|Mount Firesong]] (Galen 섬 *Druid Circle of the Firesong, ESO Firesong DLC)

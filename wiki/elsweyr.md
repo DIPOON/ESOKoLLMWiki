@@ -45,3 +45,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Elsweyr.md` (265줄)
+
+
+- *주요 도시: *[[rimmen|Rimmen]] (Anequina), *[[senchal|Senchal]] (Pellitine), *[[dune|Dune]] (Anequina)
