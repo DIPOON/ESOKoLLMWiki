@@ -1,27 +1,31 @@
 ---
 term: Aldmeri Dominion
-target_ko: 알드메리 도미니언
-target_de: 
-target_ja: 
-aliases: [Aldmeri Dominion, 알드메리 도미니언, the Dominion]
+aliases: ["Aldmeri Dominion", Dominion, "First Aldmeri Dominion", "Second Aldmeri Dominion"]
 kind: entity
 category: 진영
 status: 확정
+ingested_at: 2026-05-29
 ---
 
-# Aldmeri Dominion (알드메리 도미니언)
+# Aldmeri Dominion
 
-## 채택 근거
-- ESO 3대 동맹의 하나. lore 자연 등장. 한국 ESO 커뮤니티 통용.
+*[[altmer|Altmer]] 주도 *Mer 동맹*. *Tamriel 역사상 *3회 *결성*. *Altmer + Bosmer + Khajiit *주축. *Talos 신앙·인간 *지배 *대항이 *공통 *기치.
 
-## 요약
-**ESO Three Banners War의 3대 동맹 중 하나** — *[[summerset-isles|Summerset Isles]] ([[altmer|Altmer]]) + [[valenwood|Valenwood]] ([[bosmer|Bosmer]]) + [[elsweyr|Elsweyr]] ([[khajiit|Khajiit]])* 연합.
+## 1차 Aldmeri Dominion (1E 2703 — 3E 110)
 
-[[ayrenn|Queen Ayrenn]] 통치. **Mer 종족의 *Tamriel 통치권 정통성* 주장** — *원래 Aldmeri 후예가 *진정한 통치자*.
+*[[ayrenn|Ayrenn]] *전 *시대*. *Bosmer Camoran Dynasty 주도. *Imperial Reman *Dynasty와 *대립.
 
-ESO 시점 Aldmeri Dominion은 *상대적으로 개방* (Ayrenn의 *국경 개방 칙령* — [[a-case-for-open-borders|A Case for Open Borders]] 참조). 후일 *Thalmor의 반발*과는 대조.
+## 2차 Aldmeri Dominion (2E 580 — ESO 시기)
 
-## 관련
-- [[three-banners-war|Three Banners War]]
-- [[ayrenn|Queen Ayrenn]]
-- [[altmer|Altmer]] / [[bosmer|Bosmer]] / [[khajiit|Khajiit]]
+*[[ayrenn|Queen Ayrenn]] 주도*. *Altmer Summerset + Bosmer Valenwood + Khajiit Elsweyr 동맹*. *Imperial City 점령 + Cyrodiil 통치 *주장*. *Three Banners War 3대 *세력 중 *하나*. *수도 Elden Root (Valenwood)*. *Thalmor의 *원형 *조직 *존재 *(ESO 시기 Thalmor은 *Ayrenn 동의 *없는 *분파)*.
+
+## 3차 Aldmeri Dominion (4E 22 — 4E 시기, Skyrim)
+
+*Great War (4E 171-175)에서 *Cyrodiil 침공 → *White-Gold Concordat 강제*. *[[talos|Talos]] 신앙 *금지*. *[[thalmor|Thalmor]] 주도*. *4E *Skyrim 시기 *Tamriel *최대 *위협 *세력.
+
+## 평가
+
+*Aldmeri Dominion = *Mer 패권 *추구의 *영구한 *조직*. *Man-Mer 영구 *대립의 *제도화. *3회 *결성 *모두 *Cyrodiil Empire 압박 *목표*. *Talos Apotheosis가 *Mer에게 *결정적 *도전.
+
+## Source
+- `raw/Lore/Aldmeri Dominion.md` (62줄)

@@ -44,9 +44,9 @@ ingested_at: 2026-05-29
 ## 5 Great Houses
 
 - **House Indoril** — Tribunal 신앙·Mournhold
-- **House Redoran** — 전사·Blacklight (4E 수도)
-- **House Telvanni** — 마법사·Sadrith Mora
-- **House Hlaalu** — 상업·Balmora
+- **[[great-house-redoran|House Redoran]]** — 전사·Blacklight (4E 수도)
+- **[[great-house-telvanni|House Telvanni]]** — 마법사·Sadrith Mora
+- **[[great-house-hlaalu|House Hlaalu]]** — 상업·Balmora
 - **House Dres** — 노예 상업·Tear
 - *전 House Dagoth* — Red Mountain 사건으로 *멸문
 

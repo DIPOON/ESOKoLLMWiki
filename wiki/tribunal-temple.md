@@ -1,45 +1,37 @@
 ---
-name: Tribunal Temple
-aliases: ["Tribunal Temple", "Temple of the Tribunal", "트라이뷰널 사원"]
+term: Tribunal Temple
+aliases: ["Tribunal Temple", Temple, "ALMSIVI Temple"]
 kind: entity
 category: 진영
 status: 확정
 ingested_at: 2026-05-29
-related: [tribunal, almalexia, sotha-sil, vivec, ordinator, new-temple, almsivi, clockwork-apostles, mournhold, vivec-city]
 ---
 
-# Tribunal Temple — *Living Gods 신앙*
+# Tribunal Temple
 
-[[tribunal|Tribunal]] (*[[almalexia|Almalexia]] / [[sotha-sil|Sotha Sil]] / [[vivec|Vivec]]*)을 *살아있는 신*으로 *모시는 *[[dunmer|Dunmer]] 공식 *국가 종교*. *Battle of Red Mountain 후 (1E 668) *수립* → *3E 427 (Sotha Sil 죽음·Almalexia 처치) 후 *New Temple로 *대체*.
+*[[tribunal|Tribunal]] (Vivec·Almalexia·Sotha Sil) 신앙의 *공식 *교단*. *Morrowind 1E 700 *Heart 사용 후 *Indoril 가문 *주도로 *설립*. *원래 *Ancestor·Daedra 숭배 *대체*. *3E 427 *Nerevarine 사건·4E *Tribunal 사망 후 *Reclamation Temple로 *변환.
 
-## 조직
+## 교리
 
-- **Archcanon** — *최고 직위*. *Vivec 측근 (예: [[tarvus|Tarvus]] 전임)*.
-- **Canon** — 사제·관리자.
-- **Vicecanon** — *지역 *민족대표적 *직책 ([[vicecanon|Vicecanon]] 페이지)*.
-- **[[ordinator|Ordinator]]** — *신앙 *기사단*. *Vivec City·Mournhold 등 *신성 도시 *경비 + *이단 심문*.
+- *Tribunal = *Aedric Divine 대체 (Almalexia=Mother, Vivec=Warrior-Poet, Sotha Sil=Wizard)
+- *Three Good Daedra (Mephala·Boethiah·Azura) *영적 *조상으로 *인정 — *Daedra 일반은 *Four Corners of the House of Troubles 형태 *제외 (Mehrunes Dagon·Malacath·Molag Bal·Sheogorath)
+- *Nerevarine = *허위 *예언 → *Apographa 비밀 *문서로 *진실 *기록 *(상위 *Ordinator 한정)
 
-## 신학
+## 위계
 
-*Tribunal = *과거 [[good-daedra|Good Daedra]] (Azura·Mephala·Boethiah)의 *Anticipation의 *성취*. *Mer-Made God* — *Aedric 정통성 *없는 *Heart of Lorkhan 기반 *신성*.
+- **Archcanon** — *최고
+- **Patriarch·Lord·Watcher·Curate·Acolyte** 등 *위계
+- **[[ordinator|Ordinator]]** — *Indoril 가문 *전사 *Temple 경비
+- **[[buoyant-armiger|Buoyant Armiger]]** — *Vivec 직속 *순례·전투 *기사
+- **High Ordinator** — *Mournhold 한정 *Almalexia 직속 (3E *말 *Tribunal Sermon 사망 후)
 
-[[36-lessons-of-vivec-색인|36 Lessons of Vivec]] = *Vivec 저술의 *36 sermon + Sermon 37*. *공식 sermon은 *"The ending of the words is [[almsivi|ALMSIVI]]"*로 *끝남*.
+## 4E 변환 — Reclamation Temple
 
-## 주요 도시
+*Sotha Sil + Almalexia 사망 + Vivec 실종 (3E *말)·*Red Year (3E 433) 후 *Tribunal 신앙 *몰락 → *원래의 *Good Daedra (Azura·Boethiah·Mephala) 신앙 *재흥*. *Reclamation Temple로 *재구성. *Daedra 3은 *True Tribunal로 *호명.
 
-- **[[vivec-city|Vivec City]]** — Vivec 본거지
-- **[[mournhold|Mournhold]]** — Almalexia 본거지
-- **[[clockwork-city|Clockwork City]]** — Sotha Sil 본거지 (그러나 *Apostle은 *별도 *조직*)
-- **[[ald-sotha|Ald Sotha]]** 등 *Pilgrimages of the Four Corners*
+## 평가
 
-## Clockwork Apostles와의 관계
-
-[[clockwork-apostles|Clockwork Apostles]]는 *Tribunal Temple과 *별개 *조직*. *Apostle은 *Sotha Sil의 *비밀 *제자 *교단*. *Temple은 *Apostle 활동의 *상세를 *모름*. *Tarvus*: *"Temple은 *Sotha Sil 존경*하지만 *Apostle 깊이는 *모름"*. **SI = Tribunal의 *glue** (Sotha Sil이 *Vivec·Almalexia를 *지탱).
-
-## 종결 (3E 427) + 4E
-
-*Almalexia 죽음 + Sotha Sil 죽음 + Vivec 행방 불명* = *Temple 공식 *종결*. *4E *New Temple이 *교체 — *Almsivi 우상 *폐기*. *Solstheim *Ashfall's Tear 등 *지하 cult가 *Tribunal 유물 *수집·유지*.
+*Tribunal Temple = *4000년 *Dunmer 문화의 *영적 *기둥*. *3E 말 - 4E 초의 *완전한 *몰락이 *Dunmer 정체성의 *4E *재편의 *근본 *원인*. *Reclamation Temple은 *Indoril 정통이 *Pre-Tribunal Velothi 신학으로 *회귀.
 
 ## Source
-- [[tribunal|Tribunal]] 페이지
-- *raw/Lore/Tribunal Temple.md* (미처리 — 우선)
+- `raw/Lore/Tribunal Temple.md` (57줄)

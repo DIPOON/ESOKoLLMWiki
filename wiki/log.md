@@ -190,6 +190,21 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 06:00] ingest | 18 alliance·house·event·artifact batch (18 source, 1842줄) | touched: 17 pages
+- raw 18 source: Aldmeri Dominion (62) + Daggerfall Covenant (72) + Ebonheart Pact (49) + Great House Hlaalu (6) + Great House Redoran (6) + Great House Telvanni (6) + House Dres (164) + House Dagoth (103) + Tribunal Temple (57) + Three Banners War (345) + Imperial Legion (415) + Thalmor (94) + Stormcloaks (20) + Stormcloak Rebellion (98) + Ashlanders (102) + Amulet of Kings (97) + Auriel's Bow (56) + Chrysamere (90) → _ingested
+- 17 페이지 심층 재작성 (Stormcloaks + Stormcloak Rebellion = 1 page):
+  - 3 alliance: aldmeri-dominion (Ayrenn 2차 + Thalmor 3차), daggerfall-covenant (Emeric), ebonheart-pact (Jorunn)
+  - 4 House: great-house-hlaalu (Imperial 친화·4E 몰락), great-house-redoran (전사·4E 부상), great-house-telvanni (Magister 시스템·노예제), house-dres (Tear plantation·4E Argonian 침공 몰락)
+  - 1 Sixth House: house-dagoth (Voryn → Dagoth Ur 6 Ash Vampire)
+  - 1 Temple: tribunal-temple (Indoril 주도, 4E Reclamation Temple 변환)
+  - 1 War: three-banners-war (2E 582, Soulburst + Coldharbour Compact + Vestige)
+  - 1 Legion: imperial-legion (Alessian → Reman → Septim 척추, Penitus Oculatus)
+  - 1 Thalmor: 4E 3차 Dominion 지배 + White-Gold Concordat
+  - 1 Stormcloak: stormcloak-rebellion (Markarth Incident + Torygg 처치 + Last Dragonborn 결정)
+  - 1 Ashlanders: 4 Tribe (Ahemmusa·Urshilaku·Zainab·Erabenimsun) + Nerevarine 예언 수호
+  - 3 Artifact: amulet-of-kings (Chim-el Adabal + Akatosh Covenant + Martin 파괴), auriel-bow (Dawnguard Tyranny of Sun), chrysamere (Paladin claymore 영웅 순환)
+- 최종: 페이지 1225 → 1233, Orphan 0 유지, Broken 891
+
 ## [2026-05-30 05:00] ingest | 9 주요 guild batch (9 source, 1187줄) | touched: 9 pages
 - raw 9 source: Mages Guild (202) + Fighters Guild (74) + Thieves Guild (66) + Dark Brotherhood (202) + Morag Tong (85) + Companions (157) + Psijic Order (214) + Blades (181) + Vigilants of Stendarr (6) → _ingested
 - 9 페이지 심층 재작성:

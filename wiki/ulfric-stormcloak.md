@@ -9,7 +9,7 @@ ingested_at: 2026-05-29
 
 # Ulfric Stormcloak
 
-*4E 201 *Skyrim *Stormcloak 봉기의 *지도자*. *Windhelm Jarl*. *Talos 신앙 금지 + Imperial 종속에 *반발 → *High King Torygg 처형 + 봉기.
+*4E 201 *Skyrim *[[stormcloak-rebellion|Stormcloak 봉기]]의 *지도자*. *Windhelm Jarl*. *Talos 신앙 금지 + Imperial 종속에 *반발 → *High King Torygg 처형 + 봉기.
 
 ## Talos 신앙
 

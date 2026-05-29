@@ -1,27 +1,29 @@
 ---
 term: Daggerfall Covenant
-target_ko: 대거폴 연합
-target_de: 
-target_ja: 
-aliases: [Daggerfall Covenant, 대거폴 연합, the Covenant]
+aliases: ["Daggerfall Covenant", Covenant]
 kind: entity
 category: 진영
 status: 확정
+ingested_at: 2026-05-29
 ---
 
-# Daggerfall Covenant (대거폴 연합)
+# Daggerfall Covenant
 
-## 채택 근거
-- ESO 3대 동맹의 하나. lore 자연 등장. 한국 ESO 커뮤니티 통용 (*연합* 또는 *코버넌트* 변종 있으나 *연합*이 더 흔함).
+*ESO 시기 *Hammerfell + High Rock + Orsinium의 *동맹*. *[[emeric|High King Emeric]] 주도*. *수도 *Wayrest (High Rock)*. *Tamriel *Empire 재통일 *기치 + Reman 정통성 *주장.
 
-## 요약
-**ESO Three Banners War의 3대 동맹 중 하나** — *[[high-rock|High Rock]] ([[breton|Breton]]) + [[hammerfell|Hammerfell]] ([[redguard|Redguard]]) + [[orsinium|Orsinium]] ([[orsimer|Orsimer]])* 연합.
+## 3대 *세력
 
-본거지: **[[daggerfall|Daggerfall]] (High Rock 남서 해안)**. *King Emeric* 통치.
+- **[[breton|Bretons]]** ([[high-rock|High Rock]]) — *문화·교역 중심
+- **[[redguard|Redguards]]** ([[hammerfell|Hammerfell]]) — *전사·검술
+- **[[orsimer|Orsimer/Orcs]]** ([[orsinium|Orsinium]]) — *공성·체력
 
-*Reman 제국의 정통 후계자* 주장 — *통일된 인간/Orc 제국 부활* 목표.
+## Emeric의 *동맹 *외교
 
-## 관련
-- [[three-banners-war|Three Banners War]]
-- [[breton|Breton]] / [[redguard|Redguard]] / [[orsimer|Orsimer]]
-- [[daggerfall|Daggerfall]]
+*Emeric이 *Forebear Redguard ([[fahara'jad|King Fahara'jad]]) + Orsinium *Kurog gro-Bagrakh + Bretons 결합*. *Crowns Redguard (보수 *Akaviri 후예)와의 *내부 *긴장*. *Bjoulsae 강 *통로 + Orsinium 회복.
+
+## 평가
+
+*Daggerfall Covenant = *3 *문화 *융합 *동맹*. *Aldmeri Dominion·Ebonheart Pact 사이의 *제3세력. *Cyrodiil 통치권 *주장 + Reman 후예 *Imperial 정통 *호소*. *수도 Wayrest의 *상업·외교 *중심.
+
+## Source
+- `raw/Lore/Daggerfall Covenant.md` (72줄)

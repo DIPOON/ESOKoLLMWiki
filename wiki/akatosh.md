@@ -14,7 +14,7 @@ ingested_at: 2026-05-29
 ## 문화별 *이름
 
 - *Imperial: **Akatosh** (Chief Aedra, *Pater Aedra)*
-- *Aldmer/Altmer: **[[auri-el|Auri-El]]** (Aldmeris King, Trinimac 후원자)*
+- *Aldmer/Altmer: **[[auri-el|Auri-El]]** (Aldmeris King, Trinimac 후원자) — *[[auriel-bow|Auriel's Bow]] *유물*
 - *Khajiit: **Alkosh** (Dragon King) / **Alkhan** (Akha 아들)*
 - *Nordic: **[[alduin|Alduin]]** (World-Eater, *Black Dragon — 부정적 *해석)*
 - *Yokudan: **Satakal** (Snake That Eats Itself, cycle of *time)*
