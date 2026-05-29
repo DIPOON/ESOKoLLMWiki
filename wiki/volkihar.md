@@ -24,3 +24,5 @@ ingested_at: 2026-05-29
 
 
 - *4E *Harrowstorms 사건: *Icereach Coven (Hagraven + Vampire 협력) → *[[harrowstorms|Harrowstorms]] 발생 (ESO Greymoor DLC)
+
+- *4E *주요 *학살 사건: *[[bloodfall|Bloodfall]] (Dawnguard 결성 간접 원인)

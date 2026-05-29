@@ -1,6 +1,6 @@
 ---
-name: "Kothringi"
-aliases: [Kothringi, "Silver-Skinned Tribe"]
+term: Kothringi
+aliases: [Kothringi]
 kind: entity
 category: 종족
 status: 확정
@@ -9,4 +9,7 @@ ingested_at: 2026-05-29
 
 # Kothringi
 
-*Black Marsh의 *고대 *인간 부족*. *은빛 *피부의 *Nedic 후예*. *Knahaten Flu (1E 2840경)로 *대부분 *멸절*. *Argonian이 *흡수한 *극히 *소수 *생존*. *Black Marsh의 *Nedic 식민지의 *흔적*.
+*[[black-marsh|Black Marsh]] *원주민 *Mortal 종족 (Argonian과 *별개)*. *Knahaten Flu (2E 560-603)로 *대부분 *멸종*. *얇은 *황금 피부 + Argonian-like 특징의 *Mortal. *Argonian Hist 후원이 *아닌 *별개의 *영적 *원천.
+
+## Source
+- `raw/Lore/Kothringi.md` (68줄)

@@ -13,3 +13,5 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Camlorn.md` (124줄)
+
+- *기사·경비 조직: *[[lion-guard|Lion Guard]] (ESO Daggerfall Covenant)

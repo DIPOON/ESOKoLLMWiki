@@ -48,3 +48,5 @@ ingested_at: 2026-05-29
 
 
 - *Bretons 작은 왕국: *[[anticlere|Anticlere]] (Warp in the West Iliac Bay)
+
+- *작은 왕국 추가: *[[wind-keep|Wind Keep]] (ESO Covenant)

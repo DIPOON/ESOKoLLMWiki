@@ -190,6 +190,17 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-06-01 06:00] ingest | 6 post-1600 batch (6 source, ~411줄) | touched: 11 pages
+- raw 6 source: Alkosh + Lion Guard + Kothringi + Bloodfall + Wind Keep + Songs of Vvardenfell → _ingested
+- 신성 1: alkosh (Khajiit Dragon King, Akatosh 대응)
+- 진영 1: lion-guard (Camlorn 기사단)
+- 종족 1: kothringi (Black Marsh 원주민, Knahaten Flu 멸종)
+- 사건 1: bloodfall (Volkihar 학살)
+- 지명 1: wind-keep
+- 책 1: songs-of-vvardenfell
+- 신규 link: akatosh + camlorn + volkihar + vvardenfell + high-rock
+- 최종: 페이지 1600 → 1606, Orphan 0 유지, Broken 689 → 688
+
 ## [2026-06-01 05:00] ingest | 6 order batch — **1600 페이지 마일스톤** (6 source, ~139줄) | touched: 9 pages
 - raw 6 source: Akaviri Sunderblade + Stormcrown + Buoyant Armiger + Order of the Hour + Order of the Lamp + Ordinator → _ingested
 - 유물 2: akaviri-sunderblade (Akaviri 검술 검), stormcrown (Tiber Septim 영적 호)
