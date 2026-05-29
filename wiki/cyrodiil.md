@@ -39,3 +39,8 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Cyrodiil.md` (128줄)
+
+
+## Cyrodiilic 문화
+
+*[[cyrodiilic|Cyrodiilic]] = *Cyrodiil Empire의 *문화·언어·정치 *전반의 *형용사*. *Imperial과 *동등 *사용 *(엄밀한 *구분 *없음)*.

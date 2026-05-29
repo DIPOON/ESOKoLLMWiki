@@ -25,3 +25,7 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Hero of Kvatch.md` (130줄)
+
+## Knights of the Nine 결사
+
+*[[knights-of-the-nine|Knights of the Nine]] (Knights of the Nine DLC)에서 *Hero of Kvatch가 *Pelinal Whitestrake의 *Crusader's Relic 수집 → *Umaril the Unfeathered 부활 *처치.

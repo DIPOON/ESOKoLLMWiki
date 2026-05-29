@@ -23,7 +23,7 @@ ingested_at: 2026-05-29
 
 ### 2E 572 — Second Akaviri Invasion (Kamal)
 
-*[[ada-soom-dir-kamal|Ada'Soom Dir-Kamal]] 지휘 *Kamal Snow Demons가 *Tamriel 침공 → *Skyrim (Windhelm 파괴) → *Morrowind → *[[jorunn-the-skald-king|Jorunn]] + Underking + Almalexia + Vivec + Heita-Meen 연합으로 *격퇴 → **[[ebonheart-pact|Ebonheart Pact]] 형성**.
+*[[ada-soom-dir-kamal|Ada'Soom Dir-Kamal]] 지휘 *Kamal Snow Demons가 *Tamriel 침공 → *Skyrim (Windhelm 파괴) → *Morrowind → *[[jorunn-the-skald-king|Jorunn]] + [[underking|Underking]] + Almalexia + Vivec + Heita-Meen 연합으로 *격퇴 → **[[ebonheart-pact|Ebonheart Pact]] 형성**.
 
 ## 평가
 
@@ -31,3 +31,11 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Akaviri.md` (42줄)
+
+
+## 4 Akavir 종족
+
+- *[[tsaesci|Tsaesci]] — *Snake-People (Reman Dragonguard 흡수)
+- *[[kamal|Kamal]] — *Snow Demons (2E 572 Stonefalls 침공)
+- *[[po-tun|Po Tun]] — *Tiger-Dragon
+- *Tang Mo — *Monkey-People

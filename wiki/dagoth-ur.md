@@ -17,7 +17,7 @@ ingested_at: 2026-05-29
 
 ## 3E 부활 + Sharmat 자칭
 
-*Voryn Dagoth → Dagoth Ur (Sharmat = *False Prophet *호의 *반대) → *Red Mountain 안 *Heart 회수 *시도 + Sixth House Cult 전염 *(Corprus 질병으로 *Sleeper → Dreamer → Ash Vampire 변환)*. *Akulakhan (Numidium 모방 *기계 *신) 제작 *시도.
+*Voryn Dagoth → Dagoth Ur (Sharmat = *False Prophet *호의 *반대) → *Red Mountain 안 *Heart 회수 *시도 + Sixth House Cult 전염 *(Corprus 질병으로 *Sleeper → Dreamer → Ash Vampire 변환)*. *[[akulakhan|Akulakhan]] (Numidium 모방 *기계 *신) 제작 *시도.
 
 ## Ash Vampire 6
 

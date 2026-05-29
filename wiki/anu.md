@@ -33,3 +33,8 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Anu.md` (93줄)
+
+
+## Anuad — Anu + Padomay 창조 신화
+
+*Anu와 *Padomay의 *원초 *대립이 *Aurbis 창조로 *이어지는 *Tamriel 창조 신화는 *[[anuad|Anuad]]로 *공식 *명명*.

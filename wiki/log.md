@@ -190,6 +190,19 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 14:00] ingest | 17 lore concept·character·event batch (17 source, ~1082줄) | touched: 22 pages
+- raw 17 source: Kamal·Po Tun·Septim·Tsaesci·Wulfharth·Akulakhan·Almsivi·Anuad·Cyrodiilic·Knahaten Flu·Knights of the Nine·Mantella·Moon Sugar·Skooma·Underking·Warp in the West·Whirling School → _ingested
+- Akavir 종족 3: kamal (Stonefalls 침공), po-tun (Tiger-Dragon), tsaesci (Snake-People/Dragonguard 후예) — sotha-sil 이미 처리
+- 인물 2: septim (Dynasty 황제 명단), wulfharth (Shezarrine/Talos 3 영혼)
+- Tribunal 1: almsivi (Tribunal 호명)
+- 신학 3: anuad (Anu+Padomay 창조), cyrodiilic (Cyrodiil 문화 형용사), whirling-school (Vivec Walking Way)
+- 사건 2: knahaten-flu (2E 560-603, Argonian Hist 후원 추정), warp-in-the-west (3E 417 Iliac Bay Dragon Break)
+- 유물 4: akulakhan (Dagoth Ur Numidium 모방), mantella (Numidium 동력 Wulfharth 영혼), moon-sugar (Khajiit), skooma (Moon Sugar 증류)
+- 진영 1: knights-of-the-nine (Pelinal Crusader's Relic 결사)
+- 인물 1: underking (Wulfharth 형태)
+- 신규 link: dagoth-ur (Akulakhan), akavir (Underking + 4 Akavir 종족), tiber-septim (Underking + Septim Dynasty), 36-lessons-sermon-20 (Whirling School), hero-of-kvatch (Knights of the Nine), anu (Anuad), cyrodiil (Cyrodiilic)
+- 최종: 페이지 1355 → 1370, Orphan 0 유지, Broken 860
+
 ## [2026-05-30 13:00] ingest | 21 culture·pantheon·creature batch (21 source, ~814줄) | touched: 26 pages
 - raw 21 source 처리. 종족별 깊이·Daedra 종류·Yokudan 신학·Bosmer 의례:
 - Khajiit 3: riddle-thar (Two-Moons Path), khajiit-religion (Aedric 대응 + 고유 신 8), lunar-lattice (17 Furstock 결정 시스템)

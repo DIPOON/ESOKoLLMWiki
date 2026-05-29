@@ -1,22 +1,15 @@
 ---
 term: ALMSIVI
-target_ko: 암시비
-target_de: 
-target_ja: 
-aliases: [ALMSIVI, 암시비]
+aliases: [Almsivi, ALMSIVI, "Tribunal Acronym"]
 kind: entity
-category: 신성
+category: 개념
 status: 확정
-source_sheet: 기타사전
-source_row: 9
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# ALMSIVI (암시비)
+# ALMSIVI
 
-## 채택 근거
-ALMSIVI(암시비)=트라이뷰널 ,  ALM(암)= 아말렉시아 ,SI(시)= 소사 실, VI(비) = 비벡
+*[[tribunal|Tribunal]] 3 *Mer 신성 *(Almalexia + Vivec + Sotha Sil)의 *축약 호명*. *Dunmer 영적 *순례·기도의 *공식 *호명. *Tribunal Temple 공식 *기도.
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *기타사전*, 행 9
-- 한국 ESO 커뮤니티 합의
+## Source
+- `raw/Lore/Almsivi.md` (4줄)

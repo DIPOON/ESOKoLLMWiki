@@ -17,15 +17,15 @@ ingested_at: 2026-05-29
 
 ## Numidium 사용
 
-*[[numidium|Numidium]]을 *Cyrodiil로 *재조립 → *Wulfharth (Underking)의 *영혼을 *Mantella에 *trap → *Numidium 동력 → *Summerset Isles 정복 + Aldmeri Dominion 굴복*. *Dragon Break (Warp in the West) 발생*. *Tamriel 전 *대륙 *통일.
+*[[numidium|Numidium]]을 *Cyrodiil로 *재조립 → *Wulfharth ([[underking|Underking]])의 *영혼을 *Mantella에 *trap → *Numidium 동력 → *Summerset Isles 정복 + Aldmeri Dominion 굴복*. *Dragon Break (Warp in the West) 발생*. *Tamriel 전 *대륙 *통일.
 
 ## Vivec과의 *Armistice
 
 *Morrowind는 *Numidium 사용 *전 *Armistice로 *autonomy 보존*. *Vivec이 *Numidium 선물 → *Tiber Septim의 *Summerset 정복 도구*.
 
-## Septim Dynasty
+## [[septim|Septim Dynasty]]
 
-*Tiber Septim Dynasty *3E 433 *Martin Septim 희생까지 *지속*.
+*Tiber [[septim|Septim Dynasty]] *3E 433 *Martin Septim 희생까지 *지속*.
 
 ## Apotheosis → Talos
 
