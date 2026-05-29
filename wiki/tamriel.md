@@ -74,3 +74,9 @@ ingested_at: 2026-05-29
 
 - *[[magical-transportation|Magical Transportation]] — Mages Guild Guild Guide·Wayshrine·Stilt Strider·Carriage·Recall Spell·Door of Oblivion 등
 
+
+
+## 직업·역할 *총칭
+
+- *[[knight|Knight]] — 기사 (Breton·Imperial·Companions·Buoyant Armiger 등)
+- *[[thief|Thief]] — 도둑 (Thieves Guild·Daggerfall Agent 등)

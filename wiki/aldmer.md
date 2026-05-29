@@ -1,6 +1,6 @@
 ---
-name: "Aldmer"
-aliases: [Aldmer, Aldmeri, "Elder Folk"]
+term: Aldmer
+aliases: [Aldmer, "Elder Folk", "Ancient Elves"]
 kind: entity
 category: 종족
 status: 확정
@@ -9,16 +9,11 @@ ingested_at: 2026-05-29
 
 # Aldmer
 
-*Tamriel 모든 *Mer 종족의 *공통 *조상*. *[[summerset-isles|Summerset Isles]] (Aldmeris) 원주*. *[[ehlnofey|Old Ehlnofey]]에서 *유래*.
+*Mer 종족의 *원조 *조상*. *Aldmeris (가라앉은 *대륙)에서 *Tamriel로 *이주*. *분파*: *Altmer (Summerset 정통), *Bosmer (Valenwood, Y'ffre Green Pact), *Dunmer (Morrowind, Boethiah-Veloth → Chimer → Azura 저주 Dunmer), *Snow Elves (Skyrim → Falmer), *Dwemer (Morrowind, Tonal Architecture), *Ayleid (Cyrodiil, Daedric 후원), *Maormer (Pyandonea), *Bretons (Direnni-Nedic 혼혈 → Mortal)*. *Aldmer 본성 (황금 피부·정통)은 *Altmer가 *가장 *유지.
 
-분기:
-- **[[altmer|Altmer]]** — Summerset 잔류 (가장 *순수 Aldmer)
-- **[[chimer|Chimer]] → [[dunmer|Dunmer]]** — [[veloth|Veloth]] 따라 Resdayn 이주
-- **[[bosmer|Bosmer]]** — [[valenwood|Valenwood]] (Y'ffre Green Pact)
-- **[[dwemer|Dwemer]]** — Skyrim·Vvardenfell·Hammerfell 지하 (Battle of Red Mountain에 *사라짐)
-- **[[ayleid|Ayleid]]** — Cyrodiil (Slave Rebellion 후 *사라짐)
-- **[[falmer|Snow Elves]]** — Skyrim (Nord에 *학살)
-- **[[maormer|Maormer]]** — Pyandonea
-- **[[orsimer|Orsimer/Orcs]]** — Trinimac fall 후
+## Aldmeris 멸망
 
-*[[aedric-creation|Aedric creation]]의 *결과 — *Mer = "older folk"*. *Men은 *Wandering Ehlnofey 후예*.
+*Aldmeris는 *Aldmer 조상의 *대륙. *Merethic 시기 *기상학적·영적 *재앙으로 *대부분 *침몰*. *Aldmer가 *Tamriel로 *이주 → *각 *분파로 *세분화*. *Aldmeris의 *정확한 *위치·운명은 *논쟁.
+
+## Source
+- `raw/Lore/Aldmer.md` (37줄)

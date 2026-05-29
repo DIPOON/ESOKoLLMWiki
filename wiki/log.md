@@ -190,6 +190,14 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 05:00] ingest | 9 Aldmer + Lesser Daedra batch (9 source, ~424줄) | touched: 11 pages
+- raw 9 source: Aldmer + Aldmeris + Anequina + Clannfear + Knight + Pellitine + Spider Daedra + Thief + Winged Twilight → _ingested
+- 종족 4: aldmer (조상 8 분파 분리), clannfear (Mehrunes Dagon), spider-daedra (Mephala 직속), winged-twilight (Azura 전령)
+- 지명 3: aldmeris (Aldmer 침몰 대륙), anequina (Elsweyr 북부), pellitine (Elsweyr 남부)
+- 개념 2: knight (기사 다양 변형), thief (Nocturnal 후원 도둑)
+- 신규 link: lesser-daedra (3 Daedra 변형), tamriel (knight + thief 직업)
+- 최종: 페이지 1500 → 1505, Orphan 0 유지, Broken 710 → 709
+
 ## [2026-05-31 04:00] ingest | 7 cosmology/concept batch (8 source, ~387줄) | touched: 12 pages
 - raw 8 source: Ehlnofey + Et'Ada + Necromancer's Moon + Black Books (이미 wiki) + Enchantment + Eye of Argonia + Soul Gem + Time Wound → _ingested
 - 신성 2: ehlnofey (deep, Old + Wandering 분리), et-ada (Anu+Padomay 원초 자손)

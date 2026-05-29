@@ -22,3 +22,7 @@ ingested_at: 2026-05-29
 - *[[dremora|Dremora]] (4 Caste)
 - *[[atronach|Atronach]] (원소 변형)
 - *[[daedroth|Daedroth]] (반-Crocodile)
+
+- *[[clannfear|Clannfear]] — Reptile 형태 (Mehrunes Dagon)
+- *[[spider-daedra|Spider Daedra]] — Mephala 직속 전사
+- *[[winged-twilight|Winged Twilight]] — Azura 전령
