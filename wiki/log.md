@@ -190,6 +190,16 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 22:00] ingest | 8 closing batch (9 source, ~672줄) | touched: 14 pages
+- raw 9 source: Ehlnofex + Anticlere + Titus Mede II + Summerset Isle + Gortwog + Black Dragon + Immortal Blood + West Gash + The Windhelm Letters → _ingested
+- 개념·언어 1: ehlnofex (Ehlnofey 언어, Aldmeris 전신, Mortal 신학 원전)
+- 지명 4: anticlere (Bretons 작은 왕국), summerset-isle (Summerset 별칭), west-gash (Vvardenfell Ashlander)
+- 인물 2: titus-mede-ii (Mede Dynasty 4E 175 황제), gortwog (Orsimer 3E 399 Orsinium 4번째 재건)
+- 책 1: immortal-blood (Vampire 신학)
+- 개념 1: black-dragon (Alduin Nord 부정 해석)
+- 신규 link: high-rock + alduin + orsinium + vampire + summerset + mede-dynasty
+- 최종: 페이지 1577 → 1585, Orphan 0 유지, Broken 696 유지
+
 ## [2026-05-31 21:00] ingest | 5 region/event batch (5 source, ~456줄) | touched: 8 pages
 - raw 5 source: High Isle + Bergama + Torval + Velyn Harbor + War of the Red Diamond → _ingested
 - 지명 4: high-isle (Systres Druid 본거지), bergama (Alik'r Hammerfell), torval (Pellitine Khajiit Mane 수도), velyn-harbor (Valenwood)

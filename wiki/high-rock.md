@@ -45,3 +45,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/High Rock.md` (223줄)
+
+
+- *Bretons 작은 왕국: *[[anticlere|Anticlere]] (Warp in the West Iliac Bay)

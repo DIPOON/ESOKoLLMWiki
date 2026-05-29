@@ -19,3 +19,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Mede Dynasty.md` (87줄)
+
+
+- *[[titus-mede-ii|Titus Mede II]] (4E 175 White-Gold Concordat 강제 시기 황제, 4E 201 Dark Brotherhood 암살 가능)

@@ -26,3 +26,6 @@ ingested_at: 2026-05-29
 - *[[volkihar|Volkihar Court]] (Skyrim Pure-Blood, *Harkon·Serana·Valerica)
 - *[[dawnguard|Dawnguard]] (Vampire 사냥 *4E *조직)
 - *Vampire Lord 형태 — *[[vampire-lord|Vampire Lord]] (Magicka 비행 + Drain Life)
+
+
+- *주된 *교본: *[[immortal-blood|Immortal Blood]] (Vampire 신학·역사·분파)

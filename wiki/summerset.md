@@ -35,3 +35,6 @@ One of the Delves required for Zone Completion is found on Artaeum.
 
 
 - *Maormer 경계: *[[solstice-island|Solstice]] (Altmer-Maormer 경계 섬)
+
+
+*([[summerset-isle|Summerset Isle]]도 *동일 *호명)*

@@ -29,3 +29,6 @@ The city is split into four districts. In the north, centred on the Temple of Ir
 ## 1E 950 *함락 — [[siege-of-orsinium|Siege of Orsinium]]
 
 *Bretons + Redguard 연합의 *수십년 *공성으로 *Orsinium 함락 → *Orcs 종족 *Tamriel 전역 *유랑 시대 *시작*.
+
+
+- *3E 재건 *주역: *[[gortwog|Gortwog gro-Nagorm]] (3E 399 Orsinium 4번째 재건)

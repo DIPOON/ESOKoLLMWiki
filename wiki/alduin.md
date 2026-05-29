@@ -16,3 +16,6 @@
 ## Tongues 후예
 
 - *[[tongues|Tongues]] — *Way of the Voice 외 *Voice 전투 사용 *Nord 전통 (Ulfric Stormcloak 후계자)
+
+
+- *Nord 부정 *해석: *[[black-dragon|Black Dragon]] (World-Eater, Kalpa 종결자)
