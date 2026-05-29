@@ -22,3 +22,6 @@ status: 확정
 - [[altmer|Altmer]]의 본거지 섬.
 - ESO Aldmeri Dominion 1막 메인 퀘스트.
 - **주요 항구**: [[vulkhel-guard|Vulkhel Guard]] (Vestige의 ESO Aldmeri Dominion 측 시작지).
+
+
+- *Vestige 초반 *임무 *마을: *[[silsailen|Silsailen]] (ESO Aldmeri Dominion)

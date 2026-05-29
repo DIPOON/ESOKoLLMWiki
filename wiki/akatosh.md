@@ -59,3 +59,5 @@ ingested_at: 2026-05-29
 *Tamriel 시간의 *직접 *Sphere = [[time|Time]] (Akatosh의 *고유 *영역).
 
 - *Khajiit Pantheon: *[[alkosh|Alkosh]] (Dragon King 호)
+
+- *후원 *기사단: *[[knights-of-the-true-horn|Knights of the True Horn]] (Knights of the Nine 외 별도 결사)

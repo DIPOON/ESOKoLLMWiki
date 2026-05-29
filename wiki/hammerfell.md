@@ -49,3 +49,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Hammerfell.md` (549줄)
+
+
+- *공식 호: *[[kingdom-of-hammerfell|Kingdom of Hammerfell]] (4E 175 Concordat 거부 + Aldmeri Dominion 단독 격퇴)
