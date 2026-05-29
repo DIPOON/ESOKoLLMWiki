@@ -52,3 +52,6 @@ ingested_at: 2026-05-29
 
 
 - *지리: *[[niben|Niben]] 강·만 유역 (Nibenese 문화), *[[topal|Topal]] 해안·만 (남부 해상)
+
+
+*(공식 *Imperial 호칭: [[imperial-province|Imperial Province]])*

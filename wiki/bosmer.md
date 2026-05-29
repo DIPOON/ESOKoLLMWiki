@@ -53,3 +53,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Bosmer.md` (366줄)
+
+
+- *경쟁 *종족: *[[imga|Imga]] (Valenwood 원숭이 지각 종족, Aldmer 문화 모방 + Bosmer 영적 경쟁)

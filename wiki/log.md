@@ -190,6 +190,14 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 12:00] ingest | 5 race final batch (5 source, ~450줄) | touched: 8 pages
+- raw 5 source: Bretons + Cyrodilic + Dunmer + Imga + Imperial Province → _ingested
+- 종족 3: bretons (redirect to breton), dunmer (deep, 4 Great House + Aldmer-Velothi-Chimer-Dunmer 4단계 영적 변환), imga (Valenwood Aldmer 모방)
+- 개념 1: cyrodilic (redirect to cyrodiilic)
+- 지명 1: imperial-province (Cyrodiil 공식 호칭)
+- 신규 link: cyrodiilic (cyrodilic), bosmer (imga), cyrodiil (imperial-province)
+- 최종: 페이지 1536 → 1540, Orphan 0 유지, Broken 705 → 704
+
 ## [2026-05-31 11:00] ingest | 10 expansion 5 batch (10 source, ~1377줄) | touched: 14 pages
 - raw 10 source: Falinesti + Guar + Septim Dynasty + Second Empire + Alessian Empire + Ranser's War + Winterhold (region) + Gryphon + Bird + Wraith → _ingested
 - 지명 2: falinesti (이동하는 Graht-oak 도시 4E 사라짐), winterhold-region (Hold 영토)

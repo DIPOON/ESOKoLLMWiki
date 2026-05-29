@@ -13,3 +13,6 @@ ingested_at: 2026-05-29
 
 ## Source
 - `raw/Lore/Cyrodiilic.md` (6줄)
+
+
+*([[cyrodilic|Cyrodilic]]은 *다른 *표기, 같은 *의미)*
