@@ -190,6 +190,22 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 21:00] ingest | 10 지방 batch (10 source, 2626줄) | touched: 10 pages
+- raw 10 source: Tamriel (128) + Cyrodiil (128) + Skyrim (453) + Hammerfell (549) + High Rock (223) + Valenwood (179) + Summerset Isles (110) + Elsweyr (265) + Black Marsh (154) + Morrowind (437) → _ingested
+- 10 페이지 심층 재작성:
+  - tamriel: 9 지방·3 동맹·4 Empire·Tower 신학 (8 Towers 매핑)
+  - cyrodiil: Imperial 본거지, Once Jungled→temperate (Tiber CHIM), 3 Empire 수도
+  - skyrim: 9 Holds, Atmoran Ysgramor 이주, Dragon Cult·Sovngarde·Way of Voice, Stormcloak
+  - hammerfell: Volenfell→Ra Gada Warrior-Wave, Crowns vs Forebears, Sword-Singer, 4E 독립
+  - high-rock: Direnni Hegemony, 작은 왕국, Daggerfall Covenant, Druid·Wyrd, Systres
+  - valenwood: Bosmer Green Pact 영토, Graht-oak 도시, Falinesti
+  - summerset-isles: Aldmer 후예, Crystal Tower, Alinor·Artaeum, Thalmor
+  - elsweyr: Khajiit Pellitine·Anequina, Moon Sugar 농경, Mane
+  - black-marsh: Hist 영역, 늪 환경, 4E Morrowind 침공
+  - morrowind: Velothi Exodus 목적지, 5 Great Houses, Battle of Red Mountain·Tribunal·Nerevarine·Red Year·Argonian 침공
+- **Tamriel 9 지방 + 종족 + 신학 = 대륙 *총 *프레임 완성**
+- 최종: 페이지 1150 (변동 없음), Orphan 0 유지, Broken 950
+
 ## [2026-05-29 19:30] ingest | 9 종족 batch (9 source, 3853줄) | touched: 9 pages
 - raw 9 source: Argonian (537) + Khajiit (608) + Bosmer (366) + Altmer (483) + Breton (785) + Imperial (347) + Nord (306) + Redguard (416) + Orsimer (5 redirect) → _ingested
 - 9 페이지 심층 재작성:
