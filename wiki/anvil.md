@@ -1,26 +1,19 @@
 ---
 term: Anvil
-target_ko: 앤빌
-target_de: 
-target_ja: 
-aliases: [Anvil, 앤빌]
+aliases: [Anvil, "County Anvil"]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 12
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Anvil (앤빌)
+# Anvil
 
-## 채택 근거 (UESP 자동 보강)
-The city was taken by Governor Fortunata ap Dugal and her Red Sails pirates and was declared a free port. Anvil now claims dominion over the entire Gold Coast as a sovereign state. This is contested by Kvatch to the east, which still maintains Imperial loyalty despite the Empire's collapse.
+*[[cyrodiil|Cyrodiil]] *서남부 *Abecean Sea 항구 *도시*. *Yokudan·Redguard 영향 *강한 *Cyrodiil 도시*. *White Stallion Lodge·Lighthouse 명소*. *Pirates of the Abecean·Black Bow Bandits 활동지.
 
-A Bounty Board in Anvil offers daily delve quests.
+## Imperial 영토 *Redguard 문화
 
-**출처**: `raw/Online/Anvil.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
+*Hammerfell과의 *해상 *교역 + Yokudan 후손 *주민*. *Imperial 시민권 + Yokudan 문화 *융합. *Crown of Plemmirion 보석 *전설.
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 12
-- 한국 ESO 커뮤니티 합의
+## Source
+- `raw/Lore/Anvil.md` (90줄)

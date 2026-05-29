@@ -1,26 +1,19 @@
 ---
 term: Leyawiin
-target_ko: 레이야윈
-target_de: 
-target_ja: 
-aliases: [Leyawiin, 레이야윈]
+aliases: [Leyawiin, "County Leyawiin"]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 90
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Leyawiin (레이야윈)
+# Leyawiin
 
-## 채택 근거 (UESP 자동 보강)
-Following the fall of the Second Empire and the Imperial City, Leyawiin became an independent city-state. Blackwood Guards patrol the streets.
+*[[cyrodiil|Cyrodiil]] *남부 *Niben Bay·Topal Sea 항구 *도시*. *[[argonian|Argonian]]·[[khajiit|Khajiit]] 주민 *다수 *Cyrodiil 도시*. *Count Marius Caro (3E 433) 통치*. *Blackwood Company 본부 (3E 433 *Fighters Guild 경쟁자).
 
-Kagik the traveling merchant walks along the road between Leyawiin and Fort Redmane with his pet torchbug, Dot. Another traveling merchant, Trano Coventina, travels between Leyawiin and Gideon.
+## Blackwood Company
 
-**출처**: `raw/Online/Leyawiin.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
+*3E 433 *Leyawiin 본거지의 *경쟁 *전사 *길드*. *Hist sap 사용으로 *전사 *광폭화*. *Hero of Kvatch + Fighters Guild가 *Blackwood Company *파괴.
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 90
-- 한국 ESO 커뮤니티 합의
+## Source
+- `raw/Lore/Leyawiin.md` (99줄)

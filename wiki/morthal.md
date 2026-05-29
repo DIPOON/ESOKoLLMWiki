@@ -1,28 +1,19 @@
 ---
 term: Morthal
-target_ko: 모쌀
-target_de: 
-target_ja: 
-aliases: [Morthal, 모쌀]
+aliases: [Morthal, Hjaalmarch]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 104
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Morthal (모쌀)
+# Morthal
 
-## 채택 근거 (UESP 자동 보강)
-Kjenstag ruins lies to the east. An intermediate safebox lies in the stable.
+*[[skyrim|Skyrim]] *Hjaalmarch Hold *수도*. *Drajkmyr Marsh 늪지 *도시. *Jarl Idgrod Ravencrone (4E 201, *Hagraven 비전·Imperial 충성) 통치*. *Highmoon Hall 본거지*. *작은 *조용한 *도시.
 
-The frozen undead wander the wilderness nearby, around Morthal. Frozen zombies are found in the marsh north of the city, while skeletal remains lie closer to Kjenstag Ruins, to the east.
+## Hagraven 비전
 
-One of the instruments needed for An Instrumental Triumph—Shriek of Silk—can be found on the top floor of Jarl Reddharn's Hall.
+*Jarl Idgrod이 *예언 *Vision으로 *Hjaalmarch 통치*. *Reachman *Hagraven *전통의 *Skyrim *변형. *Movarth Vampire 처치 (소규모 *Vampire 위협).
 
-**출처**: `raw/Online/Morthal.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
-
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 104
-- 한국 ESO 커뮤니티 합의
+## Source
+- `raw/Lore/Morthal.md` (42줄)

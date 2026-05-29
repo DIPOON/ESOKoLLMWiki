@@ -13,15 +13,15 @@ ingested_at: 2026-05-29
 
 ## 9 Holds
 
-- **Whiterun** (중앙) — Companions 본거지
-- **Solitude** (북서) — High King 수도
-- **Markarth** (서) — Reach (Forsworn·Reachfolk *원래 영토)
-- **Falkreath** (남) — Pine forest
-- **Riften** (남동) — Thieves Guild
-- **Windhelm** (북동) — 가장 오래된 도시, [[ulfric-stormcloak|Ulfric Stormcloak]]
-- **Dawnstar** (북) — Vaermina Skull 사건
-- **Morthal** (북서) — 늪
-- **Winterhold** (북) — College of Winterhold
+- **[[whiterun|Whiterun]]** (중앙) — Companions 본거지
+- **[[solitude|Solitude]]** (북서) — High King 수도
+- **[[markarth|Markarth]]** (서) — Reach (Forsworn·Reachfolk *원래 영토)
+- **[[falkreath|Falkreath]]** (남) — Pine forest
+- **[[riften|Riften]]** (남동) — Thieves Guild
+- **[[windhelm|Windhelm]]** (북동) — 가장 오래된 도시, [[ulfric-stormcloak|Ulfric Stormcloak]]
+- **[[dawnstar|Dawnstar]]** (북) — Vaermina Skull 사건
+- **[[morthal|Morthal]]** (북서) — 늪
+- **[[winterhold|Winterhold]]** (북) — College of Winterhold
 
 ## 역사
 

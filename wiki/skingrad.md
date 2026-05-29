@@ -1,86 +1,19 @@
 ---
 term: Skingrad
-target_ko: 스킨그라드
-target_de: 
-target_ja: 
-aliases: [Skingrad, 스킨그라드]
+aliases: [Skingrad, "County Skingrad"]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 141
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Skingrad (스킨그라드)
+# Skingrad
 
-## 채택 근거 (UESP 자동 보강)
-__NOTOC__
+*[[cyrodiil|Cyrodiil]] *서부 *Colovian Highlands *Surilie Brothers·Tamika *와인 *생산지*. *Count Janus Hassildor (3E 433, *비밀 *Vampire) 통치*. *Skingrad Castle 거대 *성*.
 
-It is ruled by Count Calantius.
+## Count Hassildor — Vampire
 
-*
-*
-*
-*
-*
-*
-*
-*
+*Skingrad 백작이 *수세기 *비밀 *Vampire (Porphyric Hemophilia 감염)*. *영적 *고통·아내 Rona의 *Vampire 변환·자살이 *백작의 *외로움*. *Vampire 신앙·인성의 *3E *대표 *사례.
 
-*
-*
-*
-
-Delve quests given by Commandant Salerius.
-*
-*
-*
-*
-*
-*
-
-Group boss quests given by Lieutenant Agrance.
-*
-*
-*
-*
-*
-*
-
-Mirrormoor Incursion quests given by Legionary Jaida.
-*
-
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-
-*
-*
-*
-*
-*
-*
-*
-*
-
-The Skingrad Wayshrine is located in the center of the city.
-
-**출처**: `raw/Online/Skingrad.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
-
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 141
-- 한국 ESO 커뮤니티 합의
+## Source
+- `raw/Lore/Skingrad.md` (108줄)

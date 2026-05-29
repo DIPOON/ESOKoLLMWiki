@@ -1,26 +1,19 @@
 ---
 term: Chorrol
-target_ko: 코롤
-target_de: 
-target_ja: 
-aliases: [Chorrol, 코롤]
+aliases: [Chorrol, "County Chorrol"]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 44
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Chorrol (코롤)
+# Chorrol
 
-## 채택 근거 (UESP 자동 보강)
-A magma-filled fissure opened up through the center of town almost four years ago as a result of the Soulburst, destroying buildings and plaguing the town with flame atronachs. Despite this, survivors and adventurers continue to live there.
+*[[cyrodiil|Cyrodiil]] *서북부 *Great Forest 가장자리 *Bretons 영향 *도시*. *Countess Arriana Valga (3E 433) 통치*. *[[fighters-guild|Fighters Guild]] Cyrodiil 본부 + Oak and Crosier 명소*. *Modryn Oreyn (3E 433 Fighters Guild 부책) 본거지.
 
-A heavy sack can be found upstairs in the ruined house across the street from Castorius' House. A copy of The Chorrol Crier can be found in Orneldas Caudex's sinking house, across from Chorrol's chapel. A copy of The Legendary Sancre Tor, 1st Ed. can be found in front of the statue within the chapel.
+## 평가
 
-**출처**: `raw/Online/Chorrol.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
+*Chorrol = *Cyrodiil *Fighters Guild *4E *3E *주된 *행정 *중심*. *Blackwood Company 사건 *해결의 *주된 *무대*. *조용한 *목재·교역 *도시.
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 44
-- 한국 ESO 커뮤니티 합의
+## Source
+- `raw/Lore/Chorrol.md` (116줄)

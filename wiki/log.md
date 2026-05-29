@@ -190,6 +190,16 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-30 07:00] ingest | 29 cities batch (29 source, ~3489줄) | touched: 29 pages
+- raw 29 source 처리 (3 batch: Cyrodiil 9 + Skyrim 9 + Morrowind 6 + High Rock/Hammerfell 3 + Valenwood/Summerset 2)
+- Cyrodiil 9: imperial-city (White-Gold Tower), bruma (Oblivion Crisis Great Gate), anvil (Yokudan), skingrad (Vampire 백작), cheydinhal (Dark Brotherhood), chorrol (Fighters Guild), kvatch (Oblivion 첫 Gate), leyawiin (Blackwood Company), bravil (Lucky Old Lady)
+- Skyrim 9: whiterun (Dragonsreach + Companions), solitude (4E 수도), markarth (Dwemer + Markarth Incident), windhelm (Ysgramor 건립 + Argonian 차별), riften (Thieves Guild + Nightingale), falkreath (Dark Brotherhood 마지막 Sanctuary), winterhold (College + Great Collapse), dawnstar (Mythic Dawn 잔존), morthal (Hagraven Jarl)
+- Morrowind 6: balmora (Hlaalu 수도 + Nerevarine 시작), vivec-city (8 Cantons + Ministry of Truth), ald-ruhn (Skar Emperor Crab), sadrith-mora (Telvanni Mushroom Tower), mournhold (Almalexia 도시 + Old Mournhold 파괴), suran (House of Earthly Delights)
+- High Rock/Hammerfell 3: wayrest (Daggerfall Covenant 수도), daggerfall-city (Warp in the West), sentinel (Forebear)
+- Valenwood/Summerset 2: elden-root (Aldmeri Dominion 수도 + Graht-oak), vulkhel-guard (Vestige 시작지)
+- skyrim.md 9 Holds 모두 wikilink 변환, high-rock·valenwood·auridon에 신규 link 삽입
+- 최종: 페이지 1233 → 1244, Orphan 0 유지, Broken 890
+
 ## [2026-05-30 06:00] ingest | 18 alliance·house·event·artifact batch (18 source, 1842줄) | touched: 17 pages
 - raw 18 source: Aldmeri Dominion (62) + Daggerfall Covenant (72) + Ebonheart Pact (49) + Great House Hlaalu (6) + Great House Redoran (6) + Great House Telvanni (6) + House Dres (164) + House Dagoth (103) + Tribunal Temple (57) + Three Banners War (345) + Imperial Legion (415) + Thalmor (94) + Stormcloaks (20) + Stormcloak Rebellion (98) + Ashlanders (102) + Amulet of Kings (97) + Auriel's Bow (56) + Chrysamere (90) → _ingested
 - 17 페이지 심층 재작성 (Stormcloaks + Stormcloak Rebellion = 1 page):

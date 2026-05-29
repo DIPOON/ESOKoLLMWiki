@@ -13,7 +13,7 @@ ingested_at: 2026-05-29
 
 ## 지리
 
-- **Elden Root** — *수도, *Graht-oak 도시 (Aldmeri Dominion 본거지)
+- **[[elden-root|Elden Root]]** — *수도, *Graht-oak 도시 (Aldmeri Dominion 본거지)
 - **Falinesti** — *이동하는 *Graht-oak 도시 (4E 시기 *사라짐)
 - **Marbruk** — Aldmeri Dominion *식민 도시
 - **Reaper's March** — *북부 (Elsweyr 경계)

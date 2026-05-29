@@ -1,26 +1,23 @@
 ---
 term: Sadrith Mora
-target_ko: 사드리스 모라
-target_de: 
-target_ja: 
-aliases: [Sadrith Mora, 사드리스 모라]
+aliases: ["Sadrith Mora"]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 128
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Sadrith Mora (사드리스 모라)
+# Sadrith Mora
 
-## 채택 근거 (UESP 자동 보강)
-The city is the main seat of power for House Telvanni on Vvardenfell, and contains the wizard's tower of Tel Naga. Testimonials on Mushroom Towers can be found sitting on a barrel near the wayshrine. Sadryon Ancestral Tomb is located north of the city.
+*[[morrowind|Morrowind]] *[[vvardenfell|Vvardenfell]] *동부 *House Telvanni *수도*. *Telvanni *Mushroom Tower 안 *거주. *외부인 *Gateway Inn에 *수용 (Telvanni 영토 진입 제한)*. *Wolverine Hall (Imperial outpost) 인접.
 
-A muckspunge farm is located to the west of the main island. Kaushtarari can be found south of Sadrith Mora. Hlervi Ancestral Tomb lies to the northeast of Sadrith Mora, while Hanud Tower can be found to the northwest. Anudnabia is located east of Sadrith Mora, on the neighboring islands.
+## Mushroom Tower 도시
 
-**출처**: `raw/Online/Sadrith Mora.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
+*Sadrith Mora는 *각 *Telvanni Magister의 *Mushroom Tower 집합*. *Master Neloth·Master Aryon·Mistress Therana·Master Gothren 등 *4-7 *Magister가 *각자 *Tower 통치*. *Telvanni Council Hall이 *행정 *중심.
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 128
-- 한국 ESO 커뮤니티 합의
+## Red Year — 부분 *생존
+
+*4E 5 *Red Year로 *Vvardenfell 대부분 *파괴 *but *Sadrith Mora 일부 *Mushroom Tower는 *생존 (마법 *보호)*. *Master Neloth가 *Solstheim *Tel Mithryn으로 *이주.
+
+## Source
+- `raw/Lore/Sadrith Mora.md` (102줄)

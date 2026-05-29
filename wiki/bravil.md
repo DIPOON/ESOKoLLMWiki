@@ -1,24 +1,19 @@
 ---
 term: Bravil
-target_ko: 브라빌
-target_de: 
-target_ja: 
-aliases: [Bravil, 브라빌]
+aliases: [Bravil, "County Bravil"]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 35
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Bravil (브라빌)
+# Bravil
 
-## 채택 근거 (UESP 자동 보강)
-The city is currently inaccessible. There's no bridge across the Larsius River, and attempting to swim will likely result in being eaten by slaughterfish quickly. If you do manage to cross the river without dying, some potion ingredients can be found on the island, but the city itself cannot be entered. It is divided up into three islands separated by bridges, the northwest one having many houses, the southwest one having two houses and a chapel, and the southeast one having houses and a large castle-like building. A majority of the houses are in ruins and still smoking from fire damage. There is a gate and a bridge accessing the city from the southern side.
+*[[cyrodiil|Cyrodiil]] *남부 *Niben River 빈민 *도시*. *Skooma·범죄 *흔한 *Cyrodiil *최빈국. *Countess Narina Carvain (3E 433) — 아니, Countess Alessia Caro 통치*. *Lucky Old Lady 동상 + Mages Guild 분파.
 
-**출처**: `raw/Online/Bravil.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
+## Lucky Old Lady
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 35
-- 한국 ESO 커뮤니티 합의
+*Bravil 시민이 *Lucky Old Lady (실명 *불명) 동상에 *행운 *기도*. *3E 433 *Oblivion Crisis 시기 *동상 *파괴 → *Hero of Kvatch가 *재건.
+
+## Source
+- `raw/Lore/Bravil.md` (78줄)

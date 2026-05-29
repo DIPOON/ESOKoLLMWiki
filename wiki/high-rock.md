@@ -13,7 +13,7 @@ ingested_at: 2026-05-29
 
 ## 지리
 
-- **Daggerfall** — *수도, Daggerfall Covenant 본거지
+- **[[daggerfall-city|Daggerfall]]** — *수도, Daggerfall Covenant 본거지
 - **Wayrest** — *동부 *상업 중심
 - **Camlorn**, **Evermore**, **Shornhelm**, **Northpoint**, **Jehanna**, **Farrun** — 작은 왕국들
 - **Iliac Bay** — *남쪽 해안, Hammerfell과 *공유

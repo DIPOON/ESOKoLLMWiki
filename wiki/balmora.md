@@ -1,36 +1,23 @@
 ---
 term: Balmora
-target_ko: 발모라
-target_de: 
-target_ja: 
-aliases: [Balmora, 발모라]
+aliases: [Balmora]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 26
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Balmora (발모라)
+# Balmora
 
-## 채택 근거 (UESP 자동 보강)
-Despite its Hlaalu architecture, the city is actually a stronghold of House Redoran. This is due to an agreement reached between the two Houses.
+*[[morrowind|Morrowind]] *[[vvardenfell|Vvardenfell]] *Hlaalu 영토 *수도*. *Odai River 양안 *도시*. *3E 427 *[[great-house-hlaalu|House Hlaalu]] *Vvardenfell *행정 *중심*. *Nerevarine 도착지 (Seyda Neen에서 *지령 받고 *Caius Cosades 만남)*. *South Wall (Thieves Guild Vvardenfell 본거지)·Council Club·Mages Guild Vvardenfell 본부.
 
-Fanisea Saram the traveling merchant travels between Gnisis and Balmora with Peony the pack guar.
+## Nerevarine 사건 (3E 427)
 
-* Balmora Objective: Help locate the Redoran councilor's missing daughter. / You resolved Releth's family matters in the city of Balmora.
-**
-**
-**
-**
-*
-*
-*
-*
+*Vestige가 *Seyda Neen 도착 후 *Caius Cosades (Blades) 만남 → *Nerevarine 시험 *시작*. *Balmora가 *Vvardenfell 모든 *길드 *활동의 *중심*. *Sixth House Cult가 *Balmora 안 *수많은 *Sleeper *시민 *조작.
 
-**출처**: `raw/Online/Balmora.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
+## 4E Red Year — 소멸
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 26
-- 한국 ESO 커뮤니티 합의
+*3E 433 *Red Year로 *Vvardenfell 대부분 *파괴 → *Balmora *대부분 *Ash 휘덮임*. *4E *Balmora는 *Ash 도시*. *House Hlaalu 몰락의 *상징.
+
+## Source
+- `raw/Lore/Balmora.md` (97줄)

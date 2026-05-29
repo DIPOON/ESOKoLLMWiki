@@ -1,26 +1,19 @@
 ---
 term: Kvatch
-target_ko: 크바치
-target_de: 
-target_ja: 
-aliases: [Kvatch, 크바치]
+aliases: [Kvatch, "County Kvatch"]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 88
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Kvatch (크바치)
+# Kvatch
 
-## 채택 근거 (UESP 자동 보강)
-The city is ruled by Count Carolus Aquilarios, although the count is locked in a power struggle with Primate Artorius and his Order of the Hour. Kvatch maintains loyalty to the Empire of Cyrodiil, and faces hostility from Anvil which claims dominion over the entirety of an independent Gold Coast.
+*[[cyrodiil|Cyrodiil]] *서부 *Gold Coast *Akatosh 후원 *도시*. *[[hero-of-kvatch|Hero of Kvatch]] 등장지*. *3E 433 *Mehrunes Dagon의 *Oblivion Gate가 *처음 *Kvatch 외곽에 *열림 → *대부분 *파괴.
 
-A Monument to Rislav is located in front of the arena.
+## 3E 433 — Oblivion Crisis 시작점
 
-**출처**: `raw/Online/Kvatch.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
+*Kvatch가 *Cyrodiil *제일 *Oblivion Gate 열림지 *(Mythic Dawn이 *Camoran Manifesto + Bruma 전 *Kvatch *우선 *공격)*. *Count Goldwine + 아들 *Ormellius Goldwine 전사. *생존자 *Hero of Kvatch가 *Oblivion Realm 진입 → *Sigil Stone 회수 → *Gate 폐쇄 → *Kvatch *수호자 (Hero of Kvatch) *명예.
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 88
-- 한국 ESO 커뮤니티 합의
+## Source
+- `raw/Lore/Kvatch.md` (85줄)

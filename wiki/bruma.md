@@ -1,26 +1,19 @@
 ---
 term: Bruma
-target_ko: 브루마
-target_de: 
-target_ja: 
-aliases: [Bruma, 브루마]
+aliases: [Bruma, "County Bruma"]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 37
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Bruma (브루마)
+# Bruma
 
-## 채택 근거 (UESP 자동 보강)
-It is connected via the Transitus Network to Fort Dragonclaw. The city has been conquered by Dremora and Shadowed Path cultists, leaving few survivors, but the area around the manor house can be captured for your alliance by gaining control of the three objective flags.
+*[[cyrodiil|Cyrodiil]] 북부 *Jerall Mountains *산악 *도시*. *Nord 문화 *강한 *Cyrodiil 도시 (Skyrim 인접)*. *Countess Narina Carvain (3E 433) 통치*. *Oblivion Crisis에서 *Bruma 전투가 *결정적.
 
-As the residents are quick to point out, no reinforcements have been sent from the nearby alliance stronghold of Fort Dragonclaw, and the local militia are hostile towards the alliance hold-outs that can be found around the manor house.
+## Oblivion Crisis 전투
 
-**출처**: `raw/Online/Bruma.md` (UESP Online dump) — `feature/remains` #D 자동 보강 (2026-05-27)
+*3E 433 *Bruma의 *Great Gate 발생 → *Hero of Kvatch + Bruma 시민·기사 협력으로 *Sigil Stone 회수·Daedra 격퇴*. *Oblivion Realm에 *Bruma 모사 사원 *구축 *(Dagon이 *현실 도시 *파괴 *시도)*. *Bruma 방어 성공이 *Martin Septim의 *Mythic Dawn Camoran 처치 *시간 *확보.
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 37
-- 한국 ESO 커뮤니티 합의
+## Source
+- `raw/Lore/Bruma.md` (56줄)

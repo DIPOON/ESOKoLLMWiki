@@ -1,22 +1,23 @@
 ---
 term: Sentinel
-target_ko: 센티넬
-target_de: 
-target_ja: 
-aliases: [Sentinel, 센티넬]
+aliases: [Sentinel]
 kind: entity
 category: 지명
 status: 확정
-source_sheet: 지명사전
-source_row: 133
-source_file: "raw/ESO (고유)명사 번역 통일안.xlsx"
+ingested_at: 2026-05-29
 ---
 
-# Sentinel (센티넬)
+# Sentinel
 
-## 채택 근거
-해머펠의 최대 도시
+*[[hammerfell|Hammerfell]] *수도 + Forebear Redguard *통치 *도시*. *[[fahara-jad|King Fahara'jad]] (ESO 시기) 통치*. *Alik'r Desert 가장자리 *항구.
 
-## 출처
-- `raw/ESO (고유)명사 번역 통일안.xlsx` — 시트 *지명사전*, 행 133
-- 한국 ESO 커뮤니티 합의
+## Forebear vs Crowns
+
+*Hammerfell *Redguard는 *2 *분파:
+- **Forebear** (Sentinel) — Imperial 친화, 신문화 수용
+- **Crowns** (Sentinel 외) — Akaviri-Yokudan 전통 *고수
+
+*Sentinel은 *Forebear 본거지로 *Crowns와 *영원 *긴장.
+
+## Source
+- `raw/Lore/Sentinel.md` (116줄)
