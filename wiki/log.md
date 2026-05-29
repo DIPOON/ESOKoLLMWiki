@@ -190,6 +190,15 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-31 03:00] lint | 15 추가 broken stub | touched: 15 stub
+- 지명 6: inner-sea (Morrowind 내해), banished-cells (Auridon Daedric 던전), evermore (High Rock), blackrose-prison (Black Marsh ESO Murkmire), thurzo-fortress, mor-khazgur (Skyrim Orc Stronghold)
+- 인물 3: raven-direnni (Direnni 마법사), pelladil-direnni (Hegemony 수장), king-laloriaran-dynar (Ayleid 마지막 King)
+- 사건 1: battle-of-glenumbria-moors (1E 482, Alessian + Direnni 결전)
+- 진영 2: second-empire (Reman Empire 별칭), society-of-the-steadfast (Imperial 학자 결사)
+- 종족 2: nix-hound (Vvardenfell), scarab
+- 유적 1: nenalata (Ayleid 도시)
+- 페이지 1481 → 1497, Orphan 0, Broken 726 → 710
+
 ## [2026-05-31 02:00] ingest | 15 misc 2 batch (8 source + 7 broken stub, ~243줄) | touched: 21 pages
 - raw 8 source: The Reach + Red Eagle + Galen + Worm Cult + Skyrim Civil War + Hidden Moon + Ansei + Imperial Watch → _ingested
 - 지명 2: reach (deep, Skyrim+High Rock 경계 + Markarth Incident + 4E 580 Greymoor), galen (Druid Stonelore + Firesong)
