@@ -190,6 +190,21 @@ CLAUDE.md §5.6에 따라 모든 batch·decision·lint를 한 줄씩 append.
 - 2차 broken 발생: stub이 만든 [[house-hlaalu]] 등 → 다음 cascade 대상
 - index.md 전면 재작성: 마이그레이션 반영 + 카테고리별 주요 entity 큐레이션 + Dataview 예시
 
+## [2026-05-29 19:30] ingest | 9 종족 batch (9 source, 3853줄) | touched: 9 pages
+- raw 9 source: Argonian (537) + Khajiit (608) + Bosmer (366) + Altmer (483) + Breton (785) + Imperial (347) + Nord (306) + Redguard (416) + Orsimer (5 redirect) → _ingested
+- 9 페이지 심층 재작성:
+  - argonian: Saxhleel, Hist 직접 영적 연결, Sithis 친화, Shadowscale, 4E Morrowind 침공
+  - khajiit: 17 Furstock, Lunar Lattice, Moon Sugar, Riddle'Thar Epiphany, Mane, 자체 신학 (Fadomai 등)
+  - bosmer: Y'ffre Green Pact 4조항, Wild Hunt, Green Lady + Silvenar
+  - altmer: Aldmer 직접 후예, Aldmeri Pantheon, 4E Thalmor·Aldmeri Dominion, Corelanya·Psijic
+  - breton: Direnni + Nedic 혼혈, 마법 적성, Daggerfall Covenant, Druid·Wyrd
+  - imperial: Colovian + Nibenese, 3 제국 (Alessian·Reman·Septim), Eight/Nine Divines, 4E Mede
+  - nord: Atmoran 후예, Shor·Kyne, Dragon Cult, Sovngarde, Way of the Voice, Stormcloak
+  - redguard: Yokudan, Ra Gada Warrior-Wave, Crowns vs Forebears, Sword-Singer Shehai, All Flags Navy
+  - orsimer: Trinimac fall (Boethiah→Malacath), Wrothgar·Orsinium, Stronghold + Code of Malacath
+- **9 종족 + Dunmer (Tribunal cluster) = 10 주요 종족 신학 완성**
+- 최종: 페이지 1150 (변동 없음), Orphan 0 유지, Broken 926
+
 ## [2026-05-29 18:00] ingest | Aurbis 원초 신성 12 batch (12 source, 1216줄) | touched: 12 pages
 - raw 12 source: Lorkhan (284) + Magnus (73) + Anu (93) + Padomay (83) + Sithis (151) + Aurbis (31) + Aetherius (73) + Oblivion (93) + Mundus (101) + Nirn (117) + Convention (51) + Dawn Era (66) → _ingested
 - 12 페이지 심층 재작성:
